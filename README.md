@@ -24,7 +24,7 @@ The analysis is also presented in a series of TikTok videos, available at: [Your
 
 ## Website:
 
-The Markdown files are hosted on GitHub Pages, creating a website that makes the analysis accessible to a wider audience: [Your GitHub Pages Website Link]
+The Markdown files are hosted on GitHub Pages, creating a website that makes the analysis accessible to a wider audience: [https://thestennettreport.github.io]
 
 ## Call to Action:
 
