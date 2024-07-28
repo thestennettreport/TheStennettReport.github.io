@@ -24,7 +24,7 @@ The overlap between Project 2025 and Agenda 47 is striking, suggesting a coordin
 
 Every single author of Project 2025 has direct or indirect ties to the Trump administration, campaign, or family. This raises concerns about the project's objectivity and suggests that it may be more of a political document than a policy document.
 
-*COMING SOON! Rewriting it.*
+[Project 2025: Unmasking the Trump Connection](./Project_2025/Authors/Trumps_Connections.md)
 
 ## The People's Guide: A Counter-Narrative
 
