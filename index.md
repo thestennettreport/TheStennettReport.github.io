@@ -4,15 +4,19 @@ Welcome to my in-depth analysis of Project 2025 and Agenda 47, two conservative 
 
 ## Project 2025: A Conservative Blueprint for Power
 
-[./Project_2025/A_Detailed_Breakdown.md](./Project_2025/A_Detailed_Breakdown.md)
+[Project 2025 - A Detailed Breakdown](./Project_2025/A_Detailed_Breakdown.md)
 
 Project 2025 is a massive policy initiative spearheaded by the Heritage Foundation, a conservative think tank, in collaboration with over 50 other conservative organizations. It aims to prepare a "comprehensive blueprint" for a future conservative president to "deconstruct the administrative state" and implement a sweeping conservative agenda across all areas of government.
 
 ## Agenda 47: Trump's Vision for a Second Term
 
+[Agenda 47 - A Detailed Breakdown](./Agenda_47/A_Detailed_Breakdown.md)
+
 Agenda 47 is Donald Trump's policy platform for his 2024 presidential campaign, outlining his plans for a second term. It reflects a focus on expanding presidential power, enacting conservative social policies, and taking a hardline stance on immigration and national security.
 
-## A Dangerous Convergence: Project 2025 and Agenda 47
+## A Dangerous Convergence: Agenda 47 and Project 2025
+
+[Agenda 47 vs Project 2025](./Agenda_47/Agenda_47_vs_Project_2025.md)
 
 The overlap between Project 2025 and Agenda 47 is striking, suggesting a coordinated effort to implement a radical conservative agenda should Donald Trump return to the White House in 2025. They share common themes, policy recommendations, and personnel, raising serious concerns about the future of American democracy.
 
@@ -21,6 +25,8 @@ The overlap between Project 2025 and Agenda 47 is striking, suggesting a coordin
 Every single author of Project 2025 has direct or indirect ties to the Trump administration, campaign, or family. This raises concerns about the project's objectivity and suggests that it may be more of a political document than a policy document.
 
 ## The People's Guide: A Counter-Narrative
+
+[The People's Guide To Project 2025 - A Detailed Breakdown](./Project_2025/The_People's_Guide_To_Project_2025.md)
 
 "The People's Guide to Project 2025," published by Democracy Forward, provides a valuable counter-narrative, highlighting the potential harms of the project's proposals from a progressive perspective.
 
@@ -67,4 +73,4 @@ Project 2025 and Agenda 47 represent a serious threat to American democracy. Get
 
 You can find my TikTok series here: [https://www.tiktok.com/@thestennettreport](https://www.tiktok.com/@thestennettreport)
 
-And my website here: [https://thestennettreport.github.io](https://thestennettreport.github.io)
+Check your registration status, voting lists are being purged, so double check your status: [Vote.gov](https://vote.gov)
