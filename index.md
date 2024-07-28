@@ -1,6 +1,6 @@
 # The Stennett Report's Breakdown of Project 2025 and Agenda 47
 
-Welcome to my in-depth analysis of Project 2025 and Agenda 47, two conservative agendas that pose a significant threat to American democracy. This website provides detailed breakdowns of each chapter of Project 2025's "Mandate for Leadership," as well as a comprehensive analysis of Trump's Agenda 47.
+Welcome to my in-depth analysis of Project 2025 and Agenda 47, two conservative agendas that pose a significant threat to American democracy. This website provides detailed breakdowns of each chapter of Project 2025's "Mandate for Leadership," as well as a comprehensive analysis of Trump's Agenda 47. At the bottom of the page you will find links to the PDFs used to develop this breakdown.
 
 ## Project 2025: A Conservative Blueprint for Power
 
@@ -39,7 +39,7 @@ A hypothetical timeline of the first 100 days of a second Trump term, drawing fr
 [The First 100 Days: A Second Trump Term](./Project_2025/The_First_100_Days.md)
 
 ## Chapter Breakdowns:
-
+* [Forward](./Project_2025/Mandate_For_Leadership/Foreward.md)
 * [Chapter 1: White House Office](./Project_2025/Mandate_For_Leadership/Chapter_1.md)
 * [Chapter 2: Executive Office of the President](./Project_2025/Mandate_For_Leadership/Chapter_2.md)
 * [Chapter 3: Central Personnel Agencies](./Project_2025/Mandate_For_Leadership/Chapter_3.md)
@@ -70,6 +70,7 @@ A hypothetical timeline of the first 100 days of a second Trump term, drawing fr
 * [Chapter 28: Federal Communications Commission](./Project_2025/Mandate_For_Leadership/Chapter_28.md)
 * [Chapter 29: Federal Election Commission](./Project_2025/Mandate_For_Leadership/Chapter_29.md)
 * [Chapter 30: Federal Trade Commission](./Project_2025/Mandate_For_Leadership/Chapter_30.md)
+* [Onward](./Project_2025/Mandate_For_Leadership/Onward.md)
 
 ## Call to Action:
 
@@ -78,3 +79,54 @@ Project 2025 and Agenda 47 represent a serious threat to American democracy. Get
 You can find my TikTok series here: [https://www.tiktok.com/@thestennettreport](https://www.tiktok.com/@thestennettreport)
 
 Check your registration status, voting lists are being purged, so double check your status: [Vote.gov](https://vote.gov)
+
+## Documents
+### Project 2025: Mandate for Leadership
+#### Entire PDF
+* [Project 2025: Mandate for Leadership](./Documents/Project_2025_-_Mandate_For_Leadership.pdf)
+
+#### Individual PDFs
+* [Forward](./Documents/Project_2025_Chapters/Forward.pdf)
+* [Authors and Contributors](./Documents/Project_2025_Chapters/Authors_and_Contributors.pdf)
+* [Section 1](./Documents/Project_2025_Chapters/Section_1.pdf)
+	* [Chapter 1: White House Office](./Documents/Project_2025_Chapters/Chapter_1.pdf)
+	* [Chapter 2: Executive Office of the President](./Documents/Project_2025_Chapters/Chapter_2.pdf)
+	* [Chapter 3: Central Personnel Agencies](./Documents/Project_2025_Chapters/Chapter_3.pdf)
+* [Section 2](./Documents/Project_2025_Chapters/Section_2.pdf)
+	* [Chapter 4: Department of Defense](./Documents/Project_2025_Chapters/Chapter_4.pdf)
+	* [Chapter 5: Department of Homeland Security](./Documents/Project_2025_Chapters/Chapter_5.pdf)
+	* [Chapter 6: Department of State](./Documents/Project_2025_Chapters/Chapter_6.pdf)
+	* [Chapter 7: Intelligence Community](./Documents/Project_2025_Chapters/Chapter_7.pdf)
+	* [Chapter 8: Media Agencies: U.S. Agency for Global Media](./Documents/Project_2025_Chapters/Chapter_8.pdf)
+	* [Chapter 9: Agency for International Development](./Documents/Project_2025_Chapters/Chapter_9.pdf)
+* [Section 3](./Documents/Project_2025_Chapters/Section_3.pdf)
+	* [Chapter 10: Department of Agriculture](./Documents/Project_2025_Chapters/Chapter_10.pdf)
+	* [Chapter 11: Department of Education](./Documents/Project_2025_Chapters/Chapter_11.pdf)
+	* [Chapter 12: Department of Energy and Related Commissions](./Documents/Project_2025_Chapters/Chapter_12.pdf)
+	* [Chapter 13: Environmental Protection Agency](./Documents/Project_2025_Chapters/Chapter_13.pdf)
+	* [Chapter 14: Department of Health and Human Services](./Documents/Project_2025_Chapters/Chapter_14.pdf)
+	* [Chapter 15: Department of Housing and Urban Development](./Documents/Project_2025_Chapters/Chapter_15.pdf)
+	* [Chapter 16: Department of the Interior](./Documents/Project_2025_Chapters/Chapter_16.pdf)
+	* [Chapter 17: Department of Justice](./Documents/Project_2025_Chapters/Chapter_17.pdf)
+	* [Chapter 18: Department of Labor and Related Agencies](./Documents/Project_2025_Chapters/Chapter_18.pdf)
+	* [Chapter 19: Department of Transportation](./Documents/Project_2025_Chapters/Chapter_19.pdf)
+	* [Chapter 20: Department of Veterans Affairs](./Documents/Project_2025_Chapters/Chapter_20.pdf)
+* [Section 4](./Documents/Project_2025_Chapters/Section_4.pdf)
+	* [Chapter 21: Department of Commerce](./Documents/Project_2025_Chapters/Chapter_21.pdf)
+	* [Chapter 22: Department of the Treasury](./Documents/Project_2025_Chapters/Chapter_22.pdf)
+	* [Chapter 23: Export-Import Bank](./Documents/Project_2025_Chapters/Chapter_23.pdf)
+	* [Chapter 24: Federal Reserve](./Documents/Project_2025_Chapters/Chapter_24.pdf)
+	* [Chapter 25: Small Business Administration](./Documents/Project_2025_Chapters/Chapter_25.pdf)
+	* [Chapter 26: Trade](./Documents/Project_2025_Chapters/Chapter_26.pdf)
+* [Section 5](./Documents/Project_2025_Chapters/Section_5.pdf)
+	* [Chapter 27: Financial Regulatory Agencies](./Documents/Project_2025_Chapters/Chapter_27.pdf)
+	* [Chapter 28: Federal Communications Commission](./Documents/Project_2025_Chapters/Chapter_28.pdf)
+	* [Chapter 29: Federal Election Commission](./Documents/Project_2025_Chapters/Chapter_29.pdf)
+	* [Chapter 30: Federal Trade Commission](./Documents/Project_2025_Chapters/Chapter_30.pdf)
+* [Onward](./Documents/Project_2025_Chapters/Onward.pdf)
+
+### The People's Guide To Project 2025 By Democracy Forward
+[Democracy Forward](https://democracyforward.org/the-peoples-guide-to-project-2025/)
+
+#### Entire PDF
+* [The People's Guide To Project 2025](./Documents/Peoples_Guide_To_Project_2025.pdf)
