@@ -4,35 +4,39 @@ Welcome to my in-depth analysis of Project 2025 and Agenda 47, two conservative 
 
 ## Project 2025: A Conservative Blueprint for Power
 
-[Project 2025 - A Detailed Breakdown](./Project_2025/A_Detailed_Breakdown.md)
-
 Project 2025 is a massive policy initiative spearheaded by the Heritage Foundation, a conservative think tank, in collaboration with over 50 other conservative organizations. It aims to prepare a "comprehensive blueprint" for a future conservative president to "deconstruct the administrative state" and implement a sweeping conservative agenda across all areas of government.
+
+[Project 2025 - A Detailed Breakdown](./Project_2025/A_Detailed_Breakdown.md)
 
 ## Agenda 47: Trump's Vision for a Second Term
 
-[Agenda 47 - A Detailed Breakdown](./Agenda_47/A_Detailed_Breakdown.md)
-
 Agenda 47 is Donald Trump's policy platform for his 2024 presidential campaign, outlining his plans for a second term. It reflects a focus on expanding presidential power, enacting conservative social policies, and taking a hardline stance on immigration and national security.
+
+[Agenda 47 - A Detailed Breakdown](./Agenda_47/A_Detailed_Breakdown.md)
 
 ## A Dangerous Convergence: Agenda 47 and Project 2025
 
-[Agenda 47 vs Project 2025](./Agenda_47/Agenda_47_vs_Project_2025.md)
-
 The overlap between Project 2025 and Agenda 47 is striking, suggesting a coordinated effort to implement a radical conservative agenda should Donald Trump return to the White House in 2025. They share common themes, policy recommendations, and personnel, raising serious concerns about the future of American democracy.
+
+[Agenda 47 vs Project 2025](./Agenda_47/Agenda_47_vs_Project_2025.md)
 
 ## Unmasking the Trump Connection: Authors and Contributors
 
 Every single author of Project 2025 has direct or indirect ties to the Trump administration, campaign, or family. This raises concerns about the project's objectivity and suggests that it may be more of a political document than a policy document.
 
+*COMING SOON! Rewriting it.*
+
 ## The People's Guide: A Counter-Narrative
 
-[The People's Guide To Project 2025 - A Detailed Breakdown](./Project_2025/The_People's_Guide_To_Project_2025.md)
-
 "The People's Guide to Project 2025," published by Democracy Forward, provides a valuable counter-narrative, highlighting the potential harms of the project's proposals from a progressive perspective.
+
+[The People's Guide To Project 2025 - A Detailed Breakdown](./Project_2025/The_People's_Guide_To_Project_2025.md)
 
 ## The First 100 Days: A Glimpse into a Second Trump Term
 
 A hypothetical timeline of the first 100 days of a second Trump term, drawing from both Project 2025 and Agenda 47, illustrates the immediate and concrete impacts of their shared agenda.
+
+*COMING SOON! Rewriting it.*
 
 ## Chapter Breakdowns:
 
