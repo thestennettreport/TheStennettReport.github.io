@@ -20,11 +20,11 @@ The analysis includes:
 
 ## TikTok Series:
 
-The analysis is also presented in a series of TikTok videos, available at: [Your TikTok Profile Link]
+The analysis is also presented in a series of TikTok videos, available at: [@TheStennettReport](https://www.tiktok.com/@thestennettreport)
 
 ## Website:
 
-The Markdown files are hosted on GitHub Pages, creating a website that makes the analysis accessible to a wider audience: [https://thestennettreport.github.io]
+The Markdown files are hosted on GitHub Pages, creating a website that makes the analysis accessible to a wider audience: https://thestennettreport.github.io
 
 ## Call to Action:
 
