@@ -1,5 +1,8 @@
 # The First 100 Days: A Second Trump Term - Comprehensive Breakdown
 
+## The Lincoln Project Ad
+[The Lincoln Project](https://lincolnproject.us) launched an ad layout what I've outlined below. I highly recommend checking it out on [YouTube](https://youtu.be/NpLpOtFNFWg?si=0JUc788tPjRPYYYX).
+
 ## Introduction
 
 This document presents a detailed, speculative scenario of the first 100 days of a potential second Trump term, based on multiple sources including Project 2025 and Agenda 47. It combines various perspectives to provide a comprehensive overview of possible actions and their potential implications.
