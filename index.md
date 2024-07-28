@@ -40,6 +40,7 @@ A hypothetical timeline of the first 100 days of a second Trump term, drawing fr
 
 ## Chapter Breakdowns:
 * [Forward](./Project_2025/Mandate_For_Leadership/Foreward.md)
+* [Section Introductions](./Project_2025/Mandate_For_Leadership/Sections.md)
 * **Section 1**
 	* [Chapter 1: White House Office](./Project_2025/Mandate_For_Leadership/Chapter_1.md)
 	* [Chapter 2: Executive Office of the President](./Project_2025/Mandate_For_Leadership/Chapter_2.md)
@@ -88,50 +89,50 @@ Check your registration status, voting lists are being purged, so double check y
 ## Documents
 ### Project 2025: Mandate for Leadership
 #### Entire PDF
-* [Project 2025: Mandate for Leadership](./Documents/Project_2025_-_Mandate_For_Leadership.pdf)
+* [Project 2025: Mandate for Leadership](./Documents/Project_2025_-_Mandate_For_Leadership.pdf) _(922 pages)__
 
 #### Individual PDFs
-* [Forward](./Documents/Project_2025_Chapters/Forward.pdf)
-* [Authors and Contributors](./Documents/Project_2025_Chapters/Authors_and_Contributors.pdf)
-* [Section 1](./Documents/Project_2025_Chapters/Section_1.pdf)
-	* [Chapter 1: White House Office](./Documents/Project_2025_Chapters/Chapter_1.pdf)
-	* [Chapter 2: Executive Office of the President](./Documents/Project_2025_Chapters/Chapter_2.pdf)
-	* [Chapter 3: Central Personnel Agencies](./Documents/Project_2025_Chapters/Chapter_3.pdf)
-* [Section 2](./Documents/Project_2025_Chapters/Section_2.pdf)
-	* [Chapter 4: Department of Defense](./Documents/Project_2025_Chapters/Chapter_4.pdf)
-	* [Chapter 5: Department of Homeland Security](./Documents/Project_2025_Chapters/Chapter_5.pdf)
-	* [Chapter 6: Department of State](./Documents/Project_2025_Chapters/Chapter_6.pdf)
-	* [Chapter 7: Intelligence Community](./Documents/Project_2025_Chapters/Chapter_7.pdf)
-	* [Chapter 8: Media Agencies: U.S. Agency for Global Media](./Documents/Project_2025_Chapters/Chapter_8.pdf)
-	* [Chapter 9: Agency for International Development](./Documents/Project_2025_Chapters/Chapter_9.pdf)
-* [Section 3](./Documents/Project_2025_Chapters/Section_3.pdf)
-	* [Chapter 10: Department of Agriculture](./Documents/Project_2025_Chapters/Chapter_10.pdf)
-	* [Chapter 11: Department of Education](./Documents/Project_2025_Chapters/Chapter_11.pdf)
-	* [Chapter 12: Department of Energy and Related Commissions](./Documents/Project_2025_Chapters/Chapter_12.pdf)
-	* [Chapter 13: Environmental Protection Agency](./Documents/Project_2025_Chapters/Chapter_13.pdf)
-	* [Chapter 14: Department of Health and Human Services](./Documents/Project_2025_Chapters/Chapter_14.pdf)
-	* [Chapter 15: Department of Housing and Urban Development](./Documents/Project_2025_Chapters/Chapter_15.pdf)
-	* [Chapter 16: Department of the Interior](./Documents/Project_2025_Chapters/Chapter_16.pdf)
-	* [Chapter 17: Department of Justice](./Documents/Project_2025_Chapters/Chapter_17.pdf)
-	* [Chapter 18: Department of Labor and Related Agencies](./Documents/Project_2025_Chapters/Chapter_18.pdf)
-	* [Chapter 19: Department of Transportation](./Documents/Project_2025_Chapters/Chapter_19.pdf)
-	* [Chapter 20: Department of Veterans Affairs](./Documents/Project_2025_Chapters/Chapter_20.pdf)
-* [Section 4](./Documents/Project_2025_Chapters/Section_4.pdf)
-	* [Chapter 21: Department of Commerce](./Documents/Project_2025_Chapters/Chapter_21.pdf)
-	* [Chapter 22: Department of the Treasury](./Documents/Project_2025_Chapters/Chapter_22.pdf)
-	* [Chapter 23: Export-Import Bank](./Documents/Project_2025_Chapters/Chapter_23.pdf)
-	* [Chapter 24: Federal Reserve](./Documents/Project_2025_Chapters/Chapter_24.pdf)
-	* [Chapter 25: Small Business Administration](./Documents/Project_2025_Chapters/Chapter_25.pdf)
-	* [Chapter 26: Trade](./Documents/Project_2025_Chapters/Chapter_26.pdf)
-* [Section 5](./Documents/Project_2025_Chapters/Section_5.pdf)
-	* [Chapter 27: Financial Regulatory Agencies](./Documents/Project_2025_Chapters/Chapter_27.pdf)
-	* [Chapter 28: Federal Communications Commission](./Documents/Project_2025_Chapters/Chapter_28.pdf)
-	* [Chapter 29: Federal Election Commission](./Documents/Project_2025_Chapters/Chapter_29.pdf)
-	* [Chapter 30: Federal Trade Commission](./Documents/Project_2025_Chapters/Chapter_30.pdf)
-* [Onward](./Documents/Project_2025_Chapters/Onward.pdf)
+* [Forward](./Documents/Project_2025_Chapters/Forward.pdf) _(18 pages)_
+* [Authors and Contributors](./Documents/Project_2025_Chapters/Authors_and_Contributors.pdf) _(18 pages)_
+* [Section 1](./Documents/Project_2025_Chapters/Section_1.pdf) _(Pages 1-18 => 18 pages)_
+	* [Chapter 1: White House Office](./Documents/Project_2025_Chapters/Chapter_1.pdf) _(Pages 23-42 => 20 pages)_
+	* [Chapter 2: Executive Office of the President](./Documents/Project_2025_Chapters/Chapter_2.pdf) _(Pages 43-68 => 26 pages)_ 
+	* [Chapter 3: Central Personnel Agencies](./Documents/Project_2025_Chapters/Chapter_3.pdf) _(Pages 69-86 => 18 pages)_
+* [Section 2](./Documents/Project_2025_Chapters/Section_2.pdf) _(Pages 87-90 => 4 pages)_
+	* [Chapter 4: Department of Defense](./Documents/Project_2025_Chapters/Chapter_4.pdf) _(Pages 91-132 => 42 pages)_
+	* [Chapter 5: Department of Homeland Security](./Documents/Project_2025_Chapters/Chapter_5.pdf) _(Pages 133-170 => 38 pages)_
+	* [Chapter 6: Department of State](./Documents/Project_2025_Chapters/Chapter_6.pdf) _(Pages 171-200 => 30 pages)_
+	* [Chapter 7: Intelligence Community](./Documents/Project_2025_Chapters/Chapter_7.pdf) _(Pages 201-234 => 34 pages)_
+	* [Chapter 8: Media Agencies: U.S. Agency for Global Media](./Documents/Project_2025_Chapters/Chapter_8.pdf) _(Pages 235-252 => 18 pages)_
+	* [Chapter 9: Agency for International Development](./Documents/Project_2025_Chapters/Chapter_9.pdf) _(Pages 253-282 => 30 pages)_
+* [Section 3](./Documents/Project_2025_Chapters/Section_3.pdf) _(Pages 283-288 => 6 pages)_
+	* [Chapter 10: Department of Agriculture](./Documents/Project_2025_Chapters/Chapter_10.pdf) _(Pages 289-318 => 30 pages)_
+	* [Chapter 11: Department of Education](./Documents/Project_2025_Chapters/Chapter_11.pdf) _(Pages 319-362 => 44 pages)_
+	* [Chapter 12: Department of Energy and Related Commissions](./Documents/Project_2025_Chapters/Chapter_12.pdf) _(Pages 363-416 => 54 pages)_
+	* [Chapter 13: Environmental Protection Agency](./Documents/Project_2025_Chapters/Chapter_13.pdf) _(Pages 417-448 => 32 pages)_
+	* [Chapter 14: Department of Health and Human Services](./Documents/Project_2025_Chapters/Chapter_14.pdf) _(Pages 449-502 => 54 pages)_
+	* [Chapter 15: Department of Housing and Urban Development](./Documents/Project_2025_Chapters/Chapter_15.pdf) _(Pages 503-516 => 14 pages)_
+	* [Chapter 16: Department of the Interior](./Documents/Project_2025_Chapters/Chapter_16.pdf) _(Pages 517-544 => 28 pages)_
+	* [Chapter 17: Department of Justice](./Documents/Project_2025_Chapters/Chapter_17.pdf) _(Pages 545-580 => 36 pages)_
+	* [Chapter 18: Department of Labor and Related Agencies](./Documents/Project_2025_Chapters/Chapter_18.pdf) _(Pages 581-618 => 38 pages)_
+	* [Chapter 19: Department of Transportation](./Documents/Project_2025_Chapters/Chapter_19.pdf) _(Pages 619-640 => 22 pages)_
+	* [Chapter 20: Department of Veterans Affairs](./Documents/Project_2025_Chapters/Chapter_20.pdf) _(Pages 641-656 => 16 pages)_
+* [Section 4](./Documents/Project_2025_Chapters/Section_4.pdf) _(Page 657-662 => 6 pages)_
+	* [Chapter 21: Department of Commerce](./Documents/Project_2025_Chapters/Chapter_21.pdf) _(Pages 663-690 => 28 pages)_
+	* [Chapter 22: Department of the Treasury](./Documents/Project_2025_Chapters/Chapter_22.pdf) _(Pages 691-716 => 26 pages)_
+	* [Chapter 23: Export-Import Bank](./Documents/Project_2025_Chapters/Chapter_23.pdf) _(Pages 717-730 => 14 pages)_
+	* [Chapter 24: Federal Reserve](./Documents/Project_2025_Chapters/Chapter_24.pdf) _(Pages 731-744 => 14 pages)_
+	* [Chapter 25: Small Business Administration](./Documents/Project_2025_Chapters/Chapter_25.pdf) _(Pages 745-764 => 20 pages)_
+	* [Chapter 26: Trade](./Documents/Project_2025_Chapters/Chapter_26.pdf) _(Pages 765-824 => 60 pages)_
+* [Section 5](./Documents/Project_2025_Chapters/Section_5.pdf) _(Pages 825-828 => 4 pages)_
+	* [Chapter 27: Financial Regulatory Agencies](./Documents/Project_2025_Chapters/Chapter_27.pdf) _(Pages 829-844 => 16 pages)_
+	* [Chapter 28: Federal Communications Commission](./Documents/Project_2025_Chapters/Chapter_28.pdf) _(Pages 845-860 => 16 pages)_
+	* [Chapter 29: Federal Election Commission](./Documents/Project_2025_Chapters/Chapter_29.pdf) _(Pages 861-868 => 8 pages)_
+	* [Chapter 30: Federal Trade Commission](./Documents/Project_2025_Chapters/Chapter_30.pdf) _(Pages 869-882 => 14 pages)_
+* [Onward](./Documents/Project_2025_Chapters/Onward.pdf) _(Pages 883-887 => 7 pages)_
 
 ### The People's Guide To Project 2025 By Democracy Forward
 [Democracy Forward](https://democracyforward.org/the-peoples-guide-to-project-2025/)
 
 #### Entire PDF
-* [The People's Guide To Project 2025](./Documents/Peoples_Guide_To_Project_2025.pdf)
+* [The People's Guide To Project 2025](./Documents/Peoples_Guide_To_Project_2025.pdf) _(48 pages)_

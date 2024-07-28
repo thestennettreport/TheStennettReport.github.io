@@ -29,3 +29,6 @@ The Markdown files are hosted on GitHub Pages, creating a website that makes the
 ## Call to Action:
 
 Project 2025 and Agenda 47 represent a serious threat to American democracy. Get informed, share this analysis with others, and get involved in the fight to protect our values and institutions.
+
+## TO-DO
+- [ ] Add a page for "What would happen to Ukraine under Trump?".
