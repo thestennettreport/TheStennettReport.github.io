@@ -1,4 +1,4 @@
-# The First 100 Days: A Second Trump Term - Comprehensive Breakdown
+# The First 100 Days: A Second Trump Term
 
 ## The Lincoln Project Ad
 [The Lincoln Project](https://lincolnproject.us) launched an ad layout what I've outlined below. I highly recommend checking it out on [YouTube](https://youtu.be/NpLpOtFNFWg?si=0JUc788tPjRPYYYX).
