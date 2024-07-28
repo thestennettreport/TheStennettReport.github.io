@@ -15,18 +15,17 @@ This chapter focuses on the U.S. Department of Education (ED), arguing that fede
 
 **Key Points & Concerns for Democrats:**
 
-* **Eliminate the Department of Education:** Burke's ultimate goal is to eliminate the Department of Education, arguing that it is unnecessary and harmful. (Page 353)
+* **Eliminate the Department of Education:** Burke's ultimate goal is to eliminate the Department of Education, arguing that it is unnecessary and harmful.
     * **Concern:** This would represent a radical shift in federal education policy, potentially leading to a decrease in funding for public schools and a widening of the achievement gap between wealthy and poor students.
-    * **Quote:** "Federal education policy should be limited and, ultimately, the federal Department of Education should be eliminated."
-* **Education Savings Accounts (ESAs):** Burke strongly advocates for ESAs, which allow parents to use public funds to pay for private school tuition, tutoring, and other educational expenses. (Page 353)
+* **Education Savings Accounts (ESAs):** Burke strongly advocates for ESAs, which allow parents to use public funds to pay for private school tuition, tutoring, and other educational expenses.
     * **Concern:** This would divert public funds away from public schools and could lead to a two-tiered education system, with wealthy families able to afford better educational options than low-income families.
-* **School Choice for "Federal" Children:** Burke calls for expanding school choice options for children in military families, the District of Columbia, and tribal communities, arguing that the federal government has a special responsibility to these students. (Page 355)
+* **School Choice for "Federal" Children:** Burke calls for expanding school choice options for children in military families, the District of Columbia, and tribal communities, arguing that the federal government has a special responsibility to these students.
     * **Concern:** This could further undermine public schools in these communities and lead to a decrease in funding and resources for those schools.
-* **Block Grants to States:** Burke advocates for block granting federal education funds to states, giving them greater flexibility in how they spend those funds. (Page 355)
+* **Block Grants to States:** Burke advocates for block granting federal education funds to states, giving them greater flexibility in how they spend those funds.
     * **Concern:** This could lead to a decrease in accountability and oversight of federal education funds, potentially allowing states to use those funds for purposes other than education or to discriminate against certain groups of students.
-* **Protecting Parental Rights:** Burke emphasizes the importance of parental rights in education and calls for a federal Parents' Bill of Rights that would give parents greater control over their children's education. (Page 377)
+* **Protecting Parental Rights:** Burke emphasizes the importance of parental rights in education and calls for a federal Parents' Bill of Rights that would give parents greater control over their children's education.
     * **Concern:** This could be used to justify policies that allow parents to opt their children out of curriculum that they disagree with, potentially undermining efforts to promote tolerance and diversity in schools.
-* **Civil Rights Enforcement:** Burke criticizes the Obama Administration's guidance on school discipline, arguing that it led to a focus on "racial parity" over student safety. She also calls for rescinding the Equity in IDEA regulation, which requires states to consider race and ethnicity in special education services. (Page 368)
+* **Civil Rights Enforcement:** Burke criticizes the Obama Administration's guidance on school discipline, arguing that it led to a focus on "racial parity" over student safety. She also calls for rescinding the Equity in IDEA regulation, which requires states to consider race and ethnicity in special education services.
     * **Concern:** These proposals could weaken protections for minority students and make it more difficult to address racial disparities in education.
 
 **Summary:**

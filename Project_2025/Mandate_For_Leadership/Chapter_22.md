@@ -15,18 +15,17 @@ This chapter focuses on the Department of the Treasury, arguing that it has stra
 
 **Key Points & Concerns for Democrats:**
 
-* **Fiscal Responsibility and Balanced Budget:** The authors prioritize balancing the federal budget through spending cuts rather than tax increases, arguing that the Biden Administration's fiscal policies are reckless and unsustainable. (Page 729)
+* **Fiscal Responsibility and Balanced Budget:** The authors prioritize balancing the federal budget through spending cuts rather than tax increases, arguing that the Biden Administration's fiscal policies are reckless and unsustainable.
     * **Concern:** This could lead to deep cuts in social programs, education, and other vital government services, harming vulnerable populations and undermining the social safety net.
-    * **Quote:** "Treasury should make balancing the federal budget a mission-critical objective."
-* **Tax Cuts and Simplification:** The authors advocate for significant tax cuts and simplification, including a flat tax or consumption tax, arguing that this would boost economic growth and reduce compliance costs. (Page 729)
+* **Tax Cuts and Simplification:** The authors advocate for significant tax cuts and simplification, including a flat tax or consumption tax, arguing that this would boost economic growth and reduce compliance costs.
     * **Concern:** This would disproportionately benefit wealthy individuals and corporations, exacerbate income inequality, and could lead to a decrease in government revenue, making it more difficult to fund essential services.
-* **Reining in the IRS:** The authors criticize the IRS as being "poorly managed, utterly unresponsive, and increasingly politicized" and call for reducing its size and scope, limiting its enforcement powers, and strengthening taxpayer rights and privacy protections. (Page 731)
+* **Reining in the IRS:** The authors criticize the IRS as being "poorly managed, utterly unresponsive, and increasingly politicized" and call for reducing its size and scope, limiting its enforcement powers, and strengthening taxpayer rights and privacy protections.
     * **Concern:** This could weaken the IRS's ability to enforce tax laws and collect revenue, potentially leading to increased tax evasion and a decrease in government funding for essential programs.
-* **Countering China's Economic Aggression:** The authors echo the concerns raised in previous chapters about China's economic and national security threats and call for the Treasury Department to play a more active role in countering those threats, including through the Committee on Foreign Investment in the United States (CFIUS). (Page 736)
+* **Countering China's Economic Aggression:** The authors echo the concerns raised in previous chapters about China's economic and national security threats and call for the Treasury Department to play a more active role in countering those threats, including through the Committee on Foreign Investment in the United States (CFIUS).
     * **Concern:** This could lead to a more confrontational and less cooperative approach to economic relations with China, potentially harming American businesses and consumers.
-* **Reversing the "Equity" Agenda:** The authors criticize the Biden Administration's focus on "equity" and call for eliminating the Treasury's Counselor for Racial Equity, Advisory Committee on Racial Equity, and Office for Diversity, Equity, Inclusion, and Accessibility. (Page 741)
+* **Reversing the "Equity" Agenda:** The authors criticize the Biden Administration's focus on "equity" and call for eliminating the Treasury's Counselor for Racial Equity, Advisory Committee on Racial Equity, and Office for Diversity, Equity, Inclusion, and Accessibility.
     * **Concern:** This would undermine efforts to promote diversity and inclusion in the financial sector and could exacerbate racial and economic disparities.
-* **Reversing the "Climate Change" Agenda:** The authors criticize the Biden Administration's focus on "combating climate change" and call for eliminating the Treasury's Climate Hub Office and withdrawing from international climate agreements. (Page 741)
+* **Reversing the "Climate Change" Agenda:** The authors criticize the Biden Administration's focus on "combating climate change" and call for eliminating the Treasury's Climate Hub Office and withdrawing from international climate agreements.
     * **Concern:** This would undermine efforts to address climate change, a major threat to the global economy and the environment.
 
 **Summary:**

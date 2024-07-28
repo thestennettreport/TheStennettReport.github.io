@@ -15,16 +15,15 @@ This chapter focuses on the U.S. Agency for Global Media (USAGM), the federal ag
 
 **Key Points & Concerns for Democrats:**
 
-* **Propaganda Over Journalism:** Namdar criticizes USAGM for "parrot[ing] America’s adversaries’ propaganda and talking points" and calls for a renewed focus on presenting "the truth about America and American policy." (Page 268)
+* **Propaganda Over Journalism:** Namdar criticizes USAGM for "parrot[ing] America’s adversaries’ propaganda and talking points" and calls for a renewed focus on presenting "the truth about America and American policy."
     * **Concern:** This suggests a desire to use USAGM as a tool for promoting American propaganda rather than providing objective and unbiased news and information.
-    * **Quote:** "To fulfill its mission, USAGM should also aim to present the truth about America and American policy—not parrot America’s adversaries’ propaganda and talking points."
-* **Eliminating the "Firewall":** Namdar criticizes the "firewall" that is supposed to protect USAGM journalists from political interference, arguing that it has been used to shield "anti-American propaganda" and "politically biased viewpoints." (Page 272)
+* **Eliminating the "Firewall":** Namdar criticizes the "firewall" that is supposed to protect USAGM journalists from political interference, arguing that it has been used to shield "anti-American propaganda" and "politically biased viewpoints."
     * **Concern:** This could lead to greater political control over USAGM's content, potentially undermining its credibility and turning it into a mouthpiece for the Administration.
-* **Consolidating and Reducing Services:** Namdar calls for consolidating and reducing redundant services across USAGM's networks, arguing that this would save money and improve efficiency. (Page 275)
+* **Consolidating and Reducing Services:** Namdar calls for consolidating and reducing redundant services across USAGM's networks, arguing that this would save money and improve efficiency.
     * **Concern:** This could lead to a reduction in the diversity of voices and perspectives represented by USAGM, potentially limiting its reach and impact.
-* **Shortwave Transmission Upgrades:** Namdar advocates for upgrading and expanding shortwave radio transmission capabilities, arguing that these are more reliable than web-based technologies in times of conflict or censorship. (Page 275)
+* **Shortwave Transmission Upgrades:** Namdar advocates for upgrading and expanding shortwave radio transmission capabilities, arguing that these are more reliable than web-based technologies in times of conflict or censorship.
     * **Concern:** This could be seen as a Cold War relic and a wasteful investment in outdated technology.
-* **Personnel Changes:** Namdar calls for a more rigorous vetting process for USAGM personnel and for removing employees who are not aligned with the agency's mission. (Page 276)
+* **Personnel Changes:** Namdar calls for a more rigorous vetting process for USAGM personnel and for removing employees who are not aligned with the agency's mission.
     * **Concern:** This could lead to a purge of employees based on their political views, potentially creating a less diverse and less qualified workforce.
 
 **Summary:**

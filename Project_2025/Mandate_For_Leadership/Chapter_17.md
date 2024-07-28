@@ -15,18 +15,17 @@ This chapter focuses on the Department of Justice (DOJ), arguing that it has bee
 
 **Key Points & Concerns for Democrats:**
 
-* **DOJ as a "Threat to the Republic":** Hamilton argues that the DOJ's actions under the Biden Administration have made it a "threat to the Republic," citing examples such as the investigation into the January 6th insurrection and the pursuit of criminal charges against Trump associates. (Page 578)
+* **DOJ as a "Threat to the Republic":** Hamilton argues that the DOJ's actions under the Biden Administration have made it a "threat to the Republic," citing examples such as the investigation into the January 6th insurrection and the pursuit of criminal charges against Trump associates.
     * **Concern:** This rhetoric could be used to justify a politicization of the DOJ and a weakening of its independence, potentially leading to the selective prosecution of political opponents and a disregard for the rule of law.
-    * **Quote:** "The department’s 'unprecedented politicization and weaponization' under Biden and Attorney General Merrick Garland, resulting in 'politically motivated and viewpoint-based prosecutions' of political enemies and indifference to the crimes of political allies, has made the department 'a threat to the Republic.'"
-* **Restoring the FBI's Integrity:** Hamilton criticizes the FBI's role in the investigation into Russian interference in the 2016 election and its handling of the Hunter Biden laptop story, arguing that the FBI has become "completely out of control." He calls for a comprehensive review of FBI activities and for restructuring the agency to make it more accountable to political leadership. (Page 582)
+* **Restoring the FBI's Integrity:** Hamilton criticizes the FBI's role in the investigation into Russian interference in the 2016 election and its handling of the Hunter Biden laptop story, arguing that the FBI has become "completely out of control." He calls for a comprehensive review of FBI activities and for restructuring the agency to make it more accountable to political leadership.
     * **Concern:** This could lead to a weakening of the FBI's independence and a greater emphasis on pursuing politically motivated investigations, potentially undermining the agency's credibility and effectiveness.
-* **Renewing the Focus on Violent Crime:** Hamilton advocates for a "tough-on-crime" approach, calling for a renewed focus on prosecuting violent criminals, enhancing penalties for violent offenses, and enforcing the death penalty. (Page 585)
+* **Renewing the Focus on Violent Crime:** Hamilton advocates for a "tough-on-crime" approach, calling for a renewed focus on prosecuting violent criminals, enhancing penalties for violent offenses, and enforcing the death penalty.
     * **Concern:** This could lead to mass incarceration, racial disparities in the criminal justice system, and a disregard for the root causes of crime.
-* **Dismantling Criminal Enterprises:** Hamilton calls for aggressively targeting domestic and international criminal organizations, including drug cartels, using tools such as the Racketeer Influenced and Corrupt Organizations Act (RICO). (Page 587)
+* **Dismantling Criminal Enterprises:** Hamilton calls for aggressively targeting domestic and international criminal organizations, including drug cartels, using tools such as the Racketeer Influenced and Corrupt Organizations Act (RICO).
     * **Concern:** This could lead to overreach by law enforcement and a violation of civil liberties, particularly in minority communities.
-* **Securing the Border:** Hamilton emphasizes the need to secure the border and to crack down on illegal immigration, arguing that this is essential for public safety and national security. (Page 588)
+* **Securing the Border:** Hamilton emphasizes the need to secure the border and to crack down on illegal immigration, arguing that this is essential for public safety and national security.
     * **Concern:** This could lead to a more militarized and less humane approach to border security, potentially harming asylum seekers and separating families.
-* **Restarting the "China Initiative":** Hamilton calls for restarting the DOJ's "China Initiative," which was launched under the Trump Administration to counter Chinese espionage and intellectual property theft. (Page 589)
+* **Restarting the "China Initiative":** Hamilton calls for restarting the DOJ's "China Initiative," which was launched under the Trump Administration to counter Chinese espionage and intellectual property theft.
     * **Concern:** This could lead to racial profiling and discrimination against Chinese Americans and could undermine efforts to build a constructive relationship with China.
 
 **Summary:**

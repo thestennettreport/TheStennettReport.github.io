@@ -15,18 +15,17 @@ This chapter focuses on the Department of Energy (DOE) and related commissions, 
 
 **Key Points & Concerns for Democrats:**
 
-* **"American Energy Dominance":** McNamee calls for a return to "American energy dominance," arguing that the U.S. should prioritize the production of fossil fuels to ensure abundant, affordable, and reliable energy. (Page 396)
+* **"American Energy Dominance":** McNamee calls for a return to "American energy dominance," arguing that the U.S. should prioritize the production of fossil fuels to ensure abundant, affordable, and reliable energy.
     * **Concern:** This suggests a disregard for the environmental consequences of fossil fuel production, potentially exacerbating climate change and harming public health.
-    * **Quote:** "The next conservative Administration should prioritize energy and science dominance to ensure that Americans have abundant, affordable, and reliable energy; create good-paying jobs; support domestic manufacturing and technology leadership; and strengthen national security."
-* **"All of the Above" Energy Policy:** McNamee advocates for an "all of the above" energy policy, but his emphasis is clearly on fossil fuels. (Page 397)
+* **"All of the Above" Energy Policy:** McNamee advocates for an "all of the above" energy policy, but his emphasis is clearly on fossil fuels.
     * **Concern:** This could lead to a continued reliance on fossil fuels at the expense of investments in renewable energy sources, hindering efforts to transition to a cleaner energy future.
-* **Repealing Green Subsidies:** McNamee calls for repealing subsidies for renewable energy and ending government support for the "transition from fossil fuels to renewable energy." (Page 398)
+* **Repealing Green Subsidies:** McNamee calls for repealing subsidies for renewable energy and ending government support for the "transition from fossil fuels to renewable energy."
     * **Concern:** This would make it more difficult for renewable energy sources to compete with fossil fuels, potentially slowing down the development and deployment of clean energy technologies.
-* **Unleashing Private-Sector Innovation:** McNamee argues that the government should "end government interference in energy decisions" and "unleash private-sector energy innovation." (Page 398)
+* **Unleashing Private-Sector Innovation:** McNamee argues that the government should "end government interference in energy decisions" and "unleash private-sector energy innovation."
     * **Concern:** This could lead to a rollback of regulations that protect consumers and the environment, potentially resulting in higher energy prices, unsafe energy practices, and increased pollution.
-* **Refocusing FERC and NRC:** McNamee calls for refocusing FERC on ensuring "affordable and reliable electricity" and for streamlining the NRC's nuclear regulatory requirements to promote the development of new nuclear power plants. (Page 402)
+* **Refocusing FERC and NRC:** McNamee calls for refocusing FERC on ensuring "affordable and reliable electricity" and for streamlining the NRC's nuclear regulatory requirements to promote the development of new nuclear power plants.
     * **Concern:** This could lead to a weakening of environmental regulations and safety standards for energy production and transportation, potentially putting communities at risk.
-* **Security and Resilience:** McNamee emphasizes the need to secure energy infrastructure from cyber and physical attacks, but he does not address the role of climate change in increasing the frequency and severity of extreme weather events, which also threaten energy infrastructure. (Page 398)
+* **Security and Resilience:** McNamee emphasizes the need to secure energy infrastructure from cyber and physical attacks, but he does not address the role of climate change in increasing the frequency and severity of extreme weather events, which also threaten energy infrastructure.
     * **Concern:** This suggests a narrow focus on traditional security threats at the expense of addressing the growing risks posed by climate change.
 
 **Summary:**

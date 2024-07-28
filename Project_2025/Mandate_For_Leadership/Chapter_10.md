@@ -15,18 +15,17 @@ This chapter focuses on the U.S. Department of Agriculture (USDA), the agency re
 
 **Key Points & Concerns for Democrats:**
 
-* **Defending American Agriculture:** Bakst calls for "defending American agriculture" against the Biden Administration's efforts to "transform the food system," arguing that the government should not interfere with farmers' ability to produce food efficiently and affordably. (Page 324)
+* **Defending American Agriculture:** Bakst calls for "defending American agriculture" against the Biden Administration's efforts to "transform the food system," arguing that the government should not interfere with farmers' ability to produce food efficiently and affordably.
     * **Concern:** This rhetoric could be used to justify a rollback of regulations that protect consumers, workers, and the environment, potentially leading to unsafe food, unfair labor practices, and environmental degradation.
-    * **Quote:** "The federal government does not need to transform the food system or develop a national plan to intervene across the supply chain. Instead, it should respect American farmers, truckers, and everyone who makes the food supply chain so resilient and successful."
-* **Eliminating Farm Subsidies:** Bakst advocates for eliminating or significantly reforming farm subsidies, arguing that they distort markets, discourage innovation, and harm taxpayers. (Page 328)
+* **Eliminating Farm Subsidies:** Bakst advocates for eliminating or significantly reforming farm subsidies, arguing that they distort markets, discourage innovation, and harm taxpayers.
     * **Concern:** This could harm small farmers who rely on subsidies to stay afloat and make American agriculture less competitive in the global market.
-* **Moving Food and Nutrition Programs:** Bakst recommends moving all USDA food and nutrition programs, including SNAP (food stamps) and WIC, to the Department of Health and Human Services (HHS). (Page 332)
+* **Moving Food and Nutrition Programs:** Bakst recommends moving all USDA food and nutrition programs, including SNAP (food stamps) and WIC, to the Department of Health and Human Services (HHS).
     * **Concern:** This could lead to a less effective and less compassionate approach to addressing hunger and food insecurity, potentially making it more difficult for low-income families to access essential food assistance.
-* **Reforming SNAP:** Bakst calls for reforming SNAP by re-implementing work requirements, reforming broad-based categorical eligibility, re-evaluating the Thrifty Food Plan, and eliminating the "heat-and-eat" loophole. (Page 333)
+* **Reforming SNAP:** Bakst calls for reforming SNAP by re-implementing work requirements, reforming broad-based categorical eligibility, re-evaluating the Thrifty Food Plan, and eliminating the "heat-and-eat" loophole.
     * **Concern:** These proposals would likely make it more difficult for low-income families to qualify for and receive SNAP benefits, potentially increasing hunger and food insecurity.
-* **Returning School Meals to "Original Intent":** Bakst argues that federal school meal programs have strayed from their original intent of providing food to low-income children and calls for eliminating the Community Eligibility Provision (CEP), which allows schools with high concentrations of poverty to offer free meals to all students. (Page 335)
+* **Returning School Meals to "Original Intent":** Bakst argues that federal school meal programs have strayed from their original intent of providing food to low-income children and calls for eliminating the Community Eligibility Provision (CEP), which allows schools with high concentrations of poverty to offer free meals to all students.
     * **Concern:** This would likely reduce access to school meals for children from low-income families, potentially harming their health and academic performance.
-* **Reforming Conservation Programs:** Bakst advocates for eliminating the Conservation Reserve Program (CRP), which pays farmers to take environmentally sensitive land out of production, and for reforming conservation easements to make them less restrictive. (Page 337)
+* **Reforming Conservation Programs:** Bakst advocates for eliminating the Conservation Reserve Program (CRP), which pays farmers to take environmentally sensitive land out of production, and for reforming conservation easements to make them less restrictive.
     * **Concern:** This could lead to increased environmental degradation and a loss of valuable habitat for wildlife.
 
 **Summary:**

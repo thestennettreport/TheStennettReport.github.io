@@ -15,18 +15,17 @@ This chapter focuses on the Department of Housing and Urban Development (HUD), a
 
 **Key Points & Concerns for Democrats:**
 
-* **Resetting HUD:** Carson calls for "resetting" HUD by reversing the Biden Administration's "corrosive progressive ideologies" and refocusing the agency on its core mission of providing affordable housing. (Page 536)
+* **Resetting HUD:** Carson calls for "resetting" HUD by reversing the Biden Administration's "corrosive progressive ideologies" and refocusing the agency on its core mission of providing affordable housing.
     * **Concern:** This rhetoric could be used to justify cuts to HUD programs and a weakening of fair housing enforcement, potentially harming low-income families and minority communities.
-    * **Quote:** "This effort should specifically include a broad reversal of the Biden Administration’s persistent implementation of corrosive progressive ideologies across the department’s programs."
-* **Reversing "Mission Creep":** Carson criticizes HUD's "mission creep" and suggests that the federal government should play a smaller role in housing markets. (Page 537)
+* **Reversing "Mission Creep":** Carson criticizes HUD's "mission creep" and suggests that the federal government should play a smaller role in housing markets.
     * **Concern:** This could lead to a decrease in funding for affordable housing programs and a weakening of the government's ability to address homelessness and housing discrimination.
-* **Individual Responsibility and Upward Mobility:** Carson emphasizes the importance of individual responsibility and upward mobility, arguing that HUD programs should encourage self-sufficiency rather than dependence on government assistance. (Page 537)
+* **Individual Responsibility and Upward Mobility:** Carson emphasizes the importance of individual responsibility and upward mobility, arguing that HUD programs should encourage self-sufficiency rather than dependence on government assistance.
     * **Concern:** This could lead to a reduction in support for low-income families and a greater emphasis on work requirements and other policies that could make it more difficult for people to access affordable housing.
-* **Scrutiny of Foreign Ownership:** Carson calls for greater oversight of foreign ownership of U.S. real estate, particularly by China, arguing that it poses a threat to national security and economic stability. (Page 537)
+* **Scrutiny of Foreign Ownership:** Carson calls for greater oversight of foreign ownership of U.S. real estate, particularly by China, arguing that it poses a threat to national security and economic stability.
     * **Concern:** This could lead to discriminatory policies that target foreign investors, potentially harming the U.S. economy and discouraging foreign investment.
-* **Eliminating "Affirmatively Furthering Fair Housing":** Carson recommends repealing the Affirmatively Furthering Fair Housing (AFFH) regulation, arguing that it is an overreach of federal power and undermines local control. (Page 542)
+* **Eliminating "Affirmatively Furthering Fair Housing":** Carson recommends repealing the Affirmatively Furthering Fair Housing (AFFH) regulation, arguing that it is an overreach of federal power and undermines local control.
     * **Concern:** This would weaken efforts to combat housing discrimination and could allow communities to perpetuate segregation and inequality.
-* **Restricting Housing Assistance to Citizens:** Carson proposes prohibiting non-citizens from living in federally assisted housing, arguing that HUD's primary responsibility is to provide housing for American citizens. (Page 542)
+* **Restricting Housing Assistance to Citizens:** Carson proposes prohibiting non-citizens from living in federally assisted housing, arguing that HUD's primary responsibility is to provide housing for American citizens.
     * **Concern:** This would discriminate against immigrants, including those who are legally present in the U.S., and could make it more difficult for mixed-status families to access affordable housing.
 
 **Summary:**

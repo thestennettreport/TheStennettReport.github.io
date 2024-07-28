@@ -15,16 +15,15 @@ This chapter focuses on the U.S. Agency for International Development (USAID), t
 
 **Key Points & Concerns for Democrats:**
 
-* **"Deradicalizing" USAID:** Primorac calls for "deradicalizing" USAID by eliminating programs and initiatives related to abortion, climate change, and gender equality, arguing that these are "divisive" and "harmful." (Page 287)
+* **"Deradicalizing" USAID:** Primorac calls for "deradicalizing" USAID by eliminating programs and initiatives related to abortion, climate change, and gender equality, arguing that these are "divisive" and "harmful."
     * **Concern:** This would represent a significant shift in U.S. foreign aid policy, potentially undermining efforts to promote women's rights, combat climate change, and provide essential health services in developing countries.
-    * **Quote:** "The Biden Administration has deformed the agency by treating it as a global platform to pursue overseas a divisive political and cultural agenda that promotes abortion, climate extremism, gender radicalism, and interventions against perceived systematic racism."
-* **Countering China:** Primorac emphasizes the need to counter China's growing influence in the developing world and calls for restoring the Trump Administration's "Clear Choice" initiative, which contrasted American values with Chinese "authoritarianism." (Page 288)
+* **Countering China:** Primorac emphasizes the need to counter China's growing influence in the developing world and calls for restoring the Trump Administration's "Clear Choice" initiative, which contrasted American values with Chinese "authoritarianism."
     * **Concern:** This could lead to a more confrontational and less cooperative approach to development assistance, potentially undermining efforts to address global challenges like poverty and disease.
-* **Promoting Conservative Social Values:** Primorac advocates for using USAID to promote conservative social values, such as opposition to abortion and support for traditional families. (Page 292)
+* **Promoting Conservative Social Values:** Primorac advocates for using USAID to promote conservative social values, such as opposition to abortion and support for traditional families.
     * **Concern:** This could alienate partners and beneficiaries who do not share those values and undermine USAID's effectiveness in promoting development and humanitarian assistance.
-* **Reducing Foreign Aid:** Primorac calls for scaling back USAID's global footprint and returning to its 2019 budget level, arguing that the Biden Administration's budget increases are "wasteful." (Page 287)
+* **Reducing Foreign Aid:** Primorac calls for scaling back USAID's global footprint and returning to its 2019 budget level, arguing that the Biden Administration's budget increases are "wasteful."
     * **Concern:** This could harm vulnerable populations in developing countries who rely on U.S. foreign aid for essential services like health care, education, and disaster relief.
-* **Empowering Faith-Based Organizations:** Primorac advocates for increasing funding to faith-based organizations, arguing that they are more effective than secular organizations in providing development assistance. (Page 292)
+* **Empowering Faith-Based Organizations:** Primorac advocates for increasing funding to faith-based organizations, arguing that they are more effective than secular organizations in providing development assistance.
     * **Concern:** This could lead to discrimination against beneficiaries who do not share the religious beliefs of the funded organizations and undermine the principle of separation of church and state.
 
 **Summary:**

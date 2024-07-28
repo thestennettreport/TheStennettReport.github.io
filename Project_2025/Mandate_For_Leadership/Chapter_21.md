@@ -17,23 +17,22 @@ This chapter focuses on the Department of Commerce, arguing that it has become d
 
 * **Strong Political Control:** Gilman stresses the need for strong political leadership at the Department of Commerce, arguing that career staff have too much influence and are resistant to change. (Page 696)
     * **Concern:** This could lead to a politicization of the department and a disregard for the expertise and experience of career civil servants.
-    * **Quote:** "It is vitally important that an incoming Administration fully staff OS [Office of the Secretary] with political appointees, send all existing detailees back to their home bureaus on Day One, and replace those detailees with trusted and knowledgeable career staff on an as-needed basis."
-* **Countering China:** Gilman identifies China as a major economic threat and calls for the department to play a more active role in countering Chinese "malign influence," including through trade enforcement and export controls. (Page 699)
+* **Countering China:** Gilman identifies China as a major economic threat and calls for the department to play a more active role in countering Chinese "malign influence," including through trade enforcement and export controls.
     * **Concern:** This could lead to a more confrontational and less cooperative approach to economic relations with China, potentially harming American businesses and consumers.
 * **Streamlining and Consolidating Agencies:** Gilman suggests that the department could be streamlined by consolidating or eliminating certain agencies and programs, including the Economic Development Administration (EDA) and the National Oceanic and Atmospheric Administration (NOAA). (Page 696)
     * **Concern:** This could weaken the department's ability to promote economic development, protect the environment, and conduct important scientific research.
-* **Strengthening Enforcement:** Gilman calls for strengthening the department's enforcement capabilities, particularly in the areas of trade and export controls. (Page 700)
+* **Strengthening Enforcement:** Gilman calls for strengthening the department's enforcement capabilities, particularly in the areas of trade and export controls.
     * **Concern:** This could lead to a more aggressive and less nuanced approach to enforcement, potentially harming American businesses that are engaged in legitimate trade and investment activities.
-* **Deregulation and Business-Friendly Policies:** Gilman advocates for a more business-friendly approach to regulation, suggesting that the department should focus on reducing the regulatory burden on businesses. (Page 701)
+* **Deregulation and Business-Friendly Policies:** Gilman advocates for a more business-friendly approach to regulation, suggesting that the department should focus on reducing the regulatory burden on businesses.
     * **Concern:** This could lead to a weakening of consumer protections, environmental regulations, and other safeguards that are designed to protect the public interest.
 
 **Specific Agency Recommendations & Concerns:**
 
-* **International Trade Administration (ITA):** Gilman calls for the ITA to focus on countering China's "malign influence," enforcing trade agreements, and securing access to critical supply chains. (Page 699)
+* **International Trade Administration (ITA):** Gilman calls for the ITA to focus on countering China's "malign influence," enforcing trade agreements, and securing access to critical supply chains.
     * **Concern:** This could lead to a more protectionist trade policy that harms American consumers and businesses that rely on imports.
-* **Bureau of Industry and Security (BIS):** Gilman advocates for strengthening export controls to prevent the transfer of sensitive technologies to China and other adversaries. (Page 704)
+* **Bureau of Industry and Security (BIS):** Gilman advocates for strengthening export controls to prevent the transfer of sensitive technologies to China and other adversaries.
     * **Concern:** This could harm American businesses that export high-tech products and could stifle innovation.
-* **Census Bureau:** Gilman calls for a review of the Census Bureau's data collection methods and for adding a citizenship question to the 2030 Census. (Page 712)
+* **Census Bureau:** Gilman calls for a review of the Census Bureau's data collection methods and for adding a citizenship question to the 2030 Census.
     * **Concern:** This could be used to suppress minority participation in the Census and could lead to an undercount of certain populations, potentially affecting political representation and the allocation of federal funds.
 
 **Summary:**

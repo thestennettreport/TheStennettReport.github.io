@@ -15,23 +15,22 @@ This chapter focuses on financial regulatory agencies, specifically the Securiti
 
 **Key Points & Concerns for Democrats:**
 
-* **Deregulation and Reduced Government Role:** Burton advocates for a significant reduction in the role of government in financial markets, arguing that excessive regulation stifles innovation and economic growth. He calls for streamlining regulations, reducing compliance costs, and eliminating unnecessary agencies and programs. (Page 862)
+* **Deregulation and Reduced Government Role:** Burton advocates for a significant reduction in the role of government in financial markets, arguing that excessive regulation stifles innovation and economic growth. He calls for streamlining regulations, reducing compliance costs, and eliminating unnecessary agencies and programs.
     * **Concern:** This could lead to a weakening of consumer protections, increased risk for investors, and a more volatile and less stable financial system.
-    * **Quote:** "The SEC should be reducing impediments to capital formation, not radically increasing them."
-* **Criticism of "Climate Change" Agenda:** Burton criticizes the SEC's efforts to require companies to disclose climate-related risks, arguing that this is an overreach of the agency's authority and imposes unnecessary costs on businesses. (Page 862)
+* **Criticism of "Climate Change" Agenda:** Burton criticizes the SEC's efforts to require companies to disclose climate-related risks, arguing that this is an overreach of the agency's authority and imposes unnecessary costs on businesses.
     * **Concern:** This suggests a disregard for the risks posed by climate change to the financial system and could undermine efforts to encourage businesses to adopt sustainable practices.
-* **Reforming Securities Laws:** Burton calls for a fundamental reform of securities laws, arguing that they are too complex and burdensome. He advocates for a simplified disclosure system, reduced reporting requirements, and greater flexibility for private offerings. (Page 863)
+* **Reforming Securities Laws:** Burton calls for a fundamental reform of securities laws, arguing that they are too complex and burdensome. He advocates for a simplified disclosure system, reduced reporting requirements, and greater flexibility for private offerings.
     * **Concern:** This could weaken investor protections and make it easier for companies to engage in fraud and other misconduct.
-* **Abolishing SROs:** Burton recommends abolishing or significantly reforming SROs like FINRA, arguing that they are ineffective, costly, and lack transparency and accountability. (Page 863)
+* **Abolishing SROs:** Burton recommends abolishing or significantly reforming SROs like FINRA, arguing that they are ineffective, costly, and lack transparency and accountability.
     * **Concern:** This could weaken oversight of the financial industry and could make it more difficult to detect and prevent fraud and other misconduct.
-* **Opposition to "Social Justice" and ESG:** Burton explicitly opposes efforts to redefine the purpose of business to include social justice, corporate social responsibility (CSR), stakeholder theory, environmental, social, and governance (ESG) criteria, and other similar concepts. (Page 866)
+* **Opposition to "Social Justice" and ESG:** Burton explicitly opposes efforts to redefine the purpose of business to include social justice, corporate social responsibility (CSR), stakeholder theory, environmental, social, and governance (ESG) criteria, and other similar concepts.
     * **Concern:** This suggests a disregard for the importance of corporate social responsibility and could discourage businesses from adopting sustainable and ethical practices.
 
 **Specific Agency Recommendations & Concerns:**
 
-* **SEC:** Burton calls for the SEC to simplify regulations, reduce reporting requirements, eliminate administrative proceedings, and limit its enforcement powers. He also recommends merging the functions of PCAOB and FINRA into the SEC. (Page 864)
+* **SEC:** Burton calls for the SEC to simplify regulations, reduce reporting requirements, eliminate administrative proceedings, and limit its enforcement powers. He also recommends merging the functions of PCAOB and FINRA into the SEC.
     * **Concern:** These proposals could weaken investor protections, reduce transparency and accountability in the financial industry, and make it more difficult for the SEC to enforce securities laws.
-* **CFTC:** Burton recommends modernizing the definition of "commodity" to include digital assets, clarifying the registration requirements for foreign swap trading platforms, and giving the CFTC Chairman greater authority to remove the agency's Executive Director. (Page 866)
+* **CFTC:** Burton recommends modernizing the definition of "commodity" to include digital assets, clarifying the registration requirements for foreign swap trading platforms, and giving the CFTC Chairman greater authority to remove the agency's Executive Director.
     * **Concern:** These proposals could create regulatory uncertainty for the digital asset industry and could weaken oversight of the derivatives market.
 
 **Summary:**

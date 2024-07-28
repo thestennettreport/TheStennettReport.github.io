@@ -15,16 +15,15 @@ This chapter focuses on the Federal Reserve (Fed), arguing that it is responsibl
 
 **Key Points & Concerns for Democrats:**
 
-* **Blaming the Fed for Economic Problems:** Winfree blames the Fed for causing economic instability, arguing that its manipulation of interest rates and the money supply leads to booms and busts. (Page 764)
+* **Blaming the Fed for Economic Problems:** Winfree blames the Fed for causing economic instability, arguing that its manipulation of interest rates and the money supply leads to booms and busts.
     * **Concern:** This ignores the role of other factors, such as fiscal policy, global economic conditions, and supply chain disruptions, in contributing to economic fluctuations. It also suggests a distrust of the Fed's expertise and independence.
-    * **Quote:** "Public control of money creation through the Federal Reserve System has another major problem: Government can abuse this authority for its own advantage by printing money to finance its operations."
-* **Eliminating the Dual Mandate:** Winfree calls for eliminating the Fed's dual mandate of maximizing employment and maintaining price stability, arguing that it should focus solely on price stability. (Page 766)
+* **Eliminating the Dual Mandate:** Winfree calls for eliminating the Fed's dual mandate of maximizing employment and maintaining price stability, arguing that it should focus solely on price stability.
     * **Concern:** This would prioritize fighting inflation over supporting full employment, potentially leading to higher unemployment and slower economic growth.
-* **Limiting the Lender of Last Resort:** Winfree advocates for limiting the Fed's lender-of-last-resort function, arguing that it encourages banks to take excessive risks and leads to "moral hazard." (Page 766)
+* **Limiting the Lender of Last Resort:** Winfree advocates for limiting the Fed's lender-of-last-resort function, arguing that it encourages banks to take excessive risks and leads to "moral hazard."
     * **Concern:** This could make the financial system more vulnerable to crises, as banks would be less likely to lend during times of economic stress without the backstop of the Fed.
-* **Winding Down the Balance Sheet:** Winfree calls for winding down the Fed's balance sheet, which has grown significantly since the 2008 financial crisis, arguing that it distorts markets and encourages government debt. (Page 767)
+* **Winding Down the Balance Sheet:** Winfree calls for winding down the Fed's balance sheet, which has grown significantly since the 2008 financial crisis, arguing that it distorts markets and encourages government debt.
     * **Concern:** This could lead to higher interest rates and tighter credit conditions, potentially slowing economic growth and harming businesses and consumers.
-* **Free Banking or Gold Standard:** Winfree suggests that the next Administration should consider "abolishing" the Fed and replacing it with "free banking," where private banks issue their own currencies, or returning to the gold standard. (Page 769)
+* **Free Banking or Gold Standard:** Winfree suggests that the next Administration should consider "abolishing" the Fed and replacing it with "free banking," where private banks issue their own currencies, or returning to the gold standard.
     * **Concern:** These are radical proposals that would fundamentally alter the U.S. monetary system and could lead to significant economic instability.
 
 **Summary:**

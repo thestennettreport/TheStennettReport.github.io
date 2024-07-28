@@ -15,22 +15,20 @@ This chapter presents two opposing viewpoints on the Export-Import Bank (EXIM), 
 
 **Key Points & Concerns for Democrats (Hazelton's Argument):**
 
-* **Countering China:** Hazelton argues that EXIM is a "strategic weapon" in the fight against China's economic aggression, particularly in the area of export credit financing. She claims that China's aggressive use of export subsidies is giving its companies an unfair advantage in global markets and that the U.S. needs EXIM to level the playing field. (Page 724)
+* **Countering China:** Hazelton argues that EXIM is a "strategic weapon" in the fight against China's economic aggression, particularly in the area of export credit financing. She claims that China's aggressive use of export subsidies is giving its companies an unfair advantage in global markets and that the U.S. needs EXIM to level the playing field.
     * **Concern:** While countering China's economic influence is a legitimate concern, using EXIM as a primary tool could lead to a costly and ineffective subsidy race that ultimately harms American taxpayers and businesses.
-    * **Quote:** "Export credit is a strategy weapon in China’s whole-of-government approach to enhance its global power."
-* **Supporting American Jobs and Businesses:** Hazelton argues that EXIM supports American jobs and businesses by financing exports that would not otherwise occur. She claims that EXIM helps both large and small businesses and that it has a strong track record of success. (Page 724)
+* **Supporting American Jobs and Businesses:** Hazelton argues that EXIM supports American jobs and businesses by financing exports that would not otherwise occur. She claims that EXIM helps both large and small businesses and that it has a strong track record of success.
     * **Concern:** Evidence suggests that EXIM primarily benefits a small number of large corporations, like Boeing, and that its impact on small businesses is limited. Additionally, many of the exports that EXIM finances would likely occur even without government support.
-* **Protecting Taxpayers:** Hazelton argues that EXIM is a good deal for taxpayers because it operates at a profit, returning more money to the Treasury than it receives in appropriations. (Page 759)
+* **Protecting Taxpayers:** Hazelton argues that EXIM is a good deal for taxpayers because it operates at a profit, returning more money to the Treasury than it receives in appropriations.
     * **Concern:** This accounting relies on questionable assumptions about risk and ignores the potential for future defaults, which could leave taxpayers on the hook for billions of dollars in losses.
 
 **Key Points & Concerns for Democrats (De Rugy's Argument):**
 
-* **Corporate Welfare:** De Rugy argues that EXIM is a form of corporate welfare that benefits a small number of large corporations at the expense of taxpayers and small businesses. She claims that EXIM distorts markets by providing subsidies to companies that could obtain financing from private lenders. (Page 717)
+* **Corporate Welfare:** De Rugy argues that EXIM is a form of corporate welfare that benefits a small number of large corporations at the expense of taxpayers and small businesses. She claims that EXIM distorts markets by providing subsidies to companies that could obtain financing from private lenders.
     * **Concern:** This argument aligns with Democratic concerns about corporate welfare and the need to ensure that government programs benefit ordinary Americans, not just wealthy special interests.
-    * **Quote:** "EXIM operates in effect as a protectionist agency that picks winners and losers in the market by providing political privileges to firms that are already well-financed."
-* **Harming Small Businesses:** De Rugy argues that EXIM actually harms small businesses by subsidizing their larger competitors, making it more difficult for them to compete. (Page 717)
+* **Harming Small Businesses:** De Rugy argues that EXIM actually harms small businesses by subsidizing their larger competitors, making it more difficult for them to compete.
     * **Concern:** This aligns with Democratic concerns about the need to support small businesses and to ensure that government policies do not create an unfair advantage for large corporations.
-* **Wasting Taxpayer Money:** De Rugy argues that EXIM wastes taxpayer money by financing exports that would have occurred anyway and by taking on unnecessary risks that could lead to future defaults. (Page 753)
+* **Wasting Taxpayer Money:** De Rugy argues that EXIM wastes taxpayer money by financing exports that would have occurred anyway and by taking on unnecessary risks that could lead to future defaults.
     * **Concern:** This aligns with Democratic concerns about fiscal responsibility and the need to ensure that government programs are effective and efficient.
 
 **Summary:**

@@ -15,18 +15,17 @@ This chapter focuses on the Department of Defense (DOD), the largest and most ex
 
 **Key Points & Concerns for Democrats:**
 
-* **China as the Primary Threat:** Miller identifies China as the "most significant danger" to American security and calls for a "denial defense" strategy to counter Chinese expansionism in Asia. (Page 126)
+* **China as the Primary Threat:** Miller identifies China as the "most significant danger" to American security and calls for a "denial defense" strategy to counter Chinese expansionism in Asia.
     * **Concern:** This could lead to a dangerous escalation of tensions with China and a costly arms race in the Pacific.
-    * **Quote:** "By far the most significant danger to Americans’ security, freedoms, and prosperity is China."
-* **Increased Military Spending:** Miller argues that the U.S. needs to spend more on defense to counter the threats posed by China, Russia, and other adversaries. (Page 127)
+* **Increased Military Spending:** Miller argues that the U.S. needs to spend more on defense to counter the threats posed by China, Russia, and other adversaries.
     * **Concern:** This could lead to cuts in social programs and other vital domestic spending priorities.
-* **Nuclear Modernization and Expansion:** Miller calls for modernizing and expanding the U.S. nuclear arsenal to deter both Russia and China. (Page 128)
+* **Nuclear Modernization and Expansion:** Miller calls for modernizing and expanding the U.S. nuclear arsenal to deter both Russia and China.
     * **Concern:** This could increase the risk of nuclear war and undermine efforts to reduce nuclear proliferation.
-* **Missile Defense:** Miller advocates for treating missile defense as a "top priority" and for abandoning the existing policy of not defending the homeland against Russian and Chinese ballistic missiles. (Page 159)
+* **Missile Defense:** Miller advocates for treating missile defense as a "top priority" and for abandoning the existing policy of not defending the homeland against Russian and Chinese ballistic missiles.
     * **Concern:** This could destabilize the strategic balance and provoke a dangerous response from Russia and China.
-* **"Woke" Culture:** Miller echoes Vought's criticism of the "woke" culture within the military and calls for eliminating programs related to diversity, equity, and inclusion, critical race theory, and transgender service. (Page 136)
+* **"Woke" Culture:** Miller echoes Vought's criticism of the "woke" culture within the military and calls for eliminating programs related to diversity, equity, and inclusion, critical race theory, and transgender service.
     * **Concern:** This suggests a disregard for the importance of diversity and inclusion in the military and a willingness to discriminate against transgender service members.
-* **Military as a Tool for Social Change:** Miller argues against using the military as a "test bed for social evolution," suggesting a more traditional and less inclusive view of the military's role in society. (Page 143)
+* **Military as a Tool for Social Change:** Miller argues against using the military as a "test bed for social evolution," suggesting a more traditional and less inclusive view of the military's role in society.
     * **Concern:** This could discourage qualified individuals from diverse backgrounds from serving in the military and undermine efforts to create a more inclusive and representative armed forces.
 
 **Summary:**

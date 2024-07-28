@@ -15,18 +15,17 @@ This chapter focuses on the Department of the Interior (DOI), the agency respons
 
 **Key Points & Concerns for Democrats:**
 
-* **Restoring "American Energy Dominance":** Pendley calls for restoring "American energy dominance" by aggressively expanding oil and gas leasing and production on public lands and waters, arguing that this is essential for economic growth and national security. (Page 552)
+* **Restoring "American Energy Dominance":** Pendley calls for restoring "American energy dominance" by aggressively expanding oil and gas leasing and production on public lands and waters, arguing that this is essential for economic growth and national security.
     * **Concern:** This would prioritize fossil fuel extraction over environmental protection, potentially leading to increased greenhouse gas emissions, habitat destruction, and pollution.
-    * **Quote:** "Given the dire adverse national impact of Biden’s war on fossil fuels, no other initiative is as important for the DOI under a conservative President than the restoration of the department’s historic role managing the nation’s vast storehouse of hydrocarbons, much of which is yet to be discovered."
-* **Rolling Back Environmental Regulations:** Pendley advocates for rolling back a wide range of environmental regulations, including those related to the Endangered Species Act, the National Environmental Policy Act (NEPA), and the Migratory Bird Treaty Act. (Page 555)
+* **Rolling Back Environmental Regulations:** Pendley advocates for rolling back a wide range of environmental regulations, including those related to the Endangered Species Act, the National Environmental Policy Act (NEPA), and the Migratory Bird Treaty Act.
     * **Concern:** This would weaken protections for endangered species, public lands, and wildlife, potentially leading to biodiversity loss, habitat destruction, and environmental degradation.
-* **Empowering States and Local Communities:** Pendley argues for giving states and local communities greater control over public lands management, suggesting that they are better stewards of those lands than the federal government. (Page 557)
+* **Empowering States and Local Communities:** Pendley argues for giving states and local communities greater control over public lands management, suggesting that they are better stewards of those lands than the federal government.
     * **Concern:** This could lead to a patchwork of inconsistent land management practices across the country, with some states prioritizing economic development over environmental protection.
-* **Relocating BLM Headquarters:** Pendley praises the Trump Administration's decision to relocate the Bureau of Land Management (BLM) headquarters to Grand Junction, Colorado, arguing that it brought decision-making closer to the resources and people affected. (Page 557)
+* **Relocating BLM Headquarters:** Pendley praises the Trump Administration's decision to relocate the Bureau of Land Management (BLM) headquarters to Grand Junction, Colorado, arguing that it brought decision-making closer to the resources and people affected.
     * **Concern:** This could be seen as an attempt to weaken the BLM's ability to regulate public lands and to make it more responsive to industry interests.
-* **Challenging National Monuments:** Pendley criticizes the designation of national monuments by Presidents, arguing that they are often an abuse of power under the Antiquities Act. He calls for reviewing existing monuments and potentially reducing their size. (Page 565)
+* **Challenging National Monuments:** Pendley criticizes the designation of national monuments by Presidents, arguing that they are often an abuse of power under the Antiquities Act. He calls for reviewing existing monuments and potentially reducing their size.
     * **Concern:** This could lead to the opening up of protected lands to development and could undermine efforts to preserve natural and cultural heritage.
-* **Breaching Trust Responsibilities to American Indians:** Pendley argues that the Biden Administration has breached its trust responsibilities to American Indians by restricting energy development on tribal lands. (Page 569)
+* **Breaching Trust Responsibilities to American Indians:** Pendley argues that the Biden Administration has breached its trust responsibilities to American Indians by restricting energy development on tribal lands.
     * **Concern:** This could be seen as an attempt to pit tribal interests against environmental concerns, potentially undermining efforts to protect tribal lands and resources.
 
 **Summary:**

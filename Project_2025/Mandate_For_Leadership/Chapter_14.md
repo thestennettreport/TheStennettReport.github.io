@@ -15,25 +15,24 @@ This chapter focuses on the Department of Health and Human Services (HHS), argui
 
 **Key Points & Concerns for Democrats:**
 
-* **Protecting Life, Conscience, and Bodily Integrity:** Severino calls for a robust agenda to protect the "fundamental right to life," conscience rights, and "bodily integrity rooted in biological realities, not ideology." (Page 483)
+* **Protecting Life, Conscience, and Bodily Integrity:** Severino calls for a robust agenda to protect the "fundamental right to life," conscience rights, and "bodily integrity rooted in biological realities, not ideology."
     * **Concern:** This language signals a strong anti-abortion stance and a rejection of transgender rights, potentially leading to policies that restrict access to reproductive health care and discriminate against transgender individuals.
-    * **Quote:** "Abortion and euthanasia are not health care."
-* **Empowering Patient Choices and Provider Autonomy:** Severino advocates for patient-centered, market-based health care reform that empowers individuals to control their health care decisions and reduces government regulation. (Page 483)
+* **Empowering Patient Choices and Provider Autonomy:** Severino advocates for patient-centered, market-based health care reform that empowers individuals to control their health care decisions and reduces government regulation.
     * **Concern:** This could lead to a weakening of consumer protections and a shift away from a universal health care system, potentially making health care less affordable and accessible for low-income Americans.
-* **Promoting Stable and Flourishing Married Families:** Severino emphasizes the importance of "stable and flourishing married families" and criticizes policies that "subsidize single-motherhood, disincentivize work, and penalize marriage." (Page 484)
+* **Promoting Stable and Flourishing Married Families:** Severino emphasizes the importance of "stable and flourishing married families" and criticizes policies that "subsidize single-motherhood, disincentivize work, and penalize marriage."
     * **Concern:** This suggests a narrow and traditional view of family structures, potentially leading to policies that discriminate against single parents, LGBTQ+ families, and other non-traditional families.
-* **Preparing for the Next Health Emergency:** Severino criticizes the government's response to the COVID-19 pandemic as "centralized and politicized" and calls for a more "transparent, scientifically grounded" approach to future health emergencies. (Page 484)
+* **Preparing for the Next Health Emergency:** Severino criticizes the government's response to the COVID-19 pandemic as "centralized and politicized" and calls for a more "transparent, scientifically grounded" approach to future health emergencies.
     * **Concern:** This rhetoric could be used to downplay the severity of future pandemics and to justify a less robust public health response.
-* **Instituting Greater Transparency, Accountability, and Oversight:** Severino calls for greater transparency and accountability at HHS, including eliminating conflicts of interest between government regulators and the pharmaceutical industry and adopting metrics to measure the effectiveness of HHS programs. (Page 485)
+* **Instituting Greater Transparency, Accountability, and Oversight:** Severino calls for greater transparency and accountability at HHS, including eliminating conflicts of interest between government regulators and the pharmaceutical industry and adopting metrics to measure the effectiveness of HHS programs.
     * **Concern:** While transparency and accountability are important, this could also be used to justify cuts to HHS programs and to undermine the agency's ability to regulate the health care industry.
 
 **Specific Agency Recommendations & Concerns:**
 
-* **Centers for Disease Control and Prevention (CDC):** Severino criticizes the CDC's performance during the COVID-19 pandemic and calls for splitting it into two separate agencies: one for data collection and one for public health recommendations. He also advocates for eliminating the CDC Foundation, which accepts funding from pharmaceutical companies. (Page 486)
+* **Centers for Disease Control and Prevention (CDC):** Severino criticizes the CDC's performance during the COVID-19 pandemic and calls for splitting it into two separate agencies: one for data collection and one for public health recommendations. He also advocates for eliminating the CDC Foundation, which accepts funding from pharmaceutical companies.
     * **Concern:** This could weaken the CDC's ability to respond effectively to public health emergencies and could make it more difficult to coordinate public health efforts across the country.
-* **Food and Drug Administration (FDA):** Severino criticizes the FDA's approval of chemical abortion drugs and its regulation of generic drugs. He calls for reversing the approval of abortion drugs, strengthening safety protocols for mifepristone, and addressing drug shortages. (Page 490)
+* **Food and Drug Administration (FDA):** Severino criticizes the FDA's approval of chemical abortion drugs and its regulation of generic drugs. He calls for reversing the approval of abortion drugs, strengthening safety protocols for mifepristone, and addressing drug shortages.
     * **Concern:** These proposals would restrict access to abortion care and could make it more difficult for consumers to access affordable generic drugs.
-* **National Institutes of Health (NIH):** Severino criticizes the NIH for funding research using fetal tissue and embryonic stem cells and for its ties to the pharmaceutical industry. He calls for ending such research, imposing term limits on NIH leadership, and eliminating the NIH Foundation. (Page 493)
+* **National Institutes of Health (NIH):** Severino criticizes the NIH for funding research using fetal tissue and embryonic stem cells and for its ties to the pharmaceutical industry. He calls for ending such research, imposing term limits on NIH leadership, and eliminating the NIH Foundation.
     * **Concern:** This could stifle important medical research and undermine the NIH's ability to develop new treatments and cures for diseases.
 
 **Summary:**

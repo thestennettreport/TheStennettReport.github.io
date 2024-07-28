@@ -17,16 +17,15 @@ This chapter focuses on the Department of State, the agency responsible for cond
 
 * **Political Control:** Skinner emphasizes the need for strong political leadership at the State Department and for staffing key positions with individuals who are aligned with the President's ideology. (Page 206)
     * **Concern:** This could lead to a politicization of the foreign service and a decline in the quality and expertise of American diplomacy.
-    * **Quote:** "The next Administration must take swift and decisive steps to reforge the department into a lean and functional diplomatic machine that serves the President and, thereby, the American people."
-* **Aggressive Approach to Confirmations:** Skinner recommends placing political appointees in acting roles even before they are confirmed by the Senate, potentially circumventing the Senate's advice and consent role. (Page 206)
+* **Aggressive Approach to Confirmations:** Skinner recommends placing political appointees in acting roles even before they are confirmed by the Senate, potentially circumventing the Senate's advice and consent role.
     * **Concern:** This could undermine the Senate's constitutional role in confirming presidential appointments and lead to a less qualified and more partisan State Department.
-* **Confrontational Posture:** Skinner advocates for a more confrontational approach to foreign policy, particularly with respect to China and Russia. (Page 212)
+* **Confrontational Posture:** Skinner advocates for a more confrontational approach to foreign policy, particularly with respect to China and Russia.
     * **Concern:** This could escalate tensions with those countries and increase the risk of conflict.
-* **"Sovereign Mexico" Policy:** Skinner calls for a "sovereign Mexico" policy, arguing that Mexico has "functionally lost its sovereignty to muscular criminal cartels." (Page 217)
+* **"Sovereign Mexico" Policy:** Skinner calls for a "sovereign Mexico" policy, arguing that Mexico has "functionally lost its sovereignty to muscular criminal cartels."
     * **Concern:** This suggests a paternalistic and interventionist approach to Mexico, potentially undermining Mexican sovereignty and exacerbating tensions between the two countries.
 * **Rejection of Multilateralism:** Skinner criticizes international organizations and agreements that she believes erode U.S. sovereignty and calls for withdrawing from or defunding those organizations. (Page 224)
     * **Concern:** This could weaken America's global leadership and undermine efforts to address transnational challenges like climate change and pandemics.
-* **Promoting Conservative Social Values:** Skinner advocates for using U.S. foreign policy to promote conservative social values, such as opposition to abortion and same-sex marriage. (Page 225)
+* **Promoting Conservative Social Values:** Skinner advocates for using U.S. foreign policy to promote conservative social values, such as opposition to abortion and same-sex marriage.
     * **Concern:** This could alienate allies and partners who do not share those values and undermine America's moral standing in the world.
 
 **Summary:**

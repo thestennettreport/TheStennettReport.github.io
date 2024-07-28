@@ -15,16 +15,15 @@ This chapter focuses on the Federal Election Commission (FEC), the independent a
 
 **Key Points & Concerns for Democrats:**
 
-* **Limited Presidential Authority:** Von Spakovsky acknowledges that the President's direct authority over the FEC is "extremely limited" due to its independent status. (Page 860)
+* **Limited Presidential Authority:** Von Spakovsky acknowledges that the President's direct authority over the FEC is "extremely limited" due to its independent status.
     * **Concern:** This could be seen as an attempt to downplay the potential for a conservative President to influence the FEC's enforcement of campaign finance laws, potentially leading to a less rigorous enforcement of those laws.
-    * **Quote:** "While the authority of the President over the actions of the Federal Election Commission 'is extremely limited,' the President 'must ensure that the [Justice Department], just like the FEC, is directed to only prosecute clear violations' of the Federal Election Campaign Act."
-* **Protecting First Amendment Rights:** Von Spakovsky emphasizes the importance of protecting First Amendment rights in the context of campaign finance regulation, arguing that the FEC and DOJ should not "infringe on protected First Amendment activity." (Page 860)
+* **Protecting First Amendment Rights:** Von Spakovsky emphasizes the importance of protecting First Amendment rights in the context of campaign finance regulation, arguing that the FEC and DOJ should not "infringe on protected First Amendment activity."
     * **Concern:** While protecting free speech is crucial, this could be used to justify a lax approach to enforcing campaign finance laws, potentially allowing wealthy donors and special interests to exert undue influence on elections.
-* **DOJ Deference to FEC:** Von Spakovsky argues that the DOJ should defer to the FEC's interpretations of campaign finance laws when making prosecution decisions and should not prosecute individuals for conduct that the FEC has previously determined does not violate the law. (Page 896)
+* **DOJ Deference to FEC:** Von Spakovsky argues that the DOJ should defer to the FEC's interpretations of campaign finance laws when making prosecution decisions and should not prosecute individuals for conduct that the FEC has previously determined does not violate the law.
     * **Concern:** This could limit the DOJ's ability to prosecute campaign finance violations, particularly in cases where the FEC is deadlocked or has failed to act.
-* **Defending the FEC in Litigation:** Von Spakovsky criticizes Democratic FEC commissioners for refusing to authorize the agency's general counsel to defend the FEC in lawsuits filed by private plaintiffs. He argues that the President should direct the Attorney General to defend the FEC in such cases. (Page 897)
+* **Defending the FEC in Litigation:** Von Spakovsky criticizes Democratic FEC commissioners for refusing to authorize the agency's general counsel to defend the FEC in lawsuits filed by private plaintiffs. He argues that the President should direct the Attorney General to defend the FEC in such cases.
     * **Concern:** This could be seen as an attempt to shield the FEC from accountability and could undermine the ability of citizens to challenge the agency's actions in court.
-* **Maintaining the Bipartisan Structure:** Von Spakovsky strongly opposes efforts to change the FEC's structure, arguing that the current six-member, bipartisan commission is essential to prevent the agency from being "weaponized" for partisan purposes. (Page 898)
+* **Maintaining the Bipartisan Structure:** Von Spakovsky strongly opposes efforts to change the FEC's structure, arguing that the current six-member, bipartisan commission is essential to prevent the agency from being "weaponized" for partisan purposes.
     * **Concern:** This could perpetuate the FEC's current gridlock and inaction, making it difficult to address campaign finance abuses. Democrats may favor a more independent and less partisan FEC structure that would be more effective in enforcing campaign finance laws.
 
 **Summary:**

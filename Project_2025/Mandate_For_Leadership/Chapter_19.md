@@ -15,18 +15,17 @@ This chapter focuses on the Department of Transportation (DOT), arguing that the
 
 **Key Points & Concerns for Democrats:**
 
-* **Affordable and Abundant Transportation:** Furchtgott-Roth emphasizes the need for transportation that is "more abundant and affordable," arguing that the Biden Administration's policies are making transportation more expensive and less accessible. (Page 652)
+* **Affordable and Abundant Transportation:** Furchtgott-Roth emphasizes the need for transportation that is "more abundant and affordable," arguing that the Biden Administration's policies are making transportation more expensive and less accessible.
     * **Concern:** This rhetoric could be used to justify cuts to public transportation funding and a weakening of environmental regulations, potentially harming low-income communities and exacerbating climate change.
-    * **Quote:** "America needs transportation that is more abundant and affordable as well as dignified, accessible, and family friendly."
-* **Reducing the DOT's Role:** Furchtgott-Roth argues that the DOT has become a "de facto grantmaking and lending organization" and that its role should be reduced to providing a "safety and regulatory framework." (Page 652)
+* **Reducing the DOT's Role:** Furchtgott-Roth argues that the DOT has become a "de facto grantmaking and lending organization" and that its role should be reduced to providing a "safety and regulatory framework."
     * **Concern:** This could lead to a decrease in funding for transportation infrastructure projects, particularly those that benefit public transportation and alternative modes of transportation.
-* **Privatization and User Fees:** Furchtgott-Roth advocates for greater reliance on privatization and user fees to fund transportation infrastructure, arguing that this would reduce the need for government spending and make transportation decisions more responsive to market forces. (Page 655)
+* **Privatization and User Fees:** Furchtgott-Roth advocates for greater reliance on privatization and user fees to fund transportation infrastructure, arguing that this would reduce the need for government spending and make transportation decisions more responsive to market forces.
     * **Concern:** This could lead to higher costs for consumers and could make transportation less accessible for low-income communities.
-* **Rolling Back Fuel Economy Standards:** Furchtgott-Roth criticizes the Biden Administration's fuel economy standards for automobiles, arguing that they are too stringent and are forcing automakers to produce more expensive electric vehicles (EVs). (Page 659)
+* **Rolling Back Fuel Economy Standards:** Furchtgott-Roth criticizes the Biden Administration's fuel economy standards for automobiles, arguing that they are too stringent and are forcing automakers to produce more expensive electric vehicles (EVs).
     * **Concern:** This would undermine efforts to reduce greenhouse gas emissions from transportation, a major contributor to climate change.
-* **Challenging California's Waiver:** Furchtgott-Roth calls for revoking California's waiver under the Clean Air Act, which allows the state to set its own stricter emissions standards for vehicles. (Page 662)
+* **Challenging California's Waiver:** Furchtgott-Roth calls for revoking California's waiver under the Clean Air Act, which allows the state to set its own stricter emissions standards for vehicles.
     * **Concern:** This would weaken California's ability to address air pollution and climate change and could set a precedent for the federal government to overrule other state environmental regulations.
-* **Promoting Public-Private Partnerships (P3s):** Furchtgott-Roth advocates for greater use of P3s to finance transportation infrastructure projects, arguing that they can provide cost savings and efficiency. (Page 656)
+* **Promoting Public-Private Partnerships (P3s):** Furchtgott-Roth advocates for greater use of P3s to finance transportation infrastructure projects, arguing that they can provide cost savings and efficiency.
     * **Concern:** P3s can be risky and can lead to higher costs for consumers in the long run. They can also prioritize profits over public good and can lack transparency and accountability.
 
 **Summary:**

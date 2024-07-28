@@ -15,16 +15,15 @@ This chapter focuses on the Executive Office of the President (EOP), the collect
 
 **Key Points & Concerns for Democrats:**
 
-* **Office of Management and Budget (OMB):** Vought sees OMB as the President's primary tool for controlling the bureaucracy. He advocates for aggressive use of OMB's budgetary and regulatory powers to advance the President's agenda and "bring the bureaucracy in line." (Page 77)
+* **Office of Management and Budget (OMB):** Vought sees OMB as the President's primary tool for controlling the bureaucracy. He advocates for aggressive use of OMB's budgetary and regulatory powers to advance the President's agenda and "bring the bureaucracy in line."
     * **Concern:** This suggests a willingness to disregard agency expertise and potentially circumvent Congressional intent to impose the President's will on the executive branch.
-    * **Quote:** "Properly understood, it is a President’s air-traffic control system with the ability and charge to ensure that all policy initiatives are flying in sync and with the authority to let planes take off and, at times, ground planes that are flying off course."
-* **Apportionments:** Vought recommends that Program Associate Directors (PADs) personally sign apportionments, giving them greater control over agency spending. (Page 78)
+* **Apportionments:** Vought recommends that Program Associate Directors (PADs) personally sign apportionments, giving them greater control over agency spending.
     * **Concern:** This could be used to starve agencies of funding for programs that are not aligned with the President's priorities, even if those programs have been authorized by Congress.
-* **Regulatory Reform:** Vought calls for a rollback of regulations, including reviving Trump-era executive orders that streamlined the regulatory process and limited agency discretion. He also advocates for extending regulatory review to independent agencies. (Page 82)
+* **Regulatory Reform:** Vought calls for a rollback of regulations, including reviving Trump-era executive orders that streamlined the regulatory process and limited agency discretion. He also advocates for extending regulatory review to independent agencies.
     * **Concern:** This could lead to a weakening of environmental, consumer, and worker protections and undermine the independence of agencies like the EPA and SEC.
-* **National Security Council (NSC):** Vought recommends a strong NSC that can "drive the bureaucracy" and eliminate directorates not aligned with the President's agenda. (Page 84)
+* **National Security Council (NSC):** Vought recommends a strong NSC that can "drive the bureaucracy" and eliminate directorates not aligned with the President's agenda.
     * **Concern:** This suggests a militarization of policymaking and a potential for prioritizing national security over other important considerations.
-* **"Woke" Culture:** Vought repeatedly criticizes the "woke" culture within the federal government and calls for eliminating programs and initiatives related to diversity, equity, and inclusion, climate change, and gender identity. (Page 93)
+* **"Woke" Culture:** Vought repeatedly criticizes the "woke" culture within the federal government and calls for eliminating programs and initiatives related to diversity, equity, and inclusion, climate change, and gender identity.
     * **Concern:** This suggests a disregard for the importance of diversity and inclusion in the federal workforce and a dismissal of the scientific consensus on climate change.
 
 **Summary:**

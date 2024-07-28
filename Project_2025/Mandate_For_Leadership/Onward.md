@@ -15,14 +15,13 @@ This concluding section, titled "Onward!," serves as a call to action for conser
 
 **Key Points & Concerns for Democrats:**
 
-* **Mandate as a Blueprint for Conservative Revolution:** Feulner presents "Mandate for Leadership" as a blueprint for a conservative revolution, arguing that it provides a comprehensive plan to dismantle the administrative state, reduce the size and scope of government, and advance conservative policies across all areas of government. (Page 917)
+* **Mandate as a Blueprint for Conservative Revolution:** Feulner presents "Mandate for Leadership" as a blueprint for a conservative revolution, arguing that it provides a comprehensive plan to dismantle the administrative state, reduce the size and scope of government, and advance conservative policies across all areas of government.
     * **Concern:** This suggests a radical agenda that could fundamentally alter the role of the federal government and undermine decades of progress in areas such as social welfare, environmental protection, and civil rights.
-    * **Quote:** "The conservative movement had found in Ronald Reagan a President who shared that vision and who had the will to go against the established political grain in Washington."
-* **"People are Policy":** Feulner emphasizes the importance of personnel in implementing a conservative agenda, arguing that the next President must appoint individuals who are "principled" and "aligned with the President’s conservative vision." (Page 919)
+* **"People are Policy":** Feulner emphasizes the importance of personnel in implementing a conservative agenda, arguing that the next President must appoint individuals who are "principled" and "aligned with the President’s conservative vision."
     * **Concern:** This could lead to a politicization of the federal workforce and a disregard for expertise and experience, potentially resulting in a less effective and less accountable government.
-* **"Watch the Watchers":** Feulner argues that presidential appointees must serve as "watchdogs" to "rein in" federal agencies and prevent them from overreaching their authority. He specifically mentions the EPA, IRS, and OSHA as agencies that need to be reined in. (Page 919)
+* **"Watch the Watchers":** Feulner argues that presidential appointees must serve as "watchdogs" to "rein in" federal agencies and prevent them from overreaching their authority. He specifically mentions the EPA, IRS, and OSHA as agencies that need to be reined in.
     * **Concern:** This suggests a deep distrust of federal agencies and a desire to weaken their ability to carry out their missions, potentially undermining important government functions such as environmental protection, tax enforcement, and workplace safety.
-* **Conservative Solutions vs. Liberal Failures:** Feulner repeatedly contrasts "conservative solutions" with "liberal policies," arguing that conservative policies are more effective in promoting economic growth, individual freedom, and national security. (Page 919)
+* **Conservative Solutions vs. Liberal Failures:** Feulner repeatedly contrasts "conservative solutions" with "liberal policies," arguing that conservative policies are more effective in promoting economic growth, individual freedom, and national security.
     * **Concern:** This rhetoric oversimplifies complex policy issues and ignores the successes of liberal policies in areas such as social welfare, education, and health care. It also suggests a partisan bias that could lead to a disregard for evidence and a rejection of compromise.
 
 **Summary:**

@@ -17,21 +17,20 @@ This chapter focuses on the Department of Veterans Affairs (VA), arguing that it
 
 * **"Veteran-Centric" Approach:** Tucker emphasizes the need for a "Veteran-centric" approach, arguing that the VA should prioritize the needs of veterans over the interests of the bureaucracy. (Page 674)
     * **Concern:** While this sounds appealing, it could be used to justify cuts to VA programs and services, privatization of VA health care, and a weakening of protections for VA employees.
-    * **Quote:** "The VA must continually strive to be recognized as a 'best in class,' 'Veteran-centric' system with an organizational ethos inspired by and accountable to the needs and problems of veterans, not subservient to the parochial preferences of a bureaucracy."
-* **Expanding Community Care:** Tucker advocates for expanding access to community care, allowing veterans to receive health care from private providers outside the VA system. (Page 678)
+* **Expanding Community Care:** Tucker advocates for expanding access to community care, allowing veterans to receive health care from private providers outside the VA system.
     * **Concern:** This could lead to a defunding of VA hospitals and clinics and could make it more difficult for veterans to access specialized care and services that are only available within the VA system.
-* **Reforming Disability Benefits:** Tucker calls for reforming the VA's disability benefits system, suggesting that it has become too generous and is susceptible to fraud. (Page 682)
+* **Reforming Disability Benefits:** Tucker calls for reforming the VA's disability benefits system, suggesting that it has become too generous and is susceptible to fraud.
     * **Concern:** This could make it more difficult for veterans to receive the benefits they deserve and could lead to a decrease in support for disabled veterans.
-* **Strengthening Accountability and Oversight:** Tucker advocates for greater accountability and oversight of the VA, including conducting an independent audit, strengthening performance metrics, and improving IT systems. (Page 680)
+* **Strengthening Accountability and Oversight:** Tucker advocates for greater accountability and oversight of the VA, including conducting an independent audit, strengthening performance metrics, and improving IT systems.
     * **Concern:** While accountability and oversight are important, this could also be used to justify cuts to VA programs and to increase privatization.
 
 **Specific Agency Recommendations & Concerns:**
 
-* **Veterans Health Administration (VHA):** Tucker calls for rescinding VA policies that provide abortion services and gender reassignment surgery, arguing that they are not related to service-connected conditions. He also recommends expanding access to community care, requiring the VHA to report publicly on its performance, and addressing the challenges posed by shifting veteran demographics. (Page 677)
+* **Veterans Health Administration (VHA):** Tucker calls for rescinding VA policies that provide abortion services and gender reassignment surgery, arguing that they are not related to service-connected conditions. He also recommends expanding access to community care, requiring the VHA to report publicly on its performance, and addressing the challenges posed by shifting veteran demographics.
     * **Concern:** These proposals could restrict access to reproductive health care and transgender care for veterans, undermine VA hospitals and clinics, and make it more difficult for veterans to access timely and affordable care.
-* **Veterans Benefits Administration (VBA):** Tucker recommends streamlining the disability claims process, increasing automation, reducing improper payments and fraud, and exploring ways to accelerate reviews of the VA Schedule for Rating Disabilities. (Page 681)
+* **Veterans Benefits Administration (VBA):** Tucker recommends streamlining the disability claims process, increasing automation, reducing improper payments and fraud, and exploring ways to accelerate reviews of the VA Schedule for Rating Disabilities.
     * **Concern:** These proposals could make it more difficult for veterans to receive disability benefits and could lead to a decrease in support for disabled veterans.
-* **Human Resources and Administration (HRA):** Tucker calls for transferring career Senior Executive Service (SES) employees out of politically appointed positions, re-evaluating telework policies, expediting the acquisition of a new HRIT system, and improving the VBA's acquisition workforce. (Page 684)
+* **Human Resources and Administration (HRA):** Tucker calls for transferring career Senior Executive Service (SES) employees out of politically appointed positions, re-evaluating telework policies, expediting the acquisition of a new HRIT system, and improving the VBA's acquisition workforce.
     * **Concern:** These proposals could politicize the VA workforce, reduce flexibility for employees, and lead to a greater reliance on private contractors, potentially increasing costs and decreasing accountability.
 
 **Summary:**

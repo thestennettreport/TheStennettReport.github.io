@@ -15,14 +15,13 @@ This chapter focuses on the Federal Trade Commission (FTC), arguing that antitru
 
 **Key Points & Concerns for Democrats:**
 
-* **Broader View of Antitrust:** Candeub argues for a broader view of antitrust law, going beyond the traditional focus on consumer welfare to encompass the protection of democratic values such as free speech, the marketplace of ideas, and shareholder control. (Page 902)
+* **Broader View of Antitrust:** Candeub argues for a broader view of antitrust law, going beyond the traditional focus on consumer welfare to encompass the protection of democratic values such as free speech, the marketplace of ideas, and shareholder control.
     * **Concern:** This could lead to a more subjective and less predictable application of antitrust law, potentially chilling innovation and discouraging investment. Democrats may worry that this broader view could be used to target companies based on their political views or social stances.
-    * **Quote:** "Antitrust law can combat dominant firms’ baleful effects on democratic institutions such as free speech, the marketplace of ideas, shareholder control, and managerial accountability as well as collusive behavior with government."
-* **Crackdown on Big Tech:** Candeub highlights the power of Big Tech companies and their potential to harm competition and democratic institutions. He advocates for the FTC to take a more aggressive approach to antitrust enforcement against these companies, including investigating their use of ESG initiatives as a cover for anticompetitive behavior. (Page 910)
+* **Crackdown on Big Tech:** Candeub highlights the power of Big Tech companies and their potential to harm competition and democratic institutions. He advocates for the FTC to take a more aggressive approach to antitrust enforcement against these companies, including investigating their use of ESG initiatives as a cover for anticompetitive behavior.
     * **Concern:** While Democrats generally share concerns about Big Tech's power, they may be wary of using antitrust law to address issues like content moderation and online speech, which they may view as primarily First Amendment concerns.
-* **Cooperation with State AGs:** Candeub recommends that the FTC increase its cooperation with state attorneys general, arguing that they are more responsive to their constituents and can provide valuable insights into local market conditions. (Page 912)
+* **Cooperation with State AGs:** Candeub recommends that the FTC increase its cooperation with state attorneys general, arguing that they are more responsive to their constituents and can provide valuable insights into local market conditions.
     * **Concern:** This could lead to a more fragmented and less consistent approach to antitrust enforcement, as state AGs may have different priorities and enforcement philosophies. Democrats may also be concerned that this could empower Republican AGs to pursue politically motivated investigations against companies that they disagree with.
-* **Protecting Children Online:** Candeub argues that the FTC should investigate online platforms' practices that target children, such as advertising and data collection, as potential unfair trade practices. (Page 908)
+* **Protecting Children Online:** Candeub argues that the FTC should investigate online platforms' practices that target children, such as advertising and data collection, as potential unfair trade practices.
     * **Concern:** While protecting children online is a bipartisan priority, Democrats may be concerned about the potential for government overreach and censorship in this area. They may also be wary of imposing new regulations on online platforms that could stifle innovation and free speech.
 
 **Summary:**

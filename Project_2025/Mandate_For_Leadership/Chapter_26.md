@@ -15,26 +15,24 @@ This chapter presents two opposing viewpoints on U.S. trade policy. Peter Navarr
 
 **Key Points & Concerns for Democrats (Navarro's Argument):**
 
-* **Trade Deficits Matter:** Navarro argues that trade deficits are a sign of economic weakness and that they harm American workers and businesses. He claims that the U.S. is the "globe’s biggest trade loser" due to unfair trade practices by other countries, particularly China. (Page 799)
+* **Trade Deficits Matter:** Navarro argues that trade deficits are a sign of economic weakness and that they harm American workers and businesses. He claims that the U.S. is the "globe’s biggest trade loser" due to unfair trade practices by other countries, particularly China.
     * **Concern:** This view is disputed by many economists, who argue that trade deficits are not necessarily a sign of economic weakness and that they can be beneficial in some cases. Focusing on reducing trade deficits could lead to protectionist policies that harm consumers and businesses.
-    * **Quote:** "America’s record on trade—specifically American’s chronic and ever-expanding trade deficit—says that America is the globe’s biggest trade loser and a victim of unfair, unbalanced, and nonreciprocal trade."
-* **Reciprocal Trade:** Navarro advocates for a "reciprocal trade" approach, where the U.S. would impose tariffs or other trade barriers on countries that do not offer reciprocal access to their markets. He supports the U.S. Reciprocal Trade Act, which would give the President the authority to raise tariffs to match those of other countries. (Page 800)
+* **Reciprocal Trade:** Navarro advocates for a "reciprocal trade" approach, where the U.S. would impose tariffs or other trade barriers on countries that do not offer reciprocal access to their markets. He supports the U.S. Reciprocal Trade Act, which would give the President the authority to raise tariffs to match those of other countries.
     * **Concern:** This could lead to trade wars and retaliatory tariffs, harming American businesses and consumers. It could also undermine the rules-based international trading system and weaken America's global leadership.
-* **Decoupling from China:** Navarro calls for "decoupling" the U.S. economy from China's, arguing that China's economic aggression poses a threat to American national security. He advocates for a range of policies to reduce U.S. dependence on China, including tariffs, investment restrictions, and sanctions. (Page 816)
+* **Decoupling from China:** Navarro calls for "decoupling" the U.S. economy from China's, arguing that China's economic aggression poses a threat to American national security. He advocates for a range of policies to reduce U.S. dependence on China, including tariffs, investment restrictions, and sanctions.
     * **Concern:** Decoupling from China would be costly and disruptive for American businesses and consumers. It could also exacerbate tensions with China and lead to a more divided and less stable global economy.
-* **Protecting American Manufacturing:** Navarro argues that trade policy should be used to protect American manufacturing jobs and to rebuild the U.S. industrial base. (Page 799)
+* **Protecting American Manufacturing:** Navarro argues that trade policy should be used to protect American manufacturing jobs and to rebuild the U.S. industrial base.
     * **Concern:** This could lead to protectionist policies that raise prices for consumers and make American businesses less competitive. It could also stifle innovation and slow economic growth.
 
 **Key Points & Concerns for Democrats (Lassman's Argument):**
 
-* **Free Trade and Free Markets:** Lassman argues that free trade and free markets are the best way to promote economic growth, create jobs, and raise living standards. He criticizes protectionist policies, such as tariffs, as being harmful to consumers and businesses. (Page 829)
+* **Free Trade and Free Markets:** Lassman argues that free trade and free markets are the best way to promote economic growth, create jobs, and raise living standards. He criticizes protectionist policies, such as tariffs, as being harmful to consumers and businesses.
     * **Concern:** This view is generally shared by Democrats, but Lassman's emphasis on free markets could also be seen as a justification for deregulation and a weakening of worker protections.
-    * **Quote:** "Trade policy is about more than goods and services: It is a statement of American identity. Our trade policy choices reveal America’s values and where we put our trust."
 * **Trade Creates Peace:** Lassman argues that trade promotes peace and stability by fostering economic interdependence between countries. He believes that engaging with China through trade is the best way to encourage political and economic reforms. (Page 839)
     * **Concern:** While trade can promote peace, it is not a guarantee of peace, and it can also be used by authoritarian regimes to advance their own interests.
-* **American Economic Strength:** Lassman argues that the U.S. economy is strong and that American manufacturing is at an all-time high. He believes that the U.S. should focus on its strengths, such as innovation and entrepreneurship, rather than trying to protect declining industries. (Page 831)
+* **American Economic Strength:** Lassman argues that the U.S. economy is strong and that American manufacturing is at an all-time high. He believes that the U.S. should focus on its strengths, such as innovation and entrepreneurship, rather than trying to protect declining industries.
     * **Concern:** While the U.S. economy is generally strong, there are concerns about income inequality and the decline of manufacturing jobs in certain regions.
-* **Limited Government:** Lassman advocates for a limited role for government in trade policy, arguing that the government should focus on reducing trade barriers and promoting free markets rather than trying to pick winners and losers. (Page 829)
+* **Limited Government:** Lassman advocates for a limited role for government in trade policy, arguing that the government should focus on reducing trade barriers and promoting free markets rather than trying to pick winners and losers.
     * **Concern:** This could be seen as a justification for a hands-off approach to trade policy that could allow unfair trade practices to go unchecked.
 
 **Summary:**

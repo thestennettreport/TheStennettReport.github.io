@@ -15,16 +15,15 @@ This chapter focuses on the Small Business Administration (SBA), arguing that it
 
 **Key Points & Concerns for Democrats:**
 
-* **Shrinking the SBA:** Kerrigan advocates for a "tighter, more focused SBA" that concentrates on its core functions of providing access to capital, entrepreneurial development, and government contracting support. She suggests that some programs should be eliminated or consolidated and that the agency's budget should be reduced. (Page 783)
+* **Shrinking the SBA:** Kerrigan advocates for a "tighter, more focused SBA" that concentrates on its core functions of providing access to capital, entrepreneurial development, and government contracting support. She suggests that some programs should be eliminated or consolidated and that the agency's budget should be reduced.
     * **Concern:** This could lead to a decrease in support for small businesses, particularly those owned by women and minorities, and could make it more difficult for entrepreneurs to start and grow their businesses.
-    * **Quote:** "A restructured and reformed SBA would end the long-term deficiencies, practices, and problems that have prolonged the decades-long cycle of waste, fraud, and mismanagement."
-* **Ending Direct Lending:** Kerrigan calls for an end to SBA direct lending, arguing that it is inefficient and susceptible to fraud. She prefers that the SBA focus on guaranteeing loans made by private lenders. (Page 783)
+* **Ending Direct Lending:** Kerrigan calls for an end to SBA direct lending, arguing that it is inefficient and susceptible to fraud. She prefers that the SBA focus on guaranteeing loans made by private lenders.
     * **Concern:** This could make it more difficult for small businesses, particularly those in underserved communities, to access capital, as private lenders may be less willing to lend to them without the backing of the SBA.
-* **Strengthening the Office of Advocacy:** Kerrigan praises the Office of Advocacy, which is responsible for representing the interests of small businesses in the regulatory process, and calls for increasing its budget and authority. (Page 784)
+* **Strengthening the Office of Advocacy:** Kerrigan praises the Office of Advocacy, which is responsible for representing the interests of small businesses in the regulatory process, and calls for increasing its budget and authority.
     * **Concern:** While a strong Office of Advocacy is important for ensuring that regulations do not unduly burden small businesses, a more powerful Advocacy office could also be used to weaken regulations that protect consumers, workers, and the environment.
-* **Accountability and Transparency:** Kerrigan emphasizes the need for greater accountability and transparency at the SBA, calling for stricter performance metrics, more rigorous oversight, and a full accounting of COVID-19 relief program spending. (Page 785)
+* **Accountability and Transparency:** Kerrigan emphasizes the need for greater accountability and transparency at the SBA, calling for stricter performance metrics, more rigorous oversight, and a full accounting of COVID-19 relief program spending.
     * **Concern:** While accountability and transparency are important, this could also be used to justify cuts to SBA programs and to increase privatization.
-* **Criticism of "Inclusivity" Initiatives:** Kerrigan criticizes the SBA's focus on "inclusivity" initiatives, arguing that they are actually creating "exclusivity" and are not reaching all eligible small businesses. (Page 782)
+* **Criticism of "Inclusivity" Initiatives:** Kerrigan criticizes the SBA's focus on "inclusivity" initiatives, arguing that they are actually creating "exclusivity" and are not reaching all eligible small businesses.
     * **Concern:** This suggests a disregard for the importance of promoting diversity and inclusion in entrepreneurship and could lead to a decrease in support for minority-owned and women-owned businesses.
 
 **Summary:**

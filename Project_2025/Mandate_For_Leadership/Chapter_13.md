@@ -15,18 +15,17 @@ This chapter focuses on the Environmental Protection Agency (EPA), arguing that 
 
 **Key Points & Concerns for Democrats:**
 
-* **"Back to Basics":** Gunasekara calls for a "back to basics" approach to environmental protection, arguing that the EPA should focus on its core mission of protecting public health and the environment in cooperation with states, rather than pursuing a "global, climate-themed agenda." (Page 454)
+* **"Back to Basics":** Gunasekara calls for a "back to basics" approach to environmental protection, arguing that the EPA should focus on its core mission of protecting public health and the environment in cooperation with states, rather than pursuing a "global, climate-themed agenda."
     * **Concern:** This rhetoric could be used to justify a rollback of environmental regulations and a weakening of the EPA's ability to address climate change and other pressing environmental challenges.
-    * **Quote:** "EPA’s structure and mission should be greatly circumscribed to reflect the principles of cooperative federalism and limited government."
-* **State Leadership:** Gunasekara emphasizes the importance of state leadership in environmental protection, arguing that the EPA should take a more supportive role and defer to states whenever possible. (Page 454)
+* **State Leadership:** Gunasekara emphasizes the importance of state leadership in environmental protection, arguing that the EPA should take a more supportive role and defer to states whenever possible.
     * **Concern:** This could lead to a patchwork of inconsistent environmental regulations across the country, with some states failing to adequately protect public health and the environment.
-* **Cooperative Federalism:** Gunasekara advocates for a "cooperative federalism" approach, arguing that the EPA should work collaboratively with states rather than imposing top-down regulations. (Page 454)
+* **Cooperative Federalism:** Gunasekara advocates for a "cooperative federalism" approach, arguing that the EPA should work collaboratively with states rather than imposing top-down regulations.
     * **Concern:** This could weaken the EPA's ability to enforce national environmental standards and could allow states to weaken environmental protections to attract businesses.
-* **Cost-Benefit Analysis:** Gunasekara calls for a more rigorous and transparent use of cost-benefit analysis in environmental regulation, arguing that the EPA should consider the economic costs of its actions and avoid "costly, job-killing regulations." (Page 454)
+* **Cost-Benefit Analysis:** Gunasekara calls for a more rigorous and transparent use of cost-benefit analysis in environmental regulation, arguing that the EPA should consider the economic costs of its actions and avoid "costly, job-killing regulations."
     * **Concern:** This could lead to a downplaying of the benefits of environmental protection and could result in weaker regulations that fail to adequately protect public health and the environment.
-* **"Transparent Science":** Gunasekara advocates for "transparent science and regulatory analysis," arguing that the EPA should make public all scientific studies and analyses that support its decision-making. (Page 454)
+* **"Transparent Science":** Gunasekara advocates for "transparent science and regulatory analysis," arguing that the EPA should make public all scientific studies and analyses that support its decision-making.
     * **Concern:** This could be used to cherry-pick data and downplay the scientific consensus on climate change and other environmental issues.
-* **Reining in the EPA:** Gunasekara outlines a plan to "streamline" and "restructure" the EPA, including eliminating or consolidating various offices and programs. (Page 454)
+* **Reining in the EPA:** Gunasekara outlines a plan to "streamline" and "restructure" the EPA, including eliminating or consolidating various offices and programs.
     * **Concern:** This could weaken the EPA's ability to carry out its mission and could lead to a less effective and less responsive agency.
 
 **Summary:**
