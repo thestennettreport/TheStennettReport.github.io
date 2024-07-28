@@ -36,7 +36,7 @@ Every single author of Project 2025 has direct or indirect ties to the Trump adm
 
 A hypothetical timeline of the first 100 days of a second Trump term, drawing from both Project 2025 and Agenda 47, illustrates the immediate and concrete impacts of their shared agenda.
 
-*COMING SOON! Rewriting it.*
+[The First 100 Days: A Second Trump Term - Comprehensive Breakdown](./Project_2025/The_First_100_Days.md)
 
 ## Chapter Breakdowns:
 
