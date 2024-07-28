@@ -1,0 +1,26 @@
+{
+  "vaultDir": "/path/to/your/obsidian/vault",
+  "gitDir": "/path/to/your/github/repo",
+  "includeFolders": [
+    "folder1",
+    "folder2/subfolder"
+  ],
+  "includeFiles": [
+    "specific_file.md"
+  ],
+  "blacklist": [
+    "private_notes.md",
+    "drafts/*"
+  ],
+  "outputMap": {
+    "folder1": "published/folder1",
+    "folder2/subfolder": "published/custom-path",
+    "specific_file.md": "published/renamed-file.md"
+  },
+  "theme": {
+    "darkMode": true,
+    "primaryColor": "#4a4a4a",
+    "secondaryColor": "#0f0f0f",
+    "fontFamily": "Arial, sans-serif"
+  }
+}
