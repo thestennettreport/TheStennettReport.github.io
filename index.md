@@ -38,6 +38,12 @@ A hypothetical timeline of the first 100 days of a second Trump term, drawing fr
 
 [The First 100 Days: A Second Trump Term](./Project_2025/The_First_100_Days.md)
 
+## The Fate of Ukraine: Abandoned by America?
+
+Project 2025 and Agenda 47 offer a chilling glimpse into the potential fate of Ukraine under a second Trump administration. The evidence strongly suggests that Trump would likely reduce or eliminate aid to Ukraine, potentially leading to a Russian victory and a humanitarian crisis.
+
+[The Fate of Ukraine: Abandoned by America?](./International/Ukraine.md)
+
 ## Chapter Breakdowns:
 * [Forward](./Project_2025/Mandate_For_Leadership/Foreward.md)
 * [Section Introductions](./Project_2025/Mandate_For_Leadership/Sections.md)
