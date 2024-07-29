@@ -41,18 +41,18 @@ A hypothetical timeline of the first 100 days of a second Trump term, drawing fr
 ## Chapter Breakdowns:
 * [Forward](./Project_2025/Mandate_For_Leadership/Foreward.md)
 * [Section Introductions](./Project_2025/Mandate_For_Leadership/Sections.md)
-* **Section 1**
+* [Section 1](./Project_2025/Mandate_For_Leadership/Sections.md)
 	* [Chapter 1: White House Office](./Project_2025/Mandate_For_Leadership/Chapter_1.md)
 	* [Chapter 2: Executive Office of the President](./Project_2025/Mandate_For_Leadership/Chapter_2.md)
 	* [Chapter 3: Central Personnel Agencies](./Project_2025/Mandate_For_Leadership/Chapter_3.md)
-* **Section 2**
+* [Section 2](./Project_2025/Mandate_For_Leadership/Sections.md)
 	* [Chapter 4: Department of Defense](./Project_2025/Mandate_For_Leadership/Chapter_4.md)
 	* [Chapter 5: Department of Homeland Security](./Project_2025/Mandate_For_Leadership/Chapter_5.md)
 	* [Chapter 6: Department of State](./Project_2025/Mandate_For_Leadership/Chapter_6.md)
 	* [Chapter 7: Intelligence Community](./Project_2025/Mandate_For_Leadership/Chapter_7.md)
 	* [Chapter 8: Media Agencies: U.S. Agency for Global Media](./Project_2025/Mandate_For_Leadership/Chapter_8.md)
 	* [Chapter 9: Agency for International Development](./Project_2025/Mandate_For_Leadership/Chapter_9.md)
-* **Section 3**
+* [Section 3](./Project_2025/Mandate_For_Leadership/Sections.md)
 	* [Chapter 10: Department of Agriculture](./Project_2025/Mandate_For_Leadership/Chapter_10.md)
 	* [Chapter 11: Department of Education](./Project_2025/Mandate_For_Leadership/Chapter_11.md)
 	* [Chapter 12: Department of Energy and Related Commissions](./Project_2025/Mandate_For_Leadership/Chapter_12.md)
@@ -64,14 +64,14 @@ A hypothetical timeline of the first 100 days of a second Trump term, drawing fr
 	* [Chapter 18: Department of Labor and Related Agencies](./Project_2025/Mandate_For_Leadership/Chapter_18.md)
 	* [Chapter 19: Department of Transportation](./Project_2025/Mandate_For_Leadership/Chapter_19.md)
 	* [Chapter 20: Department of Veterans Affairs](./Project_2025/Mandate_For_Leadership/Chapter_20.md)
-* **Section 4**
+* [Section 4](./Project_2025/Mandate_For_Leadership/Sections.md)
 	* [Chapter 21: Department of Commerce](./Project_2025/Mandate_For_Leadership/Chapter_21.md)
 	* [Chapter 22: Department of the Treasury](./Project_2025/Mandate_For_Leadership/Chapter_22.md)
 	* [Chapter 23: Export-Import Bank](./Project_2025/Mandate_For_Leadership/Chapter_23.md)
 	* [Chapter 24: Federal Reserve](./Project_2025/Mandate_For_Leadership/Chapter_24.md)
 	* [Chapter 25: Small Business Administration](./Project_2025/Mandate_For_Leadership/Chapter_25.md)
 	* [Chapter 26: Trade](./Project_2025/Mandate_For_Leadership/Chapter_26.md)
-* **Section 5**
+* [Section 5](./Project_2025/Mandate_For_Leadership/Sections.md)
 	* [Chapter 27: Financial Regulatory Agencies](./Project_2025/Mandate_For_Leadership/Chapter_27.md)
 	* [Chapter 28: Federal Communications Commission](./Project_2025/Mandate_For_Leadership/Chapter_28.md)
 	* [Chapter 29: Federal Election Commission](./Project_2025/Mandate_For_Leadership/Chapter_29.md)
