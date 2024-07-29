@@ -95,7 +95,7 @@ Check your registration status, voting lists are being purged, so double check y
 ## Documents
 ### Project 2025: Mandate for Leadership
 #### Entire PDF
-* [Project 2025: Mandate for Leadership](./Documents/Project_2025_-_Mandate_For_Leadership.pdf) _(922 pages)__
+* [Project 2025: Mandate for Leadership](./Documents/Project_2025_-_Mandate_For_Leadership.pdf) _(922 pages)_
 
 #### Individual PDFs
 * [Forward](./Documents/Project_2025_Chapters/Forward.pdf) _(18 pages)_
