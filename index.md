@@ -54,7 +54,7 @@ Project 2025 and Agenda 47 offer a chilling glimpse into the potential fate of U
 
 [The Fate of Ukraine: Abandoned by America?](./International/Ukraine.md)
 
-## Chapter Breakdowns:
+## Chapter-by-Chapter Breakdowns:
 * [Forward: A Promise To America](./Project_2025/Mandate_For_Leadership/Foreward.md)
 * [Section Introductions](./Project_2025/Mandate_For_Leadership/Sections.md)
 * [Section 1: Taking the Reins of Government](./Project_2025/Mandate_For_Leadership/Sections.md)
