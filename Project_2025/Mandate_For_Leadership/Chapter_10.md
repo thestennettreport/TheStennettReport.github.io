@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 10 Breakdown
+## Mandate for Leadership - Chapter 10 Breakdown
 
-**Chapter 10: Department of Agriculture**
+**[Chapter 10: Department of Agriculture](../../Documents/Project_2025_Chapters/Chapter_10.pdf)**
 
 **Author:** Daren Bakst, Senior Fellow at the Competitive Enterprise Institute
 

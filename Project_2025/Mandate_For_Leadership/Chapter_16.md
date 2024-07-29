@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 16 Breakdown
+## Mandate for Leadership - Chapter 16 Breakdown
 
-**Chapter 16: Department of the Interior**
+**[Chapter 16: Department of the Interior](../../Documents/Project_2025_Chapters/Chapter_16.pdf)**
 
 **Author:** William Perry Pendley, Former Acting Director of the Bureau of Land Management
 

@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 2 Breakdown
+## Mandate for Leadership - Chapter 2 Breakdown
 
-**Chapter 2: Executive Office of the President of the United States**
+**[Chapter 2: Executive Office of the President of the United States](../../Documents/Project_2025_Chapters/Chapter_2.pdf)**
 
 **Author:** Russ Vought, Former Director of the Office of Management and Budget (OMB)
 

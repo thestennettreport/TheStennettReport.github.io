@@ -3,11 +3,15 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Foreword Breakdown
+## Mandate for Leadership - "Foreword: A Promise To America" Breakdown
+
+**Section: Foreword: A Promise To America**
+
+**Author:** Kevin D. Roberts, PhD, President of The Heritage Foundation
 
 **Introduction:**
 
-This foreword, written by Kevin D. Roberts, PhD, President of The Heritage Foundation, sets the stage for "Project 2025: Mandate for Leadership." It draws parallels between the current political climate and that of the late 1970s, highlighting the need for a bold conservative agenda to address the nation's challenges. The foreword outlines four key promises that form the core of this agenda.
+The [foreword](../../Documents/Project_2025_Chapters/Forward.pdf), written by Kevin D. Roberts, PhD, President of The Heritage Foundation, sets the stage for "Project 2025: Mandate for Leadership." It draws parallels between the current political climate and that of the late 1970s, highlighting the need for a bold conservative agenda to address the nation's challenges. The foreword outlines four key promises that form the core of this agenda.
 
 **Key Points:**
 

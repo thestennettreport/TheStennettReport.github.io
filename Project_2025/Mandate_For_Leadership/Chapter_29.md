@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 29 Breakdown
+## Mandate for Leadership - Chapter 29 Breakdown
 
-**Chapter 29: Federal Election Commission**
+**[Chapter 29: Federal Election Commission](../../Documents/Project_2025_Chapters/Chapter_29.pdf)**
 
 **Author:** Hans A. von Spakovsky, Senior Legal Fellow and Manager of the Election Law Reform Initiative at The Heritage Foundation
 

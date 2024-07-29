@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 7 Breakdown
+## Mandate for Leadership - Chapter 7 Breakdown
 
-**Chapter 7: Intelligence Community**
+**[Chapter 7: Intelligence Community](../../Documents/Project_2025_Chapters/Chapter_7.pdf)**
 
 **Author:** Dustin J. Carmack, Former Chief of Staff for the Director of National Intelligence
 

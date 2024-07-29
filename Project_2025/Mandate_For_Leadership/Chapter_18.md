@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 18 Breakdown
+## Mandate for Leadership - Chapter 18 Breakdown
 
-**Chapter 18: Department of Labor and Related Agencies**
+**[Chapter 18: Department of Labor and Related Agencies](../../Documents/Project_2025_Chapters/Chapter_18.pdf)**
 
 **Author:** Jonathan Berry, Former Acting Assistant Secretary for Policy at the U.S. Department of Labor
 

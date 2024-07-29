@@ -2,11 +2,10 @@
 tags:
   - Project2025
   - MandateForLeadership
-author: Rick Dearborn
 ---
-## Project 2025: Mandate for Leadership - Chapter 1 Breakdown
+## Mandate for Leadership - Chapter 1 Breakdown
 
-**Chapter 1: White House Office**
+**[Chapter 1: White House Office](../../Documents/Project_2025_Chapters/Chapter_1.pdf)**
 
 **Author:** Rick Dearborn, Former Deputy Chief of Staff for President Donald Trump
 

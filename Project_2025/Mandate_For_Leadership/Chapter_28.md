@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 28 Breakdown
+## Mandate for Leadership - Chapter 28 Breakdown
 
-**Chapter 28: Federal Communications Commission**
+**[Chapter 28: Federal Communications Commission](../../Documents/Project_2025_Chapters/Chapter_28.pdf)**
 
 **Author:** Brendan Carr, Commissioner of the Federal Communications Commission (FCC)
 

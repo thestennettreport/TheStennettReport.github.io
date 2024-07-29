@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 20 Breakdown
+## Mandate for Leadership - Chapter 20 Breakdown
 
-**Chapter 20: Department of Veterans Affairs**
+**[Chapter 20: Department of Veterans Affairs](../../Documents/Project_2025_Chapters/Chapter_20.pdf)**
 
 **Author:** Brooks D. Tucker, Former Acting Chief of Staff at the Department of Veterans Affairs
 

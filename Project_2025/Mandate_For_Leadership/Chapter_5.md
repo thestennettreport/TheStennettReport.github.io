@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 5 Breakdown
+## Mandate for Leadership - Chapter 5 Breakdown
 
-**Chapter 5: Department of Homeland Security**
+**[Chapter 5: Department of Homeland Security](../../Documents/Project_2025_Chapters/Chapter_5.pdf)**
 
 **Author:** Ken Cuccinelli, Former Acting Deputy Secretary for the U.S. Department of Homeland Security
 

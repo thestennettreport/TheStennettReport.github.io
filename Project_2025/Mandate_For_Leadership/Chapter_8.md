@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 8 Breakdown
+## Mandate for Leadership - Chapter 8 Breakdown
 
-**Chapter 8: Media Agencies: U.S. Agency for Global Media**
+**[Chapter 8: Media Agencies: U.S. Agency for Global Media](../../Documents/Project_2025_Chapters/Chapter_8.pdf)**
 
 **Author:** Mora Namdar, Former Vice President of Legal, Compliance, and Risk at the U.S. Agency for Global Media
 

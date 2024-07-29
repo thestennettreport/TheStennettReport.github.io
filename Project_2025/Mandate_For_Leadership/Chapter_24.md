@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 24 Breakdown
+## Mandate for Leadership - Chapter 24 Breakdown
 
-**Chapter 24: Federal Reserve**
+**[Chapter 24: Federal Reserve](../../Documents/Project_2025_Chapters/Chapter_24.pdf)**
 
 **Author:** Paul Winfree, Distinguished Fellow in Economic Policy and Public Leadership at The Heritage Foundation
 

@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 17 Breakdown
+## Mandate for Leadership - Chapter 17 Breakdown
 
-**Chapter 17: Department of Justice**
+**[Chapter 17: Department of Justice](../../Documents/Project_2025_Chapters/Chapter_17.pdf)**
 
 **Author:** Gene Hamilton, Former Counselor to the Attorney General
 

@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 21 Breakdown
+## Mandate for Leadership - Chapter 21 Breakdown
 
-**Chapter 21: Department of Commerce**
+**[Chapter 21: Department of Commerce](../../Documents/Project_2025_Chapters/Chapter_21.pdf)**
 
 **Author:** Thomas F. Gilman, Former Assistant Secretary of Commerce for Administration
 

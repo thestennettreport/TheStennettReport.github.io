@@ -1,6 +1,6 @@
-## Project 2025: Mandate for Leadership - Introductory Section Breakdowns
+## Mandate for Leadership - Introductory Section Breakdowns
 
-**Foreword:**
+**[Foreword: A Promise To America](../../Documents/Project_2025_Chapters/Forward.pdf)**
 
 * **Author:** Kevin D. Roberts, PhD, President of The Heritage Foundation
 * **Key Points:**
@@ -15,7 +15,7 @@
 
 ----
 
-**Section 1: Taking the Reins of Government**
+**[Section 1: Taking the Reins of Government](../../Documents/Project_2025_Chapters/Section_1.pdf)**
 
 * **Introduction:**
     * This section focuses on the White House and central personnel agencies, arguing that a conservative President must "limit, control, and direct the executive branch" to implement his agenda.
@@ -27,7 +27,7 @@
 
 ----
 
-**Section 2: The Common Defense**
+**[Section 2: The Common Defense](../../Documents/Project_2025_Chapters/Section_2.pdf)**
 
 * **Introduction:**
     * This section focuses on national security and foreign policy, arguing that the U.S. must prioritize countering threats from China, Russia, and other adversaries.
@@ -39,7 +39,7 @@
 
 ----
 
-**Section 3: The General Welfare**
+**[Section 3: The General Welfare](../../Documents/Project_2025_Chapters/Section_3.pdf)**
 
 * **Introduction:**
     * This section covers a wide range of domestic policy areas, including agriculture, education, energy, environmental protection, health care, housing, labor, and transportation.
@@ -51,7 +51,7 @@
 
 ----
 
-**Section 4: The Economy**
+**[Section 4: The Economy](../../Documents/Project_2025_Chapters/Section_4.pdf)**
 
 * **Introduction:**
     * This section focuses on economic policy, advocating for free market solutions, limited government intervention, and a strong national defense.
@@ -63,7 +63,7 @@
 
 ----
 
-**Section 5: Independent Regulatory Agencies**
+**[Section 5: Independent Regulatory Agencies](../../Documents/Project_2025_Chapters/Section_5.pdf)**
 
 * **Introduction:**
     * This section focuses on independent regulatory agencies, such as the FCC, FTC, and SEC, arguing that they have become too powerful and unaccountable.
@@ -75,7 +75,7 @@
 
 ----
 
-**Onward!: A Call to Action**
+**[Onward!](../../Documents/Project_2025_Chapters/Onward.pdf)**
 
 * **Author:** Edwin J. Feulner, Founder and Former President of The Heritage Foundation
 * **Key Points:**

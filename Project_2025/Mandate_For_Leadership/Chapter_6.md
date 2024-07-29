@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 6 Breakdown
+## Mandate for Leadership - Chapter 6 Breakdown
 
-**Chapter 6: Department of State**
+**[Chapter 6: Department of State](../../Documents/Project_2025_Chapters/Chapter_6.pdf)**
 
 **Author:** Kiron K. Skinner, Former Director of Policy Planning at the U.S. Department of State
 

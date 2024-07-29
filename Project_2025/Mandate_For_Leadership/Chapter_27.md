@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 27 Breakdown
+## Mandate for Leadership - Chapter 27 Breakdown
 
-**Chapter 27: Financial Regulatory Agencies**
+**[Chapter 27: Financial Regulatory Agencies](../../Documents/Project_2025_Chapters/Chapter_27.pdf)**
 
 **Author:** David R. Burton, Senior Fellow in Economic Policy at The Heritage Foundation
 

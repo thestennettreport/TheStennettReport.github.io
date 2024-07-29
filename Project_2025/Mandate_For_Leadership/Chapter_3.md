@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 3 Breakdown
+## Mandate for Leadership - Chapter 3 Breakdown
 
-**Chapter 3: Central Personnel Agencies: Managing the Bureaucracy**
+**[Chapter 3: Central Personnel Agencies: Managing the Bureaucracy](../../Documents/Project_2025_Chapters/Chapter_3.pdf)**
 
 **Authors:** Donald Devine, Dennis Dean Kirk, and Paul Dans
 

@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 11 Breakdown
+## Mandate for Leadership - Chapter 11 Breakdown
 
-**Chapter 11: Department of Education**
+**[Chapter 11: Department of Education](../../Documents/Project_2025_Chapters/Chapter_11.pdf)**
 
 **Author:** Lindsey M. Burke, Director of the Center for Education Policy at The Heritage Foundation
 

@@ -3,9 +3,9 @@ tags:
   - Project2025
   - MandateForLeadership
 ---
-## Project 2025: Mandate for Leadership - Chapter 25 Breakdown
+## Mandate for Leadership - Chapter 25 Breakdown
 
-**Chapter 25: Small Business Administration**
+**[Chapter 25: Small Business Administration](../../Documents/Project_2025_Chapters/Chapter_25.pdf)**
 
 **Author:** Karen Kerrigan, President and CEO of the Small Business & Entrepreneurship Council
 
