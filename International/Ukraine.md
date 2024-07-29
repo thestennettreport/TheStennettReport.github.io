@@ -1,6 +1,6 @@
 Based on the information we've gathered from Project 2025 and Agenda 47, we can make some strong inferences about the likely fate of aid to Ukraine under a second Trump administration, but some aspects remain unclear.
 
-**Evidence Suggesting a Reduction or Elimination of Aid:**
+**Evidence Suggesting a Reduction or Elimination of Aid**
 
 * **"America First" Foreign Policy:** Both Project 2025 and Agenda 47 emphasize an "America First" foreign policy that prioritizes U.S. interests over international commitments or alliances. This suggests a skepticism towards foreign aid in general and a reluctance to engage in costly interventions abroad.
 * **Trump's Past Statements and Actions:** Trump has repeatedly expressed skepticism about U.S. support for Ukraine, both during his presidency and on the campaign trail. He has questioned the value of NATO and has praised Russian President Vladimir Putin.

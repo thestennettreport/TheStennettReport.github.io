@@ -6,13 +6,13 @@ Welcome to my in-depth analysis of Project 2025 and Agenda 47, two conservative 
 
 Project 2025 is a massive policy initiative spearheaded by the Heritage Foundation, a conservative think tank, in collaboration with over 50 other conservative organizations. It aims to prepare a "comprehensive blueprint" for a future conservative president to "deconstruct the administrative state" and implement a sweeping conservative agenda across all areas of government.
 
-[Project 2025 - A Detailed Breakdown](./Project_2025/A_Detailed_Breakdown.md)
+[Project 2025: A Detailed Breakdown](./Project_2025/A_Detailed_Breakdown.md)
 
 ## Agenda 47: Trump's Vision for a Second Term
 
 Agenda 47 is Donald Trump's policy platform for his 2024 presidential campaign, outlining his plans for a second term. It reflects a focus on expanding presidential power, enacting conservative social policies, and taking a hardline stance on immigration and national security.
 
-[Agenda 47 - A Detailed Breakdown](./Agenda_47/A_Detailed_Breakdown.md)
+[Agenda 47: A Detailed Breakdown](./Agenda_47/A_Detailed_Breakdown.md)
 
 ## A Dangerous Convergence: Agenda 47 and Project 2025
 
@@ -30,7 +30,7 @@ Every single author of Project 2025 has direct or indirect ties to the Trump adm
 
 "The People's Guide to Project 2025," published by Democracy Forward, provides a valuable counter-narrative, highlighting the potential harms of the project's proposals from a progressive perspective.
 
-[The People's Guide To Project 2025 - A Detailed Breakdown](./Project_2025/The_People's_Guide_To_Project_2025.md)
+[The People's Guide To Project 2025: A Detailed Breakdown](./Project_2025/The_People's_Guide_To_Project_2025.md)
 
 ## The First 100 Days: A Glimpse into a Second Trump Term
 
