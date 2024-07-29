@@ -40,7 +40,7 @@ Every single author of Project 2025 has direct or indirect ties to the Trump adm
 
 "The People's Guide to Project 2025," published by Democracy Forward, provides a valuable counter-narrative, highlighting the potential harms of the project's proposals from a progressive perspective.
 
-[The People's Guide To Project 2025: A Detailed Breakdown](./Project_2025/The_People's_Guide_To_Project_2025.md)
+[The People's Guide To Project 2025: A Detailed Breakdown](./Project_2025/The_Peoples_Guide_To_Project_2025.md)
 
 ## The First 100 Days: A Glimpse into a Second Trump Term
 
