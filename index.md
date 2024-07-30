@@ -18,6 +18,7 @@ This website provides a comprehensive analysis of [Project 2025](https://www.pro
 * **[The Fate of Ukraine:](./International/Ukraine.md)** An examination of the likely consequences of a second Trump term for Ukraine, based on the evidence from Project 2025 and Agenda 47, suggesting a potential abandonment of U.S. support and a Russian victory.
 * **[The Unraveling of the Safety Net:](./Dangers/Social_Security_Medicare_and_Medicaid.md)**  Project 2025's plans for Social Security, Medicare, and Medicaid could leave millions of Americans without access to affordable healthcare and retirement security.
 * **[Veterans Abandoned:](./Dangers/Veterans_Affairs.md)** Project 2025's promises of support for veterans ring hollow. This page exposes their plan to shrink the VA, restrict benefits, and betray those who served our country.
+* **[Unions Under Attack:](./Dangers/Unions.md)** Project 2025 aims to weaken unions, silence worker voices, and tilt the balance of power towards corporations. This page exposes their anti-worker agenda and its potential consequences.
 * **[Access to Source Documents:](#documents)**  Direct links to the full PDFs of Project 2025's "Mandate for Leadership," Agenda 47, and "The People's Guide to Project 2025," as well as individual chapters and sections for easy reference and further research.
 
 ## Project 2025: A Conservative Blueprint for Power
@@ -109,6 +110,12 @@ Project 2025 and Agenda 47 threaten the very foundation of America's social safe
 Despite their rhetoric of supporting veterans, Project 2025's proposals could leave veterans with fewer benefits, diminished healthcare access, and a weakened VA system. This page exposes the truth behind their broken promises.
 
 [Broken Promises: How Project 2025 Betrays America's Veterans](./Dangers/Veterans_Affairs.md)
+
+## Unions Under Attack: Project 2025's Assault on Worker Power
+
+Project 2025's agenda includes a systematic attack on unions, aiming to weaken their power, undermine collective bargaining, and leave millions of American workers vulnerable to exploitation. This page exposes their anti-worker agenda and its potential consequences.
+
+[Unions Under Attack: Project 2025's Assault on Worker Power](./Dangers/Unions.md)
 
 ## Chapter-by-Chapter Breakdowns:
 * [Forward: A Promise To America](./Project_2025/Mandate_For_Leadership/Foreward.md)
