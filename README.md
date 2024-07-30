@@ -31,4 +31,8 @@ The Markdown files are hosted on GitHub Pages, creating a website that makes the
 Project 2025 and Agenda 47 represent a serious threat to American democracy. Get informed, share this analysis with others, and get involved in the fight to protect our values and institutions.
 
 ## TO-DO
-- [ ] Add a page for "What would happen to Ukraine under Trump?".
+- [x] Add a page for "What would happen to Ukraine under Trump?".
+- [ ] Add a page for Palestine.
+- [ ] Add a page for LGBTQIA+ Rights issues
+- [ ] Add a page for Mass Deportation consequences.
+- [ ] Add a page for Aborition, IVF, and Controception access.

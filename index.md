@@ -9,6 +9,7 @@ This website provides a comprehensive analysis of [Project 2025](https://www.pro
 * **Unmasking the Trump Connection:**  An investigation into the deep connections between Project 2025's authors and the Trump administration, campaign, and family, exposing the project's true political agenda.
 * **The People's Guide: A Counter-Narrative:** An analysis of "[The People's Guide to Project 2025](https://democracyforward.org/the-peoples-guide-to-project-2025/)," a report by [Democracy Forward](https://democracyforward.org) that highlights the potential harms of Project 2025's proposals from a progressive perspective.
 * **The First 100 Days: A Chilling Preview:** A hypothetical timeline of the first 100 days of a second Trump term, drawing from both Project 2025 and Agenda 47, illustrating the immediate and concrete impacts of their shared agenda.
+* **Reproductive Rights Under Attack:** A deep dive into Project 2025 and Agenda 47's alarming plans to restrict abortion access, limit IVF and contraception, and increase surveillance of women's reproductive health.
 * **The Fate of Ukraine:** An examination of the likely consequences of a second Trump term for Ukraine, based on the evidence from Project 2025 and Agenda 47, suggesting a potential abandonment of U.S. support and a Russian victory.
 * **Access to Source Documents:**  Direct links to the full PDFs of Project 2025's "Mandate for Leadership," Agenda 47, and "The People's Guide to Project 2025," as well as individual chapters and sections for easy reference and further research.
 
@@ -48,7 +49,13 @@ A hypothetical timeline of the first 100 days of a second Trump term, drawing fr
 
 [The First 100 Days: A Second Trump Term](./Project_2025/The_First_100_Days.md)
 
-## The Fate of Ukraine: Abandoned by America?
+## The War on Reproductive Freedom: Project 2025's Assault on Abortion, IVF, and Contraception
+
+Project 2025 and Agenda 47 lay bare a chilling truth: the fight against *Roe v. Wade* was just the beginning. The conservative movement, emboldened by their Supreme Court victory, is now waging a full-scale war on reproductive freedom, aiming to ban abortion nationwide, restrict access to IVF and contraception, and control women's bodies. This page exposes their plan and its devastating consequences.
+
+[The War on Reproductive Freedom: Project 2025's Assault on Abortion, IVF, and Contraception](./Dangers/Abortion_IVF_Contraception_Access.md)
+
+## The Fate of Ukraine 🇺🇦: Abandoned by America 🇺🇸?
 
 Project 2025 and Agenda 47 offer a chilling glimpse into the potential fate of Ukraine under a second Trump administration. The evidence strongly suggests that Trump would likely reduce or eliminate aid to Ukraine, potentially leading to a Russian victory and a humanitarian crisis.
 
