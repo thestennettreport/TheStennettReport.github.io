@@ -11,7 +11,7 @@ This website provides a comprehensive analysis of [Project 2025](https://www.pro
 * **[The First 100 Days: A Chilling Preview:](./Project_2025/The_First_100_Days.md)** A hypothetical timeline of the first 100 days of a second Trump term, drawing from both Project 2025 and Agenda 47, illustrating the immediate and concrete impacts of their shared agenda.
 * **[The People's Guide: A Counter-Narrative:](./Project_2025/The_Peoples_Guide_To_Project_2025.md)** An analysis of "[The People's Guide to Project 2025](https://democracyforward.org/the-peoples-guide-to-project-2025/)," a report by [Democracy Forward](https://democracyforward.org) that highlights the potential harms of Project 2025's proposals from a progressive perspective.
 
-#### Consequences
+#### Domestic Consequences
 * **[Reproductive Rights Under Attack:](./Dangers/Abortion_IVF_Contraception_Access.md)** A deep dive into Project 2025 and Agenda 47's alarming plans to restrict abortion access, limit IVF and contraception, and increase surveillance of women's reproductive health.
 * **[The Anti-Vaxx Agenda:](./Dangers/Anti_Vaxx.md)** Project 2025 and Agenda 47 embrace a dangerous anti-vaccine ideology that threatens public health. This page exposes their plan and its potential to unleash a wave of preventable diseases.
 * **[LGBTQIA+ Rights Under Siege:](./Dangers/LGBTQI_Rights.md)** A comprehensive look at the multi-pronged attack on LGBTQIA+ rights embedded in Project 2025 and Agenda 47, targeting healthcare, education, employment, family recognition, and freedom of expression.
@@ -21,7 +21,7 @@ This website provides a comprehensive analysis of [Project 2025](https://www.pro
 * **[Veterans Abandoned:](./Dangers/Veterans_Affairs.md)** Project 2025's promises of support for veterans ring hollow. This page exposes their plan to shrink the VA, restrict benefits, and betray those who served our country.
 * **[Unions Under Attack:](./Dangers/Unions.md)** Project 2025 aims to weaken unions, silence worker voices, and tilt the balance of power towards corporations. This page exposes their anti-worker agenda and its potential consequences.
 
-#### International
+#### International Consequences
 * **[The Fate of Ukraine:](./International/Ukraine.md)** An examination of the likely consequences of a second Trump term for Ukraine, based on the evidence from Project 2025 and Agenda 47, suggesting a potential abandonment of U.S. support and a Russian victory.
 * **[Mass Deportations:](./Dangers/Mass_Deportations.md)** A Devastating Blow to America: A chilling look at Project 2025 and Agenda 47's plans to unleash a deportation machine, tearing apart families, crippling the economy, and turning America into a nation of fear.
 
