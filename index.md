@@ -25,6 +25,7 @@ This website provides a comprehensive analysis of [Project 2025](https://www.pro
 #### International Consequences
 * **[The Fate of Ukraine:](./International/Ukraine.md)** An examination of the likely consequences of a second Trump term for Ukraine, based on the evidence from Project 2025 and Agenda 47, suggesting a potential abandonment of U.S. support and a Russian victory.
 * **[Mass Deportations:](./Dangers/Mass_Deportations.md)** A Devastating Blow to America: A chilling look at Project 2025 and Agenda 47's plans to unleash a deportation machine, tearing apart families, crippling the economy, and turning America into a nation of fear.
+* **[A Scorched Earth Policy:](./Consequences/International/The_Environment.md)** Project 2025's environmental agenda is a disaster in the making. This page exposes their plan to unleash polluters, gut regulations, and ignore the climate crisis, jeopardizing the health of our planet.
 
 #### Other Resources
 * **[Access to Source Documents:](#documents)**  Direct links to the full PDFs of Project 2025's "Mandate for Leadership," Agenda 47, and "The People's Guide to Project 2025," as well as individual chapters and sections for easy reference and further research.
@@ -104,6 +105,12 @@ Project 2025 and Agenda 47 envision an America transformed by mass deportations,
 ## The Fate of Ukraine 🇺🇦: Abandoned by America 🇺🇸?
 
 Project 2025 and Agenda 47 offer a chilling glimpse into the potential fate of Ukraine under a second Trump administration. The evidence strongly suggests that Trump would likely reduce or eliminate aid to Ukraine, potentially leading to a Russian victory and a humanitarian crisis.
+
+## A Scorched Earth Policy: Project 2025's Assault on Environmental Protection
+
+Project 2025's agenda represents a direct attack on environmental protection, promoting policies that would accelerate climate change, increase pollution, and jeopardize the health of our planet. This page exposes their dangerous plans and the devastating consequences for our environment.
+
+[A Scorched Earth Policy](./Consequences/International/The_Environment.md)
 
 [The Fate of Ukraine: Abandoned by America?](./International/Ukraine.md)
 
