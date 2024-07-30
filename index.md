@@ -12,6 +12,7 @@ This website provides a comprehensive analysis of [Project 2025](https://www.pro
 * **[The People's Guide: A Counter-Narrative:](./Project_2025/The_Peoples_Guide_To_Project_2025.md)** An analysis of "[The People's Guide to Project 2025](https://democracyforward.org/the-peoples-guide-to-project-2025/)," a report by [Democracy Forward](https://democracyforward.org) that highlights the potential harms of Project 2025's proposals from a progressive perspective.
 
 #### Domestic Consequences
+* **[The Erosion of Democracy:](./Consequences/Domestic/Voting_Rights.md)** Project 2025 and Agenda 47 aim to undermine voting rights, sow doubt about elections, and rig the system in their favor. This page exposes their plan to silence your voice and steal our democracy.
 * **[Reproductive Rights Under Attack:](./Dangers/Abortion_IVF_Contraception_Access.md)** A deep dive into Project 2025 and Agenda 47's alarming plans to restrict abortion access, limit IVF and contraception, and increase surveillance of women's reproductive health.
 * **[The Anti-Vaxx Agenda:](./Dangers/Anti_Vaxx.md)** Project 2025 and Agenda 47 embrace a dangerous anti-vaccine ideology that threatens public health. This page exposes their plan and its potential to unleash a wave of preventable diseases.
 * **[LGBTQIA+ Rights Under Siege:](./Dangers/LGBTQI_Rights.md)** A comprehensive look at the multi-pronged attack on LGBTQIA+ rights embedded in Project 2025 and Agenda 47, targeting healthcare, education, employment, family recognition, and freedom of expression.
@@ -123,6 +124,12 @@ Despite their rhetoric of supporting veterans, Project 2025's proposals could le
 Project 2025's agenda includes a systematic attack on unions, aiming to weaken their power, undermine collective bargaining, and leave millions of American workers vulnerable to exploitation. This page exposes their anti-worker agenda and its potential consequences.
 
 [Unions Under Attack: Project 2025's Assault on Worker Power](./Dangers/Unions.md)
+
+## The Erosion of Democracy: Project 2025's Assault on Voting Rights and Fair Elections
+
+Project 2025 and Agenda 47 represent a direct threat to American democracy, seeking to suppress voters, subvert elections, and consolidate power in the hands of a partisan minority. This page exposes their insidious plan to rig the system and silence the voices of ordinary Americans.
+
+[The Erosion of Democracy](./Consequences/Domestic/Voting_Rights.md)
 
 ## Chapter-by-Chapter Breakdowns:
 * [Forward: A Promise To America](./Project_2025/Mandate_For_Leadership/Foreward.md)
