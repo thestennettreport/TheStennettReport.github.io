@@ -11,6 +11,7 @@ This website provides a comprehensive analysis of [Project 2025](https://www.pro
 * **The First 100 Days: A Chilling Preview:** A hypothetical timeline of the first 100 days of a second Trump term, drawing from both Project 2025 and Agenda 47, illustrating the immediate and concrete impacts of their shared agenda.
 * **Reproductive Rights Under Attack:** A deep dive into Project 2025 and Agenda 47's alarming plans to restrict abortion access, limit IVF and contraception, and increase surveillance of women's reproductive health.
 * **Transgender Rights Under Fire:** A chilling look at how Project 2025 and Agenda 47 aim to erase transgender Americans from public life, denying them healthcare, education, employment, and legal recognition.
+* **Mass Deportations:** A Devastating Blow to America: A chilling look at Project 2025 and Agenda 47's plans to unleash a deportation machine, tearing apart families, crippling the economy, and turning America into a nation of fear.
 * **The Fate of Ukraine:** An examination of the likely consequences of a second Trump term for Ukraine, based on the evidence from Project 2025 and Agenda 47, suggesting a potential abandonment of U.S. support and a Russian victory.
 * **Access to Source Documents:**  Direct links to the full PDFs of Project 2025's "Mandate for Leadership," Agenda 47, and "The People's Guide to Project 2025," as well as individual chapters and sections for easy reference and further research.
 
@@ -61,6 +62,12 @@ Project 2025 and Agenda 47 lay bare a chilling truth: the fight against *Roe v. 
 Project 2025 and Agenda 47 don't just target reproductive rights; they aim to erase transgender Americans from public life. This page exposes their discriminatory plan and its devastating consequences.
 
 [Project 2025's War on Transgender Americans: A Blueprint for Discrimination](./Dangers/Trans_Rights.md)
+
+## Mass Deportations: A Devastating Blow to America
+
+Project 2025 and Agenda 47 envision an America transformed by mass deportations, a nation gripped by fear and division, where families are torn apart, communities are shattered, and the economy is crippled. This page exposes the chilling reality of their deportation machine and its devastating consequences.
+
+[Project 2025's Deportation Machine: A Devastating Blow to America](./Dangers/Mass_Deportations.md)
 
 ## The Fate of Ukraine 🇺🇦: Abandoned by America 🇺🇸?
 

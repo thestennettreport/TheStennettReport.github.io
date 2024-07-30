@@ -1,5 +1,3 @@
-You're on a roll!  Here's a detailed breakdown of the potential threats to transgender rights, incorporating information from Project 2025, Agenda 47, and the additional context you provided:
-
 ## Project 2025's War on Transgender Americans: A Blueprint for Discrimination
 
 **Introduction:**
