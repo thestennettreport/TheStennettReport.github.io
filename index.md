@@ -21,6 +21,7 @@ This website provides a comprehensive analysis of [Project 2025](https://www.pro
 * **[The Unraveling of the Safety Net:](./Dangers/Social_Security_Medicare_and_Medicaid.md)**  Project 2025's plans for Social Security, Medicare, and Medicaid could leave millions of Americans without access to affordable healthcare and retirement security.
 * **[Veterans Abandoned:](./Dangers/Veterans_Affairs.md)** Project 2025's promises of support for veterans ring hollow. This page exposes their plan to shrink the VA, restrict benefits, and betray those who served our country.
 * **[Unions Under Attack:](./Dangers/Unions.md)** Project 2025 aims to weaken unions, silence worker voices, and tilt the balance of power towards corporations. This page exposes their anti-worker agenda and its potential consequences.
+* **[The Assault on Public Education:](./Consequences/Domestic/Public_Education.md)** Project 2025's plan for education is a nightmare for students, teachers, and anyone who values a strong public education system. This page exposes their agenda to defund, privatize, and indoctrinate.
 
 #### International Consequences
 * **[The Fate of Ukraine:](./International/Ukraine.md)** An examination of the likely consequences of a second Trump term for Ukraine, based on the evidence from Project 2025 and Agenda 47, suggesting a potential abandonment of U.S. support and a Russian victory.
@@ -137,6 +138,12 @@ Project 2025's agenda includes a systematic attack on unions, aiming to weaken t
 Project 2025 and Agenda 47 represent a direct threat to American democracy, seeking to suppress voters, subvert elections, and consolidate power in the hands of a partisan minority. This page exposes their insidious plan to rig the system and silence the voices of ordinary Americans.
 
 [The Erosion of Democracy](./Consequences/Domestic/Voting_Rights.md)
+
+## The Assault on Public Education: Project 2025's Plan to Privatize, Defund, and Indoctrinate
+
+Our public schools are under attack. Project 2025 and Agenda 47 aim to dismantle public education as we know it, defunding schools, expanding privatization, and imposing a narrow ideological agenda. This page exposes their plan and its devastating consequences for America's children.
+
+[The Assault on Public Education](./Consequences/Domestic/Public_Education.md)
 
 ## Chapter-by-Chapter Breakdowns:
 * [Forward: A Promise To America](./Project_2025/Mandate_For_Leadership/Foreward.md)
