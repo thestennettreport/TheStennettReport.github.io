@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Detailed Breakdown of Project 2025 & Agenda 47
+title: Breaking down Project 2025 & Agenda 47
 ---
 
 This website is your essential guide to understanding and resisting [Project 2025](https://www.project2025.org/) and [Agenda 47](https://www.donaldjtrump.com/agenda47), two radical conservative agendas that threaten the very fabric of American democracy.
