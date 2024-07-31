@@ -14,6 +14,7 @@ This website provides a comprehensive analysis of [Project 2025](https://www.pro
 
 ### Domestic Consequences
 * **[The Erosion of Democracy: Project 2025's Assault on Voting Rights and Fair Elections](./Consequences/Domestic/Voting_Rights.md):** Project 2025 and Agenda 47 aim to undermine voting rights, sow doubt about elections, and rig the system in their favor. This page exposes their plan to silence your voice and steal our democracy.
+**[A Christian Nation? Project 2025's Embrace of Christian Nationalism](./Consequences/Domestic/christian_nationalism.md):** Project 2025's embrace of Christian nationalism threatens to redefine America, privileging one religion over others and undermining our religiously diverse democracy. 
 * **[The War on Reproductive Freedom: Project 2025's Assault on Abortion, IVF, and Contraception](./Dangers/Abortion_IVF_Contraception_Access.md):** A deep dive into Project 2025 and Agenda 47's alarming plans to restrict abortion access, limit IVF and contraception, and increase surveillance of women's reproductive health.
 * **[The Anti-Vaxx Agenda: Project 2025's Threat to Public Health](./Dangers/Anti_Vaxx.md):** Project 2025 and Agenda 47 embrace a dangerous anti-vaccine ideology that threatens public health. This page exposes their plan and its potential to unleash a wave of preventable diseases.
 * **[LGBTQIA+ Rights Under Siege: A Blueprint for Discrimination](./Dangers/LGBTQI_Rights.md):** A comprehensive look at the multi-pronged attack on LGBTQIA+ rights embedded in Project 2025 and Agenda 47, targeting healthcare, education, employment, family recognition, and freedom of expression.
@@ -120,6 +121,12 @@ A hypothetical timeline of the first 100 days of a second Trump term, drawing fr
 Project 2025 and Agenda 47 represent a direct threat to American democracy, seeking to suppress voters, subvert elections, and consolidate power in the hands of a partisan minority. This page exposes their insidious plan to rig the system and silence the voices of ordinary Americans.
 
 [The Erosion of Democracy: Project 2025's Assault on Voting Rights and Fair Elections](./Consequences/Domestic/Voting_Rights.md)
+
+### A Christian Nation? Project 2025's Embrace of Christian Nationalism
+
+Project 2025 and Agenda 47 promote a dangerous ideology: Christian nationalism. This page exposes their agenda, which seeks to redefine America as a Christian nation, privileging one religion over others and undermining the very foundations of our religiously diverse and inclusive democracy.
+
+[A Christian Nation? Project 2025's Embrace of Christian Nationalism](./Consequences/Domestic/christian_nationalism.md)
 
 ### The War on Reproductive Freedom: Project 2025's Assault on Abortion, IVF, and Contraception
 
