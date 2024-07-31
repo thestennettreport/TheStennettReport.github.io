@@ -1,13 +1,7 @@
 ---
 layout: page
-title: 
+title: Mandate for Leadership - "Onward!" Breakdown
 ---
----
-tags:
-  - Project2025
-  - MandateForLeadership
----
-## Mandate for Leadership - "Onward!" Breakdown
 
 **Section: Onward!**
 
