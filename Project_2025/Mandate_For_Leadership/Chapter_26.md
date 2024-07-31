@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 26 Breakdown
 
-**[Chapter 26: Trade](../../Documents/Project_2025_Chapters/Chapter_26.pdf)**
+**[Chapter 26: Trade](../../documents/project_2025_chapters/chapter_26.pdf)**
 
 **Authors:** Peter Navarro (The Case for Fair Trade) and Kent Lassman (The Case for Free Trade)
 

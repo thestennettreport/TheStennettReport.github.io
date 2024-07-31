@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 9 Breakdown
 
-**[Chapter 9: Agency for International Development](../../Documents/Project_2025_Chapters/Chapter_9.pdf)**
+**[Chapter 9: Agency for International Development](../../documents/project_2025_chapters/chapter_9.pdf)**
 
 **Author:** Max Primorac, Former Acting Chief Operating Officer and Assistant to the Administrator at USAID
 

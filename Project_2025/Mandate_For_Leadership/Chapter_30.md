@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 30 Breakdown
 
-**[Chapter 30: Federal Trade Commission](../../Documents/Project_2025_Chapters/Chapter_30.pdf)**
+**[Chapter 30: Federal Trade Commission](../../documents/project_2025_chapters/chapter_30.pdf)**
 
 **Author:** Adam Candeub, Professor of Law at Michigan State University and Former Acting Assistant Secretary of Commerce
 

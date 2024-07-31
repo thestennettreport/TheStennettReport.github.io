@@ -11,7 +11,7 @@ tags:
 
 **Introduction:**
 
-This concluding section, titled "[Onward!](../../Documents/Project_2025_Chapters/Onward.pdf)," serves as a call to action for conservatives to continue the fight for limited government, free markets, and traditional American values. Feulner recounts the history of the "Mandate for Leadership" project, highlighting its impact on the Reagan and Trump Administrations. He argues that the 2025 edition of Mandate provides a roadmap for the next conservative President to reverse the "economic, military, cultural, and foreign policy turmoil" of the Biden years and to restore America's greatness.
+This concluding section, titled "[Onward!](../../documents/project_2025_chapters/Onward.pdf)," serves as a call to action for conservatives to continue the fight for limited government, free markets, and traditional American values. Feulner recounts the history of the "Mandate for Leadership" project, highlighting its impact on the Reagan and Trump Administrations. He argues that the 2025 edition of Mandate provides a roadmap for the next conservative President to reverse the "economic, military, cultural, and foreign policy turmoil" of the Biden years and to restore America's greatness.
 
 **Key Points & Concerns for Democrats:**
 

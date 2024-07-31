@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 1 Breakdown
 
-**[Chapter 1: White House Office](../../Documents/Project_2025_Chapters/Chapter_1.pdf)**
+**[Chapter 1: White House Office](../../documents/project_2025_chapters/chapter_1.pdf)**
 
 **Author:** Rick Dearborn, Former Deputy Chief of Staff for President Donald Trump
 

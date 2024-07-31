@@ -6,7 +6,7 @@ tags:
 ---
 ## Project 2025: Unmasking the Trump Connection
 
-"[Project 2025: Mandate for Leadership](../../Documents/Project_2025_-_Mandate_For_Leadership.pdf)" and the [Wikipedia page for Project 2025](https://en.wikipedia.org/wiki/Project_2025) paint a chilling picture of a coordinated effort to radically reshape the U.S. government, potentially paving the way for an authoritarian takeover. While the project claims to be non-partisan, the evidence strongly suggests a deep and multifaceted connection to Donald Trump, his allies, and his 2024 presidential campaign.
+"[Project 2025: Mandate for Leadership](../../documents/project_2025_-_mandate_for_leadership.pdf)" and the [Wikipedia page for Project 2025](https://en.wikipedia.org/wiki/Project_2025) paint a chilling picture of a coordinated effort to radically reshape the U.S. government, potentially paving the way for an authoritarian takeover. While the project claims to be non-partisan, the evidence strongly suggests a deep and multifaceted connection to Donald Trump, his allies, and his 2024 presidential campaign.
 
 Here's a detailed breakdown of the connections, highlighting the most concerning aspects for Democrats:
 

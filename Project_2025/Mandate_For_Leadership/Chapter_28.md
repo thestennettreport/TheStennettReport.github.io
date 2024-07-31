@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 28 Breakdown
 
-**[Chapter 28: Federal Communications Commission](../../Documents/Project_2025_Chapters/Chapter_28.pdf)**
+**[Chapter 28: Federal Communications Commission](../../documents/project_2025_chapters/chapter_28.pdf)**
 
 **Author:** Brendan Carr, Commissioner of the Federal Communications Commission (FCC)
 

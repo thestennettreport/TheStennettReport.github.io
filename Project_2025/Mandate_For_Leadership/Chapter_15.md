@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 15 Breakdown
 
-**[Chapter 15: Department of Housing and Urban Development](../../Documents/Project_2025_Chapters/Chapter_15.pdf)**
+**[Chapter 15: Department of Housing and Urban Development](../../documents/project_2025_chapters/chapter_15.pdf)**
 
 **Author:** Dr. Benjamin S. Carson, Sr., MD, Former Secretary of the U.S. Department of Housing and Urban Development (HUD)
 

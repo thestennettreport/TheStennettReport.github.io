@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 8 Breakdown
 
-**[Chapter 8: Media Agencies: U.S. Agency for Global Media](../../Documents/Project_2025_Chapters/Chapter_8.pdf)**
+**[Chapter 8: Media Agencies: U.S. Agency for Global Media](../../documents/project_2025_chapters/chapter_8.pdf)**
 
 **Author:** Mora Namdar, Former Vice President of Legal, Compliance, and Risk at the U.S. Agency for Global Media
 

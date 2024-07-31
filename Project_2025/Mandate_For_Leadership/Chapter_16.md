@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 16 Breakdown
 
-**[Chapter 16: Department of the Interior](../../Documents/Project_2025_Chapters/Chapter_16.pdf)**
+**[Chapter 16: Department of the Interior](../../documents/project_2025_chapters/chapter_16.pdf)**
 
 **Author:** William Perry Pendley, Former Acting Director of the Bureau of Land Management
 

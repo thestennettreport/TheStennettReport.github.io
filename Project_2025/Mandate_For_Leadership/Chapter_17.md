@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 17 Breakdown
 
-**[Chapter 17: Department of Justice](../../Documents/Project_2025_Chapters/Chapter_17.pdf)**
+**[Chapter 17: Department of Justice](../../documents/project_2025_chapters/chapter_17.pdf)**
 
 **Author:** Gene Hamilton, Former Counselor to the Attorney General
 

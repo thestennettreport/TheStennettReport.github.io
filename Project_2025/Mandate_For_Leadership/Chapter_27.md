@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 27 Breakdown
 
-**[Chapter 27: Financial Regulatory Agencies](../../Documents/Project_2025_Chapters/Chapter_27.pdf)**
+**[Chapter 27: Financial Regulatory Agencies](../../documents/project_2025_chapters/chapter_27.pdf)**
 
 **Author:** David R. Burton, Senior Fellow in Economic Policy at The Heritage Foundation
 

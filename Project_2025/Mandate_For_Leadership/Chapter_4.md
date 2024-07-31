@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 4 Breakdown
 
-**[Chapter 4: Department of Defense](../../Documents/Project_2025_Chapters/Chapter_4.pdf)**
+**[Chapter 4: Department of Defense](../../documents/project_2025_chapters/chapter_4.pdf)**
 
 **Author:** Christopher Miller, Former Acting U.S. Secretary of Defense
 

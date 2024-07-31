@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 22 Breakdown
 
-**[Chapter 22: Department of the Treasury](../../Documents/Project_2025_Chapters/Chapter_22.pdf)**
+**[Chapter 22: Department of the Treasury](../../documents/project_2025_chapters/chapter_22.pdf)**
 
 **Authors:** William L. Walton, Stephen Moore, and David R. Burton
 

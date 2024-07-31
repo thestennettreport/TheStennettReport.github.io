@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 13 Breakdown
 
-**[Chapter 13: Environmental Protection Agency](../../Documents/Project_2025_Chapters/Chapter_13.pdf)**
+**[Chapter 13: Environmental Protection Agency](../../documents/project_2025_chapters/chapter_13.pdf)**
 
 **Author:** Mandy M. Gunasekara, Principal at Section VII Strategies and Visiting Fellow at The Heritage Foundation
 

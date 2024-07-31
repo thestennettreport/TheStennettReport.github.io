@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 23 Breakdown
 
-**[Chapter 23: Export-Import Bank](../../Documents/Project_2025_Chapters/Chapter_23.pdf)**
+**[Chapter 23: Export-Import Bank](../../documents/project_2025_chapters/chapter_23.pdf)**
 
 **Authors:** Jennifer Hazelton (The Case for the Export-Import Bank) and Veronique de Rugy (The Export-Import Bank Should Be Abolished)
 

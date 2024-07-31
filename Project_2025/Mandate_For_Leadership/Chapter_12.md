@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 12 Breakdown
 
-**[Chapter 12: Department of Energy and Related Commissions](../../Documents/Project_2025_Chapters/Chapter_12.pdf)**
+**[Chapter 12: Department of Energy and Related Commissions](../../documents/project_2025_chapters/chapter_12.pdf)**
 
 **Author:** Bernard L. McNamee, Former Member of the Federal Energy Regulatory Commission (FERC)
 

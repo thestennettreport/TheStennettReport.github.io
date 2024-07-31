@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 14 Breakdown
 
-**[Chapter 14: Department of Health and Human Services](../../Documents/Project_2025_Chapters/Chapter_14.pdf)**
+**[Chapter 14: Department of Health and Human Services](../../documents/project_2025_chapters/chapter_14.pdf)**
 
 **Author:** Roger Severino, Former Director of the Office for Civil Rights at the U.S. Department of Health and Human Services (HHS)
 

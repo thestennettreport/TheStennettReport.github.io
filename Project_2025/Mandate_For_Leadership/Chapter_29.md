@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 29 Breakdown
 
-**[Chapter 29: Federal Election Commission](../../Documents/Project_2025_Chapters/Chapter_29.pdf)**
+**[Chapter 29: Federal Election Commission](../../documents/project_2025_chapters/chapter_29.pdf)**
 
 **Author:** Hans A. von Spakovsky, Senior Legal Fellow and Manager of the Election Law Reform Initiative at The Heritage Foundation
 

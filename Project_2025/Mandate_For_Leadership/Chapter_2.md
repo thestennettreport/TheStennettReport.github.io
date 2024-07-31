@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 2 Breakdown
 
-**[Chapter 2: Executive Office of the President of the United States](../../Documents/Project_2025_Chapters/Chapter_2.pdf)**
+**[Chapter 2: Executive Office of the President of the United States](../../documents/project_2025_chapters/chapter_2.pdf)**
 
 **Author:** Russ Vought, Former Director of the Office of Management and Budget (OMB)
 

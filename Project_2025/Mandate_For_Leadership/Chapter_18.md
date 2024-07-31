@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 18 Breakdown
 
-**[Chapter 18: Department of Labor and Related Agencies](../../Documents/Project_2025_Chapters/Chapter_18.pdf)**
+**[Chapter 18: Department of Labor and Related Agencies](../../documents/project_2025_chapters/chapter_18.pdf)**
 
 **Author:** Jonathan Berry, Former Acting Assistant Secretary for Policy at the U.S. Department of Labor
 

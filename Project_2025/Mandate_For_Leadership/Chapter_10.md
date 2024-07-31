@@ -5,7 +5,7 @@ tags:
 ---
 ## Mandate for Leadership - Chapter 10 Breakdown
 
-**[Chapter 10: Department of Agriculture](../../Documents/Project_2025_Chapters/Chapter_10.pdf)**
+**[Chapter 10: Department of Agriculture](../../documents/project_2025_chapters/chapter_10.pdf)**
 
 **Author:** Daren Bakst, Senior Fellow at the Competitive Enterprise Institute
 
