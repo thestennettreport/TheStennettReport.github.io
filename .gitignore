@@ -5,7 +5,6 @@ _site
 vendor
 
 Gemfile.lock
-_config.yml
 
 # Ignore Jekyll build artifacts
 _site/
