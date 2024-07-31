@@ -3,11 +3,11 @@ layout: page
 title: Sources
 ---
 
-## Project 2025: Mandate for Leadership
-### Entire PDF
+### Project 2025: Mandate for Leadership
+#### Entire PDF
 * [Project 2025: Mandate for Leadership](./project_2025_-_mandate_for_leadership.pdf) _(922 pages)_
 
-### Individual PDFs
+#### Individual PDFs
 * [Forward: A Promise To America](./project_2025_chapters/forward.pdf) _(18 pages)_
 * [Authors and Contributors](./project_2025_chapters/authors_and_contributors.pdf) _(18 pages)_
 * [Section 1: Taking the Reins of Government](./project_2025_chapters/section_1.pdf) _(Pages 1-18 => 18 pages)_
@@ -47,8 +47,8 @@ title: Sources
 	* [Chapter 30: Federal Trade Commission](./project_2025_chapters/chapter_30.pdf) _(Pages 869-882 => 14 pages)_
 * [Onward!](./project_2025_chapters/onward.pdf) _(Pages 883-887 => 7 pages)_
 
-## The People's Guide To Project 2025 By Democracy Forward
+### The People's Guide To Project 2025
 By: [Democracy Forward](https://democracyforward.org/the-peoples-guide-to-project-2025/)
 
-### Entire PDF
+#### Entire PDF
 * [The People's Guide To Project 2025](./peoples_guide_to_project_2025.pdf) _(48 pages)_
