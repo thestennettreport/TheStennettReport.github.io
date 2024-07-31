@@ -5,7 +5,7 @@ This website provides a comprehensive analysis of [Project 2025](https://www.pro
 
 ### Breakdowns/Comparisons
 * **[Chapter-by-Chapter Breakdowns](#chapter-by-chapter-breakdowns):**  A deep dive into each chapter of Project 2025's "[Mandate for Leadership](https://static.project2025.org/2025_MandateForLeadership_FULL.pdf)," exposing the radical policy proposals hidden within this 900+ page document.
-* **[Project 2025: A Conservative Blueprint for Power](./Project_2025/A_Detailed_Breakdown.md):**
+* **[Project 2025: A Conservative Blueprint for Power](./Project_2025/A_Detailed_Breakdown.md):** A deep dive into the Heritage Foundation's radical plan to dismantle the federal government, shrink the social safety net, and reshape America in a conservative image.
 * **[Agenda 47: Trump's Vision for a Second Term](./Agenda_47/A_Detailed_Breakdown.md):** A comprehensive analysis of Donald Trump's "[Agenda 47](https://en.wikipedia.org/wiki/Agenda_47)" campaign promises, revealing his vision for a second term and the potential dangers it poses.
 * **[A Dangerous Convergence: Agenda 47 and Project 2025](./Agenda_47/Agenda_47_vs_Project_2025.md):** A side-by-side comparison of Project 2025 and Agenda 47, highlighting the alarming overlap in themes, policy recommendations, and personnel.
 * **[Unmasking the Trump Connection: Authors and Contributors](./Project_2025/Authors/Trumps_Connections.md):**  An investigation into the deep connections between Project 2025's authors and the Trump administration, campaign, and family, exposing the project's true political agenda.
