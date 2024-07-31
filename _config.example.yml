@@ -28,6 +28,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+tiktok_username: jekyll
+google_analytics: G-XXXXXXXXXX
+
+# Sources
+project_2025_website: https://www.project2025.org
+project_2025_wiki: https://en.wikipedia.org/wiki/Project_2025
+agenda_47_website: https://www.donaldjtrump.com/platform
+agenda_47_wiki: https://en.wikipedia.org/wiki/Agenda_47
 
 # Build settings
 theme: minima
