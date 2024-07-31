@@ -25,6 +25,7 @@ This website provides a comprehensive analysis of [Project 2025](https://www.pro
 * **[Unions Under Attack: Project 2025's Assault on Worker Power](./Dangers/Unions.md):** Project 2025 aims to weaken unions, silence worker voices, and tilt the balance of power towards corporations. This page exposes their anti-worker agenda and its potential consequences.
 * **[The Assault on Public Education: Project 2025's Plan to Privatize, Defund, and Indoctrinate](./Consequences/Domestic/Public_Education.md):** Project 2025's plan for education is a nightmare for students, teachers, and anyone who values a strong public education system. This page exposes their agenda to defund, privatize, and indoctrinate.
 * **[The Erosion of Civil Liberties: Project 2025's Descent into a Surveillance State](./Consequences/Domestic/Civil_Liberties.md):** Project 2025 and Agenda 47's vision for America is a chilling one: a surveillance state where the government monitors your every move, censors dissent, and restricts your freedoms. This page exposes their plan and its devastating consequences.
+* **[Criminalizing Compassion: Project 2025's Cruel Approach to Homelessness](./Consequences/Domestic/homelessness.md):** Project 2025 and Agenda 47 offer a cruel and dehumanizing approach to homelessness, prioritizing punishment over compassion and ignoring the root causes of this crisis.
 
 ### International Consequences
 * **[Project 2025's Deportation Machine: A Devastating Blow to America](./Dangers/Mass_Deportations.md):** A Devastating Blow to America: A chilling look at Project 2025 and Agenda 47's plans to unleash a deportation machine, tearing apart families, crippling the economy, and turning America into a nation of fear.
@@ -187,6 +188,12 @@ Our public schools are under attack. Project 2025 and Agenda 47 aim to dismantle
 Project 2025 and Agenda 47 advocate for a vast expansion of surveillance powers, restrictions on access to information, and the silencing of dissent, threatening to transform America into a surveillance state where freedom is a privilege, not a right.
 
 [The Erosion of Civil Liberties: Project 2025's Descent into a Surveillance State](./Consequences/Domestic/Civil_Liberties.md)
+
+### Criminalizing Compassion: Project 2025's Cruel Approach to Homelessness
+
+Project 2025 and Agenda 47 propose to criminalize homelessness, strip away support services, and warehouse vulnerable individuals in "tent cities," further marginalizing those who are already struggling. This page exposes their cruel agenda and its devastating consequences.
+
+[Criminalizing Compassion: Project 2025's Cruel Approach to Homelessness](./Consequences/Domestic/homelessness.md)
 
 ## International Consequences
 
