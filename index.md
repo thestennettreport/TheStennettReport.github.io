@@ -3,156 +3,41 @@
 
 This website provides a comprehensive analysis of [Project 2025](https://www.project2025.org/policy/) and [Agenda 47](https://www.donaldjtrump.com/agenda47), equipping you with the knowledge to understand and resist these threats to American democracy. Here's what you'll find:
 
-#### Breakdowns/Comparisons
-* **[Detailed Chapter Breakdowns:](#chapter-by-chapter-breakdowns)**  A deep dive into each chapter of Project 2025's "[Mandate for Leadership](https://static.project2025.org/2025_MandateForLeadership_FULL.pdf)," exposing the radical policy proposals hidden within this 900+ page document.
-* **[Agenda 47 Exposed:](./Agenda_47/A_Detailed_Breakdown.md)** A comprehensive analysis of Donald Trump's "[Agenda 47](https://en.wikipedia.org/wiki/Agenda_47)" campaign promises, revealing his vision for a second term and the potential dangers it poses.
-* **[A Direct Comparison:](./Agenda_47/Agenda_47_vs_Project_2025.md)** A side-by-side comparison of Project 2025 and Agenda 47, highlighting the alarming overlap in themes, policy recommendations, and personnel.
-* **[Unmasking the Trump Connection:](./Project_2025/Authors/Trumps_Connections.md)**  An investigation into the deep connections between Project 2025's authors and the Trump administration, campaign, and family, exposing the project's true political agenda.
-* **[The First 100 Days: A Chilling Preview:](./Project_2025/The_First_100_Days.md)** A hypothetical timeline of the first 100 days of a second Trump term, drawing from both Project 2025 and Agenda 47, illustrating the immediate and concrete impacts of their shared agenda.
-* **[The People's Guide: A Counter-Narrative:](./Project_2025/The_Peoples_Guide_To_Project_2025.md)** An analysis of "[The People's Guide to Project 2025](https://democracyforward.org/the-peoples-guide-to-project-2025/)," a report by [Democracy Forward](https://democracyforward.org) that highlights the potential harms of Project 2025's proposals from a progressive perspective.
-
-#### Domestic Consequences
-* **[The Erosion of Democracy:](./Consequences/Domestic/Voting_Rights.md)** Project 2025 and Agenda 47 aim to undermine voting rights, sow doubt about elections, and rig the system in their favor. This page exposes their plan to silence your voice and steal our democracy.
-* **[Reproductive Rights Under Attack:](./Dangers/Abortion_IVF_Contraception_Access.md)** A deep dive into Project 2025 and Agenda 47's alarming plans to restrict abortion access, limit IVF and contraception, and increase surveillance of women's reproductive health.
-* **[The Anti-Vaxx Agenda:](./Dangers/Anti_Vaxx.md)** Project 2025 and Agenda 47 embrace a dangerous anti-vaccine ideology that threatens public health. This page exposes their plan and its potential to unleash a wave of preventable diseases.
-* **[LGBTQIA+ Rights Under Siege:](./Dangers/LGBTQI_Rights.md)** A comprehensive look at the multi-pronged attack on LGBTQIA+ rights embedded in Project 2025 and Agenda 47, targeting healthcare, education, employment, family recognition, and freedom of expression.
-* **[Transgender Rights Under Fire:](./Dangers/Trans_Rights.md)** A chilling look at how Project 2025 and Agenda 47 aim to erase transgender Americans from public life, denying them healthcare, education, employment, and legal recognition.
-* **[Trade War 2.0:](./Dangers/Trade_War.md)**  Project 2025's protectionist trade agenda, including a 10% universal tariff, is a recipe for economic disaster. This page exposes the myth of protectionism and its devastating consequences for American families and businesses.
-* **[The Unraveling of the Safety Net:](./Dangers/Social_Security_Medicare_and_Medicaid.md)**  Project 2025's plans for Social Security, Medicare, and Medicaid could leave millions of Americans without access to affordable healthcare and retirement security.
-* **[Veterans Abandoned:](./Dangers/Veterans_Affairs.md)** Project 2025's promises of support for veterans ring hollow. This page exposes their plan to shrink the VA, restrict benefits, and betray those who served our country.
-* **[Unions Under Attack:](./Dangers/Unions.md)** Project 2025 aims to weaken unions, silence worker voices, and tilt the balance of power towards corporations. This page exposes their anti-worker agenda and its potential consequences.
-* **[The Assault on Public Education:](./Consequences/Domestic/Public_Education.md)** Project 2025's plan for education is a nightmare for students, teachers, and anyone who values a strong public education system. This page exposes their agenda to defund, privatize, and indoctrinate.
-* **[The Erosion of Civil Liberties:](./Consequences/Domestic/Civil_Liberties.md)**  Project 2025 and Agenda 47's vision for America is a chilling one: a surveillance state where the government monitors your every move, censors dissent, and restricts your freedoms. This page exposes their plan and its devastating consequences.
-
-#### International Consequences
-* **[The Fate of Ukraine:](./International/Ukraine.md)** An examination of the likely consequences of a second Trump term for Ukraine, based on the evidence from Project 2025 and Agenda 47, suggesting a potential abandonment of U.S. support and a Russian victory.
-* **[Mass Deportations:](./Dangers/Mass_Deportations.md)** A Devastating Blow to America: A chilling look at Project 2025 and Agenda 47's plans to unleash a deportation machine, tearing apart families, crippling the economy, and turning America into a nation of fear.
-* **[A Scorched Earth Policy:](./Consequences/International/The_Environment.md)** Project 2025's environmental agenda is a disaster in the making. This page exposes their plan to unleash polluters, gut regulations, and ignore the climate crisis, jeopardizing the health of our planet.
-
-#### Other Resources
-* **[Access to Source Documents:](#documents)**  Direct links to the full PDFs of Project 2025's "Mandate for Leadership," Agenda 47, and "The People's Guide to Project 2025," as well as individual chapters and sections for easy reference and further research.
-
-## Project 2025: A Conservative Blueprint for Power
-
-Project 2025 is a massive policy initiative spearheaded by the Heritage Foundation, a conservative think tank, in collaboration with over 50 other conservative organizations. It aims to prepare a "comprehensive blueprint" for a future conservative president to "deconstruct the administrative state" and implement a sweeping conservative agenda across all areas of government.
-
-[Project 2025: A Detailed Breakdown](./Project_2025/A_Detailed_Breakdown.md)
-
-## Agenda 47: Trump's Vision for a Second Term
-
-Agenda 47 is Donald Trump's policy platform for his 2024 presidential campaign, outlining his plans for a second term. It reflects a focus on expanding presidential power, enacting conservative social policies, and taking a hardline stance on immigration and national security.
-
-[Agenda 47: A Detailed Breakdown](./Agenda_47/A_Detailed_Breakdown.md)
-
-## A Dangerous Convergence: Agenda 47 and Project 2025
-
-The overlap between Project 2025 and Agenda 47 is striking, suggesting a coordinated effort to implement a radical conservative agenda should Donald Trump return to the White House in 2025. They share common themes, policy recommendations, and personnel, raising serious concerns about the future of American democracy.
-
-[Agenda 47 vs Project 2025](./Agenda_47/Agenda_47_vs_Project_2025.md)
-
-## Unmasking the Trump Connection: Authors and Contributors
-
-Every single author of Project 2025 has direct or indirect ties to the Trump administration, campaign, or family. This raises concerns about the project's objectivity and suggests that it may be more of a political document than a policy document.
-
-[Project 2025: Unmasking the Trump Connection](./Project_2025/Authors/Trumps_Connections.md)
-
-## The People's Guide: A Counter-Narrative
-
-"The People's Guide to Project 2025," published by Democracy Forward, provides a valuable counter-narrative, highlighting the potential harms of the project's proposals from a progressive perspective.
-
-[The People's Guide To Project 2025: A Detailed Breakdown](./Project_2025/The_Peoples_Guide_To_Project_2025.md)
-
-## The First 100 Days: A Glimpse into a Second Trump Term
-
-A hypothetical timeline of the first 100 days of a second Trump term, drawing from both Project 2025 and Agenda 47, illustrates the immediate and concrete impacts of their shared agenda.
-
-[The First 100 Days: A Second Trump Term](./Project_2025/The_First_100_Days.md)
-
-## The Anti-Vaxx Agenda: Project 2025's Threat to Public Health
-
-Project 2025 and Agenda 47's embrace of anti-vaccine rhetoric and policies could have devastating consequences for public health, potentially leading to a resurgence of preventable diseases and undermining trust in science.
-
-[The Anti-Vaxx Agenda: Project 2025's Threat to Public Health](./Dangers/Anti_Vaxx.md)
-
-## The War on Reproductive Freedom: Project 2025's Assault on Abortion, IVF, and Contraception
-
-Project 2025 and Agenda 47 lay bare a chilling truth: the fight against *Roe v. Wade* was just the beginning. The conservative movement, emboldened by their Supreme Court victory, is now waging a full-scale war on reproductive freedom, aiming to ban abortion nationwide, restrict access to IVF and contraception, and control women's bodies. This page exposes their plan and its devastating consequences.
-
-[The War on Reproductive Freedom: Project 2025's Assault on Abortion, IVF, and Contraception](./Dangers/Abortion_IVF_Contraception_Access.md)
-
-## LGBTQIA+ Rights Under Siege: A Blueprint for Discrimination
-
-Project 2025 and Agenda 47 don't just target transgender individuals; they represent a systematic assault on the rights and freedoms of the entire LGBTQIA+ community. This page exposes their dangerous agenda, which seeks to roll back decades of progress, enshrine discrimination, and create a less inclusive and less equitable America.
-
-[LGBTQIA+ Rights Under Siege: A Blueprint for Discrimination](./Dangers/LGBTQI_Rights.md)
-
-## Transgender Rights Under Fire: A Blueprint for Discrimination
-
-Project 2025 and Agenda 47 don't just target reproductive rights; they aim to erase transgender Americans from public life. This page exposes their discriminatory plan and its devastating consequences.
-
-[Project 2025's War on Transgender Americans: A Blueprint for Discrimination](./Dangers/Trans_Rights.md)
-
-## Trade War 2.0: Project 2025's Recipe for Economic Disaster
-
-Project 2025 and Agenda 47's protectionist trade policies, including a 10% universal tariff, threaten to raise prices, kill jobs, and undermine American competitiveness. This page exposes the flawed logic of their trade war and its devastating consequences for the U.S. economy.
-
-[Trade War 2.0: Project 2025's Recipe for Economic Disaster](./Dangers/Trade_War.md)
-
-## Mass Deportations: A Devastating Blow to America
-
-Project 2025 and Agenda 47 envision an America transformed by mass deportations, a nation gripped by fear and division, where families are torn apart, communities are shattered, and the economy is crippled. This page exposes the chilling reality of their deportation machine and its devastating consequences.
-
-[Project 2025's Deportation Machine: A Devastating Blow to America](./Dangers/Mass_Deportations.md)
-
-## The Fate of Ukraine 🇺🇦: Abandoned by America 🇺🇸?
-
-Project 2025 and Agenda 47 offer a chilling glimpse into the potential fate of Ukraine under a second Trump administration. The evidence strongly suggests that Trump would likely reduce or eliminate aid to Ukraine, potentially leading to a Russian victory and a humanitarian crisis.
-
-## A Scorched Earth Policy: Project 2025's Assault on Environmental Protection
-
-Project 2025's agenda represents a direct attack on environmental protection, promoting policies that would accelerate climate change, increase pollution, and jeopardize the health of our planet. This page exposes their dangerous plans and the devastating consequences for our environment.
-
-[A Scorched Earth Policy](./Consequences/International/The_Environment.md)
-
-[The Fate of Ukraine: Abandoned by America?](./International/Ukraine.md)
-
-## Social Security, Medicare, and Medicaid: Undermining the Safety Net
-
-Project 2025 and Agenda 47 threaten the very foundation of America's social safety net, potentially leaving millions of Americans without access to affordable healthcare and retirement security. This page exposes their plans and the devastating consequences for our most vulnerable citizens.
-
-[The Unraveling of the Safety Net](./Dangers/Social_Security_Medicare_and_Medicaid.md)
-
-## Veterans Abandoned: Project 2025's Betrayal of Those Who Served
-
-Despite their rhetoric of supporting veterans, Project 2025's proposals could leave veterans with fewer benefits, diminished healthcare access, and a weakened VA system. This page exposes the truth behind their broken promises.
-
-[Broken Promises: How Project 2025 Betrays America's Veterans](./Dangers/Veterans_Affairs.md)
-
-## Unions Under Attack: Project 2025's Assault on Worker Power
-
-Project 2025's agenda includes a systematic attack on unions, aiming to weaken their power, undermine collective bargaining, and leave millions of American workers vulnerable to exploitation. This page exposes their anti-worker agenda and its potential consequences.
-
-[Unions Under Attack: Project 2025's Assault on Worker Power](./Dangers/Unions.md)
-
-## The Erosion of Democracy: Project 2025's Assault on Voting Rights and Fair Elections
-
-Project 2025 and Agenda 47 represent a direct threat to American democracy, seeking to suppress voters, subvert elections, and consolidate power in the hands of a partisan minority. This page exposes their insidious plan to rig the system and silence the voices of ordinary Americans.
-
-[The Erosion of Democracy](./Consequences/Domestic/Voting_Rights.md)
-
-## The Assault on Public Education: Project 2025's Plan to Privatize, Defund, and Indoctrinate
-
-Our public schools are under attack. Project 2025 and Agenda 47 aim to dismantle public education as we know it, defunding schools, expanding privatization, and imposing a narrow ideological agenda. This page exposes their plan and its devastating consequences for America's children.
-
-[The Assault on Public Education](./Consequences/Domestic/Public_Education.md)
-
-## The Erosion of Civil Liberties: Project 2025's Descent into a Surveillance State
-
-Project 2025 and Agenda 47 advocate for a vast expansion of surveillance powers, restrictions on access to information, and the silencing of dissent, threatening to transform America into a surveillance state where freedom is a privilege, not a right.
-
-[The Erosion of Civil Liberties](./Consequences/Domestic/Civil_Liberties.md)
-
-## Chapter-by-Chapter Breakdowns:
+### Breakdowns/Comparisons
+* **[Chapter-by-Chapter Breakdowns](#chapter-by-chapter-breakdowns):**  A deep dive into each chapter of Project 2025's "[Mandate for Leadership](https://static.project2025.org/2025_MandateForLeadership_FULL.pdf)," exposing the radical policy proposals hidden within this 900+ page document.
+* **[Project 2025: A Conservative Blueprint for Power](./Project_2025/A_Detailed_Breakdown.md):**
+* **[Agenda 47: Trump's Vision for a Second Term](./Agenda_47/A_Detailed_Breakdown.md):** A comprehensive analysis of Donald Trump's "[Agenda 47](https://en.wikipedia.org/wiki/Agenda_47)" campaign promises, revealing his vision for a second term and the potential dangers it poses.
+* **[A Dangerous Convergence: Agenda 47 and Project 2025](./Agenda_47/Agenda_47_vs_Project_2025.md):** A side-by-side comparison of Project 2025 and Agenda 47, highlighting the alarming overlap in themes, policy recommendations, and personnel.
+* **[Unmasking the Trump Connection: Authors and Contributors](./Project_2025/Authors/Trumps_Connections.md):**  An investigation into the deep connections between Project 2025's authors and the Trump administration, campaign, and family, exposing the project's true political agenda.
+* **[The First 100 Days: A Chilling Preview](./Project_2025/The_First_100_Days.md):** A hypothetical timeline of the first 100 days of a second Trump term, drawing from both Project 2025 and Agenda 47, illustrating the immediate and concrete impacts of their shared agenda.
+* **[The People's Guide: A Counter-Narrative](./Project_2025/The_Peoples_Guide_To_Project_2025.md):** An analysis of "[The People's Guide to Project 2025](https://democracyforward.org/the-peoples-guide-to-project-2025/)," a report by [Democracy Forward](https://democracyforward.org) that highlights the potential harms of Project 2025's proposals from a progressive perspective.
+
+### Domestic Consequences
+* **[The Erosion of Democracy: Project 2025's Assault on Voting Rights and Fair Elections](./Consequences/Domestic/Voting_Rights.md):** Project 2025 and Agenda 47 aim to undermine voting rights, sow doubt about elections, and rig the system in their favor. This page exposes their plan to silence your voice and steal our democracy.
+* **[The War on Reproductive Freedom: Project 2025's Assault on Abortion, IVF, and Contraception](./Dangers/Abortion_IVF_Contraception_Access.md):** A deep dive into Project 2025 and Agenda 47's alarming plans to restrict abortion access, limit IVF and contraception, and increase surveillance of women's reproductive health.
+* **[The Anti-Vaxx Agenda: Project 2025's Threat to Public Health](./Dangers/Anti_Vaxx.md):** Project 2025 and Agenda 47 embrace a dangerous anti-vaccine ideology that threatens public health. This page exposes their plan and its potential to unleash a wave of preventable diseases.
+* **[LGBTQIA+ Rights Under Siege: A Blueprint for Discrimination](./Dangers/LGBTQI_Rights.md):** A comprehensive look at the multi-pronged attack on LGBTQIA+ rights embedded in Project 2025 and Agenda 47, targeting healthcare, education, employment, family recognition, and freedom of expression.
+* **[Project 2025's War on Transgender Americans: A Blueprint for Discrimination](./Dangers/Trans_Rights.md):** A chilling look at how Project 2025 and Agenda 47 aim to erase transgender Americans from public life, denying them healthcare, education, employment, and legal recognition.
+* **[Trade War 2.0: Project 2025's Recipe for Economic Disaster](./Dangers/Trade_War.md):** Project 2025's protectionist trade agenda, including a 10% universal tariff, is a recipe for economic disaster. This page exposes the myth of protectionism and its devastating consequences for American families and businesses.
+* **[Social Security, Medicare, and Medicaid: Undermining the Safety Net](./Dangers/Social_Security_Medicare_and_Medicaid.md):** Project 2025's plans for Social Security, Medicare, and Medicaid could leave millions of Americans without access to affordable healthcare and retirement security.
+* **[Broken Promises: How Project 2025 Betrays America's Veterans](./Dangers/Veterans_Affairs.md):** Project 2025's promises of support for veterans ring hollow. This page exposes their plan to shrink the VA, restrict benefits, and betray those who served our country.
+* **[Unions Under Attack: Project 2025's Assault on Worker Power](./Dangers/Unions.md):** Project 2025 aims to weaken unions, silence worker voices, and tilt the balance of power towards corporations. This page exposes their anti-worker agenda and its potential consequences.
+* **[The Assault on Public Education: Project 2025's Plan to Privatize, Defund, and Indoctrinate](./Consequences/Domestic/Public_Education.md):** Project 2025's plan for education is a nightmare for students, teachers, and anyone who values a strong public education system. This page exposes their agenda to defund, privatize, and indoctrinate.
+* **[The Erosion of Civil Liberties: Project 2025's Descent into a Surveillance State](./Consequences/Domestic/Civil_Liberties.md):** Project 2025 and Agenda 47's vision for America is a chilling one: a surveillance state where the government monitors your every move, censors dissent, and restricts your freedoms. This page exposes their plan and its devastating consequences.
+
+### International Consequences
+* **[Project 2025's Deportation Machine: A Devastating Blow to America](./Dangers/Mass_Deportations.md):** A Devastating Blow to America: A chilling look at Project 2025 and Agenda 47's plans to unleash a deportation machine, tearing apart families, crippling the economy, and turning America into a nation of fear.
+* **[The Fate of Ukraine 🇺🇦: Abandoned by America 🇺🇸?](./International/Ukraine.md):** An examination of the likely consequences of a second Trump term for Ukraine, based on the evidence from Project 2025 and Agenda 47, suggesting a potential abandonment of U.S. support and a Russian victory.
+* **[A Scorched Earth Policy: Project 2025's Assault on Environmental Protection](./Consequences/International/The_Environment.md):** Project 2025's environmental agenda is a disaster in the making. This page exposes their plan to unleash polluters, gut regulations, and ignore the climate crisis, jeopardizing the health of our planet.
+
+### Other Resources
+* **[Access to Source Documents](#documents):** Direct links to the full PDFs of Project 2025's "Mandate for Leadership," Agenda 47, and "The People's Guide to Project 2025," as well as individual chapters and sections for easy reference and further research.
+
+----
+
+## Breakdowns/Comparisons
+
+### Chapter-by-Chapter Breakdowns:
 * [Forward: A Promise To America](./Project_2025/Mandate_For_Leadership/Foreward.md)
 * [Section Introductions](./Project_2025/Mandate_For_Leadership/Sections.md)
 * [Section 1: Taking the Reins of Government](./Project_2025/Mandate_For_Leadership/Sections.md)
@@ -192,6 +77,132 @@ Project 2025 and Agenda 47 advocate for a vast expansion of surveillance powers,
 	* [Chapter 30: Federal Trade Commission](./Project_2025/Mandate_For_Leadership/Chapter_30.md)
 * [Onward!](./Project_2025/Mandate_For_Leadership/Onward.md)
 
+### Project 2025: A Conservative Blueprint for Power
+
+Project 2025 is a massive policy initiative spearheaded by the Heritage Foundation, a conservative think tank, in collaboration with over 50 other conservative organizations. It aims to prepare a "comprehensive blueprint" for a future conservative president to "deconstruct the administrative state" and implement a sweeping conservative agenda across all areas of government.
+
+[Project 2025: A Conservative Blueprint for Power](./Project_2025/A_Detailed_Breakdown.md)
+
+### Agenda 47: Trump's Vision for a Second Term
+
+Agenda 47 is Donald Trump's policy platform for his 2024 presidential campaign, outlining his plans for a second term. It reflects a focus on expanding presidential power, enacting conservative social policies, and taking a hardline stance on immigration and national security.
+
+[Agenda 47: Trump's Vision for a Second Term](./Agenda_47/A_Detailed_Breakdown.md)
+
+### A Dangerous Convergence: Agenda 47 and Project 2025
+
+The overlap between Project 2025 and Agenda 47 is striking, suggesting a coordinated effort to implement a radical conservative agenda should Donald Trump return to the White House in 2025. They share common themes, policy recommendations, and personnel, raising serious concerns about the future of American democracy.
+
+[A Dangerous Convergence: Agenda 47 and Project 2025](./Agenda_47/Agenda_47_vs_Project_2025.md)
+
+### Unmasking the Trump Connection: Authors and Contributors
+
+Every single author of Project 2025 has direct or indirect ties to the Trump administration, campaign, or family. This raises concerns about the project's objectivity and suggests that it may be more of a political document than a policy document.
+
+[Unmasking the Trump Connection: Authors and Contributors](./Project_2025/Authors/Trumps_Connections.md)
+
+### The First 100 Days: A Glimpse into a Second Trump Term
+
+A hypothetical timeline of the first 100 days of a second Trump term, drawing from both Project 2025 and Agenda 47, illustrates the immediate and concrete impacts of their shared agenda.
+
+[The First 100 Days: A Second Trump Term](./Project_2025/The_First_100_Days.md)
+
+### The People's Guide: A Counter-Narrative
+
+"The People's Guide to Project 2025," published by Democracy Forward, provides a valuable counter-narrative, highlighting the potential harms of the project's proposals from a progressive perspective.
+
+[The People's Guide: A Counter-Narrative](./Project_2025/The_Peoples_Guide_To_Project_2025.md)
+
+## Domestic Consequences
+
+### The Erosion of Democracy: Project 2025's Assault on Voting Rights and Fair Elections
+
+Project 2025 and Agenda 47 represent a direct threat to American democracy, seeking to suppress voters, subvert elections, and consolidate power in the hands of a partisan minority. This page exposes their insidious plan to rig the system and silence the voices of ordinary Americans.
+
+[The Erosion of Democracy: Project 2025's Assault on Voting Rights and Fair Elections](./Consequences/Domestic/Voting_Rights.md)
+
+### The War on Reproductive Freedom: Project 2025's Assault on Abortion, IVF, and Contraception
+
+Project 2025 and Agenda 47 lay bare a chilling truth: the fight against *Roe v. Wade* was just the beginning. The conservative movement, emboldened by their Supreme Court victory, is now waging a full-scale war on reproductive freedom, aiming to ban abortion nationwide, restrict access to IVF and contraception, and control women's bodies. This page exposes their plan and its devastating consequences.
+
+[The War on Reproductive Freedom: Project 2025's Assault on Abortion, IVF, and Contraception](./Dangers/Abortion_IVF_Contraception_Access.md)
+
+### The Anti-Vaxx Agenda: Project 2025's Threat to Public Health
+
+Project 2025 and Agenda 47's embrace of anti-vaccine rhetoric and policies could have devastating consequences for public health, potentially leading to a resurgence of preventable diseases and undermining trust in science.
+
+[The Anti-Vaxx Agenda: Project 2025's Threat to Public Health](./Dangers/Anti_Vaxx.md)
+
+### LGBTQIA+ Rights Under Siege: A Blueprint for Discrimination
+
+Project 2025 and Agenda 47 don't just target transgender individuals; they represent a systematic assault on the rights and freedoms of the entire LGBTQIA+ community. This page exposes their dangerous agenda, which seeks to roll back decades of progress, enshrine discrimination, and create a less inclusive and less equitable America.
+
+[LGBTQIA+ Rights Under Siege: A Blueprint for Discrimination](./Dangers/LGBTQI_Rights.md)
+
+### Project 2025's War on Transgender Americans: A Blueprint for Discrimination
+
+Project 2025 and Agenda 47 don't just target reproductive rights; they aim to erase transgender Americans from public life. This page exposes their discriminatory plan and its devastating consequences.
+
+[Project 2025's War on Transgender Americans: A Blueprint for Discrimination](./Dangers/Trans_Rights.md)
+
+### Trade War 2.0: Project 2025's Recipe for Economic Disaster
+
+Project 2025 and Agenda 47's protectionist trade policies, including a 10% universal tariff, threaten to raise prices, kill jobs, and undermine American competitiveness. This page exposes the flawed logic of their trade war and its devastating consequences for the U.S. economy.
+
+[Trade War 2.0: Project 2025's Recipe for Economic Disaster](./Dangers/Trade_War.md)
+
+### Social Security, Medicare, and Medicaid: Undermining the Safety Net
+
+Project 2025 and Agenda 47 threaten the very foundation of America's social safety net, potentially leaving millions of Americans without access to affordable healthcare and retirement security. This page exposes their plans and the devastating consequences for our most vulnerable citizens.
+
+[Social Security, Medicare, and Medicaid: Undermining the Safety Net](./Dangers/Social_Security_Medicare_and_Medicaid.md)
+
+### Broken Promises: How Project 2025 Betrays America's Veterans
+
+Despite their rhetoric of supporting veterans, Project 2025's proposals could leave veterans with fewer benefits, diminished healthcare access, and a weakened VA system. This page exposes the truth behind their broken promises.
+
+[Broken Promises: How Project 2025 Betrays America's Veterans](./Dangers/Veterans_Affairs.md)
+
+### Unions Under Attack: Project 2025's Assault on Worker Power
+
+Project 2025's agenda includes a systematic attack on unions, aiming to weaken their power, undermine collective bargaining, and leave millions of American workers vulnerable to exploitation. This page exposes their anti-worker agenda and its potential consequences.
+
+[Unions Under Attack: Project 2025's Assault on Worker Power](./Dangers/Unions.md)
+
+### The Assault on Public Education: Project 2025's Plan to Privatize, Defund, and Indoctrinate
+
+Our public schools are under attack. Project 2025 and Agenda 47 aim to dismantle public education as we know it, defunding schools, expanding privatization, and imposing a narrow ideological agenda. This page exposes their plan and its devastating consequences for America's children.
+
+[The Assault on Public Education: Project 2025's Plan to Privatize, Defund, and Indoctrinate](./Consequences/Domestic/Public_Education.md)
+
+### The Erosion of Civil Liberties: Project 2025's Descent into a Surveillance State
+
+Project 2025 and Agenda 47 advocate for a vast expansion of surveillance powers, restrictions on access to information, and the silencing of dissent, threatening to transform America into a surveillance state where freedom is a privilege, not a right.
+
+[The Erosion of Civil Liberties: Project 2025's Descent into a Surveillance State](./Consequences/Domestic/Civil_Liberties.md)
+
+## International Consequences
+
+### Project 2025's Deportation Machine: A Devastating Blow to America
+
+Project 2025 and Agenda 47 envision an America transformed by mass deportations, a nation gripped by fear and division, where families are torn apart, communities are shattered, and the economy is crippled. This page exposes the chilling reality of their deportation machine and its devastating consequences.
+
+[Project 2025's Deportation Machine: A Devastating Blow to America](./Dangers/Mass_Deportations.md)
+
+### The Fate of Ukraine 🇺🇦: Abandoned by America 🇺🇸?
+
+Project 2025 and Agenda 47 offer a chilling glimpse into the potential fate of Ukraine under a second Trump administration. The evidence strongly suggests that Trump would likely reduce or eliminate aid to Ukraine, potentially leading to a Russian victory and a humanitarian crisis.
+
+[The Fate of Ukraine 🇺🇦: Abandoned by America 🇺🇸?](./International/Ukraine.md)
+
+### A Scorched Earth Policy: Project 2025's Assault on Environmental Protection
+
+Project 2025's agenda represents a direct attack on environmental protection, promoting policies that would accelerate climate change, increase pollution, and jeopardize the health of our planet. This page exposes their dangerous plans and the devastating consequences for our environment.
+
+[A Scorched Earth Policy: Project 2025's Assault on Environmental Protection](./Consequences/International/The_Environment.md)
+
+----
+
 ## Call to Action:
 
 Project 2025 and Agenda 47 represent a serious threat to American democracy. Get informed, share this analysis with others, and get involved in the fight to protect our values and institutions.
@@ -200,7 +211,9 @@ You can find my TikTok series here: [https://www.tiktok.com/@thestennettreport](
 
 Check your registration status, voting lists are being purged, so double check your status: [Vote.gov](https://vote.gov)
 
-## Documents
+----
+
+## Access to Source Documents
 ### Project 2025: Mandate for Leadership
 #### Entire PDF
 * [Project 2025: Mandate for Leadership](./Documents/Project_2025_-_Mandate_For_Leadership.pdf) _(922 pages)_
