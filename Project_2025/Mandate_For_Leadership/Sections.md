@@ -3,7 +3,7 @@ layout: page
 title: Mandate for Leadership - Introductory Section Breakdowns
 ---
 
-**[Section 1: Taking the Reins of Government](../../documents/project_2025_chapters/Section_1.pdf)**
+**[Section 1: Taking the Reins of Government](../../documents/project_2025_chapters/section_1.pdf)**
 
 * **Introduction:**
     * This section focuses on the White House and central personnel agencies, arguing that a conservative President must "limit, control, and direct the executive branch" to implement his agenda.
@@ -15,7 +15,7 @@ title: Mandate for Leadership - Introductory Section Breakdowns
 
 ----
 
-**[Section 2: The Common Defense](../../documents/project_2025_chapters/Section_2.pdf)**
+**[Section 2: The Common Defense](../../documents/project_2025_chapters/section_2.pdf)**
 
 * **Introduction:**
     * This section focuses on national security and foreign policy, arguing that the U.S. must prioritize countering threats from China, Russia, and other adversaries.
@@ -27,7 +27,7 @@ title: Mandate for Leadership - Introductory Section Breakdowns
 
 ----
 
-**[Section 3: The General Welfare](../../documents/project_2025_chapters/Section_3.pdf)**
+**[Section 3: The General Welfare](../../documents/project_2025_chapters/section_3.pdf)**
 
 * **Introduction:**
     * This section covers a wide range of domestic policy areas, including agriculture, education, energy, environmental protection, health care, housing, labor, and transportation.
@@ -39,7 +39,7 @@ title: Mandate for Leadership - Introductory Section Breakdowns
 
 ----
 
-**[Section 4: The Economy](../../documents/project_2025_chapters/Section_4.pdf)**
+**[Section 4: The Economy](../../documents/project_2025_chapters/section_4.pdf)**
 
 * **Introduction:**
     * This section focuses on economic policy, advocating for free market solutions, limited government intervention, and a strong national defense.
@@ -51,7 +51,7 @@ title: Mandate for Leadership - Introductory Section Breakdowns
 
 ----
 
-**[Section 5: Independent Regulatory Agencies](../../documents/project_2025_chapters/Section_5.pdf)**
+**[Section 5: Independent Regulatory Agencies](../../documents/project_2025_chapters/section_5.pdf)**
 
 * **Introduction:**
     * This section focuses on independent regulatory agencies, such as the FCC, FTC, and SEC, arguing that they have become too powerful and unaccountable.
