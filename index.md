@@ -10,7 +10,7 @@ This website is your essential guide to understanding and resisting [Project 202
 This website is your weapon in the fight against these dangerous agendas. Arm yourself with knowledge, share this information with others, and get involved in the movement to protect our democracy.
 
 ## Breakdowns/Comparisons
-* **[Chapter-by-Chapter Breakdowns](#chapter-by-chapter-breakdowns):**  A deep dive into each chapter of Project 2025's "[Mandate for Leadership](https://static.project2025.org/2025_MandateForLeadership_FULL.pdf)," exposing the radical policy proposals hidden within this 900+ page document.
+* **[Chapter-by-Chapter Breakdown](#chapter-by-chapter-breakdowns):** Exposing the radical policy proposals hidden within [Project 2025's "Mandate for Leadership"](https://static.project2025.org/2025_MandateForLeadership_FULL.pdf), chapter-by-chapter.
 * **[Project 2025: A Conservative Blueprint for Power](./project_2025/a_detailed_breakdown.md):** A deep dive into the Heritage Foundation's radical plan to dismantle the federal government, shrink the social safety net, and reshape America in a conservative image.
 * **[Agenda 47: Trump's Vision for a Second Term](./agenda_47/a_detailed_breakdown.md):** A comprehensive analysis of Donald Trump's "[Agenda 47](https://en.wikipedia.org/wiki/agenda_47)" campaign promises, revealing his vision for a second term and the potential dangers it poses.
 * **[A Dangerous Convergence: Agenda 47 and Project 2025](./agenda_47/agenda_47_vs_project_2025.md):** A side-by-side comparison of Project 2025 and Agenda 47, highlighting the alarming overlap in themes, policy recommendations, and personnel.
@@ -45,19 +45,18 @@ This website is your weapon in the fight against these dangerous agendas. Arm yo
 
 ## Chapter-by-Chapter Breakdowns:
 * [Forward: A Promise To America](./project_2025/mandate_for_leadership/foreward.md)
-* [Section Introductions](./project_2025/mandate_for_leadership/sections.md)
-* [Section 1: Taking the Reins of Government](./project_2025/mandate_for_leadership/sections.md)
+* [Section 1: Taking the Reins of Government](./project_2025/mandate_for_leadership/section_1.md)
 	* [Chapter 1: White House Office](./project_2025/mandate_for_leadership/chapter_1.md)
 	* [Chapter 2: Executive Office of the President](./project_2025/mandate_for_leadership/chapter_2.md)
 	* [Chapter 3: Central Personnel Agencies](./project_2025/mandate_for_leadership/chapter_3.md)
-* [Section 2: The Common Defense](./project_2025/mandate_for_leadership/sections.md)
+* [Section 2: The Common Defense](./project_2025/mandate_for_leadership/section_2.md)
 	* [Chapter 4: Department of Defense](./project_2025/mandate_for_leadership/chapter_4.md)
 	* [Chapter 5: Department of Homeland Security](./project_2025/mandate_for_leadership/chapter_5.md)
 	* [Chapter 6: Department of State](./project_2025/mandate_for_leadership/chapter_6.md)
 	* [Chapter 7: Intelligence Community](./project_2025/mandate_for_leadership/chapter_7.md)
 	* [Chapter 8: Media Agencies: U.S. Agency for Global Media](./project_2025/mandate_for_leadership/chapter_8.md)
 	* [Chapter 9: Agency for International Development](./project_2025/mandate_for_leadership/chapter_9.md)
-* [Section 3: The General Welfare](./project_2025/mandate_for_leadership/sections.md)
+* [Section 3: The General Welfare](./project_2025/mandate_for_leadership/section_3.md)
 	* [Chapter 10: Department of Agriculture](./project_2025/mandate_for_leadership/chapter_10.md)
 	* [Chapter 11: Department of Education](./project_2025/mandate_for_leadership/chapter_11.md)
 	* [Chapter 12: Department of Energy and Related Commissions](./project_2025/mandate_for_leadership/chapter_12.md)
@@ -69,16 +68,16 @@ This website is your weapon in the fight against these dangerous agendas. Arm yo
 	* [Chapter 18: Department of Labor and Related Agencies](./project_2025/mandate_for_leadership/chapter_18.md)
 	* [Chapter 19: Department of Transportation](./project_2025/mandate_for_leadership/chapter_19.md)
 	* [Chapter 20: Department of Veterans Affairs](./project_2025/mandate_for_leadership/chapter_20.md)
-* [Section 4: The Economy](./project_2025/mandate_for_leadership/sections.md)
+* [Section 4: The Economy](./project_2025/mandate_for_leadership/section_4.md)
 	* [Chapter 21: Department of Commerce](./project_2025/mandate_for_leadership/chapter_21.md)
 	* [Chapter 22: Department of the Treasury](./project_2025/mandate_for_leadership/chapter_22.md)
 	* [Chapter 23: Export-Import Bank](./project_2025/mandate_for_leadership/chapter_23.md)
 	* [Chapter 24: Federal Reserve](./project_2025/mandate_for_leadership/chapter_24.md)
 	* [Chapter 25: Small Business Administration](./project_2025/mandate_for_leadership/chapter_25.md)
 	* [Chapter 26: Trade](./project_2025/mandate_for_leadership/chapter_26.md)
-* [Section 5: Independent Regulatory Agencies](./project_2025/mandate_for_leadership/sections.md)
+* [Section 5: Independent Regulatory Agencies](./project_2025/mandate_for_leadership/section_5.md)
 	* [Chapter 27: Financial Regulatory Agencies](./project_2025/mandate_for_leadership/chapter_27.md)
 	* [Chapter 28: Federal Communications Commission](./project_2025/mandate_for_leadership/chapter_28.md)
 	* [Chapter 29: Federal Election Commission](./project_2025/mandate_for_leadership/chapter_29.md)
 	* [Chapter 30: Federal Trade Commission](./project_2025/mandate_for_leadership/chapter_30.md)
-* [Onward!](./project_2025/mandate_for_leadership/Onward.md)
+* [Onward!](./project_2025/mandate_for_leadership/onward.md)
