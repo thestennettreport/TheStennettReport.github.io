@@ -2,7 +2,6 @@
 layout: page
 title: The First 100 Days - A Second Trump Term
 ---
-# 
 
 ## Introduction
 
