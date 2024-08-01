@@ -81,8 +81,8 @@ The chapter's significance lies in its hawkish tone and its emphasis on military
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on military strength, countering China, and rejecting "woke" culture aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 6:**  This chapter, focusing on the Department of State, complements Chapter 4 by outlining a more confrontational and less diplomatic approach to foreign policy.
-* **Project 2025, Chapter 7:**  This chapter, focusing on the Intelligence Community, supports Chapter 4 by calling for a refocusing of intelligence resources on countering threats from China and Russia.
+* **[Project 2025, Chapter 6](./chapter_6.md):**  This chapter, focusing on the Department of State, complements Chapter 4 by outlining a more confrontational and less diplomatic approach to foreign policy.
+* **[Project 2025, Chapter 7](./chapter_7.md):**  This chapter, focusing on the Intelligence Community, supports Chapter 4 by calling for a refocusing of intelligence resources on countering threats from China and Russia.
 
 ### 7. POTENTIAL IMPACTS
 

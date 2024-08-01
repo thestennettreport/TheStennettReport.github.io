@@ -76,8 +76,8 @@ The chapter's significance lies in its call for a more ideologically driven and 
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on countering adversarial propaganda, promoting American values, and strengthening executive control aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 4:**  This chapter, focusing on the Department of Defense, complements Chapter 8 by highlighting the importance of information warfare in countering threats from China and Russia.
-* **Project 2025, Chapter 6:**  This chapter, focusing on the Department of State, supports Chapter 8 by advocating for a more confrontational approach to foreign policy and a reduction in U.S. involvement in international organizations, which could be seen as platforms for adversarial propaganda.
+* **[Project 2025, Chapter 4](./chapter_4.md):**  This chapter, focusing on the Department of Defense, complements Chapter 8 by highlighting the importance of information warfare in countering threats from China and Russia.
+* **[Project 2025, Chapter 6](./chapter_6.md):**  This chapter, focusing on the Department of State, supports Chapter 8 by advocating for a more confrontational approach to foreign policy and a reduction in U.S. involvement in international organizations, which could be seen as platforms for adversarial propaganda.
 
 ### 7. POTENTIAL IMPACTS
 

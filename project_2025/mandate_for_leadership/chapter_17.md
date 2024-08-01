@@ -81,8 +81,8 @@ The chapter's significance lies in its vision for a more politicized and less in
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on "law and order," a tough-on-crime approach, aggressive immigration enforcement, and countering China aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 5:**  This chapter, focusing on the Department of Homeland Security, complements Chapter 17 by calling for increased border security and a crackdown on "sanctuary cities."
-* **Project 2025, Chapter 7:**  This chapter, focusing on the Intelligence Community, supports Chapter 17 by advocating for a more aggressive approach to counterintelligence and for a greater focus on threats from China and Russia.
+* **[Project 2025, Chapter 5](./chapter_5.md):**  This chapter, focusing on the Department of Homeland Security, complements Chapter 17 by calling for increased border security and a crackdown on "sanctuary cities."
+* **[Project 2025, Chapter 7](./chapter_7.md):**  This chapter, focusing on the Intelligence Community, supports Chapter 17 by advocating for a more aggressive approach to counterintelligence and for a greater focus on threats from China and Russia.
 
 ### 7. POTENTIAL IMPACTS
 

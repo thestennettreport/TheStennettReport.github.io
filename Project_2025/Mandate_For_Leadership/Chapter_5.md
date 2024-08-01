@@ -80,8 +80,8 @@ The chapter's significance lies in its radical proposal to dismantle DHS, a majo
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on border security, hardline immigration enforcement, and state and local empowerment aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 17:**  This chapter, focusing on the Department of Justice, complements Chapter 5 by calling for a crackdown on "sanctuary cities" and for the DOJ to play a more active role in immigration enforcement.
-* **Project 2025, Chapter 18:**  This chapter, focusing on the Department of Labor, supports Chapter 5 by advocating for mandatory E-Verify to prevent undocumented immigrants from working in the U.S.
+* **[Project 2025, Chapter 17](./chapter_17.md):**  This chapter, focusing on the Department of Justice, complements Chapter 5 by calling for a crackdown on "sanctuary cities" and for the DOJ to play a more active role in immigration enforcement.
+* **[Project 2025, Chapter 18](./chapter_18.md):**  This chapter, focusing on the Department of Labor, supports Chapter 5 by advocating for mandatory E-Verify to prevent undocumented immigrants from working in the U.S.
 
 ### 7. POTENTIAL IMPACTS
 

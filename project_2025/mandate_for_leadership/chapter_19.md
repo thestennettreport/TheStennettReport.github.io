@@ -71,8 +71,8 @@ The chapter's significance lies in its call for a shift away from public transpo
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on deregulation, privatization, and skepticism towards climate change aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 12:**  This chapter, focusing on the Department of Energy, complements Chapter 19 by advocating for increased fossil fuel production, which would benefit the transportation sector.
-* **Project 2025, Chapter 13:**  This chapter, focusing on the Environmental Protection Agency, supports Chapter 19 by calling for a rollback of environmental regulations that Furchtgott-Roth believes are hindering transportation infrastructure development.
+* **[Project 2025, Chapter 12](./chapter_12.md):**  This chapter, focusing on the Department of Energy, complements Chapter 19 by advocating for increased fossil fuel production, which would benefit the transportation sector.
+* **[Project 2025, Chapter 13](./chapter_13.md):**  This chapter, focusing on the Environmental Protection Agency, supports Chapter 19 by calling for a rollback of environmental regulations that Furchtgott-Roth believes are hindering transportation infrastructure development.
 
 ### 7. POTENTIAL IMPACTS
 

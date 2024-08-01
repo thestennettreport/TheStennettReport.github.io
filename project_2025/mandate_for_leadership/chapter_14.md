@@ -97,8 +97,8 @@ The chapter's significance lies in its comprehensive plan to reshape HHS accordi
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on protecting "life," promoting traditional families, and restricting abortion access aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 3:**  This chapter, focusing on central personnel agencies, complements Chapter 14 by advocating for weakening civil service protections and making it easier to fire federal employees who do not align with the President's agenda, potentially allowing for a purge of HHS employees who support abortion rights or transgender rights.
-* **Project 2025, Chapter 11:**  This chapter, focusing on the Department of Education, supports Chapter 14 by calling for a rollback of federal regulations related to sex education and transgender students, aligning with the conservative social agenda promoted in both chapters.
+* **[Project 2025, Chapter 3](./chapter_3.md):**  This chapter, focusing on central personnel agencies, complements Chapter 14 by advocating for weakening civil service protections and making it easier to fire federal employees who do not align with the President's agenda, potentially allowing for a purge of HHS employees who support abortion rights or transgender rights.
+* **[Project 2025, Chapter 11](./chapter_11.md):**  This chapter, focusing on the Department of Education, supports Chapter 14 by calling for a rollback of federal regulations related to sex education and transgender students, aligning with the conservative social agenda promoted in both chapters.
 
 ### 7. POTENTIAL IMPACTS
 

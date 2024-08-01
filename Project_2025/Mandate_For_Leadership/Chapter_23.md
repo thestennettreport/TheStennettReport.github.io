@@ -75,8 +75,8 @@ The chapter's significance lies in its presentation of a key debate within the c
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  Hazelton's argument for using EXIM to counter China aligns with the broader goals outlined in Trump's Agenda 47, which emphasizes economic nationalism and confronting China. De Rugy's argument for abolishing EXIM aligns with the traditional conservative emphasis on free markets and limited government.
-* **Project 2025, Chapter 4:**  This chapter, focusing on the Department of Defense, complements Hazelton's argument by highlighting the national security implications of economic competition with China, suggesting that EXIM could be a tool for advancing U.S. strategic interests.
-* **Project 2025, Chapter 21:**  This chapter, focusing on the Department of Commerce, supports Hazelton's argument by calling for a more active role for the department in promoting American businesses and countering unfair trade practices from China.
+* **[Project 2025, Chapter 4](./chapter_4.md):**  This chapter, focusing on the Department of Defense, complements Hazelton's argument by highlighting the national security implications of economic competition with China, suggesting that EXIM could be a tool for advancing U.S. strategic interests.
+* **[Project 2025, Chapter 21](./chapter_21.md):**  This chapter, focusing on the Department of Commerce, supports Hazelton's argument by calling for a more active role for the department in promoting American businesses and countering unfair trade practices from China.
 
 ### 7. POTENTIAL IMPACTS
 

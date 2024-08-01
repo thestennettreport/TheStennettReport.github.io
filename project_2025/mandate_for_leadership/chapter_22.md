@@ -87,8 +87,8 @@ The chapter's significance lies in its radical vision for a smaller, less interv
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on fiscal responsibility, tax cuts, deregulation, countering China, and rejecting "woke" policies aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 2:**  This chapter, focusing on the Executive Office of the President, complements Chapter 22 by advocating for using the OMB to control agency spending and to implement the President's budgetary priorities.
-* **Project 2025, Chapter 27:**  This chapter, focusing on financial regulatory agencies, supports Chapter 22 by calling for a deregulation of the financial industry and a reduction in the role of government in financial markets.
+* **[Project 2025, Chapter 2](./chapter_2.md):**  This chapter, focusing on the Executive Office of the President, complements Chapter 22 by advocating for using the OMB to control agency spending and to implement the President's budgetary priorities.
+* **[Project 2025, Chapter 27](./chapter_27.md):**  This chapter, focusing on financial regulatory agencies, supports Chapter 22 by calling for a deregulation of the financial industry and a reduction in the role of government in financial markets.
 
 ### 7. POTENTIAL IMPACTS
 

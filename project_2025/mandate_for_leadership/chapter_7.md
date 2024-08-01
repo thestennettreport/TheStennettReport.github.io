@@ -82,8 +82,8 @@ The chapter's significance lies in its call for a more politicized and less inde
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on countering China, strengthening national security, and rejecting "woke" culture aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 4:**  This chapter, focusing on the Department of Defense, complements Chapter 7 by calling for increased military spending and a more assertive military posture to counter China and Russia.
-* **Project 2025, Chapter 6:**  This chapter, focusing on the Department of State, supports Chapter 7 by advocating for a more confrontational approach to foreign policy and a reduction in U.S. involvement in international organizations.
+* **[Project 2025, Chapter 4](./chapter_4.md):**  This chapter, focusing on the Department of Defense, complements Chapter 7 by calling for increased military spending and a more assertive military posture to counter China and Russia.
+* **[Project 2025, Chapter 6](./chapter_6.md):**  This chapter, focusing on the Department of State, supports Chapter 7 by advocating for a more confrontational approach to foreign policy and a reduction in U.S. involvement in international organizations.
 
 ### 7. POTENTIAL IMPACTS
 

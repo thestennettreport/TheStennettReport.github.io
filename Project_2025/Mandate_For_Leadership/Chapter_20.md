@@ -88,8 +88,8 @@ The chapter's significance lies in its vision for a smaller, less active VA, wit
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on a "Veteran-centric" approach, expanding community care, and promoting conservative social values aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 3:**  This chapter, focusing on central personnel agencies, complements Chapter 20 by advocating for weakening civil service protections, making it easier to fire VA employees who are not aligned with the President's agenda.
-* **Project 2025, Chapter 14:**  This chapter, focusing on the Department of Health and Human Services, supports Chapter 20 by advocating for a more market-based approach to healthcare and for reducing the role of government in healthcare.
+* **[Project 2025, Chapter 3](./chapter_3.md):**  This chapter, focusing on central personnel agencies, complements Chapter 20 by advocating for weakening civil service protections, making it easier to fire VA employees who are not aligned with the President's agenda.
+* **[Project 2025, Chapter 14](./chapter_14.md):**  This chapter, focusing on the Department of Health and Human Services, supports Chapter 20 by advocating for a more market-based approach to healthcare and for reducing the role of government in healthcare.
 
 ### 7. POTENTIAL IMPACTS
 

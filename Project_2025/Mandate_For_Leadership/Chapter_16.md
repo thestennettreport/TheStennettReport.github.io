@@ -81,8 +81,8 @@ The chapter's significance lies in its aggressive push to prioritize resource ex
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on "American energy dominance," deregulation, and state control aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 12:**  This chapter, focusing on the Department of Energy, complements Chapter 16 by advocating for increased fossil fuel production and a reduction in support for renewable energy.
-* **Project 2025, Chapter 13:**  This chapter, focusing on the Environmental Protection Agency, supports Chapter 16 by calling for a rollback of environmental regulations that Pendley believes are hindering economic development on public lands.
+* **[Project 2025, Chapter 12](./chapter_12.md):**  This chapter, focusing on the Department of Energy, complements Chapter 16 by advocating for increased fossil fuel production and a reduction in support for renewable energy.
+* **[Project 2025, Chapter 13](./chapter_13.md):**  This chapter, focusing on the Environmental Protection Agency, supports Chapter 16 by calling for a rollback of environmental regulations that Pendley believes are hindering economic development on public lands.
 
 ### 7. POTENTIAL IMPACTS
 

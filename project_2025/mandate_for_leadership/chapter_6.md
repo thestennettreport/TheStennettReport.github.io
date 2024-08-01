@@ -80,8 +80,8 @@ The chapter's significance lies in its call for a radical transformation of the 
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on a confrontational foreign policy, rejecting multilateralism, and promoting conservative social values aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 4:**  This chapter, focusing on the Department of Defense, complements Chapter 6 by calling for increased military spending and a more assertive military posture.
-* **Project 2025, Chapter 9:**  This chapter, focusing on the Agency for International Development, supports Chapter 6 by advocating for using foreign aid to promote conservative values and to counter Chinese influence.
+* **[Project 2025, Chapter 4](./chapter_4.md):**  This chapter, focusing on the Department of Defense, complements Chapter 6 by calling for increased military spending and a more assertive military posture.
+* **[Project 2025, Chapter 9](./chapter_9.md):**  This chapter, focusing on the Agency for International Development, supports Chapter 6 by advocating for using foreign aid to promote conservative values and to counter Chinese influence.
 
 ### 7. POTENTIAL IMPACTS
 

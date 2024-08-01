@@ -72,8 +72,8 @@ The chapter's significance lies in its stark departure from traditional norms of
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on "personnel is policy," weakening civil service protections, and restricting unions aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 1:**  This chapter complements Chapter 1 by providing a detailed roadmap for how to implement the staffing changes recommended for the White House Office.
-* **Project 2025, Chapter 2:**  This chapter reinforces the themes of Chapter 2 by emphasizing the need to control the bureaucracy and to use personnel decisions to advance the President's agenda.
+* **[Project 2025, Chapter 1](./chapter_1.md):**  This chapter complements Chapter 1 by providing a detailed roadmap for how to implement the staffing changes recommended for the White House Office.
+* **[Project 2025, Chapter 2](./chapter_2.md):**  This chapter reinforces the themes of Chapter 2 by emphasizing the need to control the bureaucracy and to use personnel decisions to advance the President's agenda.
 
 ### 7. POTENTIAL IMPACTS
 

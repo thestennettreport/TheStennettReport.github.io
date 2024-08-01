@@ -74,8 +74,8 @@ The chapter's significance lies in its attempt to downplay the potential for a c
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on protecting First Amendment rights and limiting the DOJ's role in prosecuting campaign finance violations aligns with the broader goals outlined in Trump's Agenda 47, which seeks to reduce government regulation and to protect conservative interests.
-* **Project 2025, Chapter 17:**  This chapter, focusing on the Department of Justice, complements Chapter 29 by advocating for a more politicized and less independent DOJ, which could be used to influence the enforcement of campaign finance laws.
-* **Project 2025, Chapter 28:**  This chapter, focusing on the Federal Communications Commission, supports Chapter 29 by calling for a rollback of regulations on media companies, potentially making it easier for them to engage in political spending and to influence elections.
+* **[Project 2025, Chapter 17](./chapter_17.md):**  This chapter, focusing on the Department of Justice, complements Chapter 29 by advocating for a more politicized and less independent DOJ, which could be used to influence the enforcement of campaign finance laws.
+* **[Project 2025, Chapter 28](./chapter_28.md):**  This chapter, focusing on the Federal Communications Commission, supports Chapter 29 by calling for a rollback of regulations on media companies, potentially making it easier for them to engage in political spending and to influence elections.
 
 ### 7. POTENTIAL IMPACTS
 

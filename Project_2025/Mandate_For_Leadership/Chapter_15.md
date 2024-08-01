@@ -70,8 +70,8 @@ The chapter's significance lies in its vision for a more market-driven approach 
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on individual responsibility, upward mobility, and a reduced role for government aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 3:**  This chapter, focusing on central personnel agencies, complements Chapter 15 by advocating for weakening civil service protections and making it easier to fire federal employees who do not align with the President's agenda, potentially allowing for a purge of HUD employees who support a more expansive role for the agency.
-* **Project 2025, Chapter 21:**  This chapter, focusing on the Department of Commerce, supports Chapter 15 by calling for greater scrutiny of foreign investment in the U.S., including real estate, particularly from China.
+* **[Project 2025, Chapter 3](./chapter_3.md):**  This chapter, focusing on central personnel agencies, complements Chapter 15 by advocating for weakening civil service protections and making it easier to fire federal employees who do not align with the President's agenda, potentially allowing for a purge of HUD employees who support a more expansive role for the agency.
+* **[Project 2025, Chapter 21](./chapter_21.md):**  This chapter, focusing on the Department of Commerce, supports Chapter 15 by calling for greater scrutiny of foreign investment in the U.S., including real estate, particularly from China.
 
 ### 7. POTENTIAL IMPACTS
 

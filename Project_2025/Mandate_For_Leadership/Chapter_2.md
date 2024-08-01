@@ -79,8 +79,8 @@ Vought argues that the EOP must be used aggressively to "limit, control, and dir
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on executive power, dismantling the administrative state, and regulatory rollback aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 1:**  This chapter builds on the foundation laid in Chapter 1 by outlining how to utilize the EOP to implement the staffing and structural changes recommended for the White House Office.
-* **Project 2025, Chapter 3:**  This chapter complements Chapter 2 by focusing on reforming the civil service system to make it easier to remove employees who are not aligned with the President's agenda.
+* **[Project 2025, Chapter 1](./chapter_1.md):**  This chapter builds on the foundation laid in Chapter 1 by outlining how to utilize the EOP to implement the staffing and structural changes recommended for the White House Office.
+* **[Project 2025, Chapter 3](./chapter_3.md):**  This chapter complements Chapter 2 by focusing on reforming the civil service system to make it easier to remove employees who are not aligned with the President's agenda.
 
 ### 7. POTENTIAL IMPACTS
 

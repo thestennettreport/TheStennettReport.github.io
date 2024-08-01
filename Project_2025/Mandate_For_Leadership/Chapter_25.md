@@ -75,8 +75,8 @@ The chapter's significance lies in its reflection of a broader conservative skep
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on limited government, free markets, and accountability aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 2:**  This chapter, focusing on the Executive Office of the President, complements Chapter 25 by advocating for using the OMB to control agency spending and to implement the President's budgetary priorities, potentially leading to cuts in funding for the SBA.
-* **Project 2025, Chapter 3:**  This chapter, focusing on central personnel agencies, supports Chapter 25 by advocating for weakening civil service protections and making it easier to fire federal employees, potentially allowing for a purge of SBA employees who support a more expansive role for the agency.
+* **[Project 2025, Chapter 2](./chapter_2.md):**  This chapter, focusing on the Executive Office of the President, complements Chapter 25 by advocating for using the OMB to control agency spending and to implement the President's budgetary priorities, potentially leading to cuts in funding for the SBA.
+* **[Project 2025, Chapter 3](./chapter_3.md):**  This chapter, focusing on central personnel agencies, supports Chapter 25 by advocating for weakening civil service protections and making it easier to fire federal employees, potentially allowing for a purge of SBA employees who support a more expansive role for the agency.
 
 ### 7. POTENTIAL IMPACTS
 

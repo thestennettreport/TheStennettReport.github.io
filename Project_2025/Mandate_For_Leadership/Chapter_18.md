@@ -88,8 +88,8 @@ The chapter's significance lies in its comprehensive plan to reshape labor polic
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on "family-supporting jobs," religious freedom, and a reduced role for government aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 3:**  This chapter, focusing on central personnel agencies, complements Chapter 18 by advocating for weakening civil service protections and making it easier to fire federal employees, potentially allowing for a purge of DOL employees who support worker rights or unions.
-* **Project 2025, Chapter 11:**  This chapter, focusing on the Department of Education, supports Chapter 18 by calling for a rollback of federal regulations related to sex education and transgender students, aligning with the conservative social agenda promoted in both chapters.
+* **[Project 2025, Chapter 3](./chapter_3.md):**  This chapter, focusing on central personnel agencies, complements Chapter 18 by advocating for weakening civil service protections and making it easier to fire federal employees, potentially allowing for a purge of DOL employees who support worker rights or unions.
+* **[Project 2025, Chapter 11](./chapter_11.md):**  This chapter, focusing on the Department of Education, supports Chapter 18 by calling for a rollback of federal regulations related to sex education and transgender students, aligning with the conservative social agenda promoted in both chapters.
 
 ### 7. POTENTIAL IMPACTS
 

@@ -116,8 +116,8 @@ The chapter provides a section-by-section breakdown of key positions and offices
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on loyalty, aggressive implementation, and dismantling the administrative state aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 2:**  This chapter, focusing on the Executive Office of the President, builds on the foundation laid in Chapter 1 by outlining how to utilize the EOP to further control the bureaucracy and advance the President's agenda.
-* **Project 2025, Chapter 3:**  This chapter, focusing on central personnel agencies, provides a detailed roadmap for how to reshape the federal workforce to make it more responsive to political leadership and less accountable to unions.
+* **[Project 2025, Chapter 2](./chapter_2.md):**  This chapter, focusing on the Executive Office of the President, builds on the foundation laid in Chapter 1 by outlining how to utilize the EOP to further control the bureaucracy and advance the President's agenda.
+* **[Project 2025, Chapter 3](./chapter_3.md):**  This chapter, focusing on central personnel agencies, provides a detailed roadmap for how to reshape the federal workforce to make it more responsive to political leadership and less accountable to unions.
 
 ### 7. POTENTIAL IMPACTS
 

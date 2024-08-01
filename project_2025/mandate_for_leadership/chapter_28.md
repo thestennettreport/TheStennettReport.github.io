@@ -91,8 +91,8 @@ The chapter's significance lies in its potential to reshape the regulatory lands
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on reining in Big Tech, promoting national security, and deregulation aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 4:**  This chapter, focusing on the Department of Defense, complements Chapter 28 by highlighting the national security threats posed by China, particularly in the area of technology.
-* **Project 2025, Chapter 21:**  This chapter, focusing on the Department of Commerce, supports Chapter 28 by advocating for a more confrontational approach to China and for strengthening export controls to prevent the transfer of sensitive technologies.
+* **[Project 2025, Chapter 4](./chapter_4.md):**  This chapter, focusing on the Department of Defense, complements Chapter 28 by highlighting the national security threats posed by China, particularly in the area of technology.
+* **[Project 2025, Chapter 21](./chapter_21.md):**  This chapter, focusing on the Department of Commerce, supports Chapter 28 by advocating for a more confrontational approach to China and for strengthening export controls to prevent the transfer of sensitive technologies.
 
 ### 7. POTENTIAL IMPACTS
 

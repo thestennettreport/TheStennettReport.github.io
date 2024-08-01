@@ -79,8 +79,8 @@ The chapter's significance lies in its call for a radical shift in agricultural 
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on limited government, free markets, and individual freedom aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 14:**  This chapter, focusing on the Department of Health and Human Services, complements Chapter 10 by advocating for moving food and nutrition programs to HHS.
-* **Project 2025, Chapter 18:**  This chapter, focusing on the Department of Labor, supports Chapter 10 by calling for work requirements for SNAP recipients.
+* **[Project 2025, Chapter 14](./chapter_14.md):**  This chapter, focusing on the Department of Health and Human Services, complements Chapter 10 by advocating for moving food and nutrition programs to HHS.
+* **[Project 2025, Chapter 18](./chapter_18.md):**  This chapter, focusing on the Department of Labor, supports Chapter 10 by calling for work requirements for SNAP recipients.
 
 ### 7. POTENTIAL IMPACTS
 

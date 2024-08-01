@@ -84,8 +84,8 @@ The chapter's significance lies in its call for a significant weakening of finan
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on deregulation, limited government, and a rejection of "woke" policies aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 2:**  This chapter, focusing on the Executive Office of the President, complements Chapter 27 by advocating for using the OMB to control agency budgets and regulations, potentially weakening financial regulatory agencies.
-* **Project 2025, Chapter 22:**  This chapter, focusing on the Department of the Treasury, supports Chapter 27 by calling for a more conservative approach to fiscal policy and a reduction in the role of government in the economy, which would align with a deregulatory agenda for financial markets.
+* **[Project 2025, Chapter 2](./chapter_2.md):**  This chapter, focusing on the Executive Office of the President, complements Chapter 27 by advocating for using the OMB to control agency budgets and regulations, potentially weakening financial regulatory agencies.
+* **[Project 2025, Chapter 22](./chapter_22.md):**  This chapter, focusing on the Department of the Treasury, supports Chapter 27 by calling for a more conservative approach to fiscal policy and a reduction in the role of government in the economy, which would align with a deregulatory agenda for financial markets.
 
 ### 7. POTENTIAL IMPACTS
 

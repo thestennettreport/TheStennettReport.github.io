@@ -74,8 +74,8 @@ The chapter's significance lies in its call for a more expansive and potentially
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on reining in Big Tech, promoting national security, and challenging "woke" ideology aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 1:**  This chapter, focusing on the White House Office, complements Chapter 30 by advocating for appointing loyalists to key positions within the administration, including at the FTC, who would be more likely to implement a conservative agenda.
-* **Project 2025, Chapter 17:**  This chapter, focusing on the Department of Justice, supports Chapter 30 by calling for a more aggressive approach to antitrust enforcement and for greater cooperation between the DOJ and state attorneys general.
+* **[Project 2025, Chapter 1](./chapter_1.md):**  This chapter, focusing on the White House Office, complements Chapter 30 by advocating for appointing loyalists to key positions within the administration, including at the FTC, who would be more likely to implement a conservative agenda.
+* **[Project 2025, Chapter 17](./chapter_17.md):**  This chapter, focusing on the Department of Justice, supports Chapter 30 by calling for a more aggressive approach to antitrust enforcement and for greater cooperation between the DOJ and state attorneys general.
 
 ### 7. POTENTIAL IMPACTS
 

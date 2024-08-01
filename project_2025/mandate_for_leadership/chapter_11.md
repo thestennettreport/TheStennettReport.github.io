@@ -84,8 +84,8 @@ The chapter's significance lies in its radical proposal to eliminate the Departm
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on school choice, parental rights, and a conservative social agenda aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 3:**  This chapter, focusing on central personnel agencies, complements Chapter 11 by advocating for weakening teacher unions and making it easier to fire teachers who do not align with the President's agenda.
-* **Project 2025, Chapter 14:**  This chapter, focusing on the Department of Health and Human Services, supports Chapter 11 by calling for a rollback of federal regulations related to sex education and transgender students.
+* **[Project 2025, Chapter 3](./chapter_3.md):**  This chapter, focusing on central personnel agencies, complements Chapter 11 by advocating for weakening teacher unions and making it easier to fire teachers who do not align with the President's agenda.
+* **[Project 2025, Chapter 14](./chapter_14.md):**  This chapter, focusing on the Department of Health and Human Services, supports Chapter 11 by calling for a rollback of federal regulations related to sex education and transgender students.
 
 ### 7. POTENTIAL IMPACTS
 

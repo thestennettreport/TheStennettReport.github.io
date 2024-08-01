@@ -71,8 +71,8 @@ The chapter's significance lies in its radical critique of the Fed and its advoc
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on limited government, free markets, and "sound money" aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 2:**  This chapter, focusing on the Executive Office of the President, complements Chapter 24 by advocating for using the OMB to control agency spending and to implement the President's budgetary priorities, potentially influencing the Fed's monetary policy.
-* **Project 2025, Chapter 22:**  This chapter, focusing on the Department of the Treasury, supports Chapter 24 by calling for a more conservative approach to fiscal policy, which could influence the Fed's monetary policy decisions.
+* **[Project 2025, Chapter 2](./chapter_2.md):**  This chapter, focusing on the Executive Office of the President, complements Chapter 24 by advocating for using the OMB to control agency spending and to implement the President's budgetary priorities, potentially influencing the Fed's monetary policy.
+* **[Project 2025, Chapter 22](./chapter_22.md):**  This chapter, focusing on the Department of the Treasury, supports Chapter 24 by calling for a more conservative approach to fiscal policy, which could influence the Fed's monetary policy decisions.
 
 ### 7. POTENTIAL IMPACTS
 

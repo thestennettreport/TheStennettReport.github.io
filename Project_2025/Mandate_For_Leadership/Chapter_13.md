@@ -77,8 +77,8 @@ The chapter's significance lies in its call for a fundamental shift in environme
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on deregulation, state leadership, and skepticism towards climate change aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 12:**  This chapter, focusing on the Department of Energy, complements Chapter 13 by advocating for increased fossil fuel production and a reduction in support for renewable energy.
-* **Project 2025, Chapter 16:**  This chapter, focusing on the Department of the Interior, supports Chapter 13 by calling for opening up public lands to energy development and for weakening protections for endangered species.
+* **[Project 2025, Chapter 12](./chapter_12.md):**  This chapter, focusing on the Department of Energy, complements Chapter 13 by advocating for increased fossil fuel production and a reduction in support for renewable energy.
+* **[Project 2025, Chapter 16](./chapter_16.md):**  This chapter, focusing on the Department of the Interior, supports Chapter 13 by calling for opening up public lands to energy development and for weakening protections for endangered species.
 
 ### 7. POTENTIAL IMPACTS
 

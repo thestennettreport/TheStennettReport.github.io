@@ -75,8 +75,8 @@ The chapter's significance lies in its call for a more politicized and less inde
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on countering China, deregulation, and a business-friendly approach aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 4:**  This chapter, focusing on the Department of Defense, complements Chapter 21 by highlighting the national security implications of economic competition with China.
-* **Project 2025, Chapter 15:**  This chapter, focusing on the Department of Housing and Urban Development, supports Chapter 21 by calling for greater scrutiny of foreign investment in the U.S., including real estate, particularly from China.
+* **[Project 2025, Chapter 4](./chapter_4.md):**  This chapter, focusing on the Department of Defense, complements Chapter 21 by highlighting the national security implications of economic competition with China.
+* **[Project 2025, Chapter 15](./chapter_15.md):**  This chapter, focusing on the Department of Housing and Urban Development, supports Chapter 21 by calling for greater scrutiny of foreign investment in the U.S., including real estate, particularly from China.
 
 ### 7. POTENTIAL IMPACTS
 

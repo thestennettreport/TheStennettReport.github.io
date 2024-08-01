@@ -73,8 +73,8 @@ The chapter's significance lies in its stark rejection of renewable energy and c
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on "American energy dominance," deregulation, and skepticism towards climate change aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 4:**  This chapter, focusing on the Department of Defense, complements Chapter 12 by highlighting the national security implications of energy independence.
-* **Project 2025, Chapter 13:**  This chapter, focusing on the Environmental Protection Agency, supports Chapter 12 by advocating for a rollback of environmental regulations that McNamee believes are hindering energy production.
+* **[Project 2025, Chapter 4](./chapter_4.md):**  This chapter, focusing on the Department of Defense, complements Chapter 12 by highlighting the national security implications of energy independence.
+* **[Project 2025, Chapter 13](./chapter_13.md):**  This chapter, focusing on the Environmental Protection Agency, supports Chapter 12 by advocating for a rollback of environmental regulations that McNamee believes are hindering energy production.
 
 ### 7. POTENTIAL IMPACTS
 

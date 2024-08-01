@@ -76,8 +76,8 @@ The chapter's significance lies in its call for a radical shift in U.S. foreign 
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  The chapter's emphasis on "deradicalizing" USAID, countering China, and promoting conservative values aligns with the broader goals outlined in Trump's Agenda 47.
-* **Project 2025, Chapter 4:**  This chapter, focusing on the Department of Defense, complements Chapter 9 by highlighting the importance of countering China's military and economic power.
-* **Project 2025, Chapter 6:**  This chapter, focusing on the Department of State, supports Chapter 9 by advocating for a more confrontational approach to foreign policy and a reduction in U.S. involvement in international organizations, which Primorac views as promoting a "globalist" agenda.
+* **[Project 2025, Chapter 4](./chapter_4.md):**  This chapter, focusing on the Department of Defense, complements Chapter 9 by highlighting the importance of countering China's military and economic power.
+* **[Project 2025, Chapter 6](./chapter_6.md):**  This chapter, focusing on the Department of State, supports Chapter 9 by advocating for a more confrontational approach to foreign policy and a reduction in U.S. involvement in international organizations, which Primorac views as promoting a "globalist" agenda.
 
 ### 7. POTENTIAL IMPACTS
 
