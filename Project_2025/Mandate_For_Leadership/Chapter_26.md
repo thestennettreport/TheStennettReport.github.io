@@ -84,8 +84,8 @@ The chapter's significance lies in its illumination of the divisions within the 
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  Navarro's argument for "fair trade" aligns with the protectionist sentiments expressed in Trump's Agenda 47, while Lassman's argument for "free trade" reflects a more traditional conservative approach.
-**[Project 2025, Chapter 4](./chapter_4.md):**  This chapter, focusing on the Department of Defense, complements Navarro's argument by highlighting the national security implications of economic competition with China.
-**[Project 2025, Chapter 21](./chapter_21.md):**  This chapter, focusing on the Department of Commerce, supports Navarro's argument by calling for a more active role for the department in countering China's "malign influence" and protecting American businesses from unfair trade practices.
+* **[Project 2025, Chapter 4](./chapter_4.md):**  This chapter, focusing on the Department of Defense, complements Navarro's argument by highlighting the national security implications of economic competition with China.
+* **[Project 2025, Chapter 21](./chapter_21.md):**  This chapter, focusing on the Department of Commerce, supports Navarro's argument by calling for a more active role for the department in countering China's "malign influence" and protecting American businesses from unfair trade practices.
 
 ### 7. POTENTIAL IMPACTS
 
