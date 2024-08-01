@@ -52,3 +52,8 @@ By: [Democracy Forward](https://democracyforward.org/the-peoples-guide-to-projec
 
 #### Entire PDF
 * [The People's Guide To Project 2025](./peoples_guide_to_project_2025.pdf) _(48 pages)_
+
+### Wikipedia
+* [Project 2025](./wikipedia/project_2025_wiki.pdf)
+* [Agenda 47](./wikipedia/agenda_47_wiki.pdf)
+* [Cabinet of Donald Trump](./wikipedia/cabinet_of_donald_trump_wiki.pdf)
