@@ -5,7 +5,7 @@ title: Mandate for Leadership - Section 5
 
 ### Section Title: Independent Regulatory Agencies
 
-### Introduction (p. 852)
+### Introduction <sup>(852)</sup>
 
 Section 5 of "Project 2025: Mandate for Leadership" focuses on independent regulatory agencies, such as the Securities and Exchange Commission (SEC), the Commodity Futures Trading Commission (CFTC), and the Federal Communications Commission (FCC), arguing that they have become too powerful, too unaccountable, and too willing to advance a "woke" agenda that undermines free markets and individual liberty. The section calls for a significant reduction in the power and scope of these agencies, advocating for deregulation, increased political control, and a return to a more business-friendly approach to regulation.
 
@@ -46,11 +46,11 @@ The introduction to Section 5 paints a picture of independent regulatory agencie
 
 ### Key Quotes:
 
-* **"Independent regulatory agencies have become the fourth branch of government, wielding vast power that is unaccountable to the President and to the American people." (p. 852)** This quote reflects the conservative view of independent agencies as being too powerful and unaccountable.
-* **"The regulatory burden imposed by these agencies is crushing, stifling innovation, economic growth, and job creation." (p. 852)** This quote highlights the conservative belief that regulation is harmful to the economy.
-* **"These agencies have been captured by special interests who use them to advance their own agendas at the expense of the public interest." (p. 853)** This quote reflects the conservative distrust of independent agencies and their belief that they are beholden to special interests.
-* **"The politicization of regulation has reached a crisis point. These agencies are increasingly being used to advance a partisan agenda, rather than to protect consumers, investors, or the public interest." (p. 853)** This quote criticizes the use of these agencies to advance a liberal agenda.
-* **"We need a fundamental reform of independent regulatory agencies to make them more accountable, more transparent, and more responsive to the President and to the American people." (p. 854)** This quote outlines the conservative goal of reforming independent agencies to reduce their power and increase political control.
+* **"Independent regulatory agencies have become the fourth branch of government, wielding vast power that is unaccountable to the President and to the American people." <sup>(852)</sup>** This quote reflects the conservative view of independent agencies as being too powerful and unaccountable.
+* **"The regulatory burden imposed by these agencies is crushing, stifling innovation, economic growth, and job creation." <sup>(852)</sup>** This quote highlights the conservative belief that regulation is harmful to the economy.
+* **"These agencies have been captured by special interests who use them to advance their own agendas at the expense of the public interest." <sup>(853)</sup>** This quote reflects the conservative distrust of independent agencies and their belief that they are beholden to special interests.
+* **"The politicization of regulation has reached a crisis point. These agencies are increasingly being used to advance a partisan agenda, rather than to protect consumers, investors, or the public interest." <sup>(853)</sup>** This quote criticizes the use of these agencies to advance a liberal agenda.
+* **"We need a fundamental reform of independent regulatory agencies to make them more accountable, more transparent, and more responsive to the President and to the American people." <sup>(854)</sup>** This quote outlines the conservative goal of reforming independent agencies to reduce their power and increase political control.
 
 ### Summary & Significance:
 

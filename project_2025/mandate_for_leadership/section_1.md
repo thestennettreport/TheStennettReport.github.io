@@ -5,7 +5,7 @@ title: Mandate for Leadership - Section 1
 
 ### Section Title: Taking the Reins of Government
 
-### Introduction (p. 54)
+### Introduction <sup>(54)</sup>
 
 Section 1 of "Project 2025: Mandate for Leadership" sets the stage for a radical transformation of the federal government, focusing on the White House and central personnel agencies. This section argues that a conservative President must seize control of the executive branch, dismantle the "administrative state," and reshape the federal workforce to align with a conservative agenda. It emphasizes the need for swift and decisive action, suggesting a willingness to break with traditional norms and to use executive power aggressively to achieve political goals.
 
@@ -42,10 +42,10 @@ The introduction to Section 1 highlights the importance of the first few months 
 
 ### Key Quotes:
 
-* **"The first 100 days of a new administration are critical. This is the time to set the agenda, to make key appointments, and to begin implementing the President's vision." (p. 54)**  This quote highlights the urgency and importance of swift action in a new administration.
-* **"The autonomous bureaucracy is a major obstacle to change. It is resistant to new ideas and is often more interested in protecting its own turf than in serving the American people." (p. 54)**  This quote reflects the deep distrust of the federal bureaucracy that pervades Project 2025.
-* **"The President must appoint individuals who share his vision and who are committed to implementing his agenda. These political appointees are essential for overcoming bureaucratic resistance and for achieving real change." (p. 54)**  This quote emphasizes the "personnel is policy" philosophy and the importance of appointing loyalists.
-* **"We must reform the civil service system to make it easier to fire incompetent and unmotivated employees. We must also weaken the power of unions, which have become a major obstacle to effective government management." (p. 55)**  This quote reveals the desire to weaken civil service protections and to reduce the influence of unions.
+* **"The first 100 days of a new administration are critical. This is the time to set the agenda, to make key appointments, and to begin implementing the President's vision." <sup>(54)</sup>**  This quote highlights the urgency and importance of swift action in a new administration.
+* **"The autonomous bureaucracy is a major obstacle to change. It is resistant to new ideas and is often more interested in protecting its own turf than in serving the American people." <sup>(54)</sup>**  This quote reflects the deep distrust of the federal bureaucracy that pervades Project 2025.
+* **"The President must appoint individuals who share his vision and who are committed to implementing his agenda. These political appointees are essential for overcoming bureaucratic resistance and for achieving real change." <sup>(54)</sup>**  This quote emphasizes the "personnel is policy" philosophy and the importance of appointing loyalists.
+* **"We must reform the civil service system to make it easier to fire incompetent and unmotivated employees. We must also weaken the power of unions, which have become a major obstacle to effective government management." <sup>(55)</sup>**  This quote reveals the desire to weaken civil service protections and to reduce the influence of unions.
 
 ### Summary & Significance:
 

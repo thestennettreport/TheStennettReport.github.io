@@ -23,13 +23,13 @@ The chapter's significance lies in its potential to reshape the regulatory lands
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: The FCC's "Vital Role" (p. 872)**
+**3.1 Introduction: The FCC's "Vital Role" <sup>(872)</sup>**
 
 * Carr argues that the FCC has a "vital role" to play in protecting individual liberty, promoting economic prosperity, and securing communications networks.
 * He criticizes the Biden Administration's approach to communications policy, arguing that it is "stifling innovation" and "harming consumers."
 * **Quote:** "The FCC is at a crossroads. It can either continue down the path of heavy-handed regulation and government control, or it can embrace a new era of freedom, innovation, and prosperity."
 
-**3.2 Reining in Big Tech (p. 880)**
+**3.2 Reining in Big Tech <sup>(880)</sup>**
 
 * Carr expresses concern about the power of Big Tech companies, particularly their ability to "censor speech" and to "control the flow of information."
 * He advocates for the FCC to:
@@ -37,7 +37,7 @@ The chapter's significance lies in its potential to reshape the regulatory lands
     * **Impose Transparency Rules:**  Require Big Tech companies to be more transparent about their content moderation practices.
     * **Support Legislation:**  Support legislation that would limit Big Tech's power and increase competition in the digital marketplace.
 
-**3.3 Promoting National Security (p. 883)**
+**3.3 Promoting National Security <sup>(883)</sup>**
 
 * Carr highlights the FCC's role in protecting national security, particularly from threats posed by China.
 * He advocates for:
@@ -45,7 +45,7 @@ The chapter's significance lies in its potential to reshape the regulatory lands
     * **Closing Loopholes:**  Closing loopholes that allow Chinese companies to operate in the U.S. without FCC oversight.
     * **Funding "Rip and Replace":**  Fully funding the "rip and replace" program to remove insecure equipment from U.S. networks.
 
-**3.4 Unleashing Economic Prosperity (p. 886)**
+**3.4 Unleashing Economic Prosperity <sup>(886)</sup>**
 
 * Carr argues that the FCC can promote economic prosperity by:
     * **Promoting Broadband Connectivity:**  Expanding access to broadband internet service, particularly in rural areas.
@@ -53,32 +53,32 @@ The chapter's significance lies in its potential to reshape the regulatory lands
     * **Modernizing Infrastructure Rules:**  Updating regulations to facilitate the deployment of new broadband infrastructure.
     * **Advancing Space Leadership:**  Supporting the development of a robust commercial space industry.
 
-**3.5 Ensuring Accountability and Good Governance (p. 888)**
+**3.5 Ensuring Accountability and Good Governance <sup>(888)</sup>**
 
 * Carr calls for greater accountability and transparency at the FCC, including:
     * **Ending Wasteful Spending:**  Eliminating wasteful broadband spending policies and focusing on targeted investments.
     * **Adopting a National Strategy:**  Developing a national coordinating strategy for broadband initiatives.
     * **Eliminating Outdated Regulations:**  Eliminating outdated regulations that stifle innovation and competition.
 
-**3.6 Conclusion: A "New Era" for the FCC (p. 890)**
+**3.6 Conclusion: A "New Era" for the FCC <sup>(890)</sup>**
 
 * Carr concludes by arguing that his recommendations will usher in a "new era" for the FCC, one that is more focused on "protecting individual liberty, promoting economic prosperity, and securing our communications networks."
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Reinterpret Section 230:**  Interpret Section 230 of the Communications Decency Act more narrowly to limit the legal immunity of online platforms. (p. 880)
-* **Impose Transparency Rules on Big Tech:**  Require Big Tech companies to be more transparent about their content moderation practices. (p. 881)
-* **Support Legislation to Limit Big Tech's Power:**  Support legislation that would limit Big Tech's power and increase competition in the digital marketplace. (p. 882)
-* **Expand the Covered List:**  Expand the FCC's Covered List of prohibited equipment and services to include more Chinese companies. (p. 883)
-* **Close Loopholes for Chinese Companies:**  Close loopholes that allow Chinese companies to operate in the U.S. without FCC oversight. (p. 884)
-* **Fund "Rip and Replace":**  Fully fund the "rip and replace" program to remove insecure equipment from U.S. networks. (p. 885)
-* **Promote Broadband Connectivity:**  Expand access to broadband internet service. (p. 886)
-* **Free Up Spectrum:**  Make more spectrum available for wireless services. (p. 886)
-* **Modernize Infrastructure Rules:**  Update regulations to facilitate the deployment of new broadband infrastructure. (p. 887)
-* **Advance Space Leadership:**  Support the development of a robust commercial space industry. (p. 887)
-* **End Wasteful Spending:**  Eliminate wasteful broadband spending policies. (p. 888)
-* **Adopt a National Broadband Strategy:**  Develop a national coordinating strategy for broadband initiatives. (p. 888)
-* **Eliminate Outdated Regulations:**  Eliminate outdated regulations that stifle innovation and competition. (p. 889)
+* **Reinterpret Section 230:**  Interpret Section 230 of the Communications Decency Act more narrowly to limit the legal immunity of online platforms. <sup>(880)</sup>
+* **Impose Transparency Rules on Big Tech:**  Require Big Tech companies to be more transparent about their content moderation practices. <sup>(881)</sup>
+* **Support Legislation to Limit Big Tech's Power:**  Support legislation that would limit Big Tech's power and increase competition in the digital marketplace. <sup>(882)</sup>
+* **Expand the Covered List:**  Expand the FCC's Covered List of prohibited equipment and services to include more Chinese companies. <sup>(883)</sup>
+* **Close Loopholes for Chinese Companies:**  Close loopholes that allow Chinese companies to operate in the U.S. without FCC oversight. <sup>(884)</sup>
+* **Fund "Rip and Replace":**  Fully fund the "rip and replace" program to remove insecure equipment from U.S. networks. <sup>(885)</sup>
+* **Promote Broadband Connectivity:**  Expand access to broadband internet service. <sup>(886)</sup>
+* **Free Up Spectrum:**  Make more spectrum available for wireless services. <sup>(886)</sup>
+* **Modernize Infrastructure Rules:**  Update regulations to facilitate the deployment of new broadband infrastructure. <sup>(887)</sup>
+* **Advance Space Leadership:**  Support the development of a robust commercial space industry. <sup>(887)</sup>
+* **End Wasteful Spending:**  Eliminate wasteful broadband spending policies. <sup>(888)</sup>
+* **Adopt a National Broadband Strategy:**  Develop a national coordinating strategy for broadband initiatives. <sup>(888)</sup>
+* **Eliminate Outdated Regulations:**  Eliminate outdated regulations that stifle innovation and competition. <sup>(889)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -110,11 +110,11 @@ The chapter's significance lies in its potential to reshape the regulatory lands
 
 ### 9. KEY QUOTES
 
-* **"The FCC is at a crossroads. It can either continue down the path of heavy-handed regulation and government control, or it can embrace a new era of freedom, innovation, and prosperity." (p. 872)**  This quote reflects Carr's belief that the FCC should adopt a more market-oriented approach to regulation.
-* **"The FCC has an important role to play in addressing the threats to individual liberty posed by corporations that are abusing dominant positions in the market. Nowhere is that clearer than when it comes to Big Tech and its attempts to drive diverse political viewpoints from the digital town square." (p. 880)**  This quote highlights Carr's concern about Big Tech's power and its alleged censorship of conservative viewpoints.
-* **"We must expand the FCC's Covered List of prohibited equipment and services to include more Chinese companies. We must also close loopholes that allow Chinese companies to operate in the U.S. without FCC oversight." (p. 883)**  This quote reflects the chapter's focus on countering China's influence in the telecommunications sector.
-* **"The FCC can promote economic prosperity by expanding access to broadband internet service, freeing up spectrum for wireless services, modernizing infrastructure rules, and advancing America's space leadership." (p. 886)**  This quote outlines Carr's vision for a pro-growth agenda at the FCC.
-* **"We must end wasteful broadband spending policies and focus on targeted investments that will actually expand access to broadband service." (p. 888)**  This quote reflects the chapter's emphasis on efficiency and accountability.
+* **"The FCC is at a crossroads. It can either continue down the path of heavy-handed regulation and government control, or it can embrace a new era of freedom, innovation, and prosperity." <sup>(872)</sup>**  This quote reflects Carr's belief that the FCC should adopt a more market-oriented approach to regulation.
+* **"The FCC has an important role to play in addressing the threats to individual liberty posed by corporations that are abusing dominant positions in the market. Nowhere is that clearer than when it comes to Big Tech and its attempts to drive diverse political viewpoints from the digital town square." <sup>(880)</sup>**  This quote highlights Carr's concern about Big Tech's power and its alleged censorship of conservative viewpoints.
+* **"We must expand the FCC's Covered List of prohibited equipment and services to include more Chinese companies. We must also close loopholes that allow Chinese companies to operate in the U.S. without FCC oversight." <sup>(883)</sup>**  This quote reflects the chapter's focus on countering China's influence in the telecommunications sector.
+* **"The FCC can promote economic prosperity by expanding access to broadband internet service, freeing up spectrum for wireless services, modernizing infrastructure rules, and advancing America's space leadership." <sup>(886)</sup>**  This quote outlines Carr's vision for a pro-growth agenda at the FCC.
+* **"We must end wasteful broadband spending policies and focus on targeted investments that will actually expand access to broadband service." <sup>(888)</sup>**  This quote reflects the chapter's emphasis on efficiency and accountability.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

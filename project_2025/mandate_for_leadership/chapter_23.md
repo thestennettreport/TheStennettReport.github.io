@@ -29,7 +29,7 @@ The chapter's significance lies in its presentation of a key debate within the c
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 The Case for the Export-Import Bank (p. 746)**
+**3.1 The Case for the Export-Import Bank <sup>(746)</sup>**
 
 * **Introduction:** Hazelton begins by arguing that EXIM is a "vital tool" for promoting U.S. exports and supporting American jobs.
 * **Countering China:** She emphasizes the importance of EXIM in countering China's "aggressive export financing practices," which she claims are giving Chinese companies an unfair advantage in global markets.
@@ -37,7 +37,7 @@ The chapter's significance lies in its presentation of a key debate within the c
 * **Protecting Taxpayers:** She asserts that EXIM is a "good investment" for taxpayers because it operates at a profit and generates revenue for the Treasury.
 * **Conclusion:** Hazelton concludes by calling for the reauthorization and strengthening of EXIM, arguing that it is essential for American economic competitiveness and national security.
 
-**3.2 The Case for Free Trade (p. 752)**
+**3.2 The Case for Free Trade <sup>(752)</sup>**
 
 * **Introduction:** De Rugy begins by arguing that EXIM is "unnecessary" and "harmful" and that it should be abolished.
 * **Corporate Welfare:** She criticizes EXIM as a form of corporate welfare that benefits a small number of large corporations at the expense of taxpayers and small businesses.
@@ -49,14 +49,14 @@ The chapter's significance lies in its presentation of a key debate within the c
 
 **Hazelton:**
 
-* **Reauthorize and Strengthen EXIM:**  Reauthorize EXIM and increase its lending capacity to better compete with China's export financing programs. (p. 751)
-* **Focus on Countering China:**  Prioritize EXIM financing for projects that compete directly with Chinese companies, particularly in strategic sectors like infrastructure and technology. (p. 749)
-* **Support Small Businesses:**  Increase EXIM's support for small businesses that are seeking to export their products and services. (p. 750)
+* **Reauthorize and Strengthen EXIM:**  Reauthorize EXIM and increase its lending capacity to better compete with China's export financing programs. <sup>(751)</sup>
+* **Focus on Countering China:**  Prioritize EXIM financing for projects that compete directly with Chinese companies, particularly in strategic sectors like infrastructure and technology. <sup>(749)</sup>
+* **Support Small Businesses:**  Increase EXIM's support for small businesses that are seeking to export their products and services. <sup>(750)</sup>
 
 **De Rugy:**
 
-* **Abolish EXIM:**  Abolish EXIM, arguing that it is unnecessary, harmful, and a form of corporate welfare. (p. 752)
-* **Promote Free Trade:**  Reduce trade barriers and promote free trade, allowing American businesses to compete on a level playing field without government subsidies. (p. 759)
+* **Abolish EXIM:**  Abolish EXIM, arguing that it is unnecessary, harmful, and a form of corporate welfare. <sup>(752)</sup>
+* **Promote Free Trade:**  Reduce trade barriers and promote free trade, allowing American businesses to compete on a level playing field without government subsidies. <sup>(759)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -103,15 +103,15 @@ The chapter's significance lies in its presentation of a key debate within the c
 
 **Hazelton:**
 
-* **"Export credit is a strategic weapon in China’s whole-of-government approach to enhance its global power." (p. 748)**  This quote highlights Hazelton's view of EXIM as a tool for countering China.
-* **"EXIM helps American businesses of all sizes to compete in the global marketplace." (p. 750)**  This quote emphasizes Hazelton's belief that EXIM benefits both large and small businesses.
-* **"EXIM is a good investment for taxpayers because it operates at a profit and generates revenue for the Treasury." (p. 751)**  This quote reflects Hazelton's argument that EXIM is fiscally responsible.
+* **"Export credit is a strategic weapon in China’s whole-of-government approach to enhance its global power." <sup>(748)</sup>**  This quote highlights Hazelton's view of EXIM as a tool for countering China.
+* **"EXIM helps American businesses of all sizes to compete in the global marketplace." <sup>(750)</sup>**  This quote emphasizes Hazelton's belief that EXIM benefits both large and small businesses.
+* **"EXIM is a good investment for taxpayers because it operates at a profit and generates revenue for the Treasury." <sup>(751)</sup>**  This quote reflects Hazelton's argument that EXIM is fiscally responsible.
 
 **De Rugy:**
 
-* **"EXIM operates in effect as a protectionist agency that picks winners and losers in the market by providing political privileges to firms that are already well-financed." (p. 753)**  This quote reflects De Rugy's view of EXIM as a form of corporate welfare that distorts markets.
-* **"EXIM actually harms small businesses by subsidizing their larger competitors." (p. 755)**  This quote highlights De Rugy's concern that EXIM disadvantages small businesses.
-* **"Abolishing EXIM would promote free trade, reduce government spending, and benefit American consumers and taxpayers." (p. 759)**  This quote summarizes De Rugy's argument for abolishing EXIM.
+* **"EXIM operates in effect as a protectionist agency that picks winners and losers in the market by providing political privileges to firms that are already well-financed." <sup>(753)</sup>**  This quote reflects De Rugy's view of EXIM as a form of corporate welfare that distorts markets.
+* **"EXIM actually harms small businesses by subsidizing their larger competitors." <sup>(755)</sup>**  This quote highlights De Rugy's concern that EXIM disadvantages small businesses.
+* **"Abolishing EXIM would promote free trade, reduce government spending, and benefit American consumers and taxpayers." <sup>(759)</sup>**  This quote summarizes De Rugy's argument for abolishing EXIM.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

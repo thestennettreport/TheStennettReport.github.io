@@ -25,7 +25,7 @@ The chapter's significance lies in its detailed roadmap for a conservative takeo
 
 The chapter provides a section-by-section breakdown of key positions and offices within the WHO, outlining their roles and responsibilities and offering recommendations for how a conservative President can utilize them effectively.
 
-**3.1 Chief of Staff (p. 57)**
+**3.1 Chief of Staff <sup>(57)</sup>**
 
 * Dearborn emphasizes the paramount role of the Chief of Staff as the "most critical" staff member for implementing the President's vision. 
 * The Chief of Staff sets priorities, manages the WHO and EOP staff, and coordinates policy development and execution.
@@ -37,73 +37,73 @@ The chapter provides a section-by-section breakdown of key positions and offices
 * The Deputy Chief of Staff for Management oversees the President's schedule, logistics, and White House operations.
 * The Deputy Chief of Staff for Policy coordinates policy development and outreach to political and external groups.
 
-**3.3 Senior Advisors (p. 59)**
+**3.3 Senior Advisors <sup>(59)</sup>**
 
 * Senior Advisors provide broad guidance on political matters, communications, and specific policy areas.
 * Their portfolios should be clearly defined to avoid overlap and ensure effectiveness.
 
-**3.4 Office of White House Counsel (p. 59)**
+**3.4 Office of White House Counsel <sup>(59)</sup>**
 
 * The White House Counsel provides legal advice to the President and EOP on a range of issues, including presidential powers, ethics compliance, and judicial nominations.
 * Dearborn emphasizes the need for a counsel who is deeply committed to the President's agenda and provides proactive, ethical counsel.
 * **Quote:** "The office is not designed to create or advance policies on its own initiative—nor should it do so. Rather, it is dedicated to guiding the President and his reports on how (within the bounds of the law) to pursue and realize the President’s agenda."
 
-**3.5 Staff Secretary (p. 61)**
+**3.5 Staff Secretary <sup>(61)</sup>**
 
 * The Staff Secretary manages the flow of information to and from the Oval Office, ensuring that materials are complete and well-ordered.
 * This position requires a high degree of trust and discretion.
 
-**3.6 Office of Communications (p. 62)**
+**3.6 Office of Communications <sup>(62)</sup>**
 
 * The Office of Communications conveys the President's agenda to the public through speeches, press briefings, and social media.
 * It should work closely with the Press Office, speechwriters, and digital strategists to ensure a unified message.
 
-**3.7 Office of Legislative Affairs (OLA) (p. 63)**
+**3.7 Office of Legislative Affairs (OLA) <sup>(63)</sup>**
 
 * The OLA serves as the liaison between the White House and Congress, working to secure confirmation of presidential nominees and passage of the President's legislative priorities.
 
-**3.8 Office of Presidential Personnel (PPO) (p. 64)**
+**3.8 Office of Presidential Personnel (PPO) <sup>(64)</sup>**
 
 * The PPO is responsible for staffing the executive branch with individuals who are aligned with the President's agenda.
 * This includes identifying, vetting, and recommending candidates for both Senate-confirmed and political appointee positions.
 * **Quote:** "PPO’s primary responsibility is to staff the executive branch with individuals who are equipped to implement the President’s agenda."
 
-**3.9 Office of Political Affairs (OPA) (p. 66)**
+**3.9 Office of Political Affairs (OPA) <sup>(66)</sup>**
 
 * The OPA manages the President's political interests, serving as a liaison with political parties, campaigns, and interest groups.
 
-**3.10 Office of Cabinet Affairs (OCA) (p. 66)**
+**3.10 Office of Cabinet Affairs (OCA) <sup>(66)</sup>**
 
 * The OCA coordinates policy and communication between the White House and the Cabinet, including organizing Cabinet meetings and tracking the progress of the President's agenda.
 
-**3.11 Office of Public Liaison (OPL) (p. 67)**
+**3.11 Office of Public Liaison (OPL) <sup>(67)</sup>**
 
 * The OPL builds coalitions and support for the President's agenda across various interest groups.
 
-**3.12 Office of Intergovernmental Affairs (IGA) (p. 68)**
+**3.12 Office of Intergovernmental Affairs (IGA) <sup>(68)</sup>**
 
 * The IGA connects the White House to state, local, and tribal governments.
 
-**3.13 White House Policy Councils (p. 69)**
+**3.13 White House Policy Councils <sup>(69)</sup>**
 
 * The chapter highlights the role of the National Security Council (NSC), National Economic Council (NEC), and Domestic Policy Council (DPC) in coordinating policy development and implementation.
 * **Quote:** "The primary role of the policy councils is to coordinate the development of Administration policy."
 
-**3.14 Office of the Vice President (OVP) (p. 73)**
+**3.14 Office of the Vice President (OVP) <sup>(73)</sup>**
 
 * The Vice President serves as a key advisor to the President and can be tasked with leading specific initiatives.
 
-**3.15 Office of the First Lady/First Gentleman (p. 73)**
+**3.15 Office of the First Lady/First Gentleman <sup>(73)</sup>**
 
 * The First Lady or First Gentleman can play a role in promoting specific policy initiatives.
 
 ### 4. POLICY RECOMMENDATIONS
 
 * **Staffing:** Appoint individuals who are "deeply committed" to the President's conservative agenda to all key positions within the WHO. (Throughout the chapter)
-* **Legal Strategy:**  Adopt an "activist" approach by the Office of White House Counsel, pushing legal boundaries to advance the President's agenda. (p. 59)
-* **Policy Coordination:**  Centralize policy development and implementation through the White House policy councils. (p. 69)
-* **Congressional Relations:**  Utilize the Office of Legislative Affairs to secure confirmation of presidential nominees and passage of the President's legislative priorities. (p. 63)
-* **Political Outreach:**  Leverage the Office of Political Affairs to build support for the President's agenda among political parties, campaigns, and interest groups. (p. 66)
+* **Legal Strategy:**  Adopt an "activist" approach by the Office of White House Counsel, pushing legal boundaries to advance the President's agenda. <sup>(59)</sup>
+* **Policy Coordination:**  Centralize policy development and implementation through the White House policy councils. <sup>(69)</sup>
+* **Congressional Relations:**  Utilize the Office of Legislative Affairs to secure confirmation of presidential nominees and passage of the President's legislative priorities. <sup>(63)</sup>
+* **Political Outreach:**  Leverage the Office of Political Affairs to build support for the President's agenda among political parties, campaigns, and interest groups. <sup>(66)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -133,9 +133,9 @@ The chapter provides a section-by-section breakdown of key positions and offices
 
 ### 9. KEY QUOTES
 
-* **"Of all presidential staff members, the chief is the most critical to implementation of the President’s vision for the country." (p. 57)**  This quote highlights the paramount importance of the Chief of Staff in driving the President's agenda.
-* **"The office is not designed to create or advance policies on its own initiative—nor should it do so. Rather, it is dedicated to guiding the President and his reports on how (within the bounds of the law) to pursue and realize the President’s agenda." (p. 59)**  This quote reveals the desire to use the Office of White House Counsel to aggressively push legal boundaries to advance the President's agenda.
-* **"PPO’s primary responsibility is to staff the executive branch with individuals who are equipped to implement the President’s agenda." (p. 64)**  This quote underscores the "personnel is policy" philosophy, emphasizing the need to fill the government with loyalists.
+* **"Of all presidential staff members, the chief is the most critical to implementation of the President’s vision for the country." <sup>(57)</sup>**  This quote highlights the paramount importance of the Chief of Staff in driving the President's agenda.
+* **"The office is not designed to create or advance policies on its own initiative—nor should it do so. Rather, it is dedicated to guiding the President and his reports on how (within the bounds of the law) to pursue and realize the President’s agenda." <sup>(59)</sup>**  This quote reveals the desire to use the Office of White House Counsel to aggressively push legal boundaries to advance the President's agenda.
+* **"PPO’s primary responsibility is to staff the executive branch with individuals who are equipped to implement the President’s agenda." <sup>(64)</sup>**  This quote underscores the "personnel is policy" philosophy, emphasizing the need to fill the government with loyalists.
 * **"The primary role of the policy councils is to coordinate the development of Administration policy." <sup>(69)</sup>**  This quote highlights the centralized control of policymaking advocated by the chapter.
 
 ### 10. SUMMARY & SIGNIFICANCE

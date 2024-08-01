@@ -23,19 +23,19 @@ The chapter's significance lies in its call for a more ideologically driven and 
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: A "Strategic Asset" in the Information War <sup>260</sup>**
+**3.1 Introduction: A "Strategic Asset" in the Information War <sup>(260)</sup>**
 
 * Namdar argues that USAGM is a "strategic asset" in the information war and that it must be reformed to effectively counter adversarial propaganda and promote American values.
 * She criticizes the agency for its "mismanagement, disorganization, ineffectiveness, and waste."
 * **Quote:** "The U.S. Agency for Global Media (USAGM) is a strategic asset in the information war, but it is not currently equipped to win that war."
 
-**3.2 The Problem: "Bias" and "Waste" <sup>262</sup>**
+**3.2 The Problem: "Bias" and "Waste" <sup>(262)</sup>**
 
 * Namdar argues that USAGM has become "biased" and "wasteful," citing examples of alleged anti-American reporting and inefficient spending.
 * She criticizes the agency's "firewall," which is designed to protect journalists from political interference, arguing that it has been used to shield "biased" reporting.
 * **Quote:** "USAGM has become a platform for anti-American propaganda and a haven for waste and inefficiency."
 
-**3.3 The Solution: Reform and Restructuring <sup>268</sup>**
+**3.3 The Solution: Reform and Restructuring <sup>(268)</sup>**
 
 * Namdar outlines a plan to reform USAGM by:
     * **Strengthening the CEO's Authority:**  Giving the USAGM CEO greater control over the agency's budget, personnel, and programming.
@@ -44,7 +44,7 @@ The chapter's significance lies in its call for a more ideologically driven and 
     * **Promoting "American Values":**  Ensuring that USAGM's programming reflects "American values" and presents a positive image of the United States.
     * **Investing in Traditional Media:**  Investing in traditional broadcasting methods, such as shortwave radio, to reach audiences in countries with limited internet access.
 
-**3.4 Specific Policy Recommendations <sup>272</sup>**
+**3.4 Specific Policy Recommendations <sup>(272)</sup>**
 
 * **Repeal the "Firewall":**  Repeal the "firewall" that protects USAGM journalists from political interference.
 * **Consolidate Networks:**  Consolidate USAGM's networks to reduce redundancy and save money.
@@ -59,11 +59,11 @@ The chapter's significance lies in its call for a more ideologically driven and 
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Repeal the "Firewall":**  Repeal the "firewall" that protects USAGM journalists from political interference. <sup>272</sup>
-* **Consolidate Networks:**  Consolidate USAGM's networks to reduce redundancy and save money. <sup>275</sup>
-* **Upgrade Shortwave Transmission:**  Upgrade and expand shortwave radio transmission capabilities. <sup>275</sup>
-* **Vet Personnel:**  Implement a more rigorous vetting process for USAGM personnel to ensure that they are aligned with the agency's mission. <sup>276</sup>
-* **Counter Chinese Propaganda:**  Develop a comprehensive strategy to counter Chinese propaganda and disinformation. <sup>277</sup>
+* **Repeal the "Firewall":**  Repeal the "firewall" that protects USAGM journalists from political interference. <sup>(272)</sup>
+* **Consolidate Networks:**  Consolidate USAGM's networks to reduce redundancy and save money. <sup>(275)</sup>
+* **Upgrade Shortwave Transmission:**  Upgrade and expand shortwave radio transmission capabilities. <sup>(275)</sup>
+* **Vet Personnel:**  Implement a more rigorous vetting process for USAGM personnel to ensure that they are aligned with the agency's mission. <sup>(276)</sup>
+* **Counter Chinese Propaganda:**  Develop a comprehensive strategy to counter Chinese propaganda and disinformation. <sup>(277)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -96,11 +96,11 @@ The chapter's significance lies in its call for a more ideologically driven and 
 
 ### 9. KEY QUOTES
 
-* **"The U.S. Agency for Global Media (USAGM) is a strategic asset in the information war, but it is not currently equipped to win that war." (p. 260)**  This quote sets the stage for Namdar's argument that USAGM needs reform to be more effective in countering adversarial propaganda.
-* **"USAGM has become a platform for anti-American propaganda and a haven for waste and inefficiency." (p. 262)**  This quote reflects Namdar's belief that USAGM has strayed from its mission and has become biased and wasteful.
-* **"To fulfill its mission, USAGM should also aim to present the truth about America and American policy—not parrot America’s adversaries’ propaganda and talking points." (p. 268)**  This quote reveals the chapter's desire for USAGM to promote a positive image of the United States and its policies.
-* **"The 'firewall' has been used to shield biased reporting and to prevent the CEO from exercising proper oversight over the agency's networks." (p. 272)**  This quote highlights the chapter's criticism of the "firewall" and its desire to increase political control over USAGM.
-* **"Shortwave radio is a vital tool for reaching audiences in countries where internet access is limited or censored." (p. 275)**  This quote reflects the chapter's preference for traditional broadcasting methods over digital platforms.
+* **"The U.S. Agency for Global Media (USAGM) is a strategic asset in the information war, but it is not currently equipped to win that war." <sup>(260)</sup>**  This quote sets the stage for Namdar's argument that USAGM needs reform to be more effective in countering adversarial propaganda.
+* **"USAGM has become a platform for anti-American propaganda and a haven for waste and inefficiency." <sup>(262)</sup>**  This quote reflects Namdar's belief that USAGM has strayed from its mission and has become biased and wasteful.
+* **"To fulfill its mission, USAGM should also aim to present the truth about America and American policy—not parrot America’s adversaries’ propaganda and talking points." <sup>(268)</sup>**  This quote reveals the chapter's desire for USAGM to promote a positive image of the United States and its policies.
+* **"The 'firewall' has been used to shield biased reporting and to prevent the CEO from exercising proper oversight over the agency's networks." <sup>(272)</sup>**  This quote highlights the chapter's criticism of the "firewall" and its desire to increase political control over USAGM.
+* **"Shortwave radio is a vital tool for reaching audiences in countries where internet access is limited or censored." <sup>(275)</sup>**  This quote reflects the chapter's preference for traditional broadcasting methods over digital platforms.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

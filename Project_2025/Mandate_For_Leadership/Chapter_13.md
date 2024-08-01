@@ -23,19 +23,19 @@ The chapter's significance lies in its call for a fundamental shift in environme
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: A "Coercive" Agency (p. 418)**
+**3.1 Introduction: A "Coercive" Agency <sup>(418)</sup>**
 
 * Gunasekara argues that the EPA has become a "coercive" agency that is "out of control" and that it is "imposing its will on states and businesses."
 * She criticizes the agency's "expansive regulatory agenda" and its "reliance on junk science."
 * **Quote:** "The EPA has become a rogue agency that is more interested in advancing a radical environmental agenda than in protecting public health and the environment."
 
-**3.2 The Problem: "Embedded Activists" (p. 419)**
+**3.2 The Problem: "Embedded Activists" <sup>(419)</sup>**
 
 * Gunasekara argues that the EPA is staffed by "embedded activists" who are "committed to a radical environmental agenda."
 * She claims that these activists are "using the agency to advance their own political goals" and that they are "disregarding sound science and the rule of law."
 * **Quote:** "The EPA has been captured by special interests who are using it to advance their own agenda."
 
-**3.3 The Solution: "Back to Basics" (p. 424)**
+**3.3 The Solution: "Back to Basics" <sup>(424)</sup>**
 
 * Gunasekara outlines a plan to "rein in" the EPA and to "restore it to its proper role."
 * She calls for a "back to basics" approach that emphasizes:
@@ -45,26 +45,26 @@ The chapter's significance lies in its call for a fundamental shift in environme
     * **Sound Science:**  Basing decisions on "sound science" and rejecting "junk science."
     * **Transparency and Accountability:**  Increasing transparency and accountability at the EPA.
 
-**3.4 Specific Policy Recommendations (p. 454)**
+**3.4 Specific Policy Recommendations <sup>(454)</sup>**
 
-* **Repeal the Clean Power Plan:**  Repeal the Clean Power Plan, which regulates greenhouse gas emissions from power plants. (p. 425)
-* **Withdraw from the Paris Agreement:**  Withdraw from the Paris Agreement, a global agreement to address climate change. (p. 426)
-* **Reform the Endangered Species Act:**  Reform the Endangered Species Act to make it more "flexible" and "business-friendly." (p. 431)
-* **Reduce the EPA's Budget:**  Reduce the EPA's budget and staffing levels. (p. 454)
-* **Limit the EPA's Authority:**  Limit the EPA's authority to regulate air and water quality, hazardous waste, and other environmental issues. (p. 454)
+* **Repeal the Clean Power Plan:**  Repeal the Clean Power Plan, which regulates greenhouse gas emissions from power plants. <sup>(425)</sup>
+* **Withdraw from the Paris Agreement:**  Withdraw from the Paris Agreement, a global agreement to address climate change. <sup>(426)</sup>
+* **Reform the Endangered Species Act:**  Reform the Endangered Species Act to make it more "flexible" and "business-friendly." <sup>(431)</sup>
+* **Reduce the EPA's Budget:**  Reduce the EPA's budget and staffing levels. <sup>(454)</sup>
+* **Limit the EPA's Authority:**  Limit the EPA's authority to regulate air and water quality, hazardous waste, and other environmental issues. <sup>(454)</sup>
 
-**3.5 Conclusion: Restoring Balance (p. 456)**
+**3.5 Conclusion: Restoring Balance <sup>(456)</sup>**
 
 * Gunasekara concludes by arguing that her recommendations are necessary to "restore balance" to environmental policy and to "protect both the environment and the economy."
 * She claims that a more limited role for the EPA will lead to a "cleaner, healthier, and more prosperous America."
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Repeal the Clean Power Plan:**  Repeal the Clean Power Plan. (p. 425)
-* **Withdraw from the Paris Agreement:**  Withdraw from the Paris Agreement. (p. 426)
-* **Reform the Endangered Species Act:**  Reform the Endangered Species Act. (p. 431)
-* **Reduce the EPA's Budget:**  Reduce the EPA's budget and staffing levels. (p. 454)
-* **Limit the EPA's Authority:**  Limit the EPA's authority to regulate environmental issues. (p. 454)
+* **Repeal the Clean Power Plan:**  Repeal the Clean Power Plan. <sup>(425)</sup>
+* **Withdraw from the Paris Agreement:**  Withdraw from the Paris Agreement. <sup>(426)</sup>
+* **Reform the Endangered Species Act:**  Reform the Endangered Species Act. <sup>(431)</sup>
+* **Reduce the EPA's Budget:**  Reduce the EPA's budget and staffing levels. <sup>(454)</sup>
+* **Limit the EPA's Authority:**  Limit the EPA's authority to regulate environmental issues. <sup>(454)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -97,11 +97,11 @@ The chapter's significance lies in its call for a fundamental shift in environme
 
 ### 9. KEY QUOTES
 
-* **"The EPA has become a rogue agency that is more interested in advancing a radical environmental agenda than in protecting public health and the environment." (p. 418)**  This quote reflects Gunasekara's view of the EPA as an overreaching and ideologically driven agency.
-* **"The EPA has been captured by special interests who are using it to advance their own agenda." (p. 419)**  This quote reveals Gunasekara's belief that the EPA is beholden to environmental groups and is not acting in the best interests of the American people.
-* **"We need to get back to basics and focus on the EPA's core mission of protecting public health and the environment." (p. 424)**  This quote highlights Gunasekara's call for a more limited role for the EPA.
-* **"We must repeal the Clean Power Plan and withdraw from the Paris Agreement. These are job-killing regulations that are based on junk science." (p. 425)**  This quote reflects the chapter's skepticism towards climate change and its opposition to regulations aimed at addressing it.
-* **"We must reduce the EPA's budget and staffing levels. The agency has become too big and too bureaucratic." (p. 454)**  This quote reveals the chapter's desire to shrink the EPA.
+* **"The EPA has become a rogue agency that is more interested in advancing a radical environmental agenda than in protecting public health and the environment." <sup>(418)</sup>**  This quote reflects Gunasekara's view of the EPA as an overreaching and ideologically driven agency.
+* **"The EPA has been captured by special interests who are using it to advance their own agenda." <sup>(419)</sup>**  This quote reveals Gunasekara's belief that the EPA is beholden to environmental groups and is not acting in the best interests of the American people.
+* **"We need to get back to basics and focus on the EPA's core mission of protecting public health and the environment." <sup>(424)</sup>**  This quote highlights Gunasekara's call for a more limited role for the EPA.
+* **"We must repeal the Clean Power Plan and withdraw from the Paris Agreement. These are job-killing regulations that are based on junk science." <sup>(425)</sup>**  This quote reflects the chapter's skepticism towards climate change and its opposition to regulations aimed at addressing it.
+* **"We must reduce the EPA's budget and staffing levels. The agency has become too big and too bureaucratic." <sup>(454)</sup>**  This quote reveals the chapter's desire to shrink the EPA.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

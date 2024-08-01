@@ -23,42 +23,42 @@ The chapter's significance lies in its radical critique of the Fed and its advoc
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: The Fed's "Failed Experiment" (p. 764)**
+**3.1 Introduction: The Fed's "Failed Experiment" <sup>(764)</sup>**
 
 * Winfree argues that the Fed's "experiment" with central banking has been a "failure," leading to inflation, recessions, and financial crises.
 * He criticizes the Fed's lack of transparency and accountability and its susceptibility to political influence.
 * **Quote:** "The Federal Reserve has failed to deliver on its promises of price stability and economic growth. It is time for a fundamental reform of our monetary system."
 
-**3.2 The Problem: The Dual Mandate (p. 766)**
+**3.2 The Problem: The Dual Mandate <sup>(766)</sup>**
 
 * Winfree argues that the Fed's dual mandate of maximizing employment and maintaining price stability is "inherently contradictory" and leads to inflation.
 * He claims that the Fed's focus on employment has led it to keep interest rates too low for too long, fueling asset bubbles and inflation.
 * **Quote:** "The dual mandate is a recipe for inflation. It forces the Fed to choose between two competing goals, and it inevitably leads to a bias towards inflation."
 
-**3.3 The Solution: A "Rules-Based" Monetary Policy (p. 767)**
+**3.3 The Solution: A "Rules-Based" Monetary Policy <sup>(767)</sup>**
 
 * Winfree advocates for a "rules-based" monetary policy, where the Fed would follow a set of predetermined rules, such as targeting a specific growth rate for the money supply or a specific inflation target.
 * He argues that this would make monetary policy more predictable and less susceptible to political influence.
 * **Quote:** "A rules-based monetary policy would take the politics out of monetary policy and would ensure that the Fed is focused on its primary mission of maintaining price stability."
 
-**3.4 Specific Policy Recommendations (p. 767)**
+**3.4 Specific Policy Recommendations <sup>(767)</sup>**
 
-* **Limit the Fed's Mandate:**  Limit the Fed's mandate to price stability, eliminating its responsibility for maximizing employment. (p. 766)
-* **Curb the Lender of Last Resort:**  Limit the Fed's ability to act as a lender of last resort, arguing that this encourages banks to take excessive risks. (p. 766)
-* **Wind Down the Balance Sheet:**  Wind down the Fed's balance sheet, which has grown significantly since the 2008 financial crisis, by selling off its holdings of Treasury bonds and mortgage-backed securities. (p. 767)
-* **Consider Abolishing the Fed:**  Consider abolishing the Fed altogether and replacing it with a system of "free banking" or a return to the gold standard. (p. 769)
+* **Limit the Fed's Mandate:**  Limit the Fed's mandate to price stability, eliminating its responsibility for maximizing employment. <sup>(766)</sup>
+* **Curb the Lender of Last Resort:**  Limit the Fed's ability to act as a lender of last resort, arguing that this encourages banks to take excessive risks. <sup>(766)</sup>
+* **Wind Down the Balance Sheet:**  Wind down the Fed's balance sheet, which has grown significantly since the 2008 financial crisis, by selling off its holdings of Treasury bonds and mortgage-backed securities. <sup>(767)</sup>
+* **Consider Abolishing the Fed:**  Consider abolishing the Fed altogether and replacing it with a system of "free banking" or a return to the gold standard. <sup>(769)</sup>
 
-**3.5 Conclusion: A Call for "Sound Money" (p. 770)**
+**3.5 Conclusion: A Call for "Sound Money" <sup>(770)</sup>**
 
 * Winfree concludes by calling for a return to "sound money" policies, arguing that this is essential for economic stability and prosperity.
 * He claims that a sound monetary system would lead to lower inflation, more stable economic growth, and a stronger dollar.
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Limit the Fed's Mandate:**  Limit the Fed's mandate to price stability. (p. 766)
-* **Curb the Lender of Last Resort:**  Limit the Fed's ability to act as a lender of last resort. (p. 766)
-* **Wind Down the Balance Sheet:**  Wind down the Fed's balance sheet. (p. 767)
-* **Consider Abolishing the Fed:**  Consider abolishing the Fed and replacing it with "free banking" or a gold standard. (p. 769)
+* **Limit the Fed's Mandate:**  Limit the Fed's mandate to price stability. <sup>(766)</sup>
+* **Curb the Lender of Last Resort:**  Limit the Fed's ability to act as a lender of last resort. <sup>(766)</sup>
+* **Wind Down the Balance Sheet:**  Wind down the Fed's balance sheet. <sup>(767)</sup>
+* **Consider Abolishing the Fed:**  Consider abolishing the Fed and replacing it with "free banking" or a gold standard. <sup>(769)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -90,11 +90,11 @@ The chapter's significance lies in its radical critique of the Fed and its advoc
 
 ### 9. KEY QUOTES
 
-* **"The Federal Reserve has failed to deliver on its promises of price stability and economic growth. It is time for a fundamental reform of our monetary system." (p. 764)**  This quote reflects Winfree's deep distrust of the Fed and his belief that it has failed.
-* **"The dual mandate is a recipe for inflation." (p. 766)**  This quote highlights Winfree's opposition to the Fed's dual mandate and his prioritization of price stability.
-* **"A rules-based monetary policy would take the politics out of monetary policy and would ensure that the Fed is focused on its primary mission of maintaining price stability." (p. 767)**  This quote reflects Winfree's preference for a more predictable and less discretionary approach to monetary policy.
-* **"The next Administration should consider abolishing the Fed altogether and replacing it with a system of 'free banking' or a return to the gold standard." (p. 769)**  This quote reveals the radical nature of Winfree's proposals for monetary reform.
-* **"We must return to sound money policies if we want to restore economic stability and prosperity." (p. 770)**  This quote emphasizes the chapter's focus on "sound money" and its skepticism towards the Fed's current policies.
+* **"The Federal Reserve has failed to deliver on its promises of price stability and economic growth. It is time for a fundamental reform of our monetary system." <sup>(764)</sup>**  This quote reflects Winfree's deep distrust of the Fed and his belief that it has failed.
+* **"The dual mandate is a recipe for inflation." <sup>(766)</sup>**  This quote highlights Winfree's opposition to the Fed's dual mandate and his prioritization of price stability.
+* **"A rules-based monetary policy would take the politics out of monetary policy and would ensure that the Fed is focused on its primary mission of maintaining price stability." <sup>(767)</sup>**  This quote reflects Winfree's preference for a more predictable and less discretionary approach to monetary policy.
+* **"The next Administration should consider abolishing the Fed altogether and replacing it with a system of 'free banking' or a return to the gold standard." <sup>(769)</sup>**  This quote reveals the radical nature of Winfree's proposals for monetary reform.
+* **"We must return to sound money policies if we want to restore economic stability and prosperity." <sup>(770)</sup>**  This quote emphasizes the chapter's focus on "sound money" and its skepticism towards the Fed's current policies.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

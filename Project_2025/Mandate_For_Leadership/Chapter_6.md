@@ -23,19 +23,19 @@ The chapter's significance lies in its call for a radical transformation of the 
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: A Department in Need of Reform (p. 198)**
+**3.1 Introduction: A Department in Need of Reform <sup>(198)</sup>**
 
 * Skinner argues that the State Department is in need of "fundamental reform" to make it more responsive to the President's agenda and to address the challenges of the 21st century.
 * She criticizes the department's "culture of resistance" to conservative policies and its "lack of accountability" to political leadership.
 * **Quote:** "The State Department has become a bastion of liberalism, resistant to change and out of touch with the priorities of the American people."
 
-**3.2 The Problem: A "Left-Wing" Workforce (p. 199)**
+**3.2 The Problem: A "Left-Wing" Workforce <sup>(199)</sup>**
 
 * Skinner argues that the State Department is dominated by a "left-wing" workforce that is hostile to conservative policies and that operates with a sense of "independence" from the President.
 * She criticizes the Foreign Service's "up-or-out" promotion system, arguing that it rewards conformity and discourages dissent.
 * **Quote:** "The Foreign Service is a self-perpetuating elite that is more interested in protecting its own perks and privileges than in serving the interests of the American people."
 
-**3.3 The Solution: Restoring Political Control (p. 206)**
+**3.3 The Solution: Restoring Political Control <sup>(206)</sup>**
 
 * Skinner outlines a plan to "reforge" the State Department by:
     * **Appointing Loyalists:**  Appointing individuals who are aligned with the President's ideology to key positions, including ambassadorships and assistant secretary positions.
@@ -43,7 +43,7 @@ The chapter's significance lies in its call for a radical transformation of the 
     * **Restructuring the Department:**  Streamlining the department's bureaucracy and eliminating or consolidating offices and programs that are not aligned with the President's priorities.
     * **Reforming the Foreign Service:**  Changing the Foreign Service's promotion system to reward performance and loyalty, rather than conformity.
 
-**3.4 Foreign Policy Priorities (p. 212)**
+**3.4 Foreign Policy Priorities <sup>(212)</sup>**
 
 * Skinner outlines a number of foreign policy priorities for a conservative administration, including:
     * **Countering China:**  Taking a more confrontational approach to China, including through trade sanctions, military buildups, and diplomatic pressure.
@@ -52,22 +52,22 @@ The chapter's significance lies in its call for a radical transformation of the 
     * **Rejecting Multilateralism:**  Withdrawing from or defunding international organizations and agreements that Skinner believes erode U.S. sovereignty.
     * **Promoting Conservative Social Values:**  Using U.S. foreign policy to promote conservative social values, such as opposition to abortion and same-sex marriage.
 
-**3.5 Conclusion: A "Lean and Functional Diplomatic Machine" (p. 227)**
+**3.5 Conclusion: A "Lean and Functional Diplomatic Machine" <sup>(227)</sup>**
 
 * Skinner concludes by arguing that her recommendations are necessary to transform the State Department into a "lean and functional diplomatic machine" that serves the President's agenda and advances American interests.
 * She claims that these reforms will "restore America's global leadership" and "make the world a safer place."
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Appoint Loyalists:**  Appoint individuals who are aligned with the President's ideology to key positions within the State Department. (p. 206)
-* **Bypass Senate Confirmation:**  Place political appointees in acting roles even before they are confirmed by the Senate. (p. 206)
-* **Restructure the Department:**  Streamline the department's bureaucracy and eliminate or consolidate offices and programs that are not aligned with the President's priorities. (p. 206)
-* **Reform the Foreign Service:**  Change the Foreign Service's promotion system to reward performance and loyalty. (p. 206)
-* **Counter China:**  Take a more confrontational approach to China. (p. 212)
-* **Confront Russia:**  Challenge Russian aggression. (p. 212)
-* **Promote "Sovereign Mexico":**  Work with Mexico to address illegal immigration and drug trafficking, but also potentially intervene in Mexican affairs. (p. 217)
-* **Reject Multilateralism:**  Withdraw from or defund international organizations and agreements that erode U.S. sovereignty. (p. 224)
-* **Promote Conservative Social Values:**  Use U.S. foreign policy to promote conservative social values. (p. 225)
+* **Appoint Loyalists:**  Appoint individuals who are aligned with the President's ideology to key positions within the State Department. <sup>(206)</sup>
+* **Bypass Senate Confirmation:**  Place political appointees in acting roles even before they are confirmed by the Senate. <sup>(206)</sup>
+* **Restructure the Department:**  Streamline the department's bureaucracy and eliminate or consolidate offices and programs that are not aligned with the President's priorities. <sup>(206)</sup>
+* **Reform the Foreign Service:**  Change the Foreign Service's promotion system to reward performance and loyalty. <sup>(206)</sup>
+* **Counter China:**  Take a more confrontational approach to China. <sup>(212)</sup>
+* **Confront Russia:**  Challenge Russian aggression. <sup>(212)</sup>
+* **Promote "Sovereign Mexico":**  Work with Mexico to address illegal immigration and drug trafficking, but also potentially intervene in Mexican affairs. <sup>(217)</sup>
+* **Reject Multilateralism:**  Withdraw from or defund international organizations and agreements that erode U.S. sovereignty. <sup>(224)</sup>
+* **Promote Conservative Social Values:**  Use U.S. foreign policy to promote conservative social values. <sup>(225)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -98,11 +98,11 @@ The chapter's significance lies in its call for a radical transformation of the 
 
 ### 9. KEY QUOTES
 
-* **"The State Department has become a bastion of liberalism, resistant to change and out of touch with the priorities of the American people." (p. 198)**  This quote reflects Skinner's view of the State Department as a hostile entity in need of reform.
-* **"The Foreign Service is a self-perpetuating elite that is more interested in protecting its own perks and privileges than in serving the interests of the American people." (p. 199)**  This quote reveals Skinner's distrust of the Foreign Service and her desire to weaken its influence.
-* **"The next conservative President must take swift and decisive steps to reforge the department into a lean and functional diplomatic machine that serves the President and, thereby, the American people." (p. 206)**  This quote highlights Skinner's call for a radical transformation of the State Department.
-* **"We must be prepared to use all instruments of American power—diplomatic, economic, and military—to advance our interests and to defend our values." (p. 212)**  This quote reflects the chapter's confrontational approach to foreign policy.
-* **"We should withdraw from or defund international organizations and agreements that erode U.S. sovereignty." (p. 224)**  This quote reveals the chapter's rejection of multilateralism.
+* **"The State Department has become a bastion of liberalism, resistant to change and out of touch with the priorities of the American people." <sup>(198)</sup>**  This quote reflects Skinner's view of the State Department as a hostile entity in need of reform.
+* **"The Foreign Service is a self-perpetuating elite that is more interested in protecting its own perks and privileges than in serving the interests of the American people." <sup>(199)</sup>**  This quote reveals Skinner's distrust of the Foreign Service and her desire to weaken its influence.
+* **"The next conservative President must take swift and decisive steps to reforge the department into a lean and functional diplomatic machine that serves the President and, thereby, the American people." <sup>(206)</sup>**  This quote highlights Skinner's call for a radical transformation of the State Department.
+* **"We must be prepared to use all instruments of American power—diplomatic, economic, and military—to advance our interests and to defend our values." <sup>(212)</sup>**  This quote reflects the chapter's confrontational approach to foreign policy.
+* **"We should withdraw from or defund international organizations and agreements that erode U.S. sovereignty." <sup>(224)</sup>**  This quote reveals the chapter's rejection of multilateralism.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

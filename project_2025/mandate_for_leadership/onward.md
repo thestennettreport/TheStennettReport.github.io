@@ -5,7 +5,7 @@ title: Mandate for Leadership - "Onward!"
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Onward!](../../documents/project_2025_chapters/Onward.pdf)
+**Title:** [Onward!](../../documents/project_2025_chapters/onward.pdf)
 
 **Author:** Edwin J. Feulner, Founder and Former President of The Heritage Foundation
 
@@ -23,31 +23,31 @@ The significance of "Onward!" lies in its explicit call for a radical reshaping 
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 The Legacy of "Mandate for Leadership" (p. 916)**
+**3.1 The Legacy of "Mandate for Leadership" <sup>(916)</sup>**
 
 * Feulner recounts the history of the "Mandate for Leadership" project, highlighting its origins in the Reagan era and its impact on the Trump administration.
 * He argues that "Mandate" has been a "vital tool" for conservative Presidents, providing them with a roadmap for implementing their agenda.
 * **Quote:** "Mandate for Leadership has been a vital tool for conservative Presidents, providing them with a roadmap for implementing their agenda and for making America great again."
 
-**3.2 The "People are Policy" Imperative (p. 919)**
+**3.2 The "People are Policy" Imperative <sup>(919)</sup>**
 
 * Feulner emphasizes the importance of personnel in implementing a conservative agenda, arguing that the next President must appoint individuals who are "principled" and "aligned with the President’s conservative vision."
 * He criticizes the "deep state" and argues that presidential appointees must be willing to "challenge the status quo" and to "fight for the President's agenda."
 * **Quote:** "Personnel is policy. The next conservative President must appoint individuals who share his vision and who are committed to implementing his agenda."
 
-**3.3 "Watch the Watchers" (p. 919)**
+**3.3 "Watch the Watchers" <sup>(919)</sup>**
 
 * Feulner argues that presidential appointees must serve as "watchdogs" to "rein in" federal agencies and prevent them from overreaching their authority.
 * He specifically mentions the EPA, IRS, and OSHA as agencies that need to be reined in, reflecting a deep distrust of the federal bureaucracy.
 * **Quote:** "Presidential appointees must be watchdogs, not lapdogs. They must be willing to challenge the bureaucracy and to fight for the President's agenda."
 
-**3.4 Conservative Solutions vs. Liberal Failures (p. 919)**
+**3.4 Conservative Solutions vs. Liberal Failures <sup>(919)</sup>**
 
 * Feulner repeatedly contrasts "conservative solutions" with "liberal policies," arguing that conservative policies are more effective in promoting economic growth, individual freedom, and national security.
 * He claims that liberal policies have led to "economic stagnation, social decay, and a weakening of America's standing in the world."
 * **Quote:** "Conservative solutions work. Liberal policies fail. The next conservative President must be bold and courageous in implementing a conservative agenda."
 
-**3.5 A Call to Action (p. 921)**
+**3.5 A Call to Action <sup>(921)</sup>**
 
 * Feulner concludes by urging conservatives to embrace Project 2025 and to work tirelessly to elect a conservative President who will implement its recommendations.
 * He calls for a "new era of conservative leadership" that will "restore America's greatness."
@@ -84,11 +84,11 @@ The significance of "Onward!" lies in its explicit call for a radical reshaping 
 
 ### 9. KEY QUOTES
 
-* **"Mandate for Leadership has been a vital tool for conservative Presidents, providing them with a roadmap for implementing their agenda and for making America great again." (p. 916)**  This quote highlights the importance of Project 2025 in the conservative movement's strategy for achieving its goals.
-* **"Personnel is policy. The next conservative President must appoint individuals who share his vision and are committed to implementing his agenda." (p. 919)**  This quote emphasizes the importance of personnel decisions in implementing a conservative agenda.
-* **"Presidential appointees must be watchdogs, not lapdogs. They must be willing to challenge the bureaucracy and to fight for the President's agenda." (p. 919)**  This quote reflects the deep distrust of the federal bureaucracy that pervades Project 2025.
-* **"Conservative solutions work. Liberal policies fail. The next conservative President must be bold and courageous in implementing a conservative agenda." (p. 919)**  This quote encapsulates the section's simplistic and divisive rhetoric.
-* **"The future of America is at stake. We must elect a conservative President who will implement the Mandate for Leadership and restore America's greatness." (p. 921)**  This quote serves as a rallying cry for conservatives, urging them to action.
+* **"Mandate for Leadership has been a vital tool for conservative Presidents, providing them with a roadmap for implementing their agenda and for making America great again." <sup>(916)</sup>**  This quote highlights the importance of Project 2025 in the conservative movement's strategy for achieving its goals.
+* **"Personnel is policy. The next conservative President must appoint individuals who share his vision and are committed to implementing his agenda." <sup>(919)</sup>**  This quote emphasizes the importance of personnel decisions in implementing a conservative agenda.
+* **"Presidential appointees must be watchdogs, not lapdogs. They must be willing to challenge the bureaucracy and to fight for the President's agenda." <sup>(919)</sup>**  This quote reflects the deep distrust of the federal bureaucracy that pervades Project 2025.
+* **"Conservative solutions work. Liberal policies fail. The next conservative President must be bold and courageous in implementing a conservative agenda." <sup>(919)</sup>**  This quote encapsulates the section's simplistic and divisive rhetoric.
+* **"The future of America is at stake. We must elect a conservative President who will implement the Mandate for Leadership and restore America's greatness." <sup>(921)</sup>**  This quote serves as a rallying cry for conservatives, urging them to action.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

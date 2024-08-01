@@ -23,13 +23,13 @@ The chapter's significance lies in its call for a shift away from public transpo
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: A "Broken" Transportation System (p. 644)**
+**3.1 Introduction: A "Broken" Transportation System <sup>(644)</sup>**
 
 * Furchtgott-Roth argues that the U.S. transportation system is "broken" and that it is not meeting the needs of the American people.
 * She criticizes the Biden Administration's "anti-fossil-fuel climate agenda" for driving up transportation costs and for hindering infrastructure development.
 * **Quote:** "The Biden Administration's transportation policies are making it harder for Americans to get where they need to go, and they are making transportation more expensive."
 
-**3.2 The Solution: Free Markets and Limited Government (p. 646)**
+**3.2 The Solution: Free Markets and Limited Government <sup>(646)</sup>**
 
 * Furchtgott-Roth advocates for a more market-oriented approach to transportation policy, arguing that the government should play a limited role in regulating the industry.
 * She calls for:
@@ -37,28 +37,28 @@ The chapter's significance lies in its call for a shift away from public transpo
     * **Privatization:**  Privatizing transportation assets and services, such as airports, highways, and Amtrak.
     * **User Fees:**  Relying on user fees, such as tolls and gas taxes, to fund transportation infrastructure.
 
-**3.3 Specific Policy Recommendations (p. 652)**
+**3.3 Specific Policy Recommendations <sup>(652)</sup>**
 
-* **Reduce the DOT's Role:**  Reduce the DOT's role in funding and regulating transportation projects, shifting more responsibility to states and local governments. (p. 652)
-* **Promote Privatization:**  Encourage privatization of transportation assets and services. (p. 655)
-* **Increase User Fees:**  Increase reliance on user fees to fund transportation infrastructure. (p. 655)
-* **Rollback Fuel Economy Standards:**  Rollback the Biden Administration's fuel economy standards for automobiles. (p. 659)
-* **Revoke California's Waiver:**  Revoke California's waiver under the Clean Air Act, which allows the state to set its own stricter emissions standards for vehicles. (p. 662)
-* **Streamline Project Approvals:**  Streamline the environmental review and permitting process for transportation projects. (p. 663)
+* **Reduce the DOT's Role:**  Reduce the DOT's role in funding and regulating transportation projects, shifting more responsibility to states and local governments. <sup>(652)</sup>
+* **Promote Privatization:**  Encourage privatization of transportation assets and services. <sup>(655)</sup>
+* **Increase User Fees:**  Increase reliance on user fees to fund transportation infrastructure. <sup>(655)</sup>
+* **Rollback Fuel Economy Standards:**  Rollback the Biden Administration's fuel economy standards for automobiles. <sup>(659)</sup>
+* **Revoke California's Waiver:**  Revoke California's waiver under the Clean Air Act, which allows the state to set its own stricter emissions standards for vehicles. <sup>(662)</sup>
+* **Streamline Project Approvals:**  Streamline the environmental review and permitting process for transportation projects. <sup>(663)</sup>
 
-**3.4 Conclusion: A "Brighter Future" for Transportation (p. 666)**
+**3.4 Conclusion: A "Brighter Future" for Transportation <sup>(666)</sup>**
 
 * Furchtgott-Roth concludes by arguing that her recommendations will lead to a "brighter future" for transportation in America.
 * She claims that a more market-oriented approach will make transportation more affordable, more abundant, and more efficient.
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Reduce the DOT's Role:**  Reduce the DOT's role in funding and regulating transportation projects. (p. 652)
-* **Promote Privatization:**  Encourage privatization of transportation assets and services. (p. 655)
-* **Increase User Fees:**  Increase reliance on user fees to fund transportation infrastructure. (p. 655)
-* **Rollback Fuel Economy Standards:**  Rollback the Biden Administration's fuel economy standards for automobiles. (p. 659)
-* **Revoke California's Waiver:**  Revoke California's waiver under the Clean Air Act. (p. 662)
-* **Streamline Project Approvals:**  Streamline the environmental review and permitting process for transportation projects. (p. 663)
+* **Reduce the DOT's Role:**  Reduce the DOT's role in funding and regulating transportation projects. <sup>(652)</sup>
+* **Promote Privatization:**  Encourage privatization of transportation assets and services. <sup>(655)</sup>
+* **Increase User Fees:**  Increase reliance on user fees to fund transportation infrastructure. <sup>(655)</sup>
+* **Rollback Fuel Economy Standards:**  Rollback the Biden Administration's fuel economy standards for automobiles. <sup>(659)</sup>
+* **Revoke California's Waiver:**  Revoke California's waiver under the Clean Air Act. <sup>(662)</sup>
+* **Streamline Project Approvals:**  Streamline the environmental review and permitting process for transportation projects. <sup>(663)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -91,11 +91,11 @@ The chapter's significance lies in its call for a shift away from public transpo
 
 ### 9. KEY QUOTES
 
-* **"The Biden Administration's transportation policies are making it harder for Americans to get where they need to go, and they are making transportation more expensive." (p. 644)**  This quote reflects Furchtgott-Roth's opposition to the Biden Administration's approach to transportation policy.
-* **"The government should play a limited role in regulating the transportation industry." (p. 646)**  This quote highlights the chapter's emphasis on free markets and deregulation.
-* **"We need to reduce the DOT's role in funding and regulating transportation projects." (p. 652)**  This quote reveals the chapter's desire to shrink the DOT.
-* **"We need to roll back the Biden Administration's fuel economy standards for automobiles. These standards are too stringent and are driving up the cost of cars." (p. 659)**  This quote reflects the chapter's skepticism towards climate action and its support for the auto industry.
-* **"We need to revoke California's waiver under the Clean Air Act. This waiver allows California to set its own emissions standards for vehicles, which is unfair to other states." (p. 662)**  This quote reveals the chapter's opposition to state-level environmental regulations.
+* **"The Biden Administration's transportation policies are making it harder for Americans to get where they need to go, and they are making transportation more expensive." <sup>(644)</sup>**  This quote reflects Furchtgott-Roth's opposition to the Biden Administration's approach to transportation policy.
+* **"The government should play a limited role in regulating the transportation industry." <sup>(646)</sup>**  This quote highlights the chapter's emphasis on free markets and deregulation.
+* **"We need to reduce the DOT's role in funding and regulating transportation projects." <sup>(652)</sup>**  This quote reveals the chapter's desire to shrink the DOT.
+* **"We need to roll back the Biden Administration's fuel economy standards for automobiles. These standards are too stringent and are driving up the cost of cars." <sup>(659)</sup>**  This quote reflects the chapter's skepticism towards climate action and its support for the auto industry.
+* **"We need to revoke California's waiver under the Clean Air Act. This waiver allows California to set its own emissions standards for vehicles, which is unfair to other states." <sup>(662)</sup>**  This quote reveals the chapter's opposition to state-level environmental regulations.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

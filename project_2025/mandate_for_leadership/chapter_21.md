@@ -23,46 +23,46 @@ The chapter's significance lies in its call for a more politicized and less inde
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: A Department "Adrift" (p. 694)**
+**3.1 Introduction: A Department "Adrift" <sup>(694)</sup>**
 
 * Gilman argues that the Department of Commerce has become "adrift" and has lost sight of its core mission of promoting economic growth and competitiveness.
 * He criticizes the department's "bloated bureaucracy" and its "lack of focus" on key priorities, such as countering China and promoting American businesses.
 * **Quote:** "The Department of Commerce has become a sprawling bureaucracy that is more interested in protecting its own turf than in serving the needs of the American people."
 
-**3.2 The Challenge: China's Rise (p. 699)**
+**3.2 The Challenge: China's Rise <sup>(699)</sup>**
 
 * Gilman identifies China as a major economic and national security threat, arguing that China is engaged in "unfair trade practices," "intellectual property theft," and "economic espionage."
 * He calls for the department to play a more active role in countering Chinese "malign influence" and protecting American businesses from unfair competition.
 * **Quote:** "China is the greatest economic and national security threat facing the United States today. We must take a more aggressive approach to countering China's unfair trade practices and its theft of American intellectual property."
 
-**3.3 The Solution: Strong Political Leadership (p. 696)**
+**3.3 The Solution: Strong Political Leadership <sup>(696)</sup>**
 
 * Gilman argues that the key to reforming the Department of Commerce is to install strong political leadership that is committed to a conservative agenda.
 * He recommends that a future conservative President appoint loyalists to key positions within the department and that he empower them to "shake things up" and to "implement real change."
 * **Quote:** "The next conservative President must appoint a strong Secretary of Commerce who will be a champion for American businesses and who will be willing to take on the entrenched bureaucracy."
 
-**3.4 Specific Agency Recommendations (p. 699)**
+**3.4 Specific Agency Recommendations <sup>(699)</sup>**
 
-* **International Trade Administration (ITA):**  Focus on countering China's "malign influence," enforcing trade agreements, and securing access to critical supply chains. (p. 699)
-* **Bureau of Industry and Security (BIS):**  Strengthen export controls to prevent the transfer of sensitive technologies to China and other adversaries. (p. 704)
-* **National Institute of Standards and Technology (NIST):**  Promote innovation and competitiveness by developing new standards and technologies. (p. 708)
-* **Economic Development Administration (EDA):**  Eliminate or consolidate the EDA, arguing that it is "wasteful" and "ineffective." (p. 710)
-* **National Oceanic and Atmospheric Administration (NOAA):**  Reduce NOAA's budget and focus its activities on core missions, such as weather forecasting and fisheries management. (p. 711)
-* **Census Bureau:**  Review the Census Bureau's data collection methods and add a citizenship question to the 2030 Census. (p. 712)
+* **International Trade Administration (ITA):**  Focus on countering China's "malign influence," enforcing trade agreements, and securing access to critical supply chains. <sup>(699)</sup>
+* **Bureau of Industry and Security (BIS):**  Strengthen export controls to prevent the transfer of sensitive technologies to China and other adversaries. <sup>(704)</sup>
+* **National Institute of Standards and Technology (NIST):**  Promote innovation and competitiveness by developing new standards and technologies. <sup>(708)</sup>
+* **Economic Development Administration (EDA):**  Eliminate or consolidate the EDA, arguing that it is "wasteful" and "ineffective." <sup>(710)</sup>
+* **National Oceanic and Atmospheric Administration (NOAA):**  Reduce NOAA's budget and focus its activities on core missions, such as weather forecasting and fisheries management. <sup>(711)</sup>
+* **Census Bureau:**  Review the Census Bureau's data collection methods and add a citizenship question to the 2030 Census. <sup>(712)</sup>
 
-**3.5 Conclusion: A "Champion for American Business" (p. 714)**
+**3.5 Conclusion: A "Champion for American Business" <sup>(714)</sup>**
 
 * Gilman concludes by arguing that a reformed Department of Commerce will be a "champion for American business" and will help to "restore America's economic greatness."
 * He claims that these reforms will lead to job creation, economic growth, and a stronger national defense.
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Appoint Loyalists:**  Appoint individuals who are aligned with the President's conservative agenda to key positions within the Department of Commerce. (p. 696)
-* **Streamline and Consolidate Agencies:**  Consolidate or eliminate certain agencies and programs, including the EDA and NOAA. (p. 696)
-* **Strengthen Enforcement:**  Increase the department's enforcement capabilities in the areas of trade and export controls. (p. 700)
-* **Reduce Regulations:**  Reduce the regulatory burden on businesses and promote a more business-friendly approach to regulation. (p. 701)
-* **Counter China:**  Make countering Chinese "malign influence" a top priority for the department. (p. 699)
-* **Add a Citizenship Question to the Census:**  Add a citizenship question to the 2030 Census. (p. 712)
+* **Appoint Loyalists:**  Appoint individuals who are aligned with the President's conservative agenda to key positions within the Department of Commerce. <sup>(696)</sup>
+* **Streamline and Consolidate Agencies:**  Consolidate or eliminate certain agencies and programs, including the EDA and NOAA. <sup>(696)</sup>
+* **Strengthen Enforcement:**  Increase the department's enforcement capabilities in the areas of trade and export controls. <sup>(700)</sup>
+* **Reduce Regulations:**  Reduce the regulatory burden on businesses and promote a more business-friendly approach to regulation. <sup>(701)</sup>
+* **Counter China:**  Make countering Chinese "malign influence" a top priority for the department. <sup>(699)</sup>
+* **Add a Citizenship Question to the Census:**  Add a citizenship question to the 2030 Census. <sup>(712)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -95,11 +95,11 @@ The chapter's significance lies in its call for a more politicized and less inde
 
 ### 9. KEY QUOTES
 
-* **"The Department of Commerce has become a sprawling bureaucracy that is more interested in protecting its own turf than in serving the needs of the American people." (p. 694)**  This quote reflects Gilman's view of the Department of Commerce as bloated and inefficient.
-* **"China is the greatest economic and national security threat facing the United States today." (p. 699)**  This quote highlights the chapter's focus on countering China.
-* **"The next conservative President must appoint a strong Secretary of Commerce who will be a champion for American businesses and who will be willing to take on the entrenched bureaucracy." (p. 696)**  This quote emphasizes the need for strong political leadership to implement the chapter's recommendations.
-* **"We must reduce the regulatory burden on businesses and promote a more business-friendly approach to regulation." (p. 701)**  This quote reflects the chapter's preference for deregulation.
-* **"We must add a citizenship question to the 2030 Census. This is essential for ensuring that our government is representing the interests of American citizens." (p. 712)**  This quote reveals the chapter's desire to use the Census for political purposes.
+* **"The Department of Commerce has become a sprawling bureaucracy that is more interested in protecting its own turf than in serving the needs of the American people." <sup>(694)</sup>**  This quote reflects Gilman's view of the Department of Commerce as bloated and inefficient.
+* **"China is the greatest economic and national security threat facing the United States today." <sup>(699)</sup>**  This quote highlights the chapter's focus on countering China.
+* **"The next conservative President must appoint a strong Secretary of Commerce who will be a champion for American businesses and who will be willing to take on the entrenched bureaucracy." <sup>(696)</sup>**  This quote emphasizes the need for strong political leadership to implement the chapter's recommendations.
+* **"We must reduce the regulatory burden on businesses and promote a more business-friendly approach to regulation." <sup>(701)</sup>**  This quote reflects the chapter's preference for deregulation.
+* **"We must add a citizenship question to the 2030 Census. This is essential for ensuring that our government is representing the interests of American citizens." <sup>(712)</sup>**  This quote reveals the chapter's desire to use the Census for political purposes.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

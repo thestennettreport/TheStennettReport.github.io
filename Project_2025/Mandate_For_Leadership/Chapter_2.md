@@ -23,51 +23,51 @@ Vought argues that the EOP must be used aggressively to "limit, control, and dir
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction (p. 76)**
+**3.1 Introduction <sup>(76)</sup>**
 
 * Vought argues that the EOP must be used strategically to advance the President's agenda and to "deconstruct the Administrative State."
 * He criticizes the "leftward drift" of the federal bureaucracy and the "growth of the Administrative State."
 * **Quote:** "The next conservative President must be prepared to use the EOP aggressively to limit, control, and direct the executive branch."
 
-**3.2 Office of Management and Budget (OMB) (p. 77)**
+**3.2 Office of Management and Budget (OMB) <sup>(77)</sup>**
 
 * Vought views the OMB as the "most powerful entity" within the EOP and the President's primary tool for controlling the bureaucracy.
 * He advocates for using the OMB's budgetary and regulatory powers to "bring the bureaucracy in line" with the President's agenda.
 * **Quote:** "Properly understood, it is a President’s air-traffic control system with the ability and charge to ensure that all policy initiatives are flying in sync and with the authority to let planes take off and, at times, ground planes that are flying off course."
 
-**3.3 Apportionments and Spending Control (p. 78)**
+**3.3 Apportionments and Spending Control <sup>(78)</sup>**
 
 * Vought recommends that Program Associate Directors (PADs) at OMB personally sign apportionments, giving them greater control over agency spending.
 * He suggests that PADs should use their authority to "slow-walk" or block spending on programs that are not aligned with the President's priorities.
 
-**3.4 Regulatory Reform (p. 82)**
+**3.4 Regulatory Reform <sup>(82)</sup>**
 
 * Vought calls for a significant rollback of regulations, arguing that they are "costly, burdensome, and often unnecessary."
 * He advocates for reviving Trump-era executive orders that streamlined the regulatory process and limited agency discretion.
 * He also suggests extending regulatory review to independent agencies, which are currently exempt.
 
-**3.5 National Security Council (NSC) (p. 84)**
+**3.5 National Security Council (NSC) <sup>(84)</sup>**
 
 * Vought recommends a strong NSC that can "drive the bureaucracy" and ensure that national security policies are aligned with the President's agenda.
 * He suggests eliminating NSC directorates that are not aligned with the President's priorities.
 
-**3.6 Other EOP Components (p. 86)**
+**3.6 Other EOP Components <sup>(86)</sup>**
 
 * Vought briefly discusses other EOP components, including the Council of Economic Advisers (CEA), the Office of the U.S. Trade Representative (USTR), and the Office of Science and Technology Policy (OSTP).
 * He emphasizes the need to staff these offices with individuals who are committed to the President's agenda.
 
-**3.7 Conclusion (p. 93)**
+**3.7 Conclusion <sup>(93)</sup>**
 
 * Vought reiterates the importance of using the EOP aggressively to advance the President's agenda and to dismantle the "Administrative State."
 * He argues that a conservative President must be willing to "challenge the status quo" and to "fight for the principles that made America great."
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Strengthen OMB Authority:** Give the OMB greater control over agency budgets and regulations. (p. 77)
-* **Control Apportionments:**  Require PADs to personally sign apportionments, giving them greater control over agency spending. (p. 78)
-* **Rollback Regulations:** Revive Trump-era executive orders on regulatory reform and extend regulatory review to independent agencies. (p. 82)
-* **Restructure the NSC:**  Eliminate NSC directorates that are not aligned with the President's agenda. (p. 84)
-* **Staff with Loyalists:**  Appoint individuals who are committed to the President's agenda to all key positions within the EOP. (Throughout the chapter)
+* **Strengthen OMB Authority:** Give the OMB greater control over agency budgets and regulations. <sup>(77)</sup>
+* **Control Apportionments:**  Require PADs to personally sign apportionments, giving them greater control over agency spending. <sup>(78)</sup>
+* **Rollback Regulations:** Revive Trump-era executive orders on regulatory reform and extend regulatory review to independent agencies. <sup>(82)</sup>
+* **Restructure the NSC:**  Eliminate NSC directorates that are not aligned with the President's agenda. <sup>(84)</sup>
+* **Staff with Loyalists:**  Appoint individuals who are committed to the President's agenda to all key positions within the EOP. <sup>(Throughout the chapter)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -97,10 +97,10 @@ Vought argues that the EOP must be used aggressively to "limit, control, and dir
 
 ### 9. KEY QUOTES
 
-* **"The next conservative President must be prepared to use the EOP aggressively to limit, control, and direct the executive branch." (p. 76)**  This quote sets the tone for the chapter, emphasizing the need for an assertive approach to executive power.
-* **"Properly understood, it is a President’s air-traffic control system with the ability and charge to ensure that all policy initiatives are flying in sync and with the authority to let planes take off and, at times, ground planes that are flying off course." (p. 77)**  This quote highlights Vought's vision of the OMB as a tool for controlling the bureaucracy.
-* **"The next Administration should consider reviving these executive orders and issuing new ones that further streamline the regulatory process and limit agency discretion." (p. 82)**  This quote reveals the desire to rollback regulations and limit agency autonomy.
-* **"The next conservative President should ensure that the NSC is staffed with individuals who are committed to his agenda and who will work tirelessly to advance his priorities." (p. 84)**  This quote emphasizes the importance of staffing the NSC with loyalists.
+* **"The next conservative President must be prepared to use the EOP aggressively to limit, control, and direct the executive branch." <sup>(76)</sup>**  This quote sets the tone for the chapter, emphasizing the need for an assertive approach to executive power.
+* **"Properly understood, it is a President’s air-traffic control system with the ability and charge to ensure that all policy initiatives are flying in sync and with the authority to let planes take off and, at times, ground planes that are flying off course." <sup>(77)</sup>**  This quote highlights Vought's vision of the OMB as a tool for controlling the bureaucracy.
+* **"The next Administration should consider reviving these executive orders and issuing new ones that further streamline the regulatory process and limit agency discretion." <sup>(82)</sup>**  This quote reveals the desire to rollback regulations and limit agency autonomy.
+* **"The next conservative President should ensure that the NSC is staffed with individuals who are committed to his agenda and who will work tirelessly to advance his priorities." <sup>(84)</sup>**  This quote emphasizes the importance of staffing the NSC with loyalists.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

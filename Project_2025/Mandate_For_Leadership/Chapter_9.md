@@ -23,19 +23,19 @@ The chapter's significance lies in its call for a radical shift in U.S. foreign 
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: A "Deformed" Agency (p. 286)**
+**3.1 Introduction: A "Deformed" Agency <sup>(286)</sup>**
 
 * Primorac argues that USAID has been "deformed" by the Biden Administration's "divisive political and cultural agenda."
 * He criticizes the agency for promoting "abortion, climate extremism, gender radicalism, and interventions against perceived systematic racism."
 * **Quote:** "The Biden Administration has deformed the agency by treating it as a global platform to pursue overseas a divisive political and cultural agenda that promotes abortion, climate extremism, gender radicalism, and interventions against perceived systematic racism."
 
-**3.2 The Challenge: Countering China (p. 288)**
+**3.2 The Challenge: Countering China <sup>(288)</sup>**
 
 * Primorac identifies China as a major challenge to U.S. interests in the developing world, arguing that China is using its economic power to "coerce and corrupt" other countries.
 * He calls for restoring the Trump Administration's "Clear Choice" initiative, which contrasted American values with Chinese "authoritarianism."
 * **Quote:** "China is using its economic power to coerce and corrupt other countries, and it is seeking to undermine American influence in the developing world."
 
-**3.3 The Solution: "Deradicalizing" USAID (p. 287)**
+**3.3 The Solution: "Deradicalizing" USAID <sup>(287)</sup>**
 
 * Primorac outlines a plan to "deradicalize" USAID by:
     * **Eliminating "Woke" Programs:**  Eliminating programs and initiatives related to abortion, climate change, and gender equality.
@@ -44,26 +44,26 @@ The chapter's significance lies in its call for a radical shift in U.S. foreign 
     * **Empowering Faith-Based Organizations:**  Increasing funding to faith-based organizations.
     * **Focusing on Core Missions:**  Refocusing USAID on its core missions of promoting economic growth, democracy, and humanitarian assistance.
 
-**3.4 Specific Policy Recommendations (p. 292)**
+**3.4 Specific Policy Recommendations <sup>(292)</sup>**
 
-* **Repeal the "Mexico City Policy":**  Repeal the "Mexico City Policy," which prohibits U.S. funding for organizations that provide or refer for abortions. (p. 292)
-* **Eliminate Climate Change Programs:**  Eliminate all USAID programs related to climate change. (p. 292)
-* **Defund Gender Equality Programs:**  Defund all USAID programs related to gender equality. (p. 292)
-* **Increase Funding to Faith-Based Organizations:**  Increase funding to faith-based organizations. (p. 292)
-* **Reduce USAID's Global Footprint:**  Reduce the number of countries where USAID operates. (p. 287)
+* **Repeal the "Mexico City Policy":**  Repeal the "Mexico City Policy," which prohibits U.S. funding for organizations that provide or refer for abortions. <sup>(292)</sup>
+* **Eliminate Climate Change Programs:**  Eliminate all USAID programs related to climate change. <sup>(292)</sup>
+* **Defund Gender Equality Programs:**  Defund all USAID programs related to gender equality. <sup>(292)</sup>
+* **Increase Funding to Faith-Based Organizations:**  Increase funding to faith-based organizations. <sup>(292)</sup>
+* **Reduce USAID's Global Footprint:**  Reduce the number of countries where USAID operates. <sup>(287)</sup>
 
-**3.5 Conclusion: Restoring USAID's Mission (p. 294)**
+**3.5 Conclusion: Restoring USAID's Mission <sup>(294)</sup>**
 
 * Primorac concludes by arguing that his recommendations are necessary to "restore USAID's mission" and to "make it a more effective tool for advancing American interests."
 * He claims that a reformed USAID will be "more accountable, more transparent, and more focused on results."
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Repeal the "Mexico City Policy":**  Repeal the "Mexico City Policy," which prohibits U.S. funding for organizations that provide or refer for abortions. (p. 292)
-* **Eliminate Climate Change Programs:**  Eliminate all USAID programs related to climate change. (p. 292)
-* **Defund Gender Equality Programs:**  Defund all USAID programs related to gender equality. (p. 292)
-* **Increase Funding to Faith-Based Organizations:**  Increase funding to faith-based organizations. (p. 292)
-* **Reduce USAID's Global Footprint:**  Reduce the number of countries where USAID operates. (p. 287)
+* **Repeal the "Mexico City Policy":**  Repeal the "Mexico City Policy," which prohibits U.S. funding for organizations that provide or refer for abortions. <sup>(292)</sup>
+* **Eliminate Climate Change Programs:**  Eliminate all USAID programs related to climate change. <sup>(292)</sup>
+* **Defund Gender Equality Programs:**  Defund all USAID programs related to gender equality. <sup>(292)</sup>
+* **Increase Funding to Faith-Based Organizations:**  Increase funding to faith-based organizations. <sup>(292)</sup>
+* **Reduce USAID's Global Footprint:**  Reduce the number of countries where USAID operates. <sup>(287)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -96,11 +96,11 @@ The chapter's significance lies in its call for a radical shift in U.S. foreign 
 
 ### 9. KEY QUOTES
 
-* **"The Biden Administration has deformed the agency by treating it as a global platform to pursue overseas a divisive political and cultural agenda that promotes abortion, climate extremism, gender radicalism, and interventions against perceived systematic racism." (p. 286)**  This quote reflects Primorac's view of USAID as having been corrupted by "woke" ideology.
-* **"China is using its economic power to coerce and corrupt other countries, and it is seeking to undermine American influence in the developing world." (p. 288)**  This quote highlights the chapter's focus on countering China's influence.
-* **"We must repeal the Mexico City Policy and eliminate all USAID programs related to abortion." (p. 292)**  This quote reveals the chapter's opposition to abortion and its desire to use USAID to promote a conservative social agenda.
-* **"We must increase funding to faith-based organizations, which are often more effective than secular organizations in providing development assistance." (p. 292)**  This quote reflects the chapter's support for faith-based initiatives.
-* **"We must reduce USAID's global footprint and refocus it on its core missions." (p. 287)**  This quote highlights the chapter's desire to shrink USAID and to prioritize a narrower set of objectives.
+* **"The Biden Administration has deformed the agency by treating it as a global platform to pursue overseas a divisive political and cultural agenda that promotes abortion, climate extremism, gender radicalism, and interventions against perceived systematic racism." <sup>(286)</sup>**  This quote reflects Primorac's view of USAID as having been corrupted by "woke" ideology.
+* **"China is using its economic power to coerce and corrupt other countries, and it is seeking to undermine American influence in the developing world." <sup>(288)</sup>**  This quote highlights the chapter's focus on countering China's influence.
+* **"We must repeal the Mexico City Policy and eliminate all USAID programs related to abortion." <sup>(292)</sup>**  This quote reveals the chapter's opposition to abortion and its desire to use USAID to promote a conservative social agenda.
+* **"We must increase funding to faith-based organizations, which are often more effective than secular organizations in providing development assistance." <sup>(292)</sup>**  This quote reflects the chapter's support for faith-based initiatives.
+* **"We must reduce USAID's global footprint and refocus it on its core missions." <sup>(287)</sup>**  This quote highlights the chapter's desire to shrink USAID and to prioritize a narrower set of objectives.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

@@ -23,24 +23,24 @@ The chapter's significance lies in its radical proposal to dismantle DHS, a majo
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: A Failed Experiment? (p. 164)**
+**3.1 Introduction: A Failed Experiment? <sup>(164)</sup>**
 
 * Cuccinelli argues that DHS has been a "failed experiment" and that it has become too large, bureaucratic, and expensive.
 * He criticizes the agency for its "mission creep" and its failure to adequately address key threats, such as illegal immigration and terrorism.
 * **Quote:** "The Department of Homeland Security has become a bloated, bureaucratic, and expensive behemoth that has lost sight of its core mission."
 
-**3.2 The Solution: Dismantle DHS (p. 166)**
+**3.2 The Solution: Dismantle DHS <sup>(166)</sup>**
 
 * Cuccinelli's primary recommendation is to dismantle DHS and to redistribute its functions to other departments.
 * He proposes creating a new, stand-alone border and immigration agency at the Cabinet level, consolidating functions from Customs and Border Protection (CBP), Immigration and Customs Enforcement (ICE), Citizenship and Immigration Services (USCIS), and other agencies.
 * **Quote:** "Our primary recommendation is that the President pursue legislation to dismantle the Department of Homeland Security (DHS)."
 
-**3.3 A New Border and Immigration Agency (p. 166)**
+**3.3 A New Border and Immigration Agency <sup>(166)</sup>**
 
 * Cuccinelli outlines his vision for a new border and immigration agency, emphasizing a hardline approach to enforcement.
 * He calls for increased funding for border security, stricter enforcement of immigration laws, expanded detention and deportation, and a crackdown on "sanctuary cities."
 
-**3.4 Immigration Enforcement Priorities (p. 174)**
+**3.4 Immigration Enforcement Priorities <sup>(174)</sup>**
 
 * Cuccinelli outlines specific immigration enforcement priorities, including:
     * **Securing the Border:**  Building a wall, increasing the number of border patrol agents, and using technology to enhance border security.
@@ -48,26 +48,26 @@ The chapter's significance lies in its radical proposal to dismantle DHS, a majo
     * **Expanding Detention and Deportation:**  Increasing the capacity of immigration detention centers and streamlining the deportation process.
     * **Eliminating Visa Programs:**  Eliminating or reducing various visa programs, such as the Diversity Visa Lottery and family-based immigration.
 
-**3.5 State and Local Cooperation (p. 182)**
+**3.5 State and Local Cooperation <sup>(182)</sup>**
 
 * Cuccinelli advocates for empowering state and local law enforcement to participate in immigration enforcement, even if those jurisdictions have chosen not to do so.
 * He criticizes "sanctuary cities" and calls for withholding federal funding from jurisdictions that refuse to cooperate with ICE.
 
-**3.6 Conclusion: Restoring Order and Security (p. 184)**
+**3.6 Conclusion: Restoring Order and Security <sup>(184)</sup>**
 
 * Cuccinelli concludes by arguing that his recommendations are necessary to restore order and security at the border and to protect the homeland from threats.
 * He claims that a strong immigration enforcement policy is essential for national security and economic prosperity.
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Dismantle DHS:**  Dismantle DHS and redistribute its functions to other departments. (p. 166)
-* **Create a New Border and Immigration Agency:**  Create a new, stand-alone border and immigration agency at the Cabinet level. (p. 166)
-* **Increase Border Security Funding:**  Increase funding for border security, including for a wall, more border patrol agents, and technology. (p. 174)
-* **Strictly Enforce Immigration Laws:**  Strictly enforce existing immigration laws, including through workplace raids and increased interior enforcement. (p. 174)
-* **Expand Detention and Deportation:**  Increase the capacity of immigration detention centers and streamline the deportation process. (p. 174)
-* **Eliminate Visa Programs:**  Eliminate or reduce various visa programs, such as the Diversity Visa Lottery and family-based immigration. (p. 174)
-* **Empower State and Local Law Enforcement:**  Empower state and local law enforcement to participate in immigration enforcement. (p. 182)
-* **Crack Down on "Sanctuary Cities":**  Withhold federal funding from jurisdictions that refuse to cooperate with ICE. (p. 182)
+* **Dismantle DHS:**  Dismantle DHS and redistribute its functions to other departments. <sup>(166)</sup>
+* **Create a New Border and Immigration Agency:**  Create a new, stand-alone border and immigration agency at the Cabinet level. <sup>(166)</sup>
+* **Increase Border Security Funding:**  Increase funding for border security, including for a wall, more border patrol agents, and technology. <sup>(174)</sup>
+* **Strictly Enforce Immigration Laws:**  Strictly enforce existing immigration laws, including through workplace raids and increased interior enforcement. <sup>(174)</sup>
+* **Expand Detention and Deportation:**  Increase the capacity of immigration detention centers and streamline the deportation process. <sup>(174)</sup>
+* **Eliminate Visa Programs:**  Eliminate or reduce various visa programs, such as the Diversity Visa Lottery and family-based immigration. <sup>(174)</sup>
+* **Empower State and Local Law Enforcement:**  Empower state and local law enforcement to participate in immigration enforcement. <sup>(182)</sup>
+* **Crack Down on "Sanctuary Cities":**  Withhold federal funding from jurisdictions that refuse to cooperate with ICE. <sup>(182)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -100,11 +100,11 @@ The chapter's significance lies in its radical proposal to dismantle DHS, a majo
 
 ### 9. KEY QUOTES
 
-* **"The Department of Homeland Security has become a bloated, bureaucratic, and expensive behemoth that has lost sight of its core mission." (p. 164)**  This quote reflects Cuccinelli's deep distrust of DHS and his belief that it has become ineffective.
-* **"Our primary recommendation is that the President pursue legislation to dismantle the Department of Homeland Security (DHS)." (p. 166)**  This quote highlights the radical nature of Cuccinelli's proposal to dismantle DHS.
-* **"The next conservative President should make securing the border a top priority." (p. 174)**  This quote emphasizes the chapter's focus on border security.
-* **"We must strictly enforce our immigration laws, both at the border and in the interior of the country." (p. 174)**  This quote reflects the chapter's hardline approach to immigration enforcement.
-* **"Sanctuary cities are a threat to public safety and should be held accountable." (p. 182)**  This quote reveals the chapter's hostility towards "sanctuary cities."
+* **"The Department of Homeland Security has become a bloated, bureaucratic, and expensive behemoth that has lost sight of its core mission." <sup>(164)</sup>**  This quote reflects Cuccinelli's deep distrust of DHS and his belief that it has become ineffective.
+* **"Our primary recommendation is that the President pursue legislation to dismantle the Department of Homeland Security (DHS)." <sup>(166)</sup>**  This quote highlights the radical nature of Cuccinelli's proposal to dismantle DHS.
+* **"The next conservative President should make securing the border a top priority." <sup>(174)</sup>**  This quote emphasizes the chapter's focus on border security.
+* **"We must strictly enforce our immigration laws, both at the border and in the interior of the country." <sup>(174)</sup>**  This quote reflects the chapter's hardline approach to immigration enforcement.
+* **"Sanctuary cities are a threat to public safety and should be held accountable." <sup>(182)</sup>**  This quote reveals the chapter's hostility towards "sanctuary cities."
 
 ### 10. SUMMARY & SIGNIFICANCE
 

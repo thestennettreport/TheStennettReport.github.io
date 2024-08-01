@@ -5,7 +5,7 @@ title: Mandate for Leadership - Section 2
 
 ### Section Title: The Common Defense
 
-### Introduction (p. 122)
+### Introduction <sup>(122)</sup>
 
 Section 2 of "Project 2025: Mandate for Leadership" focuses on national security and foreign policy, outlining a vision for a more militaristic and assertive America that prioritizes strength, dominance, and unilateral action. The section argues that the Biden Administration has weakened the U.S. military, emboldened adversaries like China and Russia, and undermined America's global standing. It calls for a renewed focus on "warfighting" capabilities, increased military spending, a rejection of "woke" ideology within the military, and a more confrontational approach to foreign policy.
 
@@ -44,11 +44,11 @@ The introduction to Section 2 paints a bleak picture of America's national secur
 
 ### Key Quotes:
 
-* **"The world is on fire. From China to Russia to Iran to North Korea to terrorist groups, the threats to American security are proliferating." (p. 122)** This quote sets the alarmist tone of the section and suggests that America is facing an unprecedented level of danger.
-* **"The Biden Doctrine is a doctrine of appeasement and retreat. It has emboldened our adversaries and weakened America's standing in the world." (p. 122)** This quote criticizes the Biden Administration's foreign policy and suggests that it is based on weakness and appeasement.
-* **"The U.S. military has become a hollow force. It has been weakened by budget cuts, woke ideology, and a lack of focus on warfighting capabilities." (p. 123)** This quote reflects the conservative belief that the military has been weakened by liberal policies.
-* **"We need to return to a Reaganite approach to national security, based on peace through strength, a strong military, and a willingness to use force to defend American interests." (p. 123)** This quote advocates for a more militaristic and assertive foreign policy.
-* **"The next conservative President must rebuild American military strength and reassert U.S. global leadership." (p. 123)** This quote outlines the key objectives of the section.
+* **"The world is on fire. From China to Russia to Iran to North Korea to terrorist groups, the threats to American security are proliferating." <sup>(122)</sup>** This quote sets the alarmist tone of the section and suggests that America is facing an unprecedented level of danger.
+* **"The Biden Doctrine is a doctrine of appeasement and retreat. It has emboldened our adversaries and weakened America's standing in the world." <sup>(122)</sup>** This quote criticizes the Biden Administration's foreign policy and suggests that it is based on weakness and appeasement.
+* **"The U.S. military has become a hollow force. It has been weakened by budget cuts, woke ideology, and a lack of focus on warfighting capabilities." <sup>(123)</sup>** This quote reflects the conservative belief that the military has been weakened by liberal policies.
+* **"We need to return to a Reaganite approach to national security, based on peace through strength, a strong military, and a willingness to use force to defend American interests." <sup>(123)</sup>** This quote advocates for a more militaristic and assertive foreign policy.
+* **"The next conservative President must rebuild American military strength and reassert U.S. global leadership." <sup>(123)</sup>** This quote outlines the key objectives of the section.
 
 ### Summary & Significance:
 

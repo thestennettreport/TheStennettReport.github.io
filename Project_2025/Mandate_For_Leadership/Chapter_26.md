@@ -31,7 +31,7 @@ The chapter's significance lies in its illumination of the divisions within the 
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 The Case for Fair Trade (p. 798)**
+**3.1 The Case for Fair Trade <sup>(798)</sup>**
 
 * **Introduction:** Navarro begins by arguing that the U.S. has been a "loser" in global trade due to "unfair, unbalanced, and nonreciprocal trade" practices by other countries.
 * **Trade Deficits:** He emphasizes the importance of reducing trade deficits, claiming that they are a sign of economic weakness and that they harm American workers and businesses.
@@ -40,7 +40,7 @@ The chapter's significance lies in its illumination of the divisions within the 
 * **Decoupling from China:** Navarro calls for "decoupling" the U.S. economy from China's, arguing that it is essential for national security and economic competitiveness.
 * **Conclusion:** Navarro concludes by arguing that a "fair trade" approach is necessary to "make America great again" and to "protect American workers and businesses."
 
-**3.2 The Case for Free Trade (p. 828)**
+**3.2 The Case for Free Trade <sup>(828)</sup>**
 
 * **Introduction:** Lassman begins by arguing that free trade is the best way to promote economic growth, create jobs, and raise living standards.
 * **Benefits of Free Trade:** He outlines the benefits of free trade, including lower prices for consumers, increased choices, and greater efficiency.
@@ -53,17 +53,17 @@ The chapter's significance lies in its illumination of the divisions within the 
 
 **Navarro:**
 
-* **Impose Tariffs:**  Impose tariffs on goods from countries that engage in unfair trade practices, particularly China. (p. 800)
-* **Negotiate Reciprocal Trade Agreements:**  Negotiate trade agreements that ensure reciprocal access to markets and protect American industries and jobs. (p. 800)
-* **Decouple from China:**  Reduce U.S. dependence on China for manufacturing, supply chains, and technology. (p. 816)
-* **Support American Manufacturing:**  Implement policies to support American manufacturing and to discourage offshoring. (p. 799)
+* **Impose Tariffs:**  Impose tariffs on goods from countries that engage in unfair trade practices, particularly China. <sup>(800)</sup>
+* **Negotiate Reciprocal Trade Agreements:**  Negotiate trade agreements that ensure reciprocal access to markets and protect American industries and jobs. <sup>(800)</sup>
+* **Decouple from China:**  Reduce U.S. dependence on China for manufacturing, supply chains, and technology. <sup>(816)</sup>
+* **Support American Manufacturing:**  Implement policies to support American manufacturing and to discourage offshoring. <sup>(799)</sup>
 
 **Lassman:**
 
-* **Reduce Trade Barriers:**  Reduce tariffs, quotas, and other trade barriers to promote free trade. (p. 829)
-* **Negotiate Free Trade Agreements:**  Negotiate free trade agreements with other countries to expand market access for American businesses. (p. 839)
-* **Promote Free Markets:**  Promote free markets and competition, allowing businesses to succeed or fail based on their merits. (p. 829)
-* **Limit Government Intervention:**  Limit government intervention in trade policy, allowing the private sector to drive economic growth. (p. 829)
+* **Reduce Trade Barriers:**  Reduce tariffs, quotas, and other trade barriers to promote free trade. <sup>(829)</sup>
+* **Negotiate Free Trade Agreements:**  Negotiate free trade agreements with other countries to expand market access for American businesses. <sup>(839)</sup>
+* **Promote Free Markets:**  Promote free markets and competition, allowing businesses to succeed or fail based on their merits. <sup>(829)</sup>
+* **Limit Government Intervention:**  Limit government intervention in trade policy, allowing the private sector to drive economic growth. <sup>(829)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -112,15 +112,15 @@ The chapter's significance lies in its illumination of the divisions within the 
 
 **Navarro:**
 
-* **"America’s record on trade—specifically American’s chronic and ever-expanding trade deficit—says that America is the globe’s biggest trade loser and a victim of unfair, unbalanced, and nonreciprocal trade." (p. 799)**  This quote reflects Navarro's view of the U.S. as a victim of unfair trade practices.
-* **"China is waging economic warfare against the United States." (p. 804)**  This quote highlights Navarro's hawkish stance on China.
-* **"We must decouple from China to protect our national security and economic competitiveness." (p. 816)**  This quote reveals Navarro's support for economic nationalism.
+* **"America’s record on trade—specifically American’s chronic and ever-expanding trade deficit—says that America is the globe’s biggest trade loser and a victim of unfair, unbalanced, and nonreciprocal trade." <sup>(799)</sup>**  This quote reflects Navarro's view of the U.S. as a victim of unfair trade practices.
+* **"China is waging economic warfare against the United States." <sup>(804)</sup>**  This quote highlights Navarro's hawkish stance on China.
+* **"We must decouple from China to protect our national security and economic competitiveness." <sup>(816)</sup>**  This quote reveals Navarro's support for economic nationalism.
 
 **Lassman:**
 
-* **"Free trade is the best way to promote economic growth, create jobs, and raise living standards." (p. 829)**  This quote encapsulates Lassman's belief in the benefits of free trade.
-* **"Trade promotes peace and stability by fostering economic interdependence between countries." (p. 839)**  This quote highlights Lassman's view of trade as a force for peace.
-* **"The U.S. economy is strong and resilient, and American businesses are competitive in the global marketplace." (p. 831)**  This quote reflects Lassman's confidence in the American economy.
+* **"Free trade is the best way to promote economic growth, create jobs, and raise living standards." <sup>(829)</sup>**  This quote encapsulates Lassman's belief in the benefits of free trade.
+* **"Trade promotes peace and stability by fostering economic interdependence between countries." <sup>(839)</sup>**  This quote highlights Lassman's view of trade as a force for peace.
+* **"The U.S. economy is strong and resilient, and American businesses are competitive in the global marketplace." <sup>(831)</sup>**  This quote reflects Lassman's confidence in the American economy.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

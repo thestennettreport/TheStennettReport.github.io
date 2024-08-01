@@ -23,19 +23,19 @@ The chapter's significance lies in its reflection of a broader conservative skep
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: A "Sprawling" and "Unaccountable" Agency (p. 776)**
+**3.1 Introduction: A "Sprawling" and "Unaccountable" Agency <sup>(776)</sup>**
 
 * Kerrigan argues that the SBA has become a "sprawling, unaccountable agency" that is "plagued by waste, fraud, and mismanagement."
 * She criticizes the agency's "mission creep" and its expansion into areas that she believes are beyond its core mandate.
 * **Quote:** "The Small Business Administration has become a sprawling bureaucracy that is more interested in picking winners and losers than in helping all small businesses succeed."
 
-**3.2 The Problem: Government Overreach (p. 777)**
+**3.2 The Problem: Government Overreach <sup>(777)</sup>**
 
 * Kerrigan argues that the SBA has become too involved in the economy, distorting markets and crowding out private investment.
 * She criticizes the agency's direct lending programs, arguing that they are inefficient and susceptible to fraud.
 * **Quote:** "The SBA's direct lending programs are a form of corporate welfare that benefits a select few at the expense of taxpayers."
 
-**3.3 The Solution: A "Tighter, More Focused" SBA (p. 783)**
+**3.3 The Solution: A "Tighter, More Focused" SBA <sup>(783)</sup>**
 
 * Kerrigan outlines a plan to reform the SBA by:
     * **Ending Direct Lending:**  Ending the SBA's direct lending programs and focusing on guaranteeing loans made by private lenders.
@@ -43,26 +43,26 @@ The chapter's significance lies in its reflection of a broader conservative skep
     * **Increasing Accountability and Transparency:**  Implementing stricter performance metrics, conducting more rigorous oversight, and providing a full accounting of COVID-19 relief program spending.
     * **Focusing on Core Functions:**  Focusing the SBA on its core functions of providing access to capital, entrepreneurial development, and government contracting support.
 
-**3.4 Specific Policy Recommendations (p. 783)**
+**3.4 Specific Policy Recommendations <sup>(783)</sup>**
 
-* **End Direct Lending:**  Eliminate the SBA's direct lending programs. (p. 783)
-* **Strengthen the Office of Advocacy:**  Increase the budget and authority of the Office of Advocacy. (p. 784)
-* **Increase Accountability and Transparency:**  Implement stricter performance metrics, conduct more rigorous oversight, and provide a full accounting of COVID-19 relief program spending. (p. 785)
-* **Focus on Core Functions:**  Focus the SBA on its core functions of providing access to capital, entrepreneurial development, and government contracting support. (p. 783)
-* **Reduce the SBA's Budget:**  Reduce the SBA's budget and staffing levels. (p. 783)
+* **End Direct Lending:**  Eliminate the SBA's direct lending programs. <sup>(783)</sup>
+* **Strengthen the Office of Advocacy:**  Increase the budget and authority of the Office of Advocacy. <sup>(784)</sup>
+* **Increase Accountability and Transparency:**  Implement stricter performance metrics, conduct more rigorous oversight, and provide a full accounting of COVID-19 relief program spending. <sup>(785)</sup>
+* **Focus on Core Functions:**  Focus the SBA on its core functions of providing access to capital, entrepreneurial development, and government contracting support. <sup>(783)</sup>
+* **Reduce the SBA's Budget:**  Reduce the SBA's budget and staffing levels. <sup>(783)</sup>
 
-**3.5 Conclusion: Unleashing the "Engine of the American Economy" (p. 786)**
+**3.5 Conclusion: Unleashing the "Engine of the American Economy" <sup>(786)</sup>**
 
 * Kerrigan concludes by arguing that her recommendations will "unleash the engine of the American economy" by empowering small businesses to create jobs and drive economic growth.
 * She claims that a reformed SBA will be "more effective, more efficient, and more accountable to taxpayers."
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **End Direct Lending:**  Eliminate the SBA's direct lending programs. (p. 783)
-* **Strengthen the Office of Advocacy:**  Increase the budget and authority of the Office of Advocacy. (p. 784)
-* **Increase Accountability and Transparency:**  Implement stricter performance metrics, conduct more rigorous oversight, and provide a full accounting of COVID-19 relief program spending. (p. 785)
-* **Focus on Core Functions:**  Focus the SBA on its core functions of providing access to capital, entrepreneurial development, and government contracting support. (p. 783)
-* **Reduce the SBA's Budget:**  Reduce the SBA's budget and staffing levels. (p. 783)
+* **End Direct Lending:**  Eliminate the SBA's direct lending programs. <sup>(783)</sup>
+* **Strengthen the Office of Advocacy:**  Increase the budget and authority of the Office of Advocacy. <sup>(784)</sup>
+* **Increase Accountability and Transparency:**  Implement stricter performance metrics, conduct more rigorous oversight, and provide a full accounting of COVID-19 relief program spending. <sup>(785)</sup>
+* **Focus on Core Functions:**  Focus the SBA on its core functions of providing access to capital, entrepreneurial development, and government contracting support. <sup>(783)</sup>
+* **Reduce the SBA's Budget:**  Reduce the SBA's budget and staffing levels. <sup>(783)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -95,11 +95,11 @@ The chapter's significance lies in its reflection of a broader conservative skep
 
 ### 9. KEY QUOTES
 
-* **"The Small Business Administration has become a sprawling bureaucracy that is more interested in picking winners and losers than in helping all small businesses succeed." (p. 776)**  This quote reflects Kerrigan's view of the SBA as being too large and too involved in the economy.
-* **"The SBA's direct lending programs are a form of corporate welfare that benefits a select few at the expense of taxpayers." (p. 777)**  This quote highlights Kerrigan's opposition to direct lending.
-* **"We need a tighter, more focused SBA that concentrates on its core functions." (p. 783)**  This quote emphasizes the chapter's desire to shrink the SBA.
-* **"We must end the SBA's direct lending programs and focus on guaranteeing loans made by private lenders." (p. 783)**  This quote reveals the chapter's preference for a market-based approach to small business lending.
-* **"We must increase accountability and transparency at the SBA." (p. 785)**  This quote highlights the chapter's focus on accountability.
+* **"The Small Business Administration has become a sprawling bureaucracy that is more interested in picking winners and losers than in helping all small businesses succeed." <sup>(776)</sup>**  This quote reflects Kerrigan's view of the SBA as being too large and too involved in the economy.
+* **"The SBA's direct lending programs are a form of corporate welfare that benefits a select few at the expense of taxpayers." <sup>(777)</sup>**  This quote highlights Kerrigan's opposition to direct lending.
+* **"We need a tighter, more focused SBA that concentrates on its core functions." <sup>(783)</sup>**  This quote emphasizes the chapter's desire to shrink the SBA.
+* **"We must end the SBA's direct lending programs and focus on guaranteeing loans made by private lenders." <sup>(783)</sup>**  This quote reveals the chapter's preference for a market-based approach to small business lending.
+* **"We must increase accountability and transparency at the SBA." <sup>(785)</sup>**  This quote highlights the chapter's focus on accountability.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

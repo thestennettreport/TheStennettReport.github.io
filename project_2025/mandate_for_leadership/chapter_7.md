@@ -52,11 +52,11 @@ The chapter's significance lies in its call for a more politicized and less inde
 
 **3.5 Specific Policy Recommendations <sup>246</sup>**
 
-* **Amend Executive Order 12333:**  Amend Executive Order 12333 to expand the IC's surveillance powers in cyberspace. (p. 238)
-* **Revoke Security Clearances:**  Revoke the security clearances of former intelligence officials who criticize the current Administration or disclose classified information without authorization. (p. 246)
-* **Strengthen Counterterrorism Efforts:**  Increase funding for counterterrorism efforts and focus on disrupting terrorist networks before they can attack the U.S. (p. 248)
-* **Counter Chinese Espionage:**  Develop a comprehensive strategy to counter Chinese espionage and intellectual property theft. (p. 250)
-* **Reform the FISA Court:**  Reform the Foreign Intelligence Surveillance Court (FISA Court) to make it more transparent and accountable. (p. 252)
+* **Amend Executive Order 12333:**  Amend Executive Order 12333 to expand the IC's surveillance powers in cyberspace. <sup>(238)</sup>
+* **Revoke Security Clearances:**  Revoke the security clearances of former intelligence officials who criticize the current Administration or disclose classified information without authorization. <sup>(246)</sup>
+* **Strengthen Counterterrorism Efforts:**  Increase funding for counterterrorism efforts and focus on disrupting terrorist networks before they can attack the U.S. <sup>(248)</sup>
+* **Counter Chinese Espionage:**  Develop a comprehensive strategy to counter Chinese espionage and intellectual property theft. <sup>(250)</sup>
+* **Reform the FISA Court:**  Reform the Foreign Intelligence Surveillance Court (FISA Court) to make it more transparent and accountable. <sup>(252)</sup>
 
 **3.6 Conclusion: A Call to Action <sup>254</sup>**
 
@@ -65,11 +65,11 @@ The chapter's significance lies in its call for a more politicized and less inde
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Amend Executive Order 12333:**  Amend Executive Order 12333 to expand the IC's surveillance powers in cyberspace. (p. 238)
-* **Revoke Security Clearances:**  Revoke the security clearances of former intelligence officials who criticize the current Administration or disclose classified information without authorization. (p. 246)
-* **Strengthen Counterterrorism Efforts:**  Increase funding for counterterrorism efforts and focus on disrupting terrorist networks before they can attack the U.S. (p. 248)
-* **Counter Chinese Espionage:**  Develop a comprehensive strategy to counter Chinese espionage and intellectual property theft. (p. 250)
-* **Reform the FISA Court:**  Reform the Foreign Intelligence Surveillance Court (FISA Court) to make it more transparent and accountable. (p. 252)
+* **Amend Executive Order 12333:**  Amend Executive Order 12333 to expand the IC's surveillance powers in cyberspace. <sup>(238)</sup>
+* **Revoke Security Clearances:**  Revoke the security clearances of former intelligence officials who criticize the current Administration or disclose classified information without authorization. <sup>(246)</sup>
+* **Strengthen Counterterrorism Efforts:**  Increase funding for counterterrorism efforts and focus on disrupting terrorist networks before they can attack the U.S. <sup>(248)</sup>
+* **Counter Chinese Espionage:**  Develop a comprehensive strategy to counter Chinese espionage and intellectual property theft. <sup>(250)</sup>
+* **Reform the FISA Court:**  Reform the Foreign Intelligence Surveillance Court (FISA Court) to make it more transparent and accountable. <sup>(252)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -101,11 +101,11 @@ The chapter's significance lies in its call for a more politicized and less inde
 
 ### 9. KEY QUOTES
 
-* **"The Intelligence Community is facing a crisis of confidence. It has been hollowed out by budget cuts, bureaucratic bloat, and a lack of clear direction." (p. 234)**  This quote sets the stage for Carmack's argument that the IC needs radical reform.
-* **"China is the most significant threat to U.S. national security in the 21st century." (p. 237)**  This quote highlights the chapter's focus on China as the primary threat.
-* **"The DNI must have the authority to set priorities, allocate resources, and hold agencies accountable." (p. 237)**  This quote emphasizes the chapter's call for a stronger DNI.
-* **"We must amend Executive Order 12333 to expand the IC's surveillance powers in cyberspace." (p. 238)**  This quote reveals the chapter's desire to increase surveillance capabilities.
-* **"We must purge the IC of 'woke' ideology and promote a culture of patriotism and service." (p. 237)**  This quote reflects the chapter's rejection of "woke" culture and its desire to promote a more conservative culture within the IC.
+* **"The Intelligence Community is facing a crisis of confidence. It has been hollowed out by budget cuts, bureaucratic bloat, and a lack of clear direction." <sup>(234)</sup>**  This quote sets the stage for Carmack's argument that the IC needs radical reform.
+* **"China is the most significant threat to U.S. national security in the 21st century." <sup>(237)</sup>**  This quote highlights the chapter's focus on China as the primary threat.
+* **"The DNI must have the authority to set priorities, allocate resources, and hold agencies accountable." <sup>(237)</sup>**  This quote emphasizes the chapter's call for a stronger DNI.
+* **"We must amend Executive Order 12333 to expand the IC's surveillance powers in cyberspace." <sup>(238)</sup>**  This quote reveals the chapter's desire to increase surveillance capabilities.
+* **"We must purge the IC of 'woke' ideology and promote a culture of patriotism and service." <sup>(237)</sup>**  This quote reflects the chapter's rejection of "woke" culture and its desire to promote a more conservative culture within the IC.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

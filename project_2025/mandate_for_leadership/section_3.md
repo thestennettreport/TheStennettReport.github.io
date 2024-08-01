@@ -5,7 +5,7 @@ title: Mandate for Leadership - Section 3
 
 ### Section Title: The General Welfare
 
-### Introduction (p. 284)
+### Introduction <sup>(284)</sup>
 
 Section 3 of "Project 2025: Mandate for Leadership" dives into a vast array of domestic policy areas, encompassing agriculture, education, energy, environmental protection, healthcare, housing, labor, and transportation. This section argues that the Biden Administration has pursued a radical, "woke" agenda that undermines individual freedom, economic prosperity, and traditional American values. It calls for a dramatic reduction in the role of the federal government in these areas, advocating for deregulation, privatization, state and local control, and a return to conservative principles.
 
@@ -46,11 +46,11 @@ The introduction to Section 3 paints a bleak picture of America's domestic situa
 
 ### Key Quotes:
 
-* **"The Biden Administration has pursued a radical, woke agenda that is undermining individual freedom, economic prosperity, and traditional American values." (p. 284)** This quote sets the tone for the section, framing the Biden Administration's policies as a threat to America.
-* **"The welfare state has failed to lift people out of poverty and has instead created a culture of dependency." (p. 284)** This quote reflects the conservative belief that social welfare programs are ineffective and counterproductive.
-* **"Excessive government regulation is stifling economic growth, discouraging innovation, and harming businesses." (p. 284)** This quote highlights the conservative preference for deregulation and free markets.
-* **"Traditional family values are under attack by a liberal cultural elite." (p. 284)** This quote reflects the conservative concern about the decline of traditional values and the influence of liberal culture.
-* **"We need a conservative renaissance in domestic policy, based on limited government, free markets, individual responsibility, and traditional values." (p. 285)** This quote outlines the key principles of the conservative vision for domestic policy.
+* **"The Biden Administration has pursued a radical, woke agenda that is undermining individual freedom, economic prosperity, and traditional American values." <sup>(284)</sup>** This quote sets the tone for the section, framing the Biden Administration's policies as a threat to America.
+* **"The welfare state has failed to lift people out of poverty and has instead created a culture of dependency." <sup>(284)</sup>** This quote reflects the conservative belief that social welfare programs are ineffective and counterproductive.
+* **"Excessive government regulation is stifling economic growth, discouraging innovation, and harming businesses." <sup>(284)</sup>** This quote highlights the conservative preference for deregulation and free markets.
+* **"Traditional family values are under attack by a liberal cultural elite." <sup>(284)</sup>** This quote reflects the conservative concern about the decline of traditional values and the influence of liberal culture.
+* **"We need a conservative renaissance in domestic policy, based on limited government, free markets, individual responsibility, and traditional values." <sup>(285)</sup>** This quote outlines the key principles of the conservative vision for domestic policy.
 
 ### Summary & Significance:
 

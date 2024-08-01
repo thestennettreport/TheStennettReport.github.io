@@ -24,57 +24,57 @@ The chapter's significance lies in its radical vision for a smaller, less interv
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: Restoring Fiscal Sanity (p. 728)**
+**3.1 Introduction: Restoring Fiscal Sanity <sup>(728)</sup>**
 
 * The authors argue that the U.S. is facing a "fiscal crisis" due to the Biden Administration's "reckless spending" and "tax-and-spend policies."
 * They call for a return to "fiscal sanity" and for a balanced budget, arguing that this is essential for economic growth and long-term prosperity.
 * **Quote:** "The Biden Administration's fiscal policies are a recipe for disaster. They are leading to higher inflation, slower economic growth, and a weaker dollar."
 
-**3.2 Tax Reform and Simplification (p. 729)**
+**3.2 Tax Reform and Simplification <sup>(729)</sup>**
 
 * The authors advocate for significant tax cuts and simplification, arguing that this would boost economic growth, create jobs, and make the U.S. more competitive.
 * They propose several options, including a flat tax, a consumption tax, and a reduction in corporate tax rates.
 * **Quote:** "We need to simplify the tax code and reduce the tax burden on American families and businesses. This will unleash economic growth and create millions of new jobs."
 
-**3.3 Reining in the IRS (p. 731)**
+**3.3 Reining in the IRS <sup>(731)</sup>**
 
 * The authors criticize the IRS as being "too big, too powerful, and too intrusive."
 * They call for reducing the IRS's budget and staffing levels, limiting its enforcement powers, and strengthening taxpayer rights and privacy protections.
 * **Quote:** "The IRS has become a weaponized agency that is used to target political opponents and to harass innocent taxpayers. We must rein in the IRS and restore its focus on its core mission of collecting taxes."
 
-**3.4 Strengthening Financial Regulation (p. 734)**
+**3.4 Strengthening Financial Regulation <sup>(734)</sup>**
 
 * The authors argue that financial regulations should be "streamlined" and "modernized" to promote economic growth and innovation.
 * They criticize the Dodd-Frank Act as being "too burdensome" and "too complex" and call for repealing or reforming many of its provisions.
 * **Quote:** "We need to strike a balance between protecting consumers and promoting economic growth. The Dodd-Frank Act went too far and has stifled innovation in the financial sector."
 
-**3.5 Countering China's Economic Aggression (p. 736)**
+**3.5 Countering China's Economic Aggression <sup>(736)</sup>**
 
 * The authors echo the concerns raised in previous chapters about China's economic and national security threats and call for the Treasury Department to play a more active role in countering those threats.
 * They advocate for using sanctions, investment restrictions, and trade policies to "decouple" the U.S. economy from China's and to protect American businesses from unfair competition.
 * **Quote:** "China is engaged in a systematic effort to undermine the U.S. economy and to steal our intellectual property. We must take a more aggressive approach to countering China's economic aggression."
 
-**3.6 Reversing the "Equity" and "Climate Change" Agendas (p. 741)**
+**3.6 Reversing the "Equity" and "Climate Change" Agendas <sup>(741)</sup>**
 
 * The authors criticize the Biden Administration's focus on "equity" and "climate change," arguing that these are distractions from the Treasury's core mission and that they are harmful to the economy.
 * They call for eliminating the Treasury's Counselor for Racial Equity, Advisory Committee on Racial Equity, and Office for Diversity, Equity, Inclusion, and Accessibility.
 * They also call for eliminating the Treasury's Climate Hub Office and withdrawing from international climate agreements.
 * **Quote:** "The Treasury Department should focus on its core mission of promoting economic growth and fiscal responsibility. It should not be used to advance a radical social agenda."
 
-**3.7 Conclusion: A "Prosperous and Secure" Future (p. 743)**
+**3.7 Conclusion: A "Prosperous and Secure" Future <sup>(743)</sup>**
 
 * The authors conclude by arguing that their recommendations are necessary to create a "more prosperous and secure future" for America.
 * They claim that a smaller, less interventionist Treasury Department will "unleash the power of the free market" and "restore America's economic greatness."
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Balance the Budget:**  Balance the federal budget through spending cuts, not tax increases. (p. 729)
-* **Cut Taxes:**  Implement significant tax cuts and simplification, potentially including a flat tax or consumption tax. (p. 729)
-* **Reduce the IRS:**  Reduce the size and scope of the IRS, limit its enforcement powers, and strengthen taxpayer rights and privacy protections. (p. 731)
-* **Deregulate the Financial Industry:**  Streamline and modernize financial regulations, potentially repealing or reforming the Dodd-Frank Act. (p. 734)
-* **Counter China:**  Use sanctions, investment restrictions, and trade policies to counter China's economic aggression. (p. 736)
-* **Eliminate "Equity" Initiatives:**  Eliminate the Treasury's Counselor for Racial Equity, Advisory Committee on Racial Equity, and Office for Diversity, Equity, Inclusion, and Accessibility. (p. 741)
-* **Reverse "Climate Change" Agenda:**  Eliminate the Treasury's Climate Hub Office and withdraw from international climate agreements. (p. 741)
+* **Balance the Budget:**  Balance the federal budget through spending cuts, not tax increases. <sup>(729)</sup>
+* **Cut Taxes:**  Implement significant tax cuts and simplification, potentially including a flat tax or consumption tax. <sup>(729)</sup>
+* **Reduce the IRS:**  Reduce the size and scope of the IRS, limit its enforcement powers, and strengthen taxpayer rights and privacy protections. <sup>(731)</sup>
+* **Deregulate the Financial Industry:**  Streamline and modernize financial regulations, potentially repealing or reforming the Dodd-Frank Act. <sup>(734)</sup>
+* **Counter China:**  Use sanctions, investment restrictions, and trade policies to counter China's economic aggression. <sup>(736)</sup>
+* **Eliminate "Equity" Initiatives:**  Eliminate the Treasury's Counselor for Racial Equity, Advisory Committee on Racial Equity, and Office for Diversity, Equity, Inclusion, and Accessibility. <sup>(741)</sup>
+* **Reverse "Climate Change" Agenda:**  Eliminate the Treasury's Climate Hub Office and withdraw from international climate agreements. <sup>(741)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -108,11 +108,11 @@ The chapter's significance lies in its radical vision for a smaller, less interv
 
 ### 9. KEY QUOTES
 
-* **"The Biden Administration's fiscal policies are a recipe for disaster. They are leading to higher inflation, slower economic growth, and a weaker dollar." (p. 728)** This quote reflects the authors' alarmist view of the Biden Administration's economic policies.
-* **"We need to simplify the tax code and reduce the tax burden on American families and businesses. This will unleash economic growth and create millions of new jobs." (p. 729)** This quote highlights the chapter's emphasis on tax cuts as a solution to economic problems.
-* **"The IRS has become a weaponized agency that is used to target political opponents and to harass innocent taxpayers. We must rein in the IRS and restore its focus on its core mission of collecting taxes." (p. 731)** This quote reveals the chapter's distrust of the IRS and its desire to weaken the agency.
-* **"We need to strike a balance between protecting consumers and promoting economic growth. The Dodd-Frank Act went too far and has stifled innovation in the financial sector." (p. 734)** This quote reflects the chapter's preference for deregulation and its skepticism towards government intervention in the financial industry.
-* **"China is engaged in a systematic effort to undermine the U.S. economy and to steal our intellectual property. We must take a more aggressive approach to countering China's economic aggression." (p. 736)** This quote highlights the chapter's focus on countering China as a strategic competitor.
+* **"The Biden Administration's fiscal policies are a recipe for disaster. They are leading to higher inflation, slower economic growth, and a weaker dollar." <sup>(728)</sup>** This quote reflects the authors' alarmist view of the Biden Administration's economic policies.
+* **"We need to simplify the tax code and reduce the tax burden on American families and businesses. This will unleash economic growth and create millions of new jobs." <sup>(729)</sup>** This quote highlights the chapter's emphasis on tax cuts as a solution to economic problems.
+* **"The IRS has become a weaponized agency that is used to target political opponents and to harass innocent taxpayers. We must rein in the IRS and restore its focus on its core mission of collecting taxes." <sup>(731)</sup>** This quote reveals the chapter's distrust of the IRS and its desire to weaken the agency.
+* **"We need to strike a balance between protecting consumers and promoting economic growth. The Dodd-Frank Act went too far and has stifled innovation in the financial sector." <sup>(734)</sup>** This quote reflects the chapter's preference for deregulation and its skepticism towards government intervention in the financial industry.
+* **"China is engaged in a systematic effort to undermine the U.S. economy and to steal our intellectual property. We must take a more aggressive approach to countering China's economic aggression." <sup>(736)</sup>** This quote highlights the chapter's focus on countering China as a strategic competitor.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

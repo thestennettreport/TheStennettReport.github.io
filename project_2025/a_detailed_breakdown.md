@@ -118,7 +118,7 @@ Project 2025 is structured around a series of chapters, each focusing on a speci
     * Crack down on Big Tech companies using antitrust law. (Chapter 30)
     * Increase cooperation with state attorneys general in antitrust enforcement. (Chapter 30)
 
-**3.6 "Onward!": A Call to Action (p. 916)**
+**3.6 "Onward!": A Call to Action <sup>(916)</sup>**
 
 * This concluding section, authored by Edwin J. Feulner, founder and former president of The Heritage Foundation, serves as a call to action for conservatives to embrace Project 2025 as a guide for achieving a conservative revolution in government.
 * It celebrates the successes of the Reagan and Trump Administrations in implementing conservative policies and suggests that the next conservative President can achieve similar results by following the recommendations outlined in "Mandate for Leadership."
@@ -168,11 +168,11 @@ Project 2025 is structured around a series of chapters, each focusing on a speci
 
 ### 9. KEY QUOTES
 
-* **"The administrative state is a threat to American liberty and prosperity. It must be dismantled." (p. 55)**  This quote reflects the project's core objective of dismantling the federal bureaucracy.
-* **"Personnel is policy. The next conservative President must appoint individuals who share his vision and who are committed to implementing his agenda." (p. 54)**  This quote emphasizes the importance of personnel decisions in achieving policy goals.
-* **"We need to unleash the power of the free market by cutting taxes, reducing regulations, and getting the government out of the way of businesses." (p. 727)**  This quote encapsulates the project's economic philosophy.
-* **"The family is the foundation of a strong and healthy society. We must promote policies that strengthen families and protect children." (p. 37)**  This quote highlights the project's focus on traditional family values.
-* **"America is the greatest nation on earth. We must restore American strength and leadership in the world." (p. 49)**  This quote reflects the project's belief in American exceptionalism and its desire to reassert American dominance.
+* **"The administrative state is a threat to American liberty and prosperity. It must be dismantled." <sup>(55)</sup>**  This quote reflects the project's core objective of dismantling the federal bureaucracy.
+* **"Personnel is policy. The next conservative President must appoint individuals who share his vision and who are committed to implementing his agenda." <sup>(54)</sup>**  This quote emphasizes the importance of personnel decisions in achieving policy goals.
+* **"We need to unleash the power of the free market by cutting taxes, reducing regulations, and getting the government out of the way of businesses." <sup>(727)</sup>**  This quote encapsulates the project's economic philosophy.
+* **"The family is the foundation of a strong and healthy society. We must promote policies that strengthen families and protect children." <sup>(37)</sup>**  This quote highlights the project's focus on traditional family values.
+* **"America is the greatest nation on earth. We must restore American strength and leadership in the world." <sup>(49)</sup>**  This quote reflects the project's belief in American exceptionalism and its desire to reassert American dominance.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

@@ -23,13 +23,13 @@ The chapter's significance lies in its vision for a more market-driven approach 
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: "Mission Creep" and Progressive Ideologies (p. 508)**
+**3.1 Introduction: "Mission Creep" and Progressive Ideologies <sup>(508)</sup>**
 
 * Carson argues that HUD has suffered from "mission creep" and has become a tool for promoting a progressive social agenda that he believes is harmful to individual responsibility and self-sufficiency.
 * He criticizes the Biden Administration for its focus on "equity" and "social justice" in housing policy, arguing that these concepts are divisive and counterproductive.
 * **Quote:** "HUD has strayed from its core mission of providing decent, safe, and affordable housing. It has become a vehicle for social engineering and for promoting a radical agenda that is out of touch with the values of the American people."
 
-**3.2 The Solution: "Resetting" HUD (p. 510)**
+**3.2 The Solution: "Resetting" HUD <sup>(510)</sup>**
 
 * Carson outlines a plan to "reset" HUD by:
     * **Refocusing on Core Mission:**  Refocusing the agency on its core mission of providing affordable housing and reducing its involvement in social programs.
@@ -38,26 +38,26 @@ The chapter's significance lies in its vision for a more market-driven approach 
     * **Reducing Regulation:**  Reducing regulations on housing providers and developers to make housing more affordable.
     * **Scrutinizing Foreign Ownership:**  Increasing scrutiny of foreign ownership of U.S. real estate, particularly by China.
 
-**3.3 Specific Policy Recommendations (p. 536)**
+**3.3 Specific Policy Recommendations <sup>(536)</sup>**
 
-* **Repeal the Affirmatively Furthering Fair Housing (AFFH) Regulation:**  Repeal the AFFH regulation, which requires communities receiving HUD funding to take steps to address housing discrimination. (p. 542)
-* **Restrict Housing Assistance to Citizens:**  Prohibit non-citizens from living in federally assisted housing. (p. 542)
-* **Reform Public Housing:**  Reform public housing programs to encourage work and self-sufficiency. (p. 543)
-* **Promote Homeownership:**  Expand access to homeownership through programs that provide down payment assistance and mortgage insurance. (p. 546)
-* **Reduce Homelessness:**  Address homelessness through a combination of prevention, outreach, and support services, but with a focus on individual responsibility. (p. 548)
+* **Repeal the Affirmatively Furthering Fair Housing (AFFH) Regulation:**  Repeal the AFFH regulation, which requires communities receiving HUD funding to take steps to address housing discrimination. <sup>(542)</sup>
+* **Restrict Housing Assistance to Citizens:**  Prohibit non-citizens from living in federally assisted housing. <sup>(542)</sup>
+* **Reform Public Housing:**  Reform public housing programs to encourage work and self-sufficiency. <sup>(543)</sup>
+* **Promote Homeownership:**  Expand access to homeownership through programs that provide down payment assistance and mortgage insurance. <sup>(546)</sup>
+* **Reduce Homelessness:**  Address homelessness through a combination of prevention, outreach, and support services, but with a focus on individual responsibility. <sup>(548)</sup>
 
-**3.4 Conclusion: A Brighter Future for Housing (p. 550)**
+**3.4 Conclusion: A Brighter Future for Housing <sup>(550)</sup>**
 
 * Carson concludes by arguing that his recommendations will lead to a "brighter future for housing" in America.
 * He claims that a more market-driven approach will make housing more affordable, will reduce dependence on government assistance, and will empower individuals to achieve the American Dream.
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Repeal the AFFH Regulation:**  Repeal the AFFH regulation. (p. 542)
-* **Restrict Housing Assistance to Citizens:**  Prohibit non-citizens from living in federally assisted housing. (p. 542)
-* **Reform Public Housing:**  Reform public housing programs to encourage work and self-sufficiency. (p. 543)
-* **Promote Homeownership:**  Expand access to homeownership. (p. 546)
-* **Reduce Homelessness:**  Address homelessness through a combination of prevention, outreach, and support services. (p. 548)
+* **Repeal the AFFH Regulation:**  Repeal the AFFH regulation. <sup>(542)</sup>
+* **Restrict Housing Assistance to Citizens:**  Prohibit non-citizens from living in federally assisted housing. <sup>(542)</sup>
+* **Reform Public Housing:**  Reform public housing programs to encourage work and self-sufficiency. <sup>(543)</sup>
+* **Promote Homeownership:**  Expand access to homeownership. <sup>(546)</sup>
+* **Reduce Homelessness:**  Address homelessness through a combination of prevention, outreach, and support services. <sup>(548)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -90,11 +90,11 @@ The chapter's significance lies in its vision for a more market-driven approach 
 
 ### 9. KEY QUOTES
 
-* **"HUD has strayed from its core mission of providing decent, safe, and affordable housing. It has become a vehicle for social engineering and for promoting a radical agenda that is out of touch with the values of the American people." (p. 508)**  This quote reflects Carson's view of HUD as having been corrupted by a progressive agenda.
-* **"We must reset HUD and refocus it on its core mission." (p. 510)**  This quote highlights Carson's call for a more limited role for HUD.
-* **"We must emphasize individual responsibility and self-sufficiency, rather than dependence on government assistance." (p. 510)**  This quote reflects the chapter's focus on individual responsibility.
-* **"We must increase scrutiny of foreign ownership of U.S. real estate, particularly by China." (p. 510)**  This quote reveals the chapter's concern about foreign investment in U.S. real estate.
-* **"We must empower communities to address their own housing needs." (p. 510)**  This quote reflects the chapter's support for local control.
+* **"HUD has strayed from its core mission of providing decent, safe, and affordable housing. It has become a vehicle for social engineering and for promoting a radical agenda that is out of touch with the values of the American people." <sup>(508)</sup>**  This quote reflects Carson's view of HUD as having been corrupted by a progressive agenda.
+* **"We must reset HUD and refocus it on its core mission." <sup>(510)</sup>**  This quote highlights Carson's call for a more limited role for HUD.
+* **"We must emphasize individual responsibility and self-sufficiency, rather than dependence on government assistance." <sup>(510)</sup>**  This quote reflects the chapter's focus on individual responsibility.
+* **"We must increase scrutiny of foreign ownership of U.S. real estate, particularly by China." <sup>(510)</sup>**  This quote reveals the chapter's concern about foreign investment in U.S. real estate.
+* **"We must empower communities to address their own housing needs." <sup>(510)</sup>**  This quote reflects the chapter's support for local control.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

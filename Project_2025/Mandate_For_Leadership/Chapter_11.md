@@ -68,11 +68,11 @@ The chapter's significance lies in its radical proposal to eliminate the Departm
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Eliminate the Department of Education:**  Eliminate the Department of Education and replace it with a system of block grants to states. [<sup>353</sup>](../../documents/project_2025_images/page_320.png)
-* **Expand School Choice:**  Expand school choice options, particularly Education Savings Accounts (ESAs). [<sup>353</sup>](../../documents/project_2025_images/page_320.png)
-* **Protect Parental Rights:**  Enact a federal Parents' Bill of Rights to codify parental rights in education. [<sup>377</sup>](../../documents/project_2025_images/page_344.png)
-* **Rollback Obama-Era Guidance:**  Rescind the Obama Administration's guidance on school discipline and the Equity in IDEA regulation. [<sup>368</sup>](../../documents/project_2025_images/page_335.png)
-* **Promote "Patriotic" Education:**  Encourage schools to adopt a more "patriotic" curriculum. [<sup>356</sup>](../../documents/project_2025_images/page_323.png)
+* **Eliminate the Department of Education:**  Eliminate the Department of Education and replace it with a system of block grants to states. <sup>353</sup>
+* **Expand School Choice:**  Expand school choice options, particularly Education Savings Accounts (ESAs). <sup>353</sup>
+* **Protect Parental Rights:**  Enact a federal Parents' Bill of Rights to codify parental rights in education. <sup>377</sup>
+* **Rollback Obama-Era Guidance:**  Rescind the Obama Administration's guidance on school discipline and the Equity in IDEA regulation. <sup>368</sup>
+* **Promote "Patriotic" Education:**  Encourage schools to adopt a more "patriotic" curriculum. <sup>356</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -104,11 +104,11 @@ The chapter's significance lies in its radical proposal to eliminate the Departm
 
 ### 9. KEY QUOTES
 
-* **"The federal government's involvement in education has been a costly failure. It has not improved student outcomes, and it has created a massive bureaucracy that is accountable to no one." (p. 346)**  This quote reflects Burke's opposition to federal involvement in education.
-* **"The best way to improve education is to empower families and to give them more control over their children's education." (p. 353)**  This quote highlights the chapter's emphasis on parental choice and local control.
-* **"Education Savings Accounts are the most promising school choice policy available today. They would give parents the power to customize their children's education and to choose the best options for their individual needs." (p. 353)**  This quote reveals Burke's strong support for ESAs.
-* **"The Obama Administration's focus on 'equity' in education led to a number of harmful policies that undermined student safety and academic achievement." (p. 368)**  This quote reflects the chapter's criticism of efforts to promote equity in education.
-* **"We must restore freedom and opportunity to American education by empowering families and by getting the federal government out of the way." (p. 380)**  This quote encapsulates Burke's vision for education reform.
+* **"The federal government's involvement in education has been a costly failure. It has not improved student outcomes, and it has created a massive bureaucracy that is accountable to no one." <sup>(346)</sup>**  This quote reflects Burke's opposition to federal involvement in education.
+* **"The best way to improve education is to empower families and to give them more control over their children's education." <sup>(353)</sup>**  This quote highlights the chapter's emphasis on parental choice and local control.
+* **"Education Savings Accounts are the most promising school choice policy available today. They would give parents the power to customize their children's education and to choose the best options for their individual needs." <sup>(353)</sup>**  This quote reveals Burke's strong support for ESAs.
+* **"The Obama Administration's focus on 'equity' in education led to a number of harmful policies that undermined student safety and academic achievement." <sup>(368)</sup>**  This quote reflects the chapter's criticism of efforts to promote equity in education.
+* **"We must restore freedom and opportunity to American education by empowering families and by getting the federal government out of the way." <sup>(380)</sup>**  This quote encapsulates Burke's vision for education reform.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

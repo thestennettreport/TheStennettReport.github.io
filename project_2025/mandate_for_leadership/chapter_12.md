@@ -23,44 +23,44 @@ The chapter's significance lies in its stark rejection of renewable energy and c
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: A "War on American Energy" (p. 382)**
+**3.1 Introduction: A "War on American Energy" <sup>(382)</sup>**
 
 * McNamee argues that the Biden Administration is waging a "war on American energy" through its "extreme 'green' policies."
 * He claims that these policies have led to higher energy prices, job losses, and a weakening of national security.
 * **Quote:** "The Biden Administration's energy policies are a disaster for the American people. They are based on ideology, not science, and they are harming our economy and our national security."
 
-**3.2 The Solution: "American Energy Dominance" (p. 384)**
+**3.2 The Solution: "American Energy Dominance" <sup>(384)</sup>**
 
 * McNamee calls for a return to "American energy dominance," arguing that the U.S. should become the world's leading producer and exporter of energy.
 * He advocates for an "all of the above" energy policy that prioritizes fossil fuels, including oil, natural gas, and coal.
 * **Quote:** "The United States has the resources to be the world's energy superpower. We must unleash American energy and reclaim our energy independence."
 
-**3.3 Deregulation and Free Markets (p. 385)**
+**3.3 Deregulation and Free Markets <sup>(385)</sup>**
 
 * McNamee argues that the government should "get out of the way" of the energy industry and allow the free market to determine energy production and prices.
 * He calls for repealing regulations that he believes are "burdensome" and "unnecessary," including those related to climate change, air and water quality, and endangered species.
 * **Quote:** "The best way to ensure affordable and reliable energy is to unleash the power of the free market."
 
-**3.4 Specific Policy Recommendations (p. 396)**
+**3.4 Specific Policy Recommendations <sup>(396)</sup>**
 
-* **Repeal "Green" Subsidies:**  Repeal subsidies for renewable energy and electric vehicles. (p. 398)
-* **Approve Energy Projects:**  Expedite the approval of oil and gas pipelines, drilling permits, and other energy infrastructure projects. (p. 399)
-* **Promote Nuclear Power:**  Streamline the licensing process for new nuclear power plants. (p. 402)
-* **Reform FERC:**  Refocus FERC on ensuring "affordable and reliable electricity" and reduce its focus on climate change. (p. 402)
-* **Reform NRC:**  Streamline the NRC's nuclear regulatory requirements to promote the development of new nuclear power plants. (p. 402)
+* **Repeal "Green" Subsidies:**  Repeal subsidies for renewable energy and electric vehicles. <sup>(398)</sup>
+* **Approve Energy Projects:**  Expedite the approval of oil and gas pipelines, drilling permits, and other energy infrastructure projects. <sup>(399)</sup>
+* **Promote Nuclear Power:**  Streamline the licensing process for new nuclear power plants. <sup>(402)</sup>
+* **Reform FERC:**  Refocus FERC on ensuring "affordable and reliable electricity" and reduce its focus on climate change. <sup>(402)</sup>
+* **Reform NRC:**  Streamline the NRC's nuclear regulatory requirements to promote the development of new nuclear power plants. <sup>(402)</sup>
 
-**3.5 Conclusion: A Call for Energy Independence (p. 404)**
+**3.5 Conclusion: A Call for Energy Independence <sup>(404)</sup>**
 
 * McNamee concludes by arguing that his recommendations are necessary to achieve energy independence, to lower energy prices, and to strengthen national security.
 * He claims that a free market approach to energy policy will lead to a more prosperous and secure America.
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Repeal "Green" Subsidies:**  Repeal subsidies for renewable energy and electric vehicles. (p. 398)
-* **Approve Energy Projects:**  Expedite the approval of oil and gas pipelines, drilling permits, and other energy infrastructure projects. (p. 399)
-* **Promote Nuclear Power:**  Streamline the licensing process for new nuclear power plants. (p. 402)
-* **Reform FERC:**  Refocus FERC on ensuring "affordable and reliable electricity" and reduce its focus on climate change. (p. 402)
-* **Reform NRC:**  Streamline the NRC's nuclear regulatory requirements to promote the development of new nuclear power plants. (p. 402)
+* **Repeal "Green" Subsidies:**  Repeal subsidies for renewable energy and electric vehicles. <sup>(398)</sup>
+* **Approve Energy Projects:**  Expedite the approval of oil and gas pipelines, drilling permits, and other energy infrastructure projects. <sup>(399)</sup>
+* **Promote Nuclear Power:**  Streamline the licensing process for new nuclear power plants. <sup>(402)</sup>
+* **Reform FERC:**  Refocus FERC on ensuring "affordable and reliable electricity" and reduce its focus on climate change. <sup>(402)</sup>
+* **Reform NRC:**  Streamline the NRC's nuclear regulatory requirements to promote the development of new nuclear power plants. <sup>(402)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -93,11 +93,11 @@ The chapter's significance lies in its stark rejection of renewable energy and c
 
 ### 9. KEY QUOTES
 
-* **"The Biden Administration's energy policies are a disaster for the American people. They are based on ideology, not science, and they are harming our economy and our national security." (p. 382)**  This quote reflects McNamee's strong opposition to the Biden Administration's energy policies.
-* **"The United States has the resources to be the world's energy superpower. We must unleash American energy and reclaim our energy independence." (p. 384)**  This quote highlights the chapter's focus on "American energy dominance."
-* **"The best way to ensure affordable and reliable energy is to unleash the power of the free market." (p. 385)**  This quote encapsulates the chapter's faith in deregulation and free markets.
-* **"We must repeal subsidies for renewable energy and electric vehicles. These subsidies are nothing more than corporate welfare." (p. 398)**  This quote reveals the chapter's opposition to government support for clean energy.
-* **"We must expedite the approval of oil and gas pipelines, drilling permits, and other energy infrastructure projects. These projects are essential for our economic growth and national security." (p. 399)**  This quote highlights the chapter's prioritization of fossil fuel production.
+* **"The Biden Administration's energy policies are a disaster for the American people. They are based on ideology, not science, and they are harming our economy and our national security." <sup>(382)</sup>**  This quote reflects McNamee's strong opposition to the Biden Administration's energy policies.
+* **"The United States has the resources to be the world's energy superpower. We must unleash American energy and reclaim our energy independence." <sup>(384)</sup>**  This quote highlights the chapter's focus on "American energy dominance."
+* **"The best way to ensure affordable and reliable energy is to unleash the power of the free market." <sup>(385)</sup>**  This quote encapsulates the chapter's faith in deregulation and free markets.
+* **"We must repeal subsidies for renewable energy and electric vehicles. These subsidies are nothing more than corporate welfare." <sup>(398)</sup>**  This quote reveals the chapter's opposition to government support for clean energy.
+* **"We must expedite the approval of oil and gas pipelines, drilling permits, and other energy infrastructure projects. These projects are essential for our economic growth and national security." <sup>(399)</sup>**  This quote highlights the chapter's prioritization of fossil fuel production.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

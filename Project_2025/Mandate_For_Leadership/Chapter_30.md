@@ -23,19 +23,19 @@ The chapter's significance lies in its call for a more expansive and potentially
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: The "Consumer Welfare" Standard (p. 902)**
+**3.1 Introduction: The "Consumer Welfare" Standard <sup>(902)</sup>**
 
 * Candeub argues that the "consumer welfare" standard, which has been the dominant framework for antitrust enforcement in recent decades, is too narrow and has failed to adequately address the challenges posed by Big Tech and other dominant firms.
 * He contends that the consumer welfare standard focuses too narrowly on prices and output, ignoring other harms to competition and democratic values.
 * **Quote:** "The consumer welfare standard has become a straitjacket that is preventing the FTC from effectively addressing the challenges of the 21st century economy."
 
-**3.2 A Broader View of Antitrust (p. 903)**
+**3.2 A Broader View of Antitrust <sup>(903)</sup>**
 
 * Candeub advocates for a broader view of antitrust law that encompasses the protection of democratic values, such as free speech, the marketplace of ideas, shareholder control, and managerial accountability.
 * He argues that dominant firms can use their power to stifle competition, to censor speech, to manipulate markets, and to undermine democratic institutions.
 * **Quote:** "Antitrust law should be used to protect not only consumers, but also competition and democratic values."
 
-**3.3 The Challenge of Big Tech (p. 910)**
+**3.3 The Challenge of Big Tech <sup>(910)</sup>**
 
 * Candeub highlights the power of Big Tech companies and their potential to harm competition and democratic institutions.
 * He argues that Big Tech companies have engaged in a variety of anticompetitive practices, including:
@@ -43,26 +43,26 @@ The chapter's significance lies in its call for a more expansive and potentially
     * **Data Collection and Use:**  Collecting and using vast amounts of data to gain an unfair advantage over competitors and to manipulate consumers.
     * **Platform Dominance:**  Using their dominant market position to stifle competition and to control access to essential services.
 
-**3.4 Specific Policy Recommendations (p. 912)**
+**3.4 Specific Policy Recommendations <sup>(912)</sup>**
 
-* **Redefine Antitrust Law:**  Redefine antitrust law to encompass the protection of democratic values, such as free speech, the marketplace of ideas, shareholder control, and managerial accountability. (p. 903)
-* **Investigate Big Tech:**  Launch investigations into Big Tech companies' anticompetitive practices, including their use of mergers and acquisitions, data collection practices, and platform dominance. (p. 910)
-* **Cooperate with State AGs:**  Increase cooperation with state attorneys general in antitrust enforcement. (p. 912)
-* **Protect Children Online:**  Investigate online platforms' practices that target children as potential unfair trade practices. (p. 908)
-* **Challenge ESG as a Pretext for Anticompetitive Behavior:**  Challenge the use of ESG initiatives as a cover for anticompetitive behavior. (p. 911)
+* **Redefine Antitrust Law:**  Redefine antitrust law to encompass the protection of democratic values, such as free speech, the marketplace of ideas, shareholder control, and managerial accountability. <sup>(903)</sup>
+* **Investigate Big Tech:**  Launch investigations into Big Tech companies' anticompetitive practices, including their use of mergers and acquisitions, data collection practices, and platform dominance. <sup>(910)</sup>
+* **Cooperate with State AGs:**  Increase cooperation with state attorneys general in antitrust enforcement. <sup>(912)</sup>
+* **Protect Children Online:**  Investigate online platforms' practices that target children as potential unfair trade practices. <sup>(908)</sup>
+* **Challenge ESG as a Pretext for Anticompetitive Behavior:**  Challenge the use of ESG initiatives as a cover for anticompetitive behavior. <sup>(911)</sup>
 
-**3.5 Conclusion: Restoring Competition and Democracy (p. 914)**
+**3.5 Conclusion: Restoring Competition and Democracy <sup>(914)</sup>**
 
 * Candeub concludes by arguing that a more robust and expansive approach to antitrust enforcement is necessary to "restore competition and democracy" in the digital age.
 * He claims that a reformed FTC will be "a champion for consumers, for competition, and for the American people."
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Redefine Antitrust Law:**  Redefine antitrust law to encompass the protection of democratic values. (p. 903)
-* **Investigate Big Tech:**  Launch investigations into Big Tech companies' anticompetitive practices. (p. 910)
-* **Cooperate with State AGs:**  Increase cooperation with state attorneys general in antitrust enforcement. (p. 912)
-* **Protect Children Online:**  Investigate online platforms' practices that target children as potential unfair trade practices. (p. 908)
-* **Challenge ESG as a Pretext for Anticompetitive Behavior:**  Challenge the use of ESG initiatives as a cover for anticompetitive behavior. (p. 911)
+* **Redefine Antitrust Law:**  Redefine antitrust law to encompass the protection of democratic values. <sup>(903)
+* **Investigate Big Tech:**  Launch investigations into Big Tech companies' anticompetitive practices. <sup>(910)
+* **Cooperate with State AGs:**  Increase cooperation with state attorneys general in antitrust enforcement. <sup>(912)
+* **Protect Children Online:**  Investigate online platforms' practices that target children as potential unfair trade practices. <sup>(908)
+* **Challenge ESG as a Pretext for Anticompetitive Behavior:**  Challenge the use of ESG initiatives as a cover for anticompetitive behavior. <sup>(911)
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -93,11 +93,11 @@ The chapter's significance lies in its call for a more expansive and potentially
 
 ### 9. KEY QUOTES
 
-* **"The consumer welfare standard has become a straitjacket that is preventing the FTC from effectively addressing the challenges of the 21st century economy." (p. 902)**  This quote reflects Candeub's belief that the current approach to antitrust is too narrow.
-* **"Antitrust law should be used to protect not only consumers, but also competition and democratic values." (p. 903)**  This quote highlights Candeub's call for a broader view of antitrust.
-* **"Big Tech companies have engaged in a variety of anticompetitive practices, including mergers and acquisitions, data collection and use, and platform dominance." (p. 910)**  This quote summarizes Candeub's concerns about Big Tech.
-* **"We must challenge the use of ESG initiatives as a cover for anticompetitive behavior." (p. 911)**  This quote reveals Candeub's skepticism towards ESG.
-* **"We need a more robust and expansive approach to antitrust enforcement to restore competition and democracy in the digital age." (p. 914)**  This quote encapsulates Candeub's vision for a more aggressive FTC.
+* **"The consumer welfare standard has become a straitjacket that is preventing the FTC from effectively addressing the challenges of the 21st century economy." <sup>(902)</sup>**  This quote reflects Candeub's belief that the current approach to antitrust is too narrow.
+* **"Antitrust law should be used to protect not only consumers, but also competition and democratic values." <sup>(903)</sup>**  This quote highlights Candeub's call for a broader view of antitrust.
+* **"Big Tech companies have engaged in a variety of anticompetitive practices, including mergers and acquisitions, data collection and use, and platform dominance." <sup>(910)</sup>**  This quote summarizes Candeub's concerns about Big Tech.
+* **"We must challenge the use of ESG initiatives as a cover for anticompetitive behavior." <sup>(911)</sup>**  This quote reveals Candeub's skepticism towards ESG.
+* **"We need a more robust and expansive approach to antitrust enforcement to restore competition and democracy in the digital age." <sup>(914)</sup>**  This quote encapsulates Candeub's vision for a more aggressive FTC.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

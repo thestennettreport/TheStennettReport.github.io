@@ -5,7 +5,7 @@ title: Mandate for Leadership - Section 4
 
 ### Section Title: The Economy
 
-### Introduction (p. 726)
+### Introduction <sup>(726)</sup>
 
 Section 4 of "Project 2025: Mandate for Leadership" focuses squarely on economic policy, advocating for a radical shift towards a more laissez-faire approach that prioritizes free markets, limited government intervention, and a rejection of what the authors perceive as "failed" liberal economic policies. The section argues that the Biden Administration's policies have led to economic stagnation, inflation, and a decline in American competitiveness. It calls for a return to conservative principles of fiscal responsibility, tax cuts, deregulation, and sound money, arguing that these are the keys to unleashing economic growth, creating jobs, and restoring American prosperity.
 
@@ -46,11 +46,11 @@ The introduction to Section 4 paints a bleak picture of the American economy, bl
 
 ### Key Quotes:
 
-* **"The Biden Administration's economic policies are a disaster. They are based on a failed ideology of big government and redistribution of wealth." (p. 726)** This quote reflects the section's strong opposition to the Biden Administration's economic policies.
-* **"We need to unleash the power of the free market by cutting taxes, reducing regulations, and getting the government out of the way of businesses." (p. 727)** This quote encapsulates the section's core economic philosophy.
-* **"The Federal Reserve has become too powerful and too unaccountable. We need to reform the Fed and return to a system of sound money." (p. 727)** This quote highlights the section's skepticism towards the Federal Reserve and its advocacy for monetary reform.
-* **"China is engaged in a systematic effort to undermine the U.S. economy. We must take a more aggressive approach to countering Chinese economic aggression." (p. 727)** This quote reflects the section's focus on China as an economic threat.
-* **"We need a conservative economic revival that will restore American prosperity and make our country great again." (p. 728)** This quote serves as a rallying cry for conservatives, urging them to embrace the section's economic agenda.
+* **"The Biden Administration's economic policies are a disaster. They are based on a failed ideology of big government and redistribution of wealth." <sup>(726)</sup>** This quote reflects the section's strong opposition to the Biden Administration's economic policies.
+* **"We need to unleash the power of the free market by cutting taxes, reducing regulations, and getting the government out of the way of businesses." <sup>(727)</sup>** This quote encapsulates the section's core economic philosophy.
+* **"The Federal Reserve has become too powerful and too unaccountable. We need to reform the Fed and return to a system of sound money." <sup>(727)</sup>** This quote highlights the section's skepticism towards the Federal Reserve and its advocacy for monetary reform.
+* **"China is engaged in a systematic effort to undermine the U.S. economy. We must take a more aggressive approach to countering Chinese economic aggression." <sup>(727)</sup>** This quote reflects the section's focus on China as an economic threat.
+* **"We need a conservative economic revival that will restore American prosperity and make our country great again." <sup>(728)</sup>** This quote serves as a rallying cry for conservatives, urging them to embrace the section's economic agenda.
 
 ### Summary & Significance:
 

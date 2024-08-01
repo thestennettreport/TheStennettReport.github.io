@@ -23,20 +23,20 @@ The chapter's significance lies in its call for a radical shift in agricultural 
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: A "Transformative" Agenda (p. 302)**
+**3.1 Introduction: A "Transformative" Agenda <sup>(302)</sup>**
 
 * Bakst criticizes the Biden Administration's "transformative" agenda for agriculture, arguing that it is based on a "false premise" that the government needs to intervene in the food system.
 * He argues that the free market is the best mechanism for ensuring food security and affordability.
 * **Quote:** "The Biden Administration is seeking to transform the food system in a way that would fundamentally alter the relationship between the government and agriculture."
 
-**3.2 The Problem: Government Overreach (p. 303)**
+**3.2 The Problem: Government Overreach <sup>(303)</sup>**
 
 * Bakst argues that government overreach in agriculture has led to a number of problems, including:
     * **Distorted Markets:**  Government subsidies and regulations distort markets, leading to higher prices for consumers and unfair competition for farmers.
     * **Reduced Innovation:**  Government programs discourage innovation by creating a "culture of dependency" among farmers.
     * **Waste and Inefficiency:**  Government programs are often wasteful and inefficient, costing taxpayers billions of dollars.
 
-**3.3 The Solution: Free Markets and Limited Government (p. 306)**
+**3.3 The Solution: Free Markets and Limited Government <sup>(306)</sup>**
 
 * Bakst outlines a conservative vision for agriculture that emphasizes free markets and limited government intervention.
 * He calls for:
@@ -45,28 +45,28 @@ The chapter's significance lies in its call for a radical shift in agricultural 
     * **Promoting Free Trade:**  Expanding access to foreign markets for American agricultural products.
     * **Moving Food and Nutrition Programs:**  Transferring all USDA food and nutrition programs, including SNAP and WIC, to the Department of Health and Human Services (HHS).
 
-**3.4 Specific Policy Recommendations (p. 326)**
+**3.4 Specific Policy Recommendations <sup>(326)</sup>**
 
-* **Eliminate Direct Payments:**  Eliminate direct payments to farmers, which are based on historical production levels rather than current market conditions. (p. 328)
-* **Reform Crop Insurance:**  Reform crop insurance programs to reduce government subsidies and to encourage farmers to take on more risk. (p. 329)
-* **Move Food and Nutrition Programs to HHS:**  Transfer all USDA food and nutrition programs to HHS. (p. 332)
-* **Reform SNAP:**  Reform SNAP by re-implementing work requirements, reforming broad-based categorical eligibility, re-evaluating the Thrifty Food Plan, and eliminating the "heat-and-eat" loophole. (p. 333)
-* **Return School Meals to "Original Intent":**  Eliminate the Community Eligibility Provision (CEP), which allows schools with high concentrations of poverty to offer free meals to all students. (p. 335)
-* **Reform Conservation Programs:**  Eliminate the Conservation Reserve Program (CRP) and reform conservation easements to make them less restrictive. (p. 337)
+* **Eliminate Direct Payments:**  Eliminate direct payments to farmers, which are based on historical production levels rather than current market conditions. <sup>(328)</sup>
+* **Reform Crop Insurance:**  Reform crop insurance programs to reduce government subsidies and to encourage farmers to take on more risk. <sup>(329)</sup>
+* **Move Food and Nutrition Programs to HHS:**  Transfer all USDA food and nutrition programs to HHS. <sup>(332)</sup>
+* **Reform SNAP:**  Reform SNAP by re-implementing work requirements, reforming broad-based categorical eligibility, re-evaluating the Thrifty Food Plan, and eliminating the "heat-and-eat" loophole. <sup>(333)</sup>
+* **Return School Meals to "Original Intent":**  Eliminate the Community Eligibility Provision (CEP), which allows schools with high concentrations of poverty to offer free meals to all students. <sup>(335)</sup>
+* **Reform Conservation Programs:**  Eliminate the Conservation Reserve Program (CRP) and reform conservation easements to make them less restrictive. <sup>(337)</sup>
 
-**3.5 Conclusion: Restoring Freedom and Prosperity (p. 340)**
+**3.5 Conclusion: Restoring Freedom and Prosperity <sup>(340)</sup>**
 
 * Bakst concludes by arguing that his recommendations are necessary to "restore freedom and prosperity" to American agriculture.
 * He claims that a free market approach will lead to lower prices for consumers, higher incomes for farmers, and a more sustainable agricultural system.
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Eliminate Direct Payments:**  Eliminate direct payments to farmers. (p. 328)
-* **Reform Crop Insurance:**  Reform crop insurance programs. (p. 329)
-* **Move Food and Nutrition Programs to HHS:**  Transfer all USDA food and nutrition programs to HHS. (p. 332)
-* **Reform SNAP:**  Reform SNAP by re-implementing work requirements, reforming broad-based categorical eligibility, re-evaluating the Thrifty Food Plan, and eliminating the "heat-and-eat" loophole. (p. 333)
-* **Return School Meals to "Original Intent":**  Eliminate the Community Eligibility Provision (CEP). (p. 335)
-* **Reform Conservation Programs:**  Eliminate the Conservation Reserve Program (CRP) and reform conservation easements. (p. 337)
+* **Eliminate Direct Payments:**  Eliminate direct payments to farmers. <sup>(328)</sup>
+* **Reform Crop Insurance:**  Reform crop insurance programs. <sup>(329)</sup>
+* **Move Food and Nutrition Programs to HHS:**  Transfer all USDA food and nutrition programs to HHS. <sup>(332)</sup>
+* **Reform SNAP:**  Reform SNAP by re-implementing work requirements, reforming broad-based categorical eligibility, re-evaluating the Thrifty Food Plan, and eliminating the "heat-and-eat" loophole. <sup>(333)</sup>
+* **Return School Meals to "Original Intent":**  Eliminate the Community Eligibility Provision (CEP). <sup>(335)</sup>
+* **Reform Conservation Programs:**  Eliminate the Conservation Reserve Program (CRP) and reform conservation easements. <sup>(337)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -99,11 +99,11 @@ The chapter's significance lies in its call for a radical shift in agricultural 
 
 ### 9. KEY QUOTES
 
-* **"The Biden Administration is seeking to transform the food system in a way that would fundamentally alter the relationship between the government and agriculture." (p. 302)**  This quote reflects Bakst's opposition to the Biden Administration's approach to agriculture.
-* **"Government overreach in agriculture has led to distorted markets, reduced innovation, and waste and inefficiency." (p. 303)**  This quote summarizes Bakst's critique of government intervention in agriculture.
-* **"We must eliminate or reform farm subsidies, roll back regulations, and promote free trade." (p. 306)**  This quote outlines Bakst's vision for a more market-oriented approach to agriculture.
-* **"We must move food and nutrition programs to HHS, where they can be administered more effectively and efficiently." (p. 332)**  This quote reflects Bakst's desire to reduce the role of the USDA.
-* **"We must restore freedom and prosperity to American agriculture." (p. 340)**  This quote encapsulates Bakst's belief that a free market approach is the best way to achieve these goals.
+* **"The Biden Administration is seeking to transform the food system in a way that would fundamentally alter the relationship between the government and agriculture." <sup>(302)</sup>**  This quote reflects Bakst's opposition to the Biden Administration's approach to agriculture.
+* **"Government overreach in agriculture has led to distorted markets, reduced innovation, and waste and inefficiency." <sup>(303)</sup>**  This quote summarizes Bakst's critique of government intervention in agriculture.
+* **"We must eliminate or reform farm subsidies, roll back regulations, and promote free trade." <sup>(306)</sup>**  This quote outlines Bakst's vision for a more market-oriented approach to agriculture.
+* **"We must move food and nutrition programs to HHS, where they can be administered more effectively and efficiently." <sup>(332)</sup>**  This quote reflects Bakst's desire to reduce the role of the USDA.
+* **"We must restore freedom and prosperity to American agriculture." <sup>(340)</sup>**  This quote encapsulates Bakst's belief that a free market approach is the best way to achieve these goals.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

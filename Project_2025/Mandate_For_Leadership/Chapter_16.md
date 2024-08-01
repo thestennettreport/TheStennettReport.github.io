@@ -23,52 +23,52 @@ The chapter's significance lies in its aggressive push to prioritize resource ex
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: A "War on the West" (p. 552)**
+**3.1 Introduction: A "War on the West" <sup>(552)</sup>**
 
 * Pendley argues that the Biden Administration is waging a "war on the West" by prioritizing environmental protection over economic development and energy production on public lands.
 * He claims that these policies are harming rural communities, destroying jobs, and undermining national security.
 * **Quote:** "The Biden Administration has declared war on the West, and the Department of the Interior is its primary weapon."
 
-**3.2 The Solution: "Unleashing American Energy" (p. 553)**
+**3.2 The Solution: "Unleashing American Energy" <sup>(553)</sup>**
 
 * Pendley calls for "unleashing American energy" by expanding oil and gas leasing and production on public lands and waters, arguing that this is essential for economic growth, job creation, and national security.
 * He criticizes the Biden Administration for pausing new oil and gas leases and for promoting renewable energy sources, which he views as unreliable and inefficient.
 * **Quote:** "We must unleash American energy and restore our energy independence. Public lands hold vast reserves of oil, natural gas, and coal, and we must develop these resources responsibly to create jobs and to power our economy."
 
-**3.3 Rolling Back Regulations (p. 555)**
+**3.3 Rolling Back Regulations <sup>(555)</sup>**
 
 * Pendley advocates for rolling back a wide range of environmental regulations that he believes are "burdensome" and "unnecessary," including those related to the Endangered Species Act, the National Environmental Policy Act (NEPA), and the Clean Water Act.
 * He argues that these regulations stifle economic growth, harm businesses, and infringe on property rights.
 * **Quote:** "The regulatory burden on American businesses is crushing. We must roll back these regulations and unleash the power of the free market."
 
-**3.4 Empowering States and Local Communities (p. 557)**
+**3.4 Empowering States and Local Communities <sup>(557)</sup>**
 
 * Pendley argues for giving states and local communities greater control over public lands management, suggesting that they are better stewards of those lands than the federal government.
 * He criticizes the "top-down" approach of federal agencies and calls for a more decentralized and collaborative approach to land management.
 * **Quote:** "States and local communities are the best stewards of their own lands. We must empower them to make decisions about how to manage these resources."
 
-**3.5 Specific Policy Recommendations (p. 560)**
+**3.5 Specific Policy Recommendations <sup>(560)</sup>**
 
-* **Expand Energy Development:**  Expand oil and gas leasing and production on public lands and waters. (p. 553)
-* **Rollback Environmental Regulations:**  Roll back regulations related to the Endangered Species Act, NEPA, the Clean Water Act, and other environmental laws. (p. 555)
-* **Empower States and Local Communities:**  Give states and local communities greater control over public lands management. (p. 557)
-* **Relocate BLM Headquarters:**  Maintain the BLM headquarters in Grand Junction, Colorado, to keep it closer to the resources it manages. (p. 557)
-* **Review National Monuments:**  Review existing national monuments and potentially reduce their size or change their management status. (p. 565)
-* **Promote "Wise Use":**  Promote the "wise use" of natural resources, including for grazing, mining, and logging. (p. 567)
+* **Expand Energy Development:**  Expand oil and gas leasing and production on public lands and waters. <sup>(553)</sup>
+* **Rollback Environmental Regulations:**  Roll back regulations related to the Endangered Species Act, NEPA, the Clean Water Act, and other environmental laws. <sup>(555)</sup>
+* **Empower States and Local Communities:**  Give states and local communities greater control over public lands management. <sup>(557)</sup>
+* **Relocate BLM Headquarters:**  Maintain the BLM headquarters in Grand Junction, Colorado, to keep it closer to the resources it manages. <sup>(557)</sup>
+* **Review National Monuments:**  Review existing national monuments and potentially reduce their size or change their management status. <sup>(565)</sup>
+* **Promote "Wise Use":**  Promote the "wise use" of natural resources, including for grazing, mining, and logging. <sup>(567)</sup>
 
-**3.6 Conclusion: A "New Era of Conservation" (p. 571)**
+**3.6 Conclusion: A "New Era of Conservation" <sup>(571)</sup>**
 
 * Pendley concludes by arguing that his recommendations will usher in a "new era of conservation" that balances environmental protection with economic development.
 * He claims that this approach will lead to a "healthier and more prosperous America."
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Expand Energy Development:**  Expand oil and gas leasing and production on public lands and waters. (p. 553)
-* **Rollback Environmental Regulations:**  Roll back regulations related to the Endangered Species Act, NEPA, the Clean Water Act, and other environmental laws. (p. 555)
-* **Empower States and Local Communities:**  Give states and local communities greater control over public lands management. (p. 557)
-* **Relocate BLM Headquarters:**  Maintain the BLM headquarters in Grand Junction, Colorado. (p. 557)
-* **Review National Monuments:**  Review existing national monuments and potentially reduce their size or change their management status. (p. 565)
-* **Promote "Wise Use":**  Promote the "wise use" of natural resources, including for grazing, mining, and logging. (p. 567)
+* **Expand Energy Development:**  Expand oil and gas leasing and production on public lands and waters. <sup>(553)</sup>
+* **Rollback Environmental Regulations:**  Roll back regulations related to the Endangered Species Act, NEPA, the Clean Water Act, and other environmental laws. <sup>(555)</sup>
+* **Empower States and Local Communities:**  Give states and local communities greater control over public lands management. <sup>(557)</sup>
+* **Relocate BLM Headquarters:**  Maintain the BLM headquarters in Grand Junction, Colorado. <sup>(557)</sup>
+* **Review National Monuments:**  Review existing national monuments and potentially reduce their size or change their management status. <sup>(565)</sup>
+* **Promote "Wise Use":**  Promote the "wise use" of natural resources, including for grazing, mining, and logging. <sup>(567)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -100,11 +100,11 @@ The chapter's significance lies in its aggressive push to prioritize resource ex
 
 ### 9. KEY QUOTES
 
-* **"The Biden Administration has declared war on the West, and the Department of the Interior is its primary weapon." (p. 552)**  This quote reflects Pendley's view of the Biden Administration as hostile to the interests of the West.
-* **"We must unleash American energy and restore our energy independence." (p. 553)**  This quote highlights the chapter's focus on energy dominance.
-* **"The regulatory burden on American businesses is crushing. We must roll back these regulations and unleash the power of the free market." (p. 555)**  This quote reflects the chapter's preference for deregulation.
-* **"States and local communities are the best stewards of their own lands. We must empower them to make decisions about how to manage these resources." (p. 557)**  This quote emphasizes the chapter's support for state and local control.
-* **"We must promote the wise use of natural resources, including for grazing, mining, and logging." (p. 567)**  This quote reveals the chapter's prioritization of resource extraction.
+* **"The Biden Administration has declared war on the West, and the Department of the Interior is its primary weapon." <sup>(552)</sup>**  This quote reflects Pendley's view of the Biden Administration as hostile to the interests of the West.
+* **"We must unleash American energy and restore our energy independence." <sup>(553)</sup>**  This quote highlights the chapter's focus on energy dominance.
+* **"The regulatory burden on American businesses is crushing. We must roll back these regulations and unleash the power of the free market." <sup>(555)</sup>**  This quote reflects the chapter's preference for deregulation.
+* **"States and local communities are the best stewards of their own lands. We must empower them to make decisions about how to manage these resources." <sup>(557)</sup>**  This quote emphasizes the chapter's support for state and local control.
+* **"We must promote the wise use of natural resources, including for grazing, mining, and logging." <sup>(567)</sup>**  This quote reveals the chapter's prioritization of resource extraction.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

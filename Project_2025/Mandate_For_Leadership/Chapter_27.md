@@ -23,19 +23,19 @@ The chapter's significance lies in its call for a significant weakening of finan
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: A "Radical" Agenda (p. 854)**
+**3.1 Introduction: A "Radical" Agenda <sup>(854)</sup>**
 
 * Burton argues that the Biden Administration is using financial regulatory agencies to advance a "radical" agenda that is "harmful to investors and the economy."
 * He criticizes the SEC's focus on climate change, DEI, and other "non-economic" issues, arguing that these are distractions from the agency's core mission of protecting investors and ensuring fair and efficient markets.
 * **Quote:** "The Biden Administration is using the SEC to advance a radical agenda that is based on ideology, not economics. This agenda is harmful to investors and the economy."
 
-**3.2 The Problem: Excessive Regulation (p. 855)**
+**3.2 The Problem: Excessive Regulation <sup>(855)</sup>**
 
 * Burton argues that excessive regulation is stifling innovation and economic growth in the financial sector.
 * He criticizes the Dodd-Frank Act as being "too burdensome" and "too complex" and calls for repealing or reforming many of its provisions.
 * **Quote:** "The Dodd-Frank Act was a massive overreaction to the financial crisis. It has created a regulatory labyrinth that is stifling innovation and economic growth."
 
-**3.3 The Solution: Deregulation and a Reduced Role for Government (p. 862)**
+**3.3 The Solution: Deregulation and a Reduced Role for Government <sup>(862)</sup>**
 
 * Burton outlines a plan to "deregulate the financial sector" and to "reduce the role of government in financial markets."
 * He calls for:
@@ -44,34 +44,34 @@ The chapter's significance lies in its call for a significant weakening of finan
     * **Limiting Enforcement:**  Limiting the SEC's enforcement powers and focusing on cases of "clear and convincing" fraud.
     * **Abolishing or Reforming SROs:**  Abolishing or significantly reforming SROs like FINRA, arguing that they are ineffective, costly, and lack transparency and accountability.
 
-**3.4 Specific Policy Recommendations (p. 864)**
+**3.4 Specific Policy Recommendations <sup>(864)</sup>**
 
 * **SEC:**
-    * Simplify regulations and reduce reporting requirements. (p. 864)
-    * Eliminate administrative proceedings and require all enforcement actions to be brought in federal court. (p. 864)
-    * Limit the SEC's authority to regulate "non-economic" issues, such as climate change and DEI. (p. 862)
-    * Merge the functions of the Public Company Accounting Oversight Board (PCAOB) and FINRA into the SEC. (p. 864)
+    * Simplify regulations and reduce reporting requirements. <sup>(864)</sup>
+    * Eliminate administrative proceedings and require all enforcement actions to be brought in federal court. <sup>(864)</sup>
+    * Limit the SEC's authority to regulate "non-economic" issues, such as climate change and DEI. <sup>(862)</sup>
+    * Merge the functions of the Public Company Accounting Oversight Board (PCAOB) and FINRA into the SEC. <sup>(864)</sup>
 * **CFTC:**
-    * Modernize the definition of "commodity" to include digital assets. (p. 866)
-    * Clarify the registration requirements for foreign swap trading platforms. (p. 866)
-    * Give the CFTC Chairman greater authority to remove the agency's Executive Director. (p. 866)
+    * Modernize the definition of "commodity" to include digital assets. <sup>(866)</sup>
+    * Clarify the registration requirements for foreign swap trading platforms. <sup>(866)</sup>
+    * Give the CFTC Chairman greater authority to remove the agency's Executive Director. <sup>(866)</sup>
 
-**3.5 Conclusion: Unleashing the "Power of Free Markets" (p. 868)**
+**3.5 Conclusion: Unleashing the "Power of Free Markets" <sup>(868)</sup>**
 
 * Burton concludes by arguing that his recommendations are necessary to "unleash the power of free markets" and to "restore America's economic greatness."
 * He claims that a deregulated financial sector will lead to more investment, more innovation, and more jobs.
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Simplify Regulations:**  Simplify and streamline regulations to reduce compliance costs for businesses. (p. 862)
-* **Reduce Reporting Requirements:**  Reduce the number and complexity of reports that companies are required to file with the SEC. (p. 863)
-* **Limit Enforcement:**  Limit the SEC's enforcement powers and focus on cases of "clear and convincing" fraud. (p. 864)
-* **Abolish or Reform SROs:**  Abolish or significantly reform SROs like FINRA. (p. 863)
-* **Limit SEC's Authority on "Non-Economic" Issues:**  Limit the SEC's authority to regulate "non-economic" issues, such as climate change and DEI. (p. 862)
-* **Merge PCAOB and FINRA into SEC:**  Merge the functions of PCAOB and FINRA into the SEC. (p. 864)
-* **Modernize CFTC's Definition of "Commodity":**  Modernize the definition of "commodity" to include digital assets. (p. 866)
-* **Clarify CFTC Registration Requirements:**  Clarify the registration requirements for foreign swap trading platforms. (p. 866)
-* **Strengthen CFTC Chairman's Authority:**  Give the CFTC Chairman greater authority to remove the agency's Executive Director. (p. 866)
+* **Simplify Regulations:**  Simplify and streamline regulations to reduce compliance costs for businesses. <sup>(862)</sup>
+* **Reduce Reporting Requirements:**  Reduce the number and complexity of reports that companies are required to file with the SEC. <sup>(863)</sup>
+* **Limit Enforcement:**  Limit the SEC's enforcement powers and focus on cases of "clear and convincing" fraud. <sup>(864)</sup>
+* **Abolish or Reform SROs:**  Abolish or significantly reform SROs like FINRA. <sup>(863)</sup>
+* **Limit SEC's Authority on "Non-Economic" Issues:**  Limit the SEC's authority to regulate "non-economic" issues, such as climate change and DEI. <sup>(862)</sup>
+* **Merge PCAOB and FINRA into SEC:**  Merge the functions of PCAOB and FINRA into the SEC. <sup>(864)</sup>
+* **Modernize CFTC's Definition of "Commodity":**  Modernize the definition of "commodity" to include digital assets. <sup>(866)</sup>
+* **Clarify CFTC Registration Requirements:**  Clarify the registration requirements for foreign swap trading platforms. <sup>(866)</sup>
+* **Strengthen CFTC Chairman's Authority:**  Give the CFTC Chairman greater authority to remove the agency's Executive Director. <sup>(866)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -103,11 +103,11 @@ The chapter's significance lies in its call for a significant weakening of finan
 
 ### 9. KEY QUOTES
 
-* **"The Biden Administration is using the SEC to advance a radical agenda that is based on ideology, not economics. This agenda is harmful to investors and the economy." (p. 854)**  This quote reflects Burton's view of the Biden Administration as pursuing a radical agenda that is harmful to the financial sector.
-* **"The Dodd-Frank Act was a massive overreaction to the financial crisis. It has created a regulatory labyrinth that is stifling innovation and economic growth." (p. 855)**  This quote highlights Burton's opposition to financial regulation and his belief that it hinders economic growth.
-* **"We need to deregulate the financial sector and reduce the role of government in financial markets." (p. 862)**  This quote encapsulates Burton's vision for a more laissez-faire approach to financial regulation.
-* **"The SEC should focus on its core mission of protecting investors from fraud. It should not be used to advance a social agenda." (p. 862)**  This quote reflects Burton's rejection of the SEC's efforts to address climate change and DEI.
-* **"We must unleash the power of free markets to create jobs, grow the economy, and make America great again." (p. 868)**  This quote connects Burton's vision for financial deregulation to a broader conservative agenda of promoting economic growth and American exceptionalism.
+* **"The Biden Administration is using the SEC to advance a radical agenda that is based on ideology, not economics. This agenda is harmful to investors and the economy." <sup>(854)</sup>**  This quote reflects Burton's view of the Biden Administration as pursuing a radical agenda that is harmful to the financial sector.
+* **"The Dodd-Frank Act was a massive overreaction to the financial crisis. It has created a regulatory labyrinth that is stifling innovation and economic growth." <sup>(855)</sup>**  This quote highlights Burton's opposition to financial regulation and his belief that it hinders economic growth.
+* **"We need to deregulate the financial sector and reduce the role of government in financial markets." <sup>(862)</sup>**  This quote encapsulates Burton's vision for a more laissez-faire approach to financial regulation.
+* **"The SEC should focus on its core mission of protecting investors from fraud. It should not be used to advance a social agenda." <sup>(862)</sup>**  This quote reflects Burton's rejection of the SEC's efforts to address climate change and DEI.
+* **"We must unleash the power of free markets to create jobs, grow the economy, and make America great again." <sup>(868)</sup>**  This quote connects Burton's vision for financial deregulation to a broader conservative agenda of promoting economic growth and American exceptionalism.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

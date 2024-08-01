@@ -23,19 +23,19 @@ The chapter's significance lies in its stark departure from traditional norms of
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: The "Personnel is Policy" Imperative (p. 98)**
+**3.1 Introduction: The "Personnel is Policy" Imperative <sup>(98)</sup>**
 
 * The authors establish the central theme of the chapter: "personnel is policy," arguing that a President's ability to implement his agenda depends on controlling the federal workforce.
 * They criticize the current civil service system as being "unresponsive" and "unaccountable" to political leadership.
 * **Quote:** "The first principle of public administration is that 'personnel is policy.'"
 
-**3.2 The Problem: A "Broken" Civil Service (p. 99)**
+**3.2 The Problem: A "Broken" Civil Service <sup>(99)</sup>**
 
 * The authors diagnose the problem as a "broken" civil service system that protects incompetent and unmotivated employees.
 * They argue that civil service protections make it nearly impossible to fire federal employees, even for poor performance or misconduct.
 * They also criticize the influence of public sector unions, arguing that they prioritize their own interests over the interests of taxpayers and the efficient functioning of government.
 
-**3.3 The Solution: Restoring Presidential Control (p. 102)**
+**3.3 The Solution: Restoring Presidential Control <sup>(102)</sup>**
 
 * The authors propose a series of reforms to restore presidential control over the federal workforce, including:
     * **Weakening Civil Service Protections:** Making it easier to fire federal employees for poor performance, misconduct, or lack of alignment with the President's agenda.
@@ -43,24 +43,24 @@ The chapter's significance lies in its stark departure from traditional norms of
     * **Reforming Hiring Practices:**  Making hiring practices more flexible and less reliant on objective criteria, allowing for greater consideration of political loyalty and ideological alignment.
     * **Reforming Performance Appraisals:**  Implementing a more rigorous performance appraisal system that can be used to justify firing employees for subjective reasons.
 
-**3.4 Schedule F: A "Bold Step" (p. 113)**
+**3.4 Schedule F: A "Bold Step" <sup>(113)</sup>**
 
 * The authors praise Trump's Executive Order 13957, which created Schedule F, as a "bold step" towards restoring presidential control over the bureaucracy.
 * They argue that Schedule F would allow a President to reclassify certain federal employees as "at-will" employees, making them easier to fire.
 * **Quote:** "Schedule F was a bold step in the right direction, but it was only a first step."
 
-**3.5 Conclusion: A Call to Action (p. 116)**
+**3.5 Conclusion: A Call to Action <sup>(116)</sup>**
 
 * The authors conclude by urging a future conservative President to "take bold action" to reform the civil service system and to "restore accountability and responsiveness to the American people."
 * They argue that these reforms are essential for "draining the swamp" and for "making America great again."
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Weaken Civil Service Protections:**  Make it easier to fire federal employees for poor performance, misconduct, or lack of alignment with the President's agenda. (p. 105)
-* **Restrict Unions:**  Limit the power of public sector unions, potentially even eliminating them altogether. (p. 114)
-* **Revive Schedule F:**  Reissue Trump's Executive Order 13957 to reclassify certain federal employees as "at-will" employees. (p. 113)
-* **Reform Hiring Practices:**  Allow for greater consideration of political loyalty and ideological alignment in hiring decisions. (p. 105)
-* **Reform Performance Appraisals:**  Implement a more rigorous performance appraisal system that can be used to justify firing employees for subjective reasons. (p. 106)
+* **Weaken Civil Service Protections:**  Make it easier to fire federal employees for poor performance, misconduct, or lack of alignment with the President's agenda. <sup>(105)</sup>
+* **Restrict Unions:**  Limit the power of public sector unions, potentially even eliminating them altogether. <sup>(114)</sup>
+* **Revive Schedule F:**  Reissue Trump's Executive Order 13957 to reclassify certain federal employees as "at-will" employees. <sup>(113)</sup>
+* **Reform Hiring Practices:**  Allow for greater consideration of political loyalty and ideological alignment in hiring decisions. <sup>(105)</sup>
+* **Reform Performance Appraisals:**  Implement a more rigorous performance appraisal system that can be used to justify firing employees for subjective reasons. <sup>(106)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -90,10 +90,10 @@ The chapter's significance lies in its stark departure from traditional norms of
 
 ### 9. KEY QUOTES
 
-* **"The first principle of public administration is that 'personnel is policy.'" (p. 98)**  This quote encapsulates the central theme of the chapter, emphasizing the importance of controlling personnel to achieve policy goals.
-* **"The civil service system is broken. It protects incompetent and unmotivated employees, and it makes it nearly impossible to fire anyone, even for cause." (p. 99)**  This quote reflects the authors' deep distrust of the civil service and their desire to weaken its protections.
-* **"Schedule F was a bold step in the right direction, but it was only a first step." (p. 113)**  This quote reveals the authors' support for Trump's efforts to make it easier to fire federal employees.
-* **"The next conservative President must take bold action to reform the civil service system and to restore accountability and responsiveness to the American people." (p. 116)**  This quote serves as a call to action for a future conservative President to implement the chapter's recommendations.
+* **"The first principle of public administration is that 'personnel is policy.'" <sup>(98)</sup>**  This quote encapsulates the central theme of the chapter, emphasizing the importance of controlling personnel to achieve policy goals.
+* **"The civil service system is broken. It protects incompetent and unmotivated employees, and it makes it nearly impossible to fire anyone, even for cause." <sup>(99)</sup>**  This quote reflects the authors' deep distrust of the civil service and their desire to weaken its protections.
+* **"Schedule F was a bold step in the right direction, but it was only a first step." <sup>(113)</sup>**  This quote reveals the authors' support for Trump's efforts to make it easier to fire federal employees.
+* **"The next conservative President must take bold action to reform the civil service system and to restore accountability and responsiveness to the American people." <sup>(116)</sup>**  This quote serves as a call to action for a future conservative President to implement the chapter's recommendations.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

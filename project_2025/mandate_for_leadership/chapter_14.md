@@ -23,20 +23,20 @@ The chapter's significance lies in its comprehensive plan to reshape HHS accordi
 
 ### 3. DETAILED BREAKDOWN
 
-**3.1 Introduction: A Department Adrift (p. 476)**
+**3.1 Introduction: A Department Adrift <sup>(476)</sup>**
 
 * Severino argues that HHS has strayed from its mission of serving "all Americans from conception to natural death" and has become a tool for promoting a "woke" agenda.
 * He criticizes the Biden Administration for its policies on abortion, transgender rights, and COVID-19, arguing that they are harmful and divisive.
 * **Quote:** "The Department of Health and Human Services has been hijacked by the radical left. They are using the agency to promote a dangerous agenda that is out of touch with the values of the American people."
 
-**3.2 Protecting Life, Conscience, and Religious Freedom (p. 477)**
+**3.2 Protecting Life, Conscience, and Religious Freedom <sup>(477)</sup>**
 
 * Severino outlines a plan to protect "life, conscience, and religious freedom" by:
     * **Reversing Abortion Policies:**  Reversing the Biden Administration's policies that expand access to abortion care, including through Medicaid and Title X funding.
     * **Expanding Conscience Rights:**  Broadening conscience rights for healthcare providers, allowing them to refuse to provide care that conflicts with their religious beliefs.
     * **Promoting Adoption:**  Promoting adoption as an alternative to abortion.
 
-**3.3 Empowering Patient Choices (p. 480)**
+**3.3 Empowering Patient Choices <sup>(480)</sup>**
 
 * Severino advocates for patient-centered, market-based healthcare reform that empowers individuals to control their healthcare decisions.
 * He calls for:
@@ -44,7 +44,7 @@ The chapter's significance lies in its comprehensive plan to reshape HHS accordi
     * **Increasing Price Transparency:**  Requiring healthcare providers to disclose their prices upfront.
     * **Deregulating the Healthcare Market:**  Reducing government regulations on health insurance and healthcare providers.
 
-**3.4 Promoting Stable Families (p. 483)**
+**3.4 Promoting Stable Families <sup>(483)</sup>**
 
 * Severino emphasizes the importance of "stable and flourishing married families" and criticizes policies that he believes undermine marriage and family values.
 * He calls for:
@@ -52,39 +52,39 @@ The chapter's significance lies in its comprehensive plan to reshape HHS accordi
     * **Reducing Out-of-Wedlock Births:**  Discouraging out-of-wedlock births through abstinence-only education and other programs.
     * **Reforming Welfare Programs:**  Reforming welfare programs to encourage work and marriage.
 
-**3.5 Preparing for the Next Health Emergency (p. 484)**
+**3.5 Preparing for the Next Health Emergency <sup>(484)</sup>**
 
 * Severino criticizes the government's response to the COVID-19 pandemic as being "centralized and politicized."
 * He calls for a more decentralized and less intrusive approach to public health, emphasizing individual responsibility and state and local control.
 
-**3.6 Specific Agency Recommendations (p. 486)**
+**3.6 Specific Agency Recommendations <sup>(486)</sup>**
 
-* **Centers for Disease Control and Prevention (CDC):**  Split the CDC into two separate agencies, one for data collection and one for public health recommendations. Eliminate the CDC Foundation. (p. 486)
-* **Food and Drug Administration (FDA):**  Reverse the approval of chemical abortion drugs. Strengthen safety protocols for mifepristone. Address drug shortages. (p. 490)
-* **National Institutes of Health (NIH):**  End research using fetal tissue and embryonic stem cells. Impose term limits on NIH leadership. Eliminate the NIH Foundation. (p. 493)
-* **Centers for Medicare and Medicaid Services (CMS):**  Repeal the Biden Administration's policies that expand access to abortion care through Medicaid and Title X funding. (p. 496)
+* **Centers for Disease Control and Prevention (CDC):**  Split the CDC into two separate agencies, one for data collection and one for public health recommendations. Eliminate the CDC Foundation. <sup>(486)</sup>
+* **Food and Drug Administration (FDA):**  Reverse the approval of chemical abortion drugs. Strengthen safety protocols for mifepristone. Address drug shortages. <sup>(490)</sup>
+* **National Institutes of Health (NIH):**  End research using fetal tissue and embryonic stem cells. Impose term limits on NIH leadership. Eliminate the NIH Foundation. <sup>(493)</sup>
+* **Centers for Medicare and Medicaid Services (CMS):**  Repeal the Biden Administration's policies that expand access to abortion care through Medicaid and Title X funding. <sup>(496)</sup>
 
-**3.7 Conclusion: A Department for All Americans (p. 500)**
+**3.7 Conclusion: A Department for All Americans <sup>(500)</sup>**
 
 * Severino concludes by arguing that his recommendations are necessary to "restore HHS to its proper role" and to "make it a department for all Americans."
 * He claims that a reformed HHS will be "more effective, more efficient, and more responsive to the needs of the American people."
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **Reverse Abortion Policies:**  Reverse the Biden Administration's policies that expand access to abortion care. (p. 477)
-* **Expand Conscience Rights:**  Broaden conscience rights for healthcare providers. (p. 477)
-* **Promote Adoption:**  Promote adoption as an alternative to abortion. (p. 477)
-* **Expand Health Savings Accounts (HSAs):**  Allow individuals to use pre-tax dollars to pay for healthcare expenses. (p. 480)
-* **Increase Price Transparency:**  Require healthcare providers to disclose their prices upfront. (p. 480)
-* **Deregulate the Healthcare Market:**  Reduce government regulations on health insurance and healthcare providers. (p. 480)
-* **Strengthen Marriage:**  Promote marriage through public education campaigns and tax incentives. (p. 483)
-* **Reduce Out-of-Wedlock Births:**  Discourage out-of-wedlock births through abstinence-only education and other programs. (p. 483)
-* **Reform Welfare Programs:**  Reform welfare programs to encourage work and marriage. (p. 483)
-* **Decentralize Public Health:**  Adopt a more decentralized and less intrusive approach to public health. (p. 484)
-* **Split the CDC:**  Split the CDC into two separate agencies. (p. 486)
-* **Reverse Approval of Abortion Drugs:**  Reverse the FDA's approval of chemical abortion drugs. (p. 490)
-* **End Fetal Tissue Research:**  End research using fetal tissue and embryonic stem cells. (p. 493)
-* **Repeal Medicaid and Title X Expansion:**  Repeal the Biden Administration's policies that expand access to abortion care through Medicaid and Title X funding. (p. 496)
+* **Reverse Abortion Policies:**  Reverse the Biden Administration's policies that expand access to abortion care. <sup>(477)</sup>
+* **Expand Conscience Rights:**  Broaden conscience rights for healthcare providers. <sup>(477)</sup>
+* **Promote Adoption:**  Promote adoption as an alternative to abortion. <sup>(477)</sup>
+* **Expand Health Savings Accounts (HSAs):**  Allow individuals to use pre-tax dollars to pay for healthcare expenses. <sup>(480)</sup>
+* **Increase Price Transparency:**  Require healthcare providers to disclose their prices upfront. <sup>(480)</sup>
+* **Deregulate the Healthcare Market:**  Reduce government regulations on health insurance and healthcare providers. <sup>(480)</sup>
+* **Strengthen Marriage:**  Promote marriage through public education campaigns and tax incentives. <sup>(483)</sup>
+* **Reduce Out-of-Wedlock Births:**  Discourage out-of-wedlock births through abstinence-only education and other programs. <sup>(483)</sup>
+* **Reform Welfare Programs:**  Reform welfare programs to encourage work and marriage. <sup>(483)</sup>
+* **Decentralize Public Health:**  Adopt a more decentralized and less intrusive approach to public health. <sup>(484)</sup>
+* **Split the CDC:**  Split the CDC into two separate agencies. <sup>(486)</sup>
+* **Reverse Approval of Abortion Drugs:**  Reverse the FDA's approval of chemical abortion drugs. <sup>(490)</sup>
+* **End Fetal Tissue Research:**  End research using fetal tissue and embryonic stem cells. <sup>(493)</sup>
+* **Repeal Medicaid and Title X Expansion:**  Repeal the Biden Administration's policies that expand access to abortion care through Medicaid and Title X funding. <sup>(496)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -118,11 +118,11 @@ The chapter's significance lies in its comprehensive plan to reshape HHS accordi
 
 ### 9. KEY QUOTES
 
-* **"The Department of Health and Human Services has been hijacked by the radical left. They are using the agency to promote a dangerous agenda that is out of touch with the values of the American people." (p. 476)**  This quote reflects Severino's view of HHS as being controlled by a liberal agenda.
-* **"We must protect the fundamental right to life from conception to natural death." (p. 477)**  This quote highlights the chapter's strong anti-abortion stance.
-* **"We must empower patients to make their own healthcare decisions and to choose the healthcare providers and plans that best meet their needs." (p. 480)**  This quote reflects the chapter's support for patient choice and market-based solutions.
-* **"We must strengthen marriage and promote stable and flourishing families." (p. 483)**  This quote emphasizes the chapter's focus on traditional family values.
-* **"We must adopt a more decentralized and less intrusive approach to public health." (p. 484)**  This quote reflects the chapter's distrust of government and its preference for individual responsibility.
+* **"The Department of Health and Human Services has been hijacked by the radical left. They are using the agency to promote a dangerous agenda that is out of touch with the values of the American people." <sup>(476)</sup>**  This quote reflects Severino's view of HHS as being controlled by a liberal agenda.
+* **"We must protect the fundamental right to life from conception to natural death." <sup>(477)</sup>**  This quote highlights the chapter's strong anti-abortion stance.
+* **"We must empower patients to make their own healthcare decisions and to choose the healthcare providers and plans that best meet their needs." <sup>(480)</sup>**  This quote reflects the chapter's support for patient choice and market-based solutions.
+* **"We must strengthen marriage and promote stable and flourishing families." <sup>(483)</sup>**  This quote emphasizes the chapter's focus on traditional family values.
+* **"We must adopt a more decentralized and less intrusive approach to public health." <sup>(484)</sup>**  This quote reflects the chapter's distrust of government and its preference for individual responsibility.
 
 ### 10. SUMMARY & SIGNIFICANCE
 
