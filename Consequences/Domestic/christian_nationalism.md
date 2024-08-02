@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 2025 and the Threat of Christian Nationalism - A Distortion of History and a Danger to Democracy
+title: The Threat of Christian Nationalism - A Distortion of History and a Danger to Democracy
 ---
 
 ### 1. CHAPTER OVERVIEW
@@ -39,11 +39,11 @@ Despite the clear historical evidence to the contrary, Project 2025 and Agenda 4
 
 * **Education:**
     * **Mandating a Christian Nationalist Curriculum:**  The Lincoln Project transcript, based on an analysis of Project 2025 and Agenda 47, suggests that a second Trump administration could mandate a nationwide Christian nationalist curriculum for all schools receiving federal aid. This would impose a narrow religious worldview on public education and violate the separation of church and state.
-    * **Promoting Prayer in Schools:**  Project 2025 advocates for policies that would allow or encourage prayer in public schools, blurring the lines between church and state and potentially alienating students from minority faiths. (Chapter 11)
-    * **Empowering Religious Schools:**  The project supports expanding school choice, including through vouchers and tax credits, which could divert public funds to private religious schools, potentially leading to discrimination against LGBTQ+ students and teachers and a weakening of public education. (Chapter 11)
-* **Faith-Based Initiatives:**  Project 2025 advocates for expanding the role of faith-based organizations in government programs, such as social services and foreign aid. This could lead to discrimination against beneficiaries who do not share the religious beliefs of the funded organizations and could undermine the principle of neutrality in government programs. (Chapters 9 and 14)
-* **Religious Exemptions:**  The project supports broadening religious exemptions to anti-discrimination laws, allowing individuals and businesses to discriminate against LGBTQ+ people and others based on their religious beliefs. This could create a system where religious beliefs are used to justify harm and inequality. (Chapters 14 and 18)
-* **Abortion and Contraception:**  Project 2025 and Agenda 47 use religious arguments to justify restricting access to abortion and contraception, imposing a narrow religious view of morality on all Americans. This ignores the diversity of religious beliefs on these issues and violates the principle of reproductive freedom. (Chapters 14 and 18)
+    * **Promoting Prayer in Schools:**  Project 2025 advocates for policies that would allow or encourage prayer in public schools, blurring the lines between church and state and potentially alienating students from minority faiths. <sup>([Chapter 11](../../project_2025/mandate_for_leadership/chapter_11.md))</sup>
+    * **Empowering Religious Schools:**  The project supports expanding school choice, including through vouchers and tax credits, which could divert public funds to private religious schools, potentially leading to discrimination against LGBTQ+ students and teachers and a weakening of public education. <sup>([Chapter 11](../../project_2025/mandate_for_leadership/chapter_11.md))</sup>
+* **Faith-Based Initiatives:**  Project 2025 advocates for expanding the role of faith-based organizations in government programs, such as social services and foreign aid. This could lead to discrimination against beneficiaries who do not share the religious beliefs of the funded organizations and could undermine the principle of neutrality in government programs. <sup>(Chapters [9](../../project_2025/mandate_for_leadership/chapter_.md) and [14](../../project_2025/mandate_for_leadership/chapter_.md))</sup>
+* **Religious Exemptions:**  The project supports broadening religious exemptions to anti-discrimination laws, allowing individuals and businesses to discriminate against LGBTQ+ people and others based on their religious beliefs. This could create a system where religious beliefs are used to justify harm and inequality. <sup>(Chapters [14](../../project_2025/mandate_for_leadership/chapter_.md) and [18](../../project_2025/mandate_for_leadership/chapter_.md))</sup>
+* **Abortion and Contraception:**  Project 2025 and Agenda 47 use religious arguments to justify restricting access to abortion and contraception, imposing a narrow religious view of morality on all Americans. This ignores the diversity of religious beliefs on these issues and violates the principle of reproductive freedom. <sup>(Chapters [14](../../project_2025/mandate_for_leadership/chapter_.md) and [18](../../project_2025/mandate_for_leadership/chapter_.md))</sup>
 
 **3.3 The Rhetoric of Christian Nationalism**
 
@@ -72,7 +72,7 @@ The policy recommendations in Project 2025 and Agenda 47 reflect a Christian nat
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  Agenda 47's promises to "restore the family" and to "make America great again, again" align with the Christian nationalist agenda of Project 2025.
-* **Project 2025, Chapters 3, 9, 11, 14, 15, 17, 18, and 29:**  These chapters contain specific proposals that would advance a Christian nationalist agenda, including weakening civil service protections, expanding faith-based initiatives, restricting abortion and LGBTQ+ rights, and using the DOJ to target political opponents.
+* **Project 2025, Chapters [3](../../project_2025/mandate_for_leadership/chapter_3.md), [9](../../project_2025/mandate_for_leadership/chapter_9.md), [11](../../project_2025/mandate_for_leadership/chapter_11.md), [14](../../project_2025/mandate_for_leadership/chapter_14.md), [15](../../project_2025/mandate_for_leadership/chapter_15.md), [17](../../project_2025/mandate_for_leadership/chapter_.md), [18](../../project_2025/mandate_for_leadership/chapter_17.md), and [29](../../project_2025/mandate_for_leadership/chapter_18.md):**  These chapters contain specific proposals that would advance a Christian nationalist agenda, including weakening civil service protections, expanding faith-based initiatives, restricting abortion and LGBTQ+ rights, and using the DOJ to target political opponents.
 
 ### 7. POTENTIAL IMPACTS
 

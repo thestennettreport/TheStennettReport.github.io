@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Project 2025 - A Blueprint for Disaster
+title: A Warning for America - Project 2025 & Agenda 47 Threaten Our Democracy
 ---
-
-## A Warning for America: Project 2025 and Agenda 47 Threaten Our Democracy
 
 This website is your essential guide to understanding and resisting the most dangerous threat to American democracy: [Project 2025](https://www.project2025.org/) and [Agenda 47](https://www.donaldjtrump.com/agenda47). These radical conservative agendas, meticulously crafted by Trump loyalists and fueled by dark money, aim to dismantle the government, erode our rights, and reshape America in their image.
 
@@ -32,9 +30,9 @@ This website is your essential guide to understanding and resisting the most dan
 ## Domestic Consequences
 
 * **[The Erosion of Democracy: Project 2025's Assault on Voting Rights and Fair Elections](./consequences/domestic/voting_rights.md):**  Project 2025 and Agenda 47 aim to suppress voters, rig elections, and silence dissent. Learn how they plan to steal our democracy and how to fight back.
-* **[A Christian Nation? Project 2025's Embrace of Christian Nationalism](./consequences/domestic/christian_nationalism.md):** Project 2025's embrace of Christian nationalism threatens religious freedom and the separation of church and state. Discover the dangers and how to defend our pluralistic society.
-* **[The War on Reproductive Freedom: Project 2025's Assault on Abortion, IVF, and Contraception](./consequences/domestic/abortion_ivf_contraception_access.md):** Project 2025 and Agenda 47 are waging a war on women's bodies, seeking to ban abortion, restrict contraception, and control reproductive healthcare. Learn the facts and join the fight for reproductive rights.
-* **[The Anti-Vaxx Agenda: Project 2025's Threat to Public Health](./consequences/domestic/anti_vaxx.md):** Project 2025 and Agenda 47 embrace a dangerous anti-vaccine ideology that could unleash a public health crisis. Get informed and learn how to protect yourself and your community.
+* **[The Threat of Christian Nationalism - A Distortion of History and a Danger to Democracy](./consequences/domestic/christian_nationalism.md):** Project 2025's embrace of Christian nationalism threatens religious freedom and the separation of church and state. Discover the dangers and how to defend our pluralistic society.
+* **[The Handmaid's Agenda - A Blueprint for Controlling Women's Bodies and Erasing Reproductive Freedom](./consequences/domestic/abortion_ivf_contraception_access.md):** Project 2025 and Agenda 47 are waging a war on women's bodies, seeking to ban abortion, restrict contraception, and control reproductive healthcare. Learn the facts and join the fight for reproductive rights.
+* **[The Anti-Science Agenda - Unleashing a Public Health Crisis Through Vaccine Skepticism and Misinformation](./consequences/domestic/anti_vaxx.md):** Project 2025 and Agenda 47 embrace a dangerous anti-vaccine ideology that could unleash a public health crisis. Get informed and learn how to protect yourself and your community.
 * **[LGBTQIA+ Rights Under Siege: A Blueprint for Discrimination](./consequences/domestic/lgbtqi_rights.md):** Project 2025 and Agenda 47 target the LGBTQIA+ community, seeking to roll back rights, enable discrimination, and erase their identities. Learn about the threats and how to fight for equality.
 * **[Project 2025's War on Transgender Americans: A Blueprint for Discrimination](./consequences/domestic/trans_rights.md):** Transgender Americans are under attack. Project 2025 and Agenda 47 aim to deny their existence, restrict their healthcare, and enable discrimination. Learn how to defend their rights.
 * **[Social Security, Medicare, and Medicaid: Undermining the Safety Net](./consequences/domestic/social_security_medicare_and_medicaid.md):** Project 2025's plans for Social Security, Medicare, and Medicaid could leave millions of Americans without a safety net. Learn how to protect these vital programs.

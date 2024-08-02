@@ -53,7 +53,7 @@ Project 2025 advocates for weakening or eliminating vaccine mandates, arguing th
 
 Project 2025 proposes cutting funding for public health agencies, weakening their ability to promote vaccination, track disease outbreaks, and respond to public health emergencies:
 
-* **Targeting the CDC:**  The CDC is a primary target, with the project advocating for reducing its budget, limiting its authority, and potentially even dismantling it. (Chapter 14)
+* **Targeting the CDC:**  The CDC is a primary target, with the project advocating for reducing its budget, limiting its authority, and potentially even dismantling it. <sup>([Chapter 14](../../project_2025/mandate_for_leadership/chapter_14.md))</sup>
 * **Undermining Public Health Infrastructure:**  Cuts to public health funding would weaken the infrastructure needed to track and respond to disease outbreaks, leaving the nation vulnerable to future pandemics and other health crises.
 * **Reducing Vaccine Outreach and Education:**  Funding cuts would limit the ability of public health agencies to conduct vaccine outreach and education campaigns, potentially leading to a decline in vaccination rates.
 
@@ -81,7 +81,7 @@ Project 2025's emphasis on empowering conservative and faith-based organizations
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  Agenda 47's promises to "drain the swamp," "restore individual liberty," and "protect children" align with Project 2025's anti-vaccine agenda.
-* **Project 2025, Chapters 3, 11, and 14:**  These chapters contain proposals that support the project's anti-vaccine agenda, including weakening civil service protections (potentially leading to the firing of pro-vaccine government employees), promoting parental rights in education (potentially allowing parents to opt their children out of school vaccination requirements), and restricting access to reproductive healthcare (which is often provided by the same clinics that offer vaccinations).
+* **Project 2025, Chapters [3](../../project_2025/mandate_for_leadership/chapter_3.md), [11](../../project_2025/mandate_for_leadership/chapter_11.md), and [14](../../project_2025/mandate_for_leadership/chapter_14.md):**  These chapters contain proposals that support the project's anti-vaccine agenda, including weakening civil service protections (potentially leading to the firing of pro-vaccine government employees), promoting parental rights in education (potentially allowing parents to opt their children out of school vaccination requirements), and restricting access to reproductive healthcare (which is often provided by the same clinics that offer vaccinations).
 
 ### 7. POTENTIAL IMPACTS
 
@@ -99,8 +99,8 @@ Project 2025's emphasis on empowering conservative and faith-based organizations
 
 ### 9. KEY QUOTES
 
-* **"We must protect medical freedom and parental rights. Individuals should have the right to make their own decisions about vaccination." (Project 2025, Chapter 14, p. 480)**  This quote reflects the project's emphasis on individual liberty and its rejection of vaccine mandates.
-* **"The CDC has become a politicized agency that is more interested in pushing a vaccine agenda than in protecting public health." (Project 2025, Chapter 14, p. 486)**  This quote reflects the project's distrust of the CDC and its promotion of anti-vaccine conspiracy theories.
+* **"We must protect medical freedom and parental rights. Individuals should have the right to make their own decisions about vaccination." ([Project 2025, Chapter 14](../../project_2025/mandate_for_leadership/chapter_14.md) <sup>(480)</sup>)**  This quote reflects the project's emphasis on individual liberty and its rejection of vaccine mandates.
+* **"The CDC has become a politicized agency that is more interested in pushing a vaccine agenda than in protecting public health." ([Project 2025, Chapter 14](../../project_2025/mandate_for_leadership/chapter_14.md) <sup>(486)</sup>)**  This quote reflects the project's distrust of the CDC and its promotion of anti-vaccine conspiracy theories.
 * **"We need to empower parents to make the best decisions for their children, including decisions about vaccination." (Agenda 47, Education)**  This quote uses the rhetoric of parental rights to justify opposition to vaccine mandates.
 * **"Vaccines are a personal choice, and the government should not force people to get vaccinated." (Various statements by Trump and his allies)**  This quote reflects the project's libertarian approach to vaccination, ignoring the collective responsibility to protect public health.
 
