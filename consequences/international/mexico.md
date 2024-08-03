@@ -3,7 +3,7 @@ layout: page
 title: Poisoning the Partnership - The Devastating Impact on U.S.-Mexico Relations
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Poisoning the Partnership
 

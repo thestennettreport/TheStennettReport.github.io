@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Project 2025's War on Public Education - A Blueprint for Defunding, Privatization, and Indoctrination
+title: War on Public Education - A Blueprint for Defunding, Privatization, and Indoctrination
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025's War on Public Education
 

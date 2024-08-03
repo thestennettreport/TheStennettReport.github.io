@@ -3,7 +3,7 @@ layout: page
 title: Agenda 47 - A Blueprint for Trump's Authoritarian Vision
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:**  Agenda 47: A Blueprint for Trump's Authoritarian Vision
 

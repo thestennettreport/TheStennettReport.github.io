@@ -3,7 +3,7 @@ layout: page
 title: The Anti-Science Agenda - Unleashing a Public Health Crisis Through Vaccine Skepticism and Misinformation
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: The Anti-Science Agenda
 

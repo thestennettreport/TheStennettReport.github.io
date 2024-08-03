@@ -3,7 +3,7 @@ layout: page
 title: Dismantling the Safety Net - A Blueprint for Privatization, Austerity, and Abandonment
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Dismantling the Safety Net
 

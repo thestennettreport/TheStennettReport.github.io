@@ -3,7 +3,7 @@ layout: page
 title: Scorched Earth - The Conservative Plan to Unleash Environmental Devastation
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Scorched Earth
 

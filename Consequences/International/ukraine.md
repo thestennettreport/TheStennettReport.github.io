@@ -3,7 +3,7 @@ layout: page
 title: Abandoning Ukraine - A Blueprint for Retreat, Appeasement, and a Russian Victory
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Abandoning Ukraine
 

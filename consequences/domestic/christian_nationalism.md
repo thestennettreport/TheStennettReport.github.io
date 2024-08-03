@@ -3,7 +3,7 @@ layout: page
 title: The Threat of Christian Nationalism - A Distortion of History and a Danger to Democracy
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:**  Project 2025 and the Threat of Christian Nationalism
 

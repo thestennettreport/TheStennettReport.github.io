@@ -1,9 +1,13 @@
 ---
 layout: page
-title:  Project 2025's War on Transgender Americans - A Multi-Pronged Assault on Existence
+title:  A War on Transgender Americans - A Multi-Pronged Assault on Existence
 ---
 
 ### 1. OVERVIEW
+
+**Title:** Project 2025: A War on Transgender Americans
+
+**Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 
 Project 2025 and Agenda 47 don't just target specific policies; they aim to erase transgender people from public life. This isn't just about rolling back rights; it's about denying their very existence and creating a hostile environment where they are constantly under attack. This analysis reveals the multi-pronged assault on transgender Americans, highlighting the devastating consequences for their physical, mental, and emotional well-being.
 

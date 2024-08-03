@@ -3,7 +3,7 @@ layout: page
 title: Chilling the North - Strained Relations and Trade Tensions with Canada
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Chilling the North
 

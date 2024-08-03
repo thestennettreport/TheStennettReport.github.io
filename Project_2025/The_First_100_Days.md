@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The First 100 Days - A Second Trump Term
+title: The First 100 Days - A Second Trump Term - A Chillingly Plausible Scenario
 ---
 
 ## Introduction

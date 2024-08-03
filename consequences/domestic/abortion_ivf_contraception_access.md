@@ -3,7 +3,7 @@ layout: page
 title: The Handmaid's Agenda - A Blueprint for Controlling Women's Bodies and Erasing Reproductive Freedom
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: The Handmaid's Agenda
 

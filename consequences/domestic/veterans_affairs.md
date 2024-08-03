@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Project 2025 - Betraying Those Who Served - The Conservative Plan to Dismantle the VA and Privatize Veterans' Healthcare
+title: Betraying Those Who Served - The Conservative Plan to Dismantle the VA and Privatize Veterans' Healthcare
 ---
-## Project 2025: Betraying Those Who Served - The Conservative Plan to Dismantle the VA and Privatize Veterans' Healthcare
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Betraying Those Who Served
 

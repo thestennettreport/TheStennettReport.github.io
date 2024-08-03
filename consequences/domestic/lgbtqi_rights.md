@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Project 2025's War on LGBTQIA+ Americans - A Blueprint for Erasure and Discrimination
+title: LGBTQIA+ Rights Under Siege - A Blueprint for Discrimination
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
-**Title:** Project 2025's War on LGBTQIA+ Americans
+**Title:** LGBTQIA+ Rights Under Siege: A Blueprint for Discrimination
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

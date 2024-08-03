@@ -3,7 +3,7 @@ layout: page
 title: Dismantling Healthcare - A Blueprint for Undermining the Affordable Care Act and Eroding Access to Care
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Dismantling Healthcare
 

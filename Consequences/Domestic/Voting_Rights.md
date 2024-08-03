@@ -3,7 +3,7 @@ layout: page
 title: Rigging the System - The Conservative Blueprint for Voter Suppression and Election Subversion
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Rigging the System
 

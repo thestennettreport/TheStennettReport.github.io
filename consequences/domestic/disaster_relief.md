@@ -3,7 +3,7 @@ layout: page
 title: Disaster Capitalism - Profiting from Calamity and Leaving Communities to Fend for Themselves
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Disaster Capitalism
 

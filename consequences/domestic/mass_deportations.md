@@ -3,7 +3,7 @@ layout: page
 title: Deporting the American Dream - A Blueprint for Mass Expulsion, Economic Devastation, and a Nation Divided
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Deporting the American Dream
 

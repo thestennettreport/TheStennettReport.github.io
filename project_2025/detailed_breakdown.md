@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 2025 - Mandate for Leadership
+title: Project 2025 - A Conservative Blueprint for Disaster
 ---
 
 ### 1. OVERVIEW

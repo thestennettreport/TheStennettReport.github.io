@@ -3,7 +3,7 @@ layout: page
 title: Criminalizing Compassion - The Conservative Plan to Punish and Disappear America's Homeless Population
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Criminalizing Compassion
 

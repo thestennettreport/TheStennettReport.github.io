@@ -3,7 +3,7 @@ layout: page
 title: Eroding Freedom - The Conservative Blueprint for a Surveillance State and the Suppression of Dissent
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Eroding Freedom
 

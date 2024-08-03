@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Project 2025 - Silencing Worker Voices - The Conservative Plan to Crush Unions and Undermine Worker Power
+title: Silencing Worker Voices - The Conservative Plan to Crush Unions and Undermine Worker Power
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Silencing Worker Voices
 

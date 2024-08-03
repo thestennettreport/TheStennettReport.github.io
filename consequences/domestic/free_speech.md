@@ -3,7 +3,7 @@ layout: page
 title: Muzzling Dissent - The Conservative Plan to Silence Free Speech and Control the Narrative
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Muzzling Dissent
 

@@ -3,7 +3,7 @@ layout: page
 title: Trade War 2.0 - A Recipe for Economic Disaster and Higher Prices for All Americans
 ---
 
-### 1. CHAPTER OVERVIEW
+### 1. OVERVIEW
 
 **Title:** Project 2025: Trade War 2.0
 
