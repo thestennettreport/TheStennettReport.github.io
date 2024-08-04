@@ -34,3 +34,14 @@
 .bmc-button img {
 	height: 35px;
 }
+
+.vote-kamala {
+	display: contents;
+}
+
+.vote-kamala img {
+	height: 50px;
+	margin-left: 135px;
+	padding-top: 3px;
+	display: inline;
+}
