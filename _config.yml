@@ -30,6 +30,7 @@ twitter_username: stennett4senate
 github_username:
 tiktok_username: thestennettreport
 google_analytics: G-PRDZ38NE43
+buymeacoffee_username: john00ivyz
 
 # Sources
 project_2025_website: https://www.project2025.org
@@ -42,6 +43,11 @@ trumps_cabinet: https://en.wikipedia.org/wiki/Cabinet_of_Donald_Trump
 theme: minima
 plugins:
   - jekyll-feed
+
+# Theme
+sass:
+  style: compressed
+sass_dir: assets/css
 
 # Exclude from processing.
 # The following items will not be processed, by default.

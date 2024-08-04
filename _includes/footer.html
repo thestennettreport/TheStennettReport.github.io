@@ -19,12 +19,29 @@
 				</ul>
 			</div>
 
-			<div class="footer-col footer-col-2">
-				{%- include social.html -%}
+			<div class="social-buymeacoffee">
+				<!-- Social Media Icons -->
+				<div class="social-icons">
+					<a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
+						<i class="fab fa-twitter"></i>
+					</a>
+					<a href="https://tiktok.com/@{{ site.tiktok_username }}" target="_blank">
+						<i class="fab fa-tiktok"></i>
+					</a>
+					<!-- Add more social links as needed -->
+				</div>
+
+				<!-- Buy Me A Coffee Button -->
+				<div class="bmc-button">
+					<a href="https://www.buymeacoffee.com/john00ivyz">
+						<img
+							src="https://img.buymeacoffee.com/button-api/?text=Buy me a tea&emoji=&slug=john00ivyz&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+					</a>
+				</div>
 			</div>
 
 			<div class="footer-col footer-col-3">
-				<p>{{- site.description | escape -}}</p>
+				<!-- <p>{{- site.description | escape -}}</p> -->
 			</div>
 		</div>
 	</div>
