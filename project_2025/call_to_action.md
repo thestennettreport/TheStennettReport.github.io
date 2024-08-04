@@ -15,19 +15,19 @@ Here's a detailed set of calls to action, empowering you to make a difference:
 
 **2. Engage in Political Action:**
 
-* **Vote in Every Election:**  Make your voice heard at the ballot box. Vote in every election, from local races to national elections. Encourage your friends and family to register to vote and to vote in every election.
-* **Contact Your Elected Officials:**  Call, email, and write to your elected officials at all levels of government. Demand that they oppose the policies outlined in Project 2025 and Agenda 47 and that they support policies that protect our democracy, our environment, and our rights.
+* **[Vote in Every Election](https://www.vote.org):**  Make your voice heard at the ballot box. Vote in every election, from local races to national elections. Encourage your friends and family to register to vote and to vote in every election.
+* **[Contact Your Elected Officials](https://www.usa.gov/elected-officials/):**  Call, email, and write to your elected officials at all levels of government. Demand that they oppose the policies outlined in Project 2025 and Agenda 47 and that they support policies that protect our democracy, our environment, and our rights.
 * **Support Progressive Candidates:**  Donate to, volunteer for, and vote for progressive candidates who are committed to fighting against the conservative agenda.
 
 **3. Support Organizations Fighting Back:**
 
 * **Donate and Volunteer:**  Support organizations that are working to protect our democracy, our environment, and our rights. These organizations include:
-    * **Democracy Forward:**  A legal advocacy group that is challenging Project 2025 in court.
-    * **The American Civil Liberties Union (ACLU):**  A non-profit organization that defends civil liberties and fights against government overreach.
-    * **The Sierra Club:**  An environmental organization that is fighting to protect our environment and address climate change.
-    * **Planned Parenthood:**  A healthcare provider that provides reproductive healthcare services, including abortion.
-    * **The Human Rights Campaign (HRC):**  An LGBTQ+ advocacy organization that is fighting for equality and justice.
-    * **The NAACP:**  A civil rights organization that is fighting for racial justice and equality.
+    * **[Democracy Forward](https://democracyforward.org/action/donate/?source=top-nav):**  A legal advocacy group that is challenging Project 2025 in court.
+    * **[The American Civil Liberties Union (ACLU)](https://action.aclu.org/give/now):**  A non-profit organization that defends civil liberties and fights against government overreach.
+    * *[*The Sierra Club](https://act.sierraclub.org/donate/rc_connect__campaign_designform):**  An environmental organization that is fighting to protect our environment and address climate change.
+    * **[Planned Parenthood](https://www.plannedparenthood.org):**  A healthcare provider that provides reproductive healthcare services, including abortion.
+    * **[The Human Rights Campaign (HRC)](https://www.hrc.org):**  An LGBTQ+ advocacy organization that is fighting for equality and justice.
+    * **[The NAACP](https://naacp.org/donate):**  A civil rights organization that is fighting for racial justice and equality.
 * **Amplify Their Voices:**  Share their content on social media, attend their events, and spread the word about their work.
 
 **4. Organize and Mobilize:**

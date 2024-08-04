@@ -15,7 +15,7 @@ This website is your essential guide to understanding and resisting the most dan
 
 **This website is your weapon in the fight for our future.** We provide in-depth analysis, chapter breakdowns, and actionable insights to expose the truth about Project 2025 and Agenda 47.
 
-**Join the movement to protect our democracy. Our future depends on it.**
+**[Join the movement to protect our democracy. Our future depends on it.](./project_2025/call_to_action.md)**
 
 ## Breakdowns/Comparisons
 
