@@ -24,7 +24,7 @@ Here's a detailed set of calls to action, empowering you to make a difference:
 * **Donate and Volunteer:**  Support organizations that are working to protect our democracy, our environment, and our rights. These organizations include:
     * **[Democracy Forward](https://democracyforward.org/action/donate/?source=top-nav):**  A legal advocacy group that is challenging Project 2025 in court.
     * **[The American Civil Liberties Union (ACLU)](https://action.aclu.org/give/now):**  A non-profit organization that defends civil liberties and fights against government overreach.
-    * *[*The Sierra Club](https://act.sierraclub.org/donate/rc_connect__campaign_designform):**  An environmental organization that is fighting to protect our environment and address climate change.
+    * **[*The Sierra Club](https://act.sierraclub.org/donate/rc_connect__campaign_designform):**  An environmental organization that is fighting to protect our environment and address climate change.
     * **[Planned Parenthood](https://www.plannedparenthood.org):**  A healthcare provider that provides reproductive healthcare services, including abortion.
     * **[The Human Rights Campaign (HRC)](https://www.hrc.org):**  An LGBTQ+ advocacy organization that is fighting for equality and justice.
     * **[The NAACP](https://naacp.org/donate):**  A civil rights organization that is fighting for racial justice and equality.
