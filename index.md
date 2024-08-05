@@ -29,6 +29,7 @@ This website is your essential guide to understanding and resisting the most dan
 
 ## Domestic Consequences
 
+1. **[Trade War 2.0: A Recipe for Economic Disaster and Higher Prices for All Americans](./consequences/international/trade_war.md):** Project 2025's protectionist trade policies will trigger a global trade war, raising prices, killing jobs, and harming American businesses and consumers. Discover the truth about tariffs and how to resist this dangerous agenda.
 1. **[Rigging the System: The Conservative Blueprint for Voter Suppression and Election Subversion](./consequences/domestic/voting_rights.md):**  Project 2025 and Agenda 47 aim to suppress voters, rig elections, and silence dissent. Learn how they plan to steal our democracy and how to fight back.
 1. **[The Threat of Christian Nationalism: A Distortion of History and a Danger to Democracy](./consequences/domestic/christian_nationalism.md):** Project 2025's embrace of Christian nationalism threatens religious freedom and the separation of church and state. Discover the dangers and how to defend our pluralistic society.
 1. **[The Handmaid's Agenda: A Blueprint for Controlling Women's Bodies and Erasing Reproductive Freedom](./consequences/domestic/abortion_ivf_contraception_access.md):** Project 2025 and Agenda 47 are waging a war on women's bodies, seeking to ban abortion, restrict contraception, and control reproductive healthcare. Learn the facts and join the fight for reproductive rights.
@@ -50,7 +51,6 @@ This website is your essential guide to understanding and resisting the most dan
 
 ## International Consequences
 
-1. **[Trade War 2.0: A Recipe for Economic Disaster and Higher Prices for All Americans](./consequences/international/trade_war.md):** Project 2025's protectionist trade policies will trigger a global trade war, raising prices, killing jobs, and harming American businesses and consumers. Discover the truth about tariffs and how to resist this dangerous agenda.
 1. **[Abandoning Ukraine: A Blueprint for Retreat, Appeasement, and a Russian Victory](./consequences/international/ukraine.md):** Will America abandon Ukraine under a second Trump term? Project 2025 and Agenda 47 suggest a chilling future for Ukraine and the world. Learn more and demand action from our leaders.
 1. **[Scorched Earth: The Conservative Plan to Unleash Environmental Devastation](./consequences/international/the_environment.md):** Project 2025's environmental agenda is a recipe for climate catastrophe. They plan to unleash polluters, gut regulations, and ignore the science. Learn how to fight for our planet's future.
 1. **[Poisoning the Partnership: The Devastating Impact on U.S.-Mexico Relations](./consequences/international/mexico.md):**  Project 2025's hardline policies threaten to poison the U.S.-Mexico relationship, fueling tensions and harming both nations. Learn how this agenda could destabilize the region and what you can do to promote cooperation. 

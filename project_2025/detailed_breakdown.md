@@ -9,7 +9,7 @@ title: Project 2025 - A Conservative Blueprint for Disaster
 
 **Author:**  The Heritage Foundation and a network of over 50 conservative organizations
 
-"Project 2025: Mandate for Leadership" is not merely a policy document; it's a comprehensive blueprint for a radical conservative takeover of the U.S. government. Spearheaded by the Heritage Foundation, a powerful conservative think tank with close ties to the Trump administration, this project represents a coordinated effort to dismantle the "administrative state," shrink the government, and reshape American society according to a conservative ideology.
+"Project 2025: Mandate for Leadership" is not merely a policy document; it's a comprehensive blueprint for a radical conservative takeover of the U.S. government. Spearheaded by [The Heritage Foundation](https://en.wikipedia.org/wiki/The_Heritage_Foundation), a powerful conservative think tank with close ties to the Trump administration, this project represents a coordinated effort to dismantle the "administrative state," shrink the government, and reshape American society according to a conservative ideology.
 
 The project's significance lies in its ambition, scope, and level of detail. It goes beyond simply outlining policy recommendations; it provides a roadmap for a conservative revolution, with specific plans for staffing, restructuring, and reorienting every major federal agency and department. This blueprint, if implemented, could have a profound impact on the lives of millions of Americans, potentially leading to a less equitable, less inclusive, and less democratic society.
 
@@ -35,7 +35,7 @@ Project 2025 is structured around a series of chapters, each focusing on a speci
     * Use the Office of Management and Budget (OMB) to control agency budgets and regulations. <sup>([Chapter 2](./mandate_for_leadership/chapter_2.md))</sup>
     * Weaken civil service protections and make it easier to fire federal employees. <sup>([Chapter 3](./mandate_for_leadership/chapter3_.md))</sup>
     * Restrict the power of public sector unions. <sup>([Chapter 3](./mandate_for_leadership/chapter_3.md))</sup>
-    * Reissue Trump's Executive Order 13957, which created Schedule F. <sup>([Chapter 3](./mandate_for_leadership/chapter_3.md))</sup>
+    * Reissue Trump's [Executive Order 13957](https://www.federalregister.gov/documents/2020/10/26/2020-23780/creating-schedule-f-in-the-excepted-service), which created Schedule F. <sup>([Chapter 3](./mandate_for_leadership/chapter_3.md))</sup>
 
 **3.2 National Security and Foreign Policy (Chapters 4-9)**
 

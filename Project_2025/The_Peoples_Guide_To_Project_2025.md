@@ -3,17 +3,17 @@ layout: page
 title: The People's Guide to Project 2025 - A Quantified Look at the Human Cost of a Conservative Agenda
 ---
 
-This analysis breaks down "The People's Guide to Project 2025," a report published by Democracy Forward, to quantify the potential harms of Project 2025's proposals on ordinary Americans. The guide provides a stark reminder that behind the abstract policy recommendations lie real-world consequences that could devastate the lives of millions.
+This analysis breaks down "[The People's Guide to Project 2025](../documents/peoples_guide_to_project_2025.pdf)," a report published by [Democracy Forward](democracyforward.org), to quantify the potential harms of Project 2025's proposals on ordinary Americans. The guide provides a stark reminder that behind the abstract policy recommendations lie real-world consequences that could devastate the lives of millions.
 
 **Key Findings:**
 
-* **4.3 Million Workers Losing Overtime Protections:** Project 2025's proposal to lower the overtime threshold would strip 4.3 million workers of their right to overtime pay, forcing them to work longer hours for less pay. (p. 4)
-* **40 Million People Facing Reduced Food Assistance:**  The project's recommendations to restrict access to food assistance, including SNAP (food stamps), could leave 40 million people struggling to put food on the table. (p. 4)
-* **220,000 American Jobs Lost:**  Project 2025's proposals to cut funding for economic development programs, such as the Economic Development Administration (EDA), could result in the loss of 220,000 jobs. (p. 4)
-* **1 Million Children Losing Access to Head Start:**  The project's proposal to eliminate the Head Start early education program would deprive over 1 million children of access to quality early childhood education, setting them back in their development and potentially perpetuating a cycle of poverty. (p. 4)
-* **33 Million Seniors at Risk:**  Project 2025's proposals to push people towards private Medicare plans, such as Medicare Advantage, could leave 33 million seniors enrolled in traditional Medicare at risk of higher costs, reduced benefits, and worse health outcomes. (p. 22)
-* **368,000 Foster Children Facing Discrimination:**  The project's proposal to allow more discrimination against LGBTQ+ youth in adoption and foster care agencies could expose 368,000 children in foster care to increased discrimination, denying them loving homes and jeopardizing their well-being. (p. 4)
-* **25 States and D.C. Students Denied Student Loans:**  Project 2025's proposal to deny student loans to students at schools that provide in-state tuition to undocumented immigrants would harm students in 25 states and Washington, D.C., limiting their access to higher education and perpetuating a cycle of poverty. (p. 4)
+* **4.3 Million Workers Losing Overtime Protections:** Project 2025's proposal to lower the overtime threshold would strip 4.3 million workers of their right to overtime pay, forcing them to work longer hours for less pay.
+* **40 Million People Facing Reduced Food Assistance:**  The project's recommendations to restrict access to food assistance, including SNAP (food stamps), could leave 40 million people struggling to put food on the table.
+* **220,000 American Jobs Lost:**  Project 2025's proposals to cut funding for economic development programs, such as the Economic Development Administration (EDA), could result in the loss of 220,000 jobs.
+* **1 Million Children Losing Access to Head Start:**  The project's proposal to eliminate the Head Start early education program would deprive over 1 million children of access to quality early childhood education, setting them back in their development and potentially perpetuating a cycle of poverty.
+* **33 Million Seniors at Risk:**  Project 2025's proposals to push people towards private Medicare plans, such as Medicare Advantage, could leave 33 million seniors enrolled in traditional Medicare at risk of higher costs, reduced benefits, and worse health outcomes.
+* **368,000 Foster Children Facing Discrimination:**  The project's proposal to allow more discrimination against LGBTQ+ youth in adoption and foster care agencies could expose 368,000 children in foster care to increased discrimination, denying them loving homes and jeopardizing their well-being.
+* **25 States and D.C. Students Denied Student Loans:**  Project 2025's proposal to deny student loans to students at schools that provide in-state tuition to undocumented immigrants would harm students in 25 states and Washington, D.C., limiting their access to higher education and perpetuating a cycle of poverty.
 
 **Groups Disproportionately Harmed:**
 
