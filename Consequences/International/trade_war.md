@@ -5,7 +5,7 @@ title: Trade War 2.0 - A Recipe for Economic Disaster and Higher Prices for All 
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Trade War 2.0
+**Title:** Project 2025: Trade War 2.0  <sup>[(TL;DR Version)](./trade_war_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

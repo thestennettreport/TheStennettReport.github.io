@@ -5,7 +5,7 @@ title: Chilling the North - Strained Relations and Trade Tensions with Canada
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Chilling the North
+**Title:** Project 2025: Chilling the North  <sup>[(TL;DR Version)](./canada_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

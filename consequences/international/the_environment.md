@@ -5,7 +5,7 @@ title: Scorched Earth - The Conservative Plan to Unleash Environmental Devastati
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Scorched Earth
+**Title:** Project 2025: Scorched Earth  <sup>[(TL;DR Version)](./the_environment_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

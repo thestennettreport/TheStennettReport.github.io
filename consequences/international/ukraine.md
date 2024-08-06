@@ -5,7 +5,7 @@ title: Abandoning Ukraine - A Blueprint for Retreat, Appeasement, and a Russian 
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Abandoning Ukraine
+**Title:** Project 2025: Abandoning Ukraine  <sup>[(TL;DR Version)](./ukraine_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," Donald Trump's statements, and related sources.
 
