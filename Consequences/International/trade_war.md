@@ -75,10 +75,10 @@ Protectionist policies stifle innovation and investment, making American busines
 
 ### 4. POLICY RECOMMENDATIONS
 
-* **10% Universal Tariff:**  Impose a 10% tariff on all imports. (Agenda 47, Economy)
-* **Decoupling from China:**  Reduce trade and investment ties with China. (Project 2025, Chapters 4, 6, 21, and 26)
-* **"Reciprocal Trade":**  Impose tariffs on countries that impose tariffs on American goods. (Agenda 47, Economy)
-* **Support for Domestic Industries:**  Implement policies to protect and subsidize domestic industries, even if it means distorting markets and harming consumers. (Project 2025, various chapters)
+* **10% Universal Tariff:**  Impose a 10% tariff on all imports. <sup>(Agenda 47, Economy)</sup>
+* **Decoupling from China:**  Reduce trade and investment ties with China. <sup>(Chapters [4](../../project_2025/mandate_for_leadership/chapter_4.md), [6](../../project_2025/mandate_for_leadership/chapter_6.md), [21](../../project_2025/mandate_for_leadership/chapter_21.md), and [26](../../project_2025/mandate_for_leadership/chapter_26.md))</sup>
+* **"Reciprocal Trade":**  Impose tariffs on countries that impose tariffs on American goods. <sup>(Agenda 47, Economy)</sup>
+* **Support for Domestic Industries:**  Implement policies to protect and subsidize domestic industries, even if it means distorting markets and harming consumers. <sup>(Various chapters)</sup>
 
 ### 5. STRATEGIC OBJECTIVES
 
@@ -90,7 +90,7 @@ Protectionist policies stifle innovation and investment, making American busines
 ### 6. CROSS-REFERENCES
 
 * **Agenda 47:**  Agenda 47's promises to "bring back jobs," "make America great again, again," and "stand up to China" align with Project 2025's protectionist trade agenda.
-* **Project 2025, Chapters 4, 6, 12, 21, 22, 23, and 26:**  These chapters contain proposals that support the project's protectionist agenda, including increasing military spending, confronting China diplomatically, promoting fossil fuels, restricting foreign investment, weakening the IRS, and advocating for either strengthening or abolishing the Export-Import Bank.
+* **Project 2025, Chapters [4](../../project_2025/mandate_for_leadership/chapter_4.md), [6](../../project_2025/mandate_for_leadership/chapter_6.md), [12](../../project_2025/mandate_for_leadership/chapter_12.md), [21](../../project_2025/mandate_for_leadership/chapter_21.md), [22](../../project_2025/mandate_for_leadership/chapter_22.md), [23](../../project_2025/mandate_for_leadership/chapter_23.md), and [26](../../project_2025/mandate_for_leadership/chapter_26.md):**  These chapters contain proposals that support the project's protectionist agenda, including increasing military spending, confronting China diplomatically, promoting fossil fuels, restricting foreign investment, weakening the IRS, and advocating for either strengthening or abolishing the Export-Import Bank.
 
 ### 7. POTENTIAL IMPACTS
 
@@ -112,8 +112,8 @@ Protectionist policies stifle innovation and investment, making American busines
 * **"We're going to win so much, you're going to get tired of winning." (Donald Trump, on trade)**  This quote reflects Trump's belief that the U.S. can win a trade war, despite the evidence to the contrary.
 * **"Trade wars are good, and easy to win." (Donald Trump)**  This quote reveals Trump's simplistic and misguided view of trade policy.
 * **"China is cheating us blind." (Donald Trump)**  This quote reflects the project's demonization of China and its use of inflammatory rhetoric to justify protectionist policies.
-* **"We need to bring back manufacturing jobs to America." (Agenda 47, Economy)**  This quote appeals to economic anxiety and the desire to return to a bygone era of American manufacturing dominance.
-* **"We need to protect American workers from unfair foreign competition." (Project 2025, Chapter 26, p. 799)**  This quote reflects the project's protectionist ideology and its disregard for the benefits of free trade.
+* **"We need to bring back manufacturing jobs to America." <sup>(Agenda 47, Economy)</sup>**  This quote appeals to economic anxiety and the desire to return to a bygone era of American manufacturing dominance.
+* **"We need to protect American workers from unfair foreign competition." <sup>([Chapter 26](../../project_2025/mandate_for_leadership/chapter_26.md))</sup>**  This quote reflects the project's protectionist ideology and its disregard for the benefits of free trade.
 
 ### 10. SUMMARY & SIGNIFICANCE
 
