@@ -5,7 +5,7 @@ title: Deporting the American Dream - A Blueprint for Mass Expulsion, Economic D
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Deporting the American Dream  <sup>[(TL;DR Version)](./mass_deportations_md.md)</sup>
+**Title:** Project 2025: Deporting the American Dream  <sup>[(TL;DR Version)](./mass_deportations_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 
