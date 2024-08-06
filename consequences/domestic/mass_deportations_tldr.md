@@ -17,7 +17,7 @@ Project 2025 and Agenda 47 outline a cruel and economically disastrous mass depo
 
 **Critical Quote:**
 
-"We will build a big, beautiful wall and make Mexico pay for it." (Donald Trump)
+"We will build a big, beautiful wall and make Mexico pay for it." <sup>(Donald Trump)</sup>
 
 **Why It Matters:**
 

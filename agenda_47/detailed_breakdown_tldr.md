@@ -17,7 +17,7 @@ Donald Trump's "Agenda 47" is not just a set of campaign promises; it's a bluepr
 
 **Critical Quote:**
 
-"We will make America great again, again." (Donald Trump) - This slogan encapsulates the nationalist and populist appeal of Agenda 47, masking a more sinister agenda.
+"We will make America great again, again." <sup>(Donald Trump)</sup> - This slogan encapsulates the nationalist and populist appeal of Agenda 47, masking a more sinister agenda.
 
 **Why It Matters:**
 

@@ -110,8 +110,8 @@ Protectionist policies stifle innovation and investment, making American busines
 ### 9. KEY QUOTES
 
 * **"We're going to win so much, you're going to get tired of winning." (Donald Trump, on trade)**  This quote reflects Trump's belief that the U.S. can win a trade war, despite the evidence to the contrary.
-* **"Trade wars are good, and easy to win." (Donald Trump)**  This quote reveals Trump's simplistic and misguided view of trade policy.
-* **"China is cheating us blind." (Donald Trump)**  This quote reflects the project's demonization of China and its use of inflammatory rhetoric to justify protectionist policies.
+* **"Trade wars are good, and easy to win." <sup>(Donald Trump)</sup>**  This quote reveals Trump's simplistic and misguided view of trade policy.
+* **"China is cheating us blind." <sup>(Donald Trump)</sup>**  This quote reflects the project's demonization of China and its use of inflammatory rhetoric to justify protectionist policies.
 * **"We need to bring back manufacturing jobs to America." <sup>(Agenda 47, Economy)</sup>**  This quote appeals to economic anxiety and the desire to return to a bygone era of American manufacturing dominance.
 * **"We need to protect American workers from unfair foreign competition." <sup>([Chapter 26](../../project_2025/mandate_for_leadership/chapter_26.md))</sup>**  This quote reflects the project's protectionist ideology and its disregard for the benefits of free trade.
 

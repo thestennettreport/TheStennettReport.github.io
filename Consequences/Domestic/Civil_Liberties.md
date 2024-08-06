@@ -91,8 +91,8 @@ Project 2025 and Agenda 47 aim to silence dissent and criminalize protest, creat
 
 * **"The Department of Justice has become a threat to the Republic. It has been politicized and weaponized, and it is no longer a neutral arbiter of justice." (Project 2025, Chapter 17, p. 578)**  This quote reflects the project's willingness to use law enforcement for political purposes and to target those who dissent from its agenda.
 * **"We must amend Executive Order 12333 to expand the IC's surveillance powers in cyberspace." (Project 2025, Chapter 7, p. 238)**  This quote reveals the project's desire to increase government surveillance, particularly online.
-* **"The media is the enemy of the people." (Donald Trump)**  This quote reflects Trump's hostility towards the press and his willingness to use inflammatory rhetoric to discredit journalists and undermine public trust in the media.
-* **"We need to open up our libel laws so when they write purposely negative and horrible and false articles, we can sue them and win lots of money." (Donald Trump)**  This quote reveals Trump's desire to use legal means to silence critics and to control the media.
+* **"The media is the enemy of the people." <sup>(Donald Trump)</sup>**  This quote reflects Trump's hostility towards the press and his willingness to use inflammatory rhetoric to discredit journalists and undermine public trust in the media.
+* **"We need to open up our libel laws so when they write purposely negative and horrible and false articles, we can sue them and win lots of money." <sup>(Donald Trump)</sup>**  This quote reveals Trump's desire to use legal means to silence critics and to control the media.
 * **"We must protect children from the harmful effects of social media." (Agenda 47, Journalism and Information)**  This quote, while seemingly innocuous, could be used to justify censorship of online content that conservatives deem inappropriate or that challenges their agenda.
 
 ### 10. SUMMARY & SIGNIFICANCE

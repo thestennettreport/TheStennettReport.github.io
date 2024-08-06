@@ -17,7 +17,7 @@ Project 2025 and Agenda 47 embrace the radical and dangerous proposal to end bir
 
 **Critical Quote:**
 
-"We're going to end birthright citizenship. It's ridiculous." (Donald Trump)
+"We're going to end birthright citizenship. It's ridiculous." <sup>(Donald Trump)</sup>
 
 **Why It Matters:**
 

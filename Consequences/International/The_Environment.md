@@ -98,7 +98,7 @@ Project 2025 advocates for shifting responsibility for environmental protection 
 * **"The Biden Administration's energy policies are a disaster for the American people. They are based on ideology, not science, and they are harming our economy and our national security." (Project 2025, Chapter 12, p. 382)**  This quote reflects the project's rejection of climate science and its prioritization of fossil fuels.
 * **"The EPA has become a rogue agency that is more interested in advancing a radical environmental agenda than in protecting public health and the environment." (Project 2025, Chapter 13, p. 418)**  This quote reflects the project's distrust of the EPA and its desire to weaken the agency's authority.
 * **"We must unleash American energy and restore our energy independence." (Project 2025, Chapter 16, p. 553)**  This quote highlights the project's emphasis on fossil fuel production and its rejection of renewable energy.
-* **"Climate change is a hoax." (Donald Trump)**  This quote reflects the project's denial of climate science and its willingness to spread misinformation.
+* **"Climate change is a hoax." <sup>(Donald Trump)</sup>**  This quote reflects the project's denial of climate science and its willingness to spread misinformation.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

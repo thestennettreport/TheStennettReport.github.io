@@ -94,8 +94,8 @@ Project 2025 and Agenda 47 attempt to redefine "free speech" to exclude speech t
 
 ### 9. KEY QUOTES
 
-* **"The media is the enemy of the people." (Donald Trump)**  This quote reflects Trump's hostility towards the press and his willingness to use inflammatory rhetoric to discredit journalists.
-* **"We need to open up our libel laws so when they write purposely negative and horrible and false articles, we can sue them and win lots of money." (Donald Trump)**  This quote reveals Trump's desire to use legal means to silence critics and to control the media.
+* **"The media is the enemy of the people." <sup>(Donald Trump)</sup>**  This quote reflects Trump's hostility towards the press and his willingness to use inflammatory rhetoric to discredit journalists.
+* **"We need to open up our libel laws so when they write purposely negative and horrible and false articles, we can sue them and win lots of money." <sup>(Donald Trump)</sup>**  This quote reveals Trump's desire to use legal means to silence critics and to control the media.
 * **"The 'firewall' has been used to shield biased reporting and to prevent the CEO from exercising proper oversight over the agency's networks." (Project 2025, Chapter 8, p. 272)**  This quote reflects the project's distrust of the media and its desire to increase political control over government-funded media outlets.
 * **"We must protect children from the harmful effects of social media." (Agenda 47, Journalism and Information)**  This quote, while seemingly innocuous, could be used to justify censorship of online content that conservatives deem inappropriate.
 * **"We need to restore patriotism and traditional values to American education." (Project 2025, Chapter 11, p. 356)**  This quote suggests that the project views education as a tool for promoting a conservative ideology and silencing dissenting viewpoints.

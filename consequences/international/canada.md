@@ -94,8 +94,8 @@ While Project 2025 does not explicitly target Canada, its broader policy recomme
 ### 9. KEY QUOTES
 
 * **"We will put America first." (Agenda 47)**  This quote reflects the project's nationalist focus and its potential to prioritize U.S. interests over those of its allies, including Canada.
-* **"We need to renegotiate NAFTA/USMCA to get a better deal for America." (Donald Trump)**  This quote suggests a willingness to use trade policy as a weapon and to extract concessions from Canada, potentially leading to trade disputes.
-* **"Canada is taking advantage of us on trade." (Donald Trump)**  This quote reflects the project's tendency to view trade as a zero-sum game and to blame other countries for U.S. economic problems.
+* **"We need to renegotiate NAFTA/USMCA to get a better deal for America." <sup>(Donald Trump)</sup>**  This quote suggests a willingness to use trade policy as a weapon and to extract concessions from Canada, potentially leading to trade disputes.
+* **"Canada is taking advantage of us on trade." <sup>(Donald Trump)</sup>**  This quote reflects the project's tendency to view trade as a zero-sum game and to blame other countries for U.S. economic problems.
 * **"We need to unleash American energy and become energy independent." (Project 2025, Chapter 12, p. 384)**  This quote suggests a potential conflict with Canada's efforts to transition to a clean energy economy.
 
 ### 10. SUMMARY & SIGNIFICANCE

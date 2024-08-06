@@ -94,8 +94,8 @@ Project 2025 and Agenda 47's mass deportation agenda would have a devastating hu
 
 ### 9. KEY QUOTES
 
-* **"We will build a big, beautiful wall and make Mexico pay for it." (Donald Trump)**  This quote reflects Trump's simplistic and xenophobic approach to immigration, focusing on a physical barrier rather than addressing the complex factors driving migration.
-* **"We will end catch and release. If you come to this country illegally, you will be detained and deported." (Donald Trump)**  This quote reflects the "enforcement first" ideology that underpins Project 2025's immigration agenda.
+* **"We will build a big, beautiful wall and make Mexico pay for it." <sup>(Donald Trump)</sup>**  This quote reflects Trump's simplistic and xenophobic approach to immigration, focusing on a physical barrier rather than addressing the complex factors driving migration.
+* **"We will end catch and release. If you come to this country illegally, you will be detained and deported." <sup>(Donald Trump)</sup>**  This quote reflects the "enforcement first" ideology that underpins Project 2025's immigration agenda.
 * **"We will put America first. Our immigration policies will prioritize the needs of American citizens." (Agenda 47, Immigration Reforms)**  This quote emphasizes the nationalist and exclusionary nature of the project's immigration agenda.
 * **"Illegal immigration is a threat to our national security and our economy." (Project 2025, Chapter 5, p. 164)**  This quote uses fearmongering to justify a crackdown on immigration, linking it to national security threats without providing evidence.
 

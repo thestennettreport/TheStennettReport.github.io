@@ -17,7 +17,7 @@ Project 2025 and Agenda 47 outline a dangerous plan to undermine voting rights a
 
 **Critical Quote:**
 
-"We need to make it easier to vote and harder to cheat." (Donald Trump) - This quote, often repeated by Trump and his allies, reflects the agenda's strategy of using the rhetoric of "election integrity" to justify voter suppression.
+"We need to make it easier to vote and harder to cheat." <sup>(Donald Trump)</sup> - This quote, often repeated by Trump and his allies, reflects the agenda's strategy of using the rhetoric of "election integrity" to justify voter suppression.
 
 **Why It Matters:**
 

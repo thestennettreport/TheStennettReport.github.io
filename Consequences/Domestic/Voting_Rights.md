@@ -89,8 +89,8 @@ Project 2025 suggests using the Department of Justice to investigate and prosecu
 
 ### 9. KEY QUOTES
 
-* **"We need to make it easier to vote and harder to cheat." (Donald Trump)**  This quote, often repeated by Trump and his allies, reflects the project's rhetoric of promoting "election integrity" while simultaneously advocating for voter suppression measures.
-* **"The 2020 election was stolen. We need to take back our country." (Donald Trump)**  This quote perpetuates the "Big Lie" and undermines trust in the electoral process.
+* **"We need to make it easier to vote and harder to cheat." <sup>(Donald Trump)</sup>**  This quote, often repeated by Trump and his allies, reflects the project's rhetoric of promoting "election integrity" while simultaneously advocating for voter suppression measures.
+* **"The 2020 election was stolen. We need to take back our country." <sup>(Donald Trump)</sup>**  This quote perpetuates the "Big Lie" and undermines trust in the electoral process.
 * **"We need to appoint strong, conservative election officials who will ensure that our elections are fair and secure." (Project 2025, Chapter 29, p. 894)**  This quote reveals the project's desire to politicize election administration.
 * **"The Department of Justice must investigate and prosecute all cases of voter fraud." (Agenda 47, Law Enforcement)**  This quote suggests that the DOJ could be used to intimidate voters and discourage participation, particularly in communities of color.
 

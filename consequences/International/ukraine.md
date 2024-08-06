@@ -87,10 +87,10 @@ The Lincoln Project, a group of anti-Trump Republicans, released a video outlini
 
 ### 9. KEY QUOTES
 
-* **"Putin is a very smart cookie." (Donald Trump)**  This quote reflects Trump's admiration for Putin and his willingness to overlook Putin's authoritarianism and aggression.
-* **"NATO is obsolete." (Donald Trump)**  This quote reflects Trump's skepticism towards NATO and his desire to reduce U.S. involvement in the alliance.
-* **"We need to focus on our own problems here at home." (Donald Trump)**  This quote reflects the "America First" isolationism that underpins Project 2025 and Agenda 47.
-* **"We need to make a deal with Russia." (Donald Trump)**  This quote suggests that Trump would be willing to appease Putin, even if it means making concessions that harm U.S. interests or those of its allies.
+* **"Putin is a very smart cookie." <sup>(Donald Trump)</sup>**  This quote reflects Trump's admiration for Putin and his willingness to overlook Putin's authoritarianism and aggression.
+* **"NATO is obsolete." <sup>(Donald Trump)</sup>**  This quote reflects Trump's skepticism towards NATO and his desire to reduce U.S. involvement in the alliance.
+* **"We need to focus on our own problems here at home." <sup>(Donald Trump)</sup>**  This quote reflects the "America First" isolationism that underpins Project 2025 and Agenda 47.
+* **"We need to make a deal with Russia." <sup>(Donald Trump)</sup>**  This quote suggests that Trump would be willing to appease Putin, even if it means making concessions that harm U.S. interests or those of its allies.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

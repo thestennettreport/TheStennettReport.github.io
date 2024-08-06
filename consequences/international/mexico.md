@@ -100,8 +100,8 @@ Project 2025 and Agenda 47's aggressive approach to immigration and its disregar
 
 ### 9. KEY QUOTES
 
-* **"We will build a big, beautiful wall and make Mexico pay for it." (Donald Trump)**  This quote reflects the project's hostile and unrealistic approach to border security.
-* **"Mexico is sending us their worst: criminals, drug dealers, and rapists." (Donald Trump)**  This quote exemplifies the project's dehumanizing rhetoric and scapegoating of Mexican immigrants.
+* **"We will build a big, beautiful wall and make Mexico pay for it." <sup>(Donald Trump)</sup>**  This quote reflects the project's hostile and unrealistic approach to border security.
+* **"Mexico is sending us their worst: criminals, drug dealers, and rapists." <sup>(Donald Trump)</sup>**  This quote exemplifies the project's dehumanizing rhetoric and scapegoating of Mexican immigrants.
 * **"We will not allow Mexico to take advantage of the United States anymore." (Agenda 47, Immigration Reforms)**  This quote reflects the project's "America First" nationalism and its desire to assert dominance over Mexico.
 * **"We must get tough on Mexico and force them to stop the flow of illegal immigration and drugs into our country." (Project 2025, Chapter 5, p. 182)**  This quote highlights the project's coercive approach to Mexico, seeking to impose U.S. will through pressure and threats.
 

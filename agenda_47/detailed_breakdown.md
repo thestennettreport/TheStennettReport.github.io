@@ -105,11 +105,11 @@ Agenda 47 consists of a wide range of policy recommendations, many of which are 
 
 ### 9. KEY QUOTES
 
-* **"We will make America great again, again." (Donald Trump)**  This quote reflects Trump's nationalist and populist appeal and his promise to restore a mythical "greatness" to America.
-* **"We will dismantle the deep state and drain the swamp." (Donald Trump)**  This quote reflects Trump's distrust of the federal bureaucracy and his desire to purge it of those he deems disloyal.
-* **"We will build the wall and make Mexico pay for it." (Donald Trump)**  This quote reflects Trump's hardline stance on immigration and his willingness to use inflammatory rhetoric to appeal to his base.
-* **"We will protect the unborn and defend the Second Amendment." (Donald Trump)**  This quote highlights the importance of social conservative issues to Trump's agenda.
-* **"We will put America first." (Donald Trump)**  This quote encapsulates the "America First" nationalism that underpins Agenda 47.
+* **"We will make America great again, again." <sup>(Donald Trump)</sup>**  This quote reflects Trump's nationalist and populist appeal and his promise to restore a mythical "greatness" to America.
+* **"We will dismantle the deep state and drain the swamp." <sup>(Donald Trump)</sup>**  This quote reflects Trump's distrust of the federal bureaucracy and his desire to purge it of those he deems disloyal.
+* **"We will build the wall and make Mexico pay for it." <sup>(Donald Trump)</sup>**  This quote reflects Trump's hardline stance on immigration and his willingness to use inflammatory rhetoric to appeal to his base.
+* **"We will protect the unborn and defend the Second Amendment." <sup>(Donald Trump)</sup>**  This quote highlights the importance of social conservative issues to Trump's agenda.
+* **"We will put America first." <sup>(Donald Trump)</sup>**  This quote encapsulates the "America First" nationalism that underpins Agenda 47.
 
 ### 10. SUMMARY & SIGNIFICANCE
 

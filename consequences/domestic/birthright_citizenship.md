@@ -91,8 +91,8 @@ Ending birthright citizenship would have devastating consequences for millions o
 
 ### 9. KEY QUOTES
 
-* **"We're going to end birthright citizenship. It's ridiculous." (Donald Trump)**  This quote reflects Trump's disregard for the Constitution and his willingness to use inflammatory rhetoric to appeal to his base.
-* **"Birthright citizenship is a magnet for illegal immigration." (Donald Trump)**  This quote is a false claim often used to justify ending birthright citizenship.
+* **"We're going to end birthright citizenship. It's ridiculous." <sup>(Donald Trump)</sup>**  This quote reflects Trump's disregard for the Constitution and his willingness to use inflammatory rhetoric to appeal to his base.
+* **"Birthright citizenship is a magnet for illegal immigration." <sup>(Donald Trump)</sup>**  This quote is a false claim often used to justify ending birthright citizenship.
 * **"We need to protect American jobs and resources for American citizens." (Agenda 47, Immigration Reforms)**  This quote reflects the nationalist and exclusionary ideology behind the proposal to end birthright citizenship.
 
 ### 10. SUMMARY & SIGNIFICANCE

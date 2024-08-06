@@ -17,7 +17,7 @@ Project 2025 and Agenda 47 outline a chilling plan to silence dissent, control t
 
 **Critical Quote:**
 
-"The media is the enemy of the people." (Donald Trump)
+"The media is the enemy of the people." <sup>(Donald Trump)</sup>
 
 **Why It Matters:**
 

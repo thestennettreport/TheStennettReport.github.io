@@ -95,7 +95,7 @@ Project 2025's rejection of climate science and its opposition to environmental 
 * **"The federal government should not be in the business of bailing out people who choose to live in disaster-prone areas." (Project 2025, Chapter 5, p. 184)**  This quote reflects the project's callous disregard for the victims of disasters and its belief that individuals should be solely responsible for their own safety and recovery.
 * **"The private sector is more efficient and effective than the government in providing disaster relief." (Project 2025, Chapter 5, p. 184)**  This quote reflects the project's faith in privatization and its desire to shrink the role of government.
 * **"We need to reduce the regulatory burden on businesses, including those involved in disaster recovery." (Project 2025, Chapter 13, p. 454)**  This quote suggests that the project would prioritize the interests of businesses over the needs of disaster victims.
-* **"Climate change is a hoax." (Donald Trump)**  This quote reflects the project's denial of climate science and its willingness to ignore the growing threat of climate-related disasters.
+* **"Climate change is a hoax." <sup>(Donald Trump)</sup>**  This quote reflects the project's denial of climate science and its willingness to ignore the growing threat of climate-related disasters.
 
 ### 10. SUMMARY & SIGNIFICANCE
 
