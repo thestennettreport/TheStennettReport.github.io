@@ -5,7 +5,7 @@ title: Criminalizing Compassion - The Conservative Plan to Punish and Disappear 
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Criminalizing Compassion
+**Title:** Project 2025: Criminalizing Compassion  <sup>[(TL;DR Version)](./homelessness_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

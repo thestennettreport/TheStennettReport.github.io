@@ -5,7 +5,7 @@ title: Dismantling Healthcare - A Blueprint for Undermining the Affordable Care 
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Dismantling Healthcare
+**Title:** Project 2025: Dismantling Healthcare  <sup>[(TL;DR Version)](./healthcare_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

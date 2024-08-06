@@ -5,7 +5,7 @@ title: Disaster Capitalism - Profiting from Calamity and Leaving Communities to 
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Disaster Capitalism
+**Title:** Project 2025: Disaster Capitalism  <sup>[(TL;DR Version)](./disaster_relief_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

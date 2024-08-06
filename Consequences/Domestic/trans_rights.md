@@ -1,11 +1,11 @@
 ---
 layout: page
-title:  A War on Transgender Americans - A Multi-Pronged Assault on Existence
+title: A War on Transgender Americans - A Multi-Pronged Assault on Existence
 ---
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: A War on Transgender Americans
+**Title:** Project 2025: A War on Transgender Americans  <sup>[(TL;DR Version)](./trans_rights_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

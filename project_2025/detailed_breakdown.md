@@ -5,7 +5,7 @@ title: Project 2025 - A Conservative Blueprint for Disaster
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Mandate for Leadership
+**Title:** Project 2025: A Conservative Blueprint for Disaster <sup>([TL;DR Version](./detailed_breakdown_tldr.md))</sup>
 
 **Author:**  The Heritage Foundation and a network of over 50 conservative organizations
 

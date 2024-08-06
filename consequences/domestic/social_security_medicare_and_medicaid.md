@@ -5,7 +5,7 @@ title: Dismantling the Safety Net - A Blueprint for Privatization, Austerity, an
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Dismantling the Safety Net
+**Title:** Project 2025: Dismantling the Safety Net  <sup>[(TL;DR Version)](./social_security_medicare_and_medicaid_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

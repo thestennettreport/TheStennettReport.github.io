@@ -5,7 +5,7 @@ title: Betraying Those Who Served - The Conservative Plan to Dismantle the VA an
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Betraying Those Who Served
+**Title:** Project 2025: Betraying Those Who Served  <sup>[(TL;DR Version)](./veterans_affairs_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

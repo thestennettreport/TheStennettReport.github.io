@@ -5,7 +5,7 @@ title: The Threat of Christian Nationalism - A Distortion of History and a Dange
 
 ### 1. OVERVIEW
 
-**Title:**  Project 2025 and the Threat of Christian Nationalism
+**Title:**  Project 2025 and the Threat of Christian Nationalism  <sup>[(TL;DR Version)](./christian_nationalism_tldr.md)</sup>
 
 **Author:**  Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and historical sources.
 

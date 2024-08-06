@@ -5,7 +5,7 @@ title: A Trojan Horse for Trumpism - Unmasking the Deep Ties to Trump and His In
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: A Trojan Horse for Trumpism
+**Title:** Project 2025: A Trojan Horse for Trumpism  <sup>[(TL;DR Version)](./trumps_connections_tldr.md)</sup>
 
 **Author:** The Heritage Foundation and a network of over 50 conservative organizations, with extensive ties to Donald Trump, his family, his businesses, and his political machine.
 

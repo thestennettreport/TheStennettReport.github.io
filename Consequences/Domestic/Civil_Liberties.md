@@ -5,7 +5,7 @@ title: Eroding Freedom - The Conservative Blueprint for a Surveillance State and
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Eroding Freedom
+**Title:** Project 2025: Eroding Freedom  <sup>[(TL;DR Version)](./civil_liberties_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

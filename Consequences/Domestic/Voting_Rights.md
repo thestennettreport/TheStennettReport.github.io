@@ -5,7 +5,7 @@ title: Rigging the System - The Conservative Blueprint for Voter Suppression and
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Rigging the System
+**Title:** Project 2025: Rigging the System  <sup>[(TL;DR Version)](./voting_rights_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

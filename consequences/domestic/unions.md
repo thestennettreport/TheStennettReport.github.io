@@ -5,7 +5,7 @@ title: Silencing Worker Voices - The Conservative Plan to Crush Unions and Under
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Silencing Worker Voices
+**Title:** Project 2025: Silencing Worker Voices  <sup>[(TL;DR Version)](./unions_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

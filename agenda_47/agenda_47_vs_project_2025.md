@@ -5,7 +5,7 @@ title: Agenda 47 & Project 2025 - Two Sides of the Same Coin - A Blueprint for a
 
 ### 1. OVERVIEW
 
-**Title:** Agenda 47 and Project 2025: Two Sides of the Same Coin
+**Title:** Agenda 47 and Project 2025: Two Sides of the Same Coin <sup>[(TL;DR;)](./agenda_47_vs_project_2025_tldr.md)</sup>
 
 **Author:** Analysis based on "Agenda 47" and "Project 2025: Mandate for Leadership"
 

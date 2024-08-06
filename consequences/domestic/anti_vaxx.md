@@ -5,7 +5,7 @@ title: The Anti-Science Agenda - Unleashing a Public Health Crisis Through Vacci
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: The Anti-Science Agenda
+**Title:** Project 2025: The Anti-Science Agenda  <sup>[(TL;DR Version)](./anti_vaxx_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

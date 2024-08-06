@@ -5,7 +5,7 @@ title: Agenda 47 - A Blueprint for Trump's Authoritarian Vision
 
 ### 1. OVERVIEW
 
-**Title:**  Agenda 47: A Blueprint for Trump's Authoritarian Vision
+**Title:**  Agenda 47: A Blueprint for Trump's Authoritarian Vision <sup>[(TL;DR Version)](./detailed_breakdown_tldr.md)</sup>
 
 **Author:**  Donald J. Trump's 2024 Presidential Campaign
 

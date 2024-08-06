@@ -5,7 +5,7 @@ title: War on Public Education - A Blueprint for Defunding, Privatization, and I
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025's War on Public Education
+**Title:** Project 2025's War on Public Education  <sup>[(TL;DR Version)](./public_education_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

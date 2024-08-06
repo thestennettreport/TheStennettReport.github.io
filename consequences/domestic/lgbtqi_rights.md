@@ -5,7 +5,7 @@ title: LGBTQIA+ Rights Under Siege - A Blueprint for Discrimination
 
 ### 1. OVERVIEW
 
-**Title:** LGBTQIA+ Rights Under Siege: A Blueprint for Discrimination
+**Title:** LGBTQIA+ Rights Under Siege: A Blueprint for Discrimination  <sup>[(TL;DR Version)](./lgbtqi_rights_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

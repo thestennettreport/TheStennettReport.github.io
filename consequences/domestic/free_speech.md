@@ -5,7 +5,7 @@ title: Muzzling Dissent - The Conservative Plan to Silence Free Speech and Contr
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Muzzling Dissent
+**Title:** Project 2025: Muzzling Dissent  <sup>[(TL;DR Version)](./free_speech_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 

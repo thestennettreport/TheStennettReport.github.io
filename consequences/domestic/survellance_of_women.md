@@ -5,7 +5,7 @@ title: The Handmaid's Surveillance - Tracking Women's Bodies to Control Their Ch
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: The Handmaid's Surveillance
+**Title:** Project 2025: The Handmaid's Surveillance  <sup>[(TL;DR Version)](./survellance_of_women_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," statements by Donald Trump, and related sources.
 

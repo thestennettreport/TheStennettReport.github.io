@@ -5,7 +5,7 @@ title: Ending Birthright Citizenship - A Direct Assault on the American Dream an
 
 ### 1. OVERVIEW
 
-**Title:** Ending Birthright Citizenship: A Direct Assault on the American Dream and the Constitution
+**Title:** Ending Birthright Citizenship: A Direct Assault on the American Dream and the Constitution  <sup>[(TL;DR Version)](./birthright_citizenship_tldr.md)</sup>
 
 **Author:** Analysis based on "Agenda 47," statements by Donald Trump and J.D. Vance, and related legal and demographic data.
 
