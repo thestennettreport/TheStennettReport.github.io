@@ -5,7 +5,9 @@ title: A Warning for America - Project 2025 & Agenda 47 Threaten Our Democracy
 
 This website is your essential guide to understanding and resisting the most dangerous threat to American democracy: [Project 2025](https://www.project2025.org/) and [Agenda 47](https://www.donaldjtrump.com/agenda47). These radical conservative agendas, meticulously crafted by Trump loyalists and fueled by dark money, aim to dismantle the government, erode our rights, and reshape America in their image.
 
-**Project 2025 and Agenda 47 are not just policy proposals; they are a blueprint for disaster.** They envision an America where:
+**Project 2025 and Agenda 47 are not just policy proposals; they are a blueprint for disaster.**
+
+They envision an America where:
 
 * Millions lose access to healthcare, education, and social security.
 * The environment is ravaged by unchecked pollution and climate change.

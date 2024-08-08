@@ -5,7 +5,7 @@ title: Poisoning the Partnership - The Devastating Impact on U.S.-Mexico Relatio
 
 ### 1. OVERVIEW
 
-**Title:** Project 2025: Poisoning the Partnership
+**Title:** Project 2025: Poisoning the Partnership  <sup>[(TL;DR Version)](./mexico_tldr.md)</sup>
 
 **Author:** Analysis based on "Project 2025: Mandate for Leadership," "Agenda 47," and related sources.
 
