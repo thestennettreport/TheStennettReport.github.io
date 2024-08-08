@@ -49,38 +49,6 @@ sass:
   style: compressed
 sass_dir: assets/css
 
-# Navigation links
-nav_links:
-  Home: /
-  Project 2025: /project_2025/detailed_breakdown.md
-  Agenda 47: /agenda_47/detailed_breakdown.md
-  Trump Connections: /project_2025/authors/trumps_connections.md
-  The People's Guide: /project_2025/the_peoples_guide_to_project_2025.md
-
-  Domestic Consequences: 
-    - Voting Rights: /consequences/domestic/voting_rights.md
-    - Christian Nationalism: /consequences/domestic/christian_nationalism.md
-    - Reproductive Rights: /consequences/domestic/abortion_ivf_contraception_access.md
-    - Anti-Vaxx Agenda: /consequences/domestic/anti_vaxx.md
-    - LGBTQIA+ Rights: /consequences/domestic/lgbtqi_rights.md
-    - Transgender Rights: /consequences/domestic/trans_rights.md
-    - Social Safety Net: /consequences/domestic/social_security_medicare_and_medicaid.md
-    - Veterans' Affairs: /consequences/domestic/veterans_affairs.md
-    - Unions Under Attack: /consequences/domestic/unions.md
-    - Public Education: /consequences/domestic/public_education.md
-    - Civil Liberties: /consequences/domestic/civil_liberties.md
-    - Criminalizing Compassion: /consequences/domestic/homelessness.md
-    - Ending Birthright Citizenship: /consequences/domestic/birthright_citizenship.md
-    - Period Tracking: /consequences/domestic/period_tracking.md
-
-  International Consequences: 
-    - Mass Deportations: /consequences/international/mass_deportations.md
-    - Trade War: /consequences/international/trade_war.md
-    - Ukraine: /consequences/international/ukraine.md
-    - The Environment: /consequences/international/the_environment.md
-    - U.S.-Mexico Relations: /consequences/international/us-mexico_relations.md
-    - U.S.-Canada Relations: /consequences/international/us-canada_relations.md
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
