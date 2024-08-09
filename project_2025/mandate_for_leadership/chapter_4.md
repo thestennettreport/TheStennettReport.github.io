@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 4
+title: Mandate for Leadership - Chapter 4 - Department of Defense
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of Defense](../../documents/project_2025_chapters/chapter_4.pdf)
+**Title:** [Department of Defense](../../documents/project_2025_chapters/chapter_4.pdf) <sup>[(TL;DR Version)](./chapter_4_tldr.md)</sup>
 
 **Author:** Christopher Miller, Former Acting U.S. Secretary of Defense
 

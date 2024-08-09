@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 1
+title: Mandate for Leadership - Chapter 1 - White House Office
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [White House Office](../../documents/project_2025_chapters/chapter_1.pdf)
+**Title:** [White House Office](../../documents/project_2025_chapters/chapter_1.pdf)  <sup>[(TL;DR Version)](./chapter_1_tldr.md)</sup>
 
 **Author:** Rick Dearborn, Former Deputy Chief of Staff for President Donald Trump
 

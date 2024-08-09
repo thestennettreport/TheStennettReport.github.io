@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 2
+title: Mandate for Leadership - Chapter 2 - Executive Office of the President of the United States
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Executive Office of the President of the United States](../../documents/project_2025_chapters/chapter_2.pdf)
+**Title:** [Executive Office of the President of the United States](../../documents/project_2025_chapters/chapter_2.pdf) <sup>[(TL;DR Version)](./chapter_2_tldr.md)</sup>
 
 **Author:** Russ Vought, Former Director of the Office of Management and Budget (OMB)
 

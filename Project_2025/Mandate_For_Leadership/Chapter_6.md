@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 6
+title: Mandate for Leadership - Chapter 6 - Department of State
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of State](../../documents/project_2025_chapters/chapter_6.pdf)
+**Title:** [Department of State](../../documents/project_2025_chapters/chapter_6.pdf) <sup>[(TL;DR Version)](./chapter_6_tldr.md)</sup>
 
 **Author:**  Kiron K. Skinner, Former Director of Policy Planning at the U.S. Department of State
 

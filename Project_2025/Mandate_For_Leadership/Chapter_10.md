@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 10
+title: Mandate for Leadership - Chapter 10 - Department of Agriculture 
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of Agriculture](../../documents/project_2025_chapters/chapter_10.pdf)
+**Title:** [Department of Agriculture](../../documents/project_2025_chapters/chapter_10.pdf) <sup>[(TL;DR Version)](./chapter_10_tldr.md)</sup>
 
 **Author:** Daren Bakst, Senior Fellow at the Competitive Enterprise Institute
 

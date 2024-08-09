@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 5
+title: Mandate for Leadership - Chapter 5 - Department of Homeland Security
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of Homeland Security](../../documents/project_2025_chapters/chapter_5.pdf)
+**Title:** [Department of Homeland Security](../../documents/project_2025_chapters/chapter_5.pdf) <sup>[(TL;DR Version)](./chapter_5_tldr.md)</sup>
 
 **Author:** Ken Cuccinelli, Former Acting Deputy Secretary for the U.S. Department of Homeland Security
 

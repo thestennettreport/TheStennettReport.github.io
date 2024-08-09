@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 7
+title: Mandate for Leadership - Chapter 7 - Intelligence Community
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Intelligence Community](../../documents/project_2025_chapters/chapter_7.pdf)
+**Title:** [Intelligence Community](../../documents/project_2025_chapters/chapter_7.pdf) <sup>[(TL;DR Version)](./chapter_7_tldr.md)</sup>
 
 **Author:** Dustin J. Carmack, Former Chief of Staff for the Director of National Intelligence
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 3
+title: Mandate for Leadership - Chapter 3 - Central Personnel Agencies - Managing the Bureaucracy
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Central Personnel Agencies: Managing the Bureaucracy](../../documents/project_2025_chapters/chapter_3.pdf)
+**Title:** [Central Personnel Agencies: Managing the Bureaucracy](../../documents/project_2025_chapters/chapter_3.pdf) <sup>[(TL;DR Version)](./chapter_3_tldr.md)</sup>
 
 **Authors:** Donald Devine, Dennis Dean Kirk, and Paul Dans
 

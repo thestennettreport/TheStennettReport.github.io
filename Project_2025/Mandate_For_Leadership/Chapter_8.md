@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 8
+title: Mandate for Leadership - Chapter 8 - Media Agencies - U.S. Agency for Global Media
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Media Agencies: U.S. Agency for Global Media](../../documents/project_2025_chapters/chapter_8.pdf)
+**Title:** [Media Agencies: U.S. Agency for Global Media](../../documents/project_2025_chapters/chapter_8.pdf) <sup>[(TL;DR Version)](./chapter_8_tldr.md)</sup>
 
 **Author:** Mora Namdar, Former Vice President of Legal, Compliance, and Risk at the U.S. Agency for Global Media
 
