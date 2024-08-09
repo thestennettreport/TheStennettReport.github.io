@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 30
+title: Mandate for Leadership - Chapter 30 - Federal Trade Commission
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Federal Trade Commission](../../documents/project_2025_chapters/chapter_30.pdf)
+**Title:** [Federal Trade Commission](../../documents/project_2025_chapters/chapter_30.pdf) <sup>[(TL;DR Version)](./chapter_30_tldr.md)</sup>
 
 **Author:** Adam Candeub, Professor of Law at Michigan State University and Former Acting Assistant Secretary of Commerce
 

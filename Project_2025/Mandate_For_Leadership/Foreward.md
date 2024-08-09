@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Forward
+title: Mandate for Leadership - Forward - A Promise To America
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Forward: A Promise To America](../../documents/project_2025_chapters/Forward.pdf)
+**Title:** [Forward: A Promise To America](../../documents/project_2025_chapters/foreward.pdf)
 
 **Author:** Kevin D. Roberts, PhD, President of The Heritage Foundation
 

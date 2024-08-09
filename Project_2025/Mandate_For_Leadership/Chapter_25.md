@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 25
+title: Mandate for Leadership - Chapter 25 - Small Business Administration
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Small Business Administration](../../documents/project_2025_chapters/chapter_25.pdf)
+**Title:** [Small Business Administration](../../documents/project_2025_chapters/chapter_25.pdf) <sup>[(TL;DR Version)](./chapter_25_tldr.md)</sup>
 
 **Author:** Karen Kerrigan, President and CEO of the Small Business & Entrepreneurship Council
 

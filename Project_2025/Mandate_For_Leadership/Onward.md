@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - "Onward!"
+title: Mandate for Leadership - Onward!
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Onward!](../../documents/project_2025_chapters/onward.pdf)
+**Title:** [Onward!](../../documents/project_2025_chapters/onward.pdf) <sup>[(TL;DR Version)](./onward_tldr.md)</sup>
 
 **Author:** Edwin J. Feulner, Founder and Former President of The Heritage Foundation
 

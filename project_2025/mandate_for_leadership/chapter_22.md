@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 22
+title: Mandate for Leadership - Chapter 22 -  Department of the Treasury 
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of the Treasury](../../documents/project_2025_chapters/chapter_22.pdf)
+**Title:** [Department of the Treasury](../../documents/project_2025_chapters/chapter_22.pdf) <sup>[(TL;DR Version)](./chapter_22_tldr.md)</sup>
 
 **Authors:** William L. Walton, Stephen Moore, and David R. Burton
 

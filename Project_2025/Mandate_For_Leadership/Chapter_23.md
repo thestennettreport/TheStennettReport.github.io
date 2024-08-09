@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 23
+title: Mandate for Leadership - Chapter 23 - Export-Import Bank
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Export-Import Bank](../../documents/project_2025_chapters/chapter_23.pdf)
+**Title:** [Export-Import Bank](../../documents/project_2025_chapters/chapter_23.pdf) <sup>[(TL;DR Version)](./chapter_23_tldr.md)</sup>
 
 **Authors:** Jennifer Hazelton (The Case for the Export-Import Bank) and Veronique de Rugy (The Case for Free Trade)
 

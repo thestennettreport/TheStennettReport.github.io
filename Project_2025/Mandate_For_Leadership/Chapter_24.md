@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 24
+title: Mandate for Leadership - Chapter 24 - Federal Reserve 
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Federal Reserve](../../documents/project_2025_chapters/chapter_24.pdf)
+**Title:** [Federal Reserve](../../documents/project_2025_chapters/chapter_24.pdf) <sup>[(TL;DR Version)](./chapter_24_tldr.md)</sup>
 
 **Author:** Paul Winfree, Distinguished Fellow in Economic Policy and Public Leadership at The Heritage Foundation
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 21
+title: Mandate for Leadership - Chapter 21 - Department of Commerce
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of Commerce](../../documents/project_2025_chapters/chapter_21.pdf)
+**Title:** [Department of Commerce](../../documents/project_2025_chapters/chapter_21.pdf) <sup>[(TL;DR Version)](./chapter_21_tldr.md)</sup>
 
 **Author:** Thomas F. Gilman, Former Assistant Secretary of Commerce for Administration
 

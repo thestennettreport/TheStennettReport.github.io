@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 26
+title: Mandate for Leadership - Chapter 26 - Trade
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Trade](../../documents/project_2025_chapters/chapter_26.pdf)
+**Title:** [Trade](../../documents/project_2025_chapters/chapter_26.pdf) <sup>[(TL;DR Version)](./chapter_26_tldr.md)</sup>
 
 **Authors:** Peter Navarro (The Case for Fair Trade) and Kent Lassman (The Case for Free Trade)
 
