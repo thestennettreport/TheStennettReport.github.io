@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 14
+title: Mandate for Leadership - Chapter 14 - Department of Health and Human Services
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of Health and Human Services](../../documents/project_2025_chapters/chapter_14.pdf)
+**Title:** [Department of Health and Human Services](../../documents/project_2025_chapters/chapter_14.pdf) <sup>[(TL;DR Version)](./chapter_14_tldr.md)</sup>
 
 **Author:** Roger Severino, Former Director of the Office for Civil Rights at the U.S. Department of Health and Human Services (HHS)
 

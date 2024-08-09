@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 13
+title: Mandate for Leadership - Chapter 13 - Environmental Protection Agency 
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Environmental Protection Agency](../../documents/project_2025_chapters/chapter_13.pdf)
+**Title:** [Environmental Protection Agency](../../documents/project_2025_chapters/chapter_13.pdf) <sup>[(TL;DR Version)](./chapter_13_tldr.md)</sup>
 
 **Author:** Mandy M. Gunasekara, Principal at Section VII Strategies and Visiting Fellow at The Heritage Foundation
 

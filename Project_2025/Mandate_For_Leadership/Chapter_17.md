@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 17
+title: Mandate for Leadership - Chapter 17 - Department of Justice
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of Justice](../../documents/project_2025_chapters/chapter_17.pdf)
+**Title:** [Department of Justice](../../documents/project_2025_chapters/chapter_17.pdf) <sup>[(TL;DR Version)](./chapter_17_tldr.md)</sup>
 
 **Author:** Gene Hamilton, Former Counselor to the Attorney General
 

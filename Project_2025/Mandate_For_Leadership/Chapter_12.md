@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 12
+title: Mandate for Leadership - Chapter 12 - Department of Energy and Related Commissions
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of Energy and Related Commissions](../../documents/project_2025_chapters/chapter_12.pdf)
+**Title:** [Department of Energy and Related Commissions](../../documents/project_2025_chapters/chapter_12.pdf) <sup>[(TL;DR Version)](./chapter_12_tldr.md)</sup>
 
 **Author:** Bernard L. McNamee, Former Member of the Federal Energy Regulatory Commission (FERC)
 

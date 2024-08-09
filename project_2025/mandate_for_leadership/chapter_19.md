@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 19
+title: Mandate for Leadership - Chapter 19 - Department of Transportation
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of Transportation](../../documents/project_2025_chapters/chapter_19.pdf)
+**Title:** [Department of Transportation](../../documents/project_2025_chapters/chapter_19.pdf) <sup>[(TL;DR Version)](./chapter_19_tldr.md)</sup>
 
 **Author:** Diana Furchtgott-Roth, Director of the Center for Energy, Climate, and Environment at The Heritage Foundation
 

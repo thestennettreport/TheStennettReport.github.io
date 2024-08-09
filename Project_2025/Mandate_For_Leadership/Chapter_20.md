@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 20
+title: Mandate for Leadership - Chapter 20 - Department of Veterans Affairs
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of Veterans Affairs](../../documents/project_2025_chapters/chapter_20.pdf)
+**Title:** [Department of Veterans Affairs](../../documents/project_2025_chapters/chapter_20.pdf) <sup>[(TL;DR Version)](./chapter_20_tldr.md)</sup>
 
 **Author:** Brooks D. Tucker, Former Acting Chief of Staff at the Department of Veterans Affairs
 

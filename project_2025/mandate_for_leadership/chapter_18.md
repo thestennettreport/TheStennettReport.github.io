@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 18
+title: Mandate for Leadership - Chapter 18 - Department of Labor and Related Agencies 
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of Labor and Related Agencies](../../documents/project_2025_chapters/chapter_18.pdf)
+**Title:** [Department of Labor and Related Agencies](../../documents/project_2025_chapters/chapter_18.pdf) <sup>[(TL;DR Version)](./chapter_18_tldr.md)</sup>
 
 **Author:** Jonathan Berry, Former Acting Assistant Secretary for Policy at the U.S. Department of Labor
 

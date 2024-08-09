@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 16
+title: Mandate for Leadership - Chapter 16 - Department of the Interior 
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of the Interior](../../documents/project_2025_chapters/chapter_16.pdf)
+**Title:** [Department of the Interior](../../documents/project_2025_chapters/chapter_16.pdf) <sup>[(TL;DR Version)](./chapter_16_tldr.md)</sup>
 
 **Author:** William Perry Pendley, Former Acting Director of the Bureau of Land Management
 

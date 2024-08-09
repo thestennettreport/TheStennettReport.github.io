@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 11
+title: Mandate for Leadership - Chapter 11 - Department of Education
 ---
 
 ### 1. CHAPTER OVERVIEW
 
-**Title:** [Department of Education](../../documents/project_2025_chapters/chapter_11.pdf)
+**Title:** [Department of Education](../../documents/project_2025_chapters/chapter_11.pdf) <sup>[(TL;DR Version)](./chapter_11_tldr.md)</sup>
 
 **Author:** Lindsey M. Burke, Director of the Center for Education Policy at The Heritage Foundation
 
