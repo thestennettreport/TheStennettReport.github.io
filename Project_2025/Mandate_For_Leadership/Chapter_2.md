@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 2
+title: Mandate for Leadership - Chapter 2 - Executive Office of the President of the United States
 ---
 
 ### 1. CHAPTER OVERVIEW

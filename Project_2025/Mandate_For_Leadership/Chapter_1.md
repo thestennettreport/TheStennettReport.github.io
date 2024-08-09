@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mandate for Leadership - Chapter 1
+title: Mandate for Leadership - Chapter 1 - White House Office
 ---
 
 ### 1. CHAPTER OVERVIEW
