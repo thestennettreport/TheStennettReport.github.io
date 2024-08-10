@@ -4,8 +4,9 @@ title: Sources
 ---
 
 ### Project 2025: Mandate for Leadership
-#### Entire PDF
-* [Project 2025: Mandate for Leadership](./project_2025_-_mandate_for_leadership.pdf) _(922 pages)_
+#### PDFs
+* **FULL VERSION**: [Mandate for Leadership](./project_2025_mandate_for_leadership.pdf) _(922 pages)_
+* **SLIM VERSION**:  [Footnotes, endnotes, blank pages, etc removed](./project_2025_mandate_for_leadership_slim.pdf) _(792 pages)_
 
 #### Individual PDFs
 * [Forward: A Promise To America](./project_2025_chapters/foreward.pdf) _(18 pages)_
