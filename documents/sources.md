@@ -3,7 +3,7 @@ layout: page
 title: Sources
 ---
 
-### Project 2025: Mandate for Leadership
+## Project 2025: Mandate for Leadership
 #### PDFs
 * **FULL VERSION**: [Mandate for Leadership](./project_2025_mandate_for_leadership.pdf) _(922 pages)_
 * **SLIM VERSION**:  [Footnotes, endnotes, blank pages, etc removed](./project_2025_mandate_for_leadership_slim.pdf) _(792 pages)_
@@ -48,13 +48,16 @@ title: Sources
 	* [Chapter 30: Federal Trade Commission](./project_2025_chapters/chapter_30.pdf) _(Pages 869-882 => 14 pages)_
 * [Onward!](./project_2025_chapters/onward.pdf) _(Pages 883-887 => 7 pages)_
 
-### The People's Guide To Project 2025
+## The People's Guide To Project 2025
 By: [Democracy Forward](https://democracyforward.org/the-peoples-guide-to-project-2025/)
 
 #### Entire PDF
 * [The People's Guide To Project 2025](./peoples_guide_to_project_2025.pdf) _(48 pages)_
 
-### Wikipedia
+## Wikipedia
 * [Project 2025](./wikipedia/project_2025_wiki/project_2025_wiki.pdf)
 * [Agenda 47](./wikipedia/agenda_47_wiki/agenda_47_wiki.pdf)
 * [Cabinet of Donald Trump](./wikipedia/cabinet_of_donald_trump_wiki/cabinet_of_donald_trump_wiki.pdf)
+
+## Articles
+* https://www.propublica.org/article/video-project-2025-presidential-training-academy-trump-election
