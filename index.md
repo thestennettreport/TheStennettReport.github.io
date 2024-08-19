@@ -21,11 +21,11 @@ They envision an America where:
 
 ## Breakdowns/Comparisons
 
-1. **[Chapter-by-Chapter Breakdown](./project_2025/chapter_by_chapter_breakdowns.md):**  Exposing the radical policy proposals hidden within each chapter of [Project 2025's "Mandate for Leadership"](https://static.project2025.org/2025_MandateForLeadership_FULL.pdf).
 1. **[Project 2025: A Conservative Blueprint for Disaster](./project_2025/detailed_breakdown.md):**  The Heritage Foundation's plan to dismantle the government, shrink the safety net, and reshape America. Learn how to fight back.
-1. **[Inside Project 2025's Secret Training Academy](./project_2025/secret_training_videos/secret_training_videos.md):** Watch and read the transcripts of leaked videos from Project 2025's training academy, revealing their strategies for taking over the government and implementing their radical agenda.
 1. **[Agenda 47: A Blueprint for Trump's Authoritarian Vision](./agenda_47/detailed_breakdown.md):**  Trump's campaign promises reveal a dangerous vision for America. Discover the truth and the potential consequences.
 1. **[Project 2025 & Agenda 47: Two Sides of the Same Coin - A Blueprint for a Radical Conservative America](./agenda_47/agenda_47_vs_project_2025.md):**  Trump's Agenda 47 and Project 2025 are a dangerous combination. See how they connect and the threat they pose. 
+1. **[Project 2025: Chapter-by-Chapter Breakdowns](./project_2025/chapter_by_chapter_breakdowns.md):**  Exposing the radical policy proposals hidden within each chapter of [Project 2025's "Mandate for Leadership"](https://static.project2025.org/2025_MandateForLeadership_FULL.pdf).
+1. **[Inside Project 2025's Secret Training Academy](./project_2025/secret_training_videos/secret_training_videos.md):** Watch and read the transcripts of leaked videos from Project 2025's training academy, revealing their strategies for taking over the government and implementing their radical agenda.
 1. **[A Trojan Horse for Trumpism: Unmasking the Deep Ties to Trump and His Inner Circle](./project_2025/authors/trumps_connections.md):**  Project 2025 was written entirely by Trump insiders. Learn who they are and what they're planning. 
 1. **[The First 100 Days: A Second Trump Term - A Chillingly Plausible Scenario](./project_2025/the_first_100_days.md):**  A terrifying glimpse into what a second Trump term could look like, based on Project 2025 and Agenda 47.
 1. **[The People's Guide to Project 2025: A Quantified Look at the Human Cost](./project_2025/the_peoples_guide_to_project_2025.md):**  A progressive perspective on the dangers of Project 2025, highlighting the potential harms to ordinary Americans.
