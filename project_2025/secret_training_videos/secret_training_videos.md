@@ -5,10 +5,6 @@ title: Inside Project 2025's Secret Training Academy - A Chilling Glimpse into t
 
 These leaked videos, obtained by [ProPublica and Documented](https://www.propublica.org/article/video-project-2025-presidential-training-academy-trump-election), expose the secretive training program designed to prepare an army of conservative loyalists to take over the federal government and implement a radical agenda. 
 
-**Project 2025: A Blueprint for a Conservative Takeover**
-
-Project 2025, spearheaded by the Heritage Foundation and its allies, is a massive effort to reshape America in their image. The Presidential Administration Academy is one of the "four pillars" of this plan, aiming to train potential political appointees to be "ready on day one" to dismantle the so-called "deep state" and advance a far-right agenda.
-
 **What You'll See and Hear:**
 
 These videos feature presentations and discussions by prominent conservative figures, including former Trump administration officials, Heritage Foundation experts, and leaders of other right-wing organizations. They offer a chilling glimpse into the minds of those who seek to control the levers of power in a future conservative administration.
