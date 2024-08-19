@@ -10,8 +10,7 @@ title: Presidential Administration Academy - "Conserving America"
 
 **Speaker:** Matthew Spalding
 
-**YouTube:** [Project 2025 Private Training Video: Conserving America](https://youtu.be/8hXLXnuVGRg)
-- [Video](../videos/1-conserving_america.mp4)/[Transcript](../transcripts/1-conserving_america.md)
+**YouTube:** [Project 2025 Private Training Video: Conserving America](https://youtu.be/8hXLXnuVGRg) ([Transcript](../transcripts/1-conserving_america.md))
 
 This video, the first in Project 2025's Presidential Administration Academy series, lays the ideological groundwork for the entire training program. Matthew Spalding, Vice President of Hillsdale College and Dean of its Graduate School of Government, delivers a lecture outlining the core principles of American conservatism. He argues that these principles, rooted in natural law, limited government, individual liberty, and traditional values, are essential for "conserving America" and its "common purpose."
 

@@ -10,8 +10,7 @@ title: Presidential Administration Academy - "The History of the Conservative Mo
 
 **Speaker:** Christopher Malagisi
 
-**YouTube:** [Project 2025 Private Training Video: Conservative Movement History](https://youtu.be/jXXxoLU-AUc)
-- [Video](../videos/2-conservative_movement_history.mp4)/[Transcript](../transcripts/2-conservative_movement_history.md)
+**YouTube:** [Project 2025 Private Training Video: Conservative Movement History](https://youtu.be/jXXxoLU-AUc) ([Transcript](../transcripts/2-conservative_movement_history.md))
 
 **Summary:**
 
