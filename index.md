@@ -36,8 +36,8 @@ They envision an America where:
 #### [Inside Project 2025's Secret Training Academy](./project_2025/secret_training_videos/secret_training_videos.md)
 > Watch and read the transcripts of leaked videos from Project 2025's training academy, revealing their strategies for taking over the government and implementing their radical agenda.
 
-#### [A Trojan Horse for Trumpism: Unmasking the Deep Ties to Trump and His Inner Circle](./project_2025/authors/trumps_connections.md)
-> Project 2025 was written entirely by Trump insiders. Learn who they are and what they're planning. 
+#### [Trump's Shadow Government: Unmasking Project 2025's Deep Ties to Trump and His Inner Circlee](./project_2025/authors/trumps_project_2025.md)
+> Project 2025 was written entirely by Trump insiders. Learn who they are and what they're planning.
 
 #### [The First 100 Days: A Second Trump Term - A Chillingly Plausible Scenario](./project_2025/the_first_100_days.md)
 > A terrifying glimpse into what a second Trump term could look like, based on Project 2025 and Agenda 47.
