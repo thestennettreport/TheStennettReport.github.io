@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trump's Shadow Government - Unmasking Project 2025's Deep Ties to Trump and His Inner Circlee
+title: Trump's Shadow Government - Unmasking Project 2025's Deep Ties to Trump and His Inner Circle
 ---
 
 ### 1. OVERVIEW
